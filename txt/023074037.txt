@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Santiago Moreno Mora
+DNI: 87597589L
+Fecha de nacimiento: 26/02/1982
+Género: Masculino
+Domicilio: Calle de Lavapiés 42, 5H
+Ciudad: Novelda, Región de Murcia, Región de Murcia
+Código postal: 30957
+Email: MEICMnSDz@ciberned.es
+Teléfono fijo: +34 968 62 32 49
+Teléfono móvil: +34 768 33 18 16
+NHC: 2848305
+NASS: 050859055515
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dr. Rodrigo Pereira Moya. NC 187336568. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/10/1987
+Episodio: 66400062
+Hospital: Hospital Universitario de Basurto
+Informe clínico del paciente:
+Paciente de tez blanca de 5 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-healthcare.net//39715002T.
+Antecedentes:
+El paciente tiene antecedentes de alergia a ciertos alimentos y medicamentos. Ha tenido episodios de asma en el pasado y actualmente está bajo tratamiento con inhaladores.
+Evolución y comentarios:
+El paciente se encuentra en una condición estable y sin síntomas. Se le han realizado pruebas de laboratorio y análisis de imágenes para evaluar su condición médica.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien sospechó una infección respiratoria.
+Fecha de ingreso:
+13/10/1987
+Centro de salud de ingreso:
+Hospital Universitario de Basurto

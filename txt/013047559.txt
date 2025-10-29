@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: María Dolores Arias Núñez
+DNI: 82223375P
+Fecha de nacimiento: 24/10/1992
+Género: F
+Domicilio: Calle del Fúcar 88
+Ciudad: Burgos, Segovia, Castilla y León
+Código postal: 40891
+Email: arias_nunez@ciberer.es
+Teléfono fijo: +34 921 84 69 36
+Teléfono móvil: +34 721 02 21 68
+NHC: 5133866
+NASS: 160086232644
+Condición de riesgo: Conductor de Camión
+Datos asistenciales.
+Médico: Dra. Gema Morales Marín. NC 878802512. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 30/01/1995
+Episodio: 60316922
+Hospital: Hospital Universitario de Cabueñes
+Informe clínico del paciente:
+Paciente discapacitado de 2 años de edad, acompañado de su hermano, que presenta una lesión en la pierna derecha debido a un accidente de tráfico. La exploración física revela una fractura de tibia y peroné con desplazamiento de fragmentos óseos. El paciente muestra signos de dolor y malestar en la zona afectada, con una temperatura corporal elevada.
+Se solicitan estudios de imagen (Rx de la pierna derecha) para confirmar el diagnóstico y evaluar la gravedad de la lesión. Los resultados muestran una fractura de tibia y peroné con desplazamiento de fragmentos óseos, lo que requiere una intervención quirúrgica para estabilizar la pierna y permitir la consolidación ósea.
+El paciente es llevado a la sala de operaciones para una cirugía de reparación de la fractura. Durante la operación, se realiza una osteosíntesis para estabilizar la pierna y se coloca un tornillo para mantener la posición correcta de los fragmentos óseos.
+Después de la operación, el paciente es llevado a la sala de recuperación, donde se le administra analgésicos para aliviar el dolor y se le proporciona atención de enfermería para la herida y la pierna afectada.
+Antecedentes:
+El paciente tiene una historia de discapacidad debido a una lesión cerebral en la infancia. Ha sido sometido a varias cirugías y terapias para mejorar su función motora y cognitiva.
+Evolución y comentarios:
+El paciente ha mostrado una buena respuesta al tratamiento y se espera una recuperación completa de la lesión. Sin embargo, se requiere una atención cuidadosa y continua para evitar complicaciones y garantizar una recuperación óptima.
+Remitido por:
+Dra. Gema Morales Marín, Residente de 5° año en Urología, Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12).

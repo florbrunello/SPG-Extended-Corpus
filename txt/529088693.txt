@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Julio Aparicio Romero
+DNI: 49749584D
+Fecha de nacimiento: 21/11/2011
+Género: M
+Domicilio: Calle de Juan Bravo 6
+Ciudad: Girona, Zaragoza, Aragón
+Código postal: 50888
+Email: julio-aparicio-romero@isciii.es
+Teléfono fijo: +34 976 33 45 19
+FAX: +34 976 30 82 24
+NHC: 0513208
+NASS: 063584925819
+Datos asistenciales.
+Médico: Dra. Blanca Heredia Martín. NC 973973092. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 02/02/2020
+Hospital: Hospital General Universitario Reina Sofía
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 8 años de edad, acompañado de su hermana, con antecedentes de dificultad para conciliar el sueño y aumento de la agresividad en los últimos meses. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 25 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de distracción y falta de coordinación motora.
+Evolución y comentarios:
+Durante el ingreso se solicitan análisis de sangre para evaluar la función hepática y renal. Los resultados muestran un aumento en la concentración de bilirrubina y creatinina. Se decide iniciar tratamiento con un medicamento para reducir la bilirrubina y mejorar la función renal.
+Remitido por:
+Dra. Blanca Heredia Martín. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Antecedentes:
+El paciente tiene antecedentes de dificultad para conciliar el sueño y aumento de la agresividad en los últimos meses. También ha presentado signos de distracción y falta de coordinación motora en la exploración neurológica.

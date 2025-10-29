@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Patricia Aparicio Carrillo
+DNI: 60941715H
+Fecha de nacimiento: 23/03/2001
+Género: Mujer
+Domicilio: Calle de los Relatores 42
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52230
+Email: apariciocarrillo@aol.com
+Teléfono fijo: +34 956 32 25 96
+FAX: +34 956 51 97 60
+NHC: 3154216
+NASS: 889071580172
+Condición de riesgo: Electricista
+Datos asistenciales.
+Médico: Dr. Pau Bernal Parra. NC 772096285. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Hospital: Hospital Universitario 12 de Octubre
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 23 años de edad, acompañado de su vecina, refiere una visión borrosa en la distancia durante los últimos 6 meses. La exploración física revela: visión binocular de 6/12 en ambos ojos, refracción -2,00 esférico en el ojo derecho y -3,00 esférico en el ojo izquierdo. Se solicitan pruebas de visión periférica y campo visual, que muestran una reducción de la visión periférica en ambos ojos. Se realiza una exploración oftalmológica, que revela una miopía de -4,00 esférico en ambos ojos. El paciente se somete a un tratamiento con lentes de contacto y se le prescribe un seguimiento en 6 meses.
+Antecedentes:
+El paciente tiene antecedentes de visión borrosa en la distancia desde la infancia, pero no había sido evaluado antes. El paciente también tiene antecedentes de uso de pantallas electrónicas durante largas horas al día.
+Evolución y comentarios:
+El paciente se encuentra en buen estado general y no presenta síntomas de dolor o irritación en los ojos. La visión se ha mejorado significativamente después del tratamiento con lentes de contacto.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha realizado una evaluación inicial y ha referido al paciente al especialista en oftalmología.

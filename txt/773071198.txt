@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Rodrigo Sánchez Lara
+DNI: 38078110T
+Fecha de nacimiento: 21/01/1957
+Género: Hombre
+Domicilio: Calle de la Princesa 51
+Ciudad: San Vicente del Raspeig, Gerona, Cataluña
+Código postal: 17836
+Email: rodrigosanchez_lara@outlook.com
+Teléfono fijo: +34 972 59 22 61
+FAX: +34 972 21 77 42
+NHC: 6663927
+Datos asistenciales.
+Médico: Dr. Pau Casas Camacho. NC 729546513. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 17/01/2024
+Episodio: 00083271
+Centro de salud: Centro de Salud Valdemoro
+Matrícula del coche: 4113FRO
+Modelo: Mercedes-Benz C-Class
+VIN: VSK0V45J0AT903391
+Informe clínico del paciente:
+El paciente, un hombre de 66 años, fumador empedernido, fue ingresado en el Centro de Salud Valdemoro con una serie de síntomas que incluyen dolores en la región lumbar, dificultad para caminar y una sensación de fatiga generalizada. El paciente ha sido fumador durante más de 40 años y tiene una historia de hipertensión y diabetes mellitus tipo 2.
+La exploración física revela un paciente con una temperatura corporal normal, pero con una presión arterial elevada (160/90 mmHg) y un índice de masa corporal (IMC) de 30, lo que indica obesidad. El paciente también presenta una serie de signos y síntomas que sugieren una posible enfermedad cardiovascular, incluyendo un ruido cardíaco anormal y una disminución de la fuerza muscular en las extremidades inferiores.
+Los resultados de las pruebas de laboratorio muestran un aumento de la glucemia en ayunas (180 mg/dl) y un nivel de colesterol elevado (240 mg/dl). El paciente también tiene un nivel de triglicéridos elevado (200 mg/dl) y un nivel de HDL (colesterol bueno) bajo (30 mg/dl).
+Con base en estos resultados, se considera que el paciente padece una enfermedad cardiovascular en etapa avanzada, con una alta probabilidad de desarrollar una enfermedad cardiovascular aguda en el futuro. Se recomienda que el paciente realice una serie de cambios en su estilo de vida, incluyendo la reducción del consumo de tabaco, la adopción de una dieta saludable y la realización de ejercicio físico regular.
+Se propone una serie de tratamientos para el paciente, incluyendo la administración de medicamentos para controlar la hipertensión y la diabetes, así como la realización de pruebas de imagen para evaluar la presencia de enfermedad cardiovascular subyacente. Se considera que el paciente requiere una atención médica continuada para controlar su enfermedad y prevenir complicaciones en el futuro.

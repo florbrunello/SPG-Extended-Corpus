@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Carolina Serra Rivas
+DNI: 79853076C
+Fecha de nacimiento: 15/02/1987
+Género: Mujer
+Domicilio: Calle de Lope de Vega 55
+Ciudad: Langreo, Asturias, Asturias
+Código postal: 33080
+Email: carolina-serra_rivas@ioba.med.uva.es
+Teléfono fijo: +34 984 17 08 94
+Teléfono móvil: +34 784 51 80 58
+NHC: 9993240
+NASS: 876543219876
+Condición de riesgo: Químico
+Datos asistenciales.
+Médico: Dra. Eva María Benito Núñez. NC 936789898. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/11/2020
+Episodio: 63009641
+Centro de salud: Centro de Salud Sevilla Norte
+Matrícula del coche: 3525FRQ
+Modelo: Subaru Outback
+VIN: VSR4W7PL8VT155931
+Fecha de ingreso: 14/11/2020
+Centro de salud de ingreso: Centro de Salud Sevilla Norte
+Informe clínico del paciente:
+La paciente de 33 años de edad, de ascendencia indígena sudamericana, fue atendida en el Servicio de Urgencias por presentar síntomas de dolor abdominal crónico y pérdida de peso significativa en los últimos 6 meses. La paciente refiere una historia de antecedentes familiares de enfermedades autoinmunes y ha sido sometida a múltiples pruebas diagnósticas sin encontrar una causa subyacente clara para sus síntomas.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 15 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas diagnósticas adicionales, incluyendo una ecografía abdominal y una resonancia magnética, para determinar la causa subyacente de los síntomas de la paciente.

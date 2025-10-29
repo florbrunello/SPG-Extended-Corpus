@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Jordi Iglesias Luque
+DNI: 12736578Y
+Fecha de nacimiento: 10/02/1982
+Género: Varón
+Domicilio: Calle del León 86, 10R
+Ciudad: Bormujos, Álava, Pais Vasco
+Código postal: 01979
+Email: jordi.iglesias_luque@ioba.med.uva.es
+Teléfono fijo: +34 945 45 21 27
+FAX: +34 945 34 34 53
+NHC: 4901525
+NASS: 368777851983
+Condición de riesgo: Cirujano
+Datos asistenciales.
+Médico: Dr. Adolfo Cortés Herrero. NC 922681098. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 59510986
+Hospital: Hospital Universitario Príncipe de Asturias
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 43 años de edad, acompañado de su esposa. Presenta una historia de antecedentes de enfermedades crónicas, incluyendo hipertensión arterial y diabetes mellitus tipo 2. Se queja de dolor abdominal crónico y pérdida de peso en los últimos meses. La exploración física revela una temperatura corporal de 37,5°C, pulso de 80 latidos por minuto y respiración de 18 respiraciones por minuto. El abdomen está dolorido en la región epigástrica y la exploración abdominal revela una masa en el hígado de 5 cm de diámetro.
+Los resultados de las pruebas de laboratorio muestran:
+Hemograma: Hb 12,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 70%)
+Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 40 U/l; GPT 60 U/l; GGT 80 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl
+Imágenes: Ecografía abdominal revela una lesión en el hígado de 5 cm de diámetro con características de quiste.
+Con el diagnóstico de quiste hepático, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento quirúrgico: cirugía de quiste hepático.
+Antecedentes:
+El paciente tiene antecedentes de enfermedades crónicas, incluyendo hipertensión arterial y diabetes mellitus tipo 2. Ha presentado dolor abdominal crónico y pérdida de peso en los últimos meses.
+Evolución y comentarios:
+El paciente se encuentra estable y se le ha realizado una cirugía de quiste hepático. Se le recomienda seguir un tratamiento de seguimiento para controlar la evolución de la enfermedad.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, Dr. Juan Pérez García, quien ha referido al paciente al Hospital Universitario Príncipe de Asturias por presentar síntomas de dolor abdominal crónico y pérdida de peso.

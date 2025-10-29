@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Ismael De la Fuente Ferrer
+DNI: 11401440H
+Fecha de nacimiento: 09/01/1935
+Género: Hombre
+Domicilio: Calle Mayor 83
+Ciudad: Jaén, Santa Cruz de Tenerife, Canarias
+Código postal: 38674
+Email: ismael@ciberehd.org
+Teléfono fijo: +34 922 31 47 30
+Teléfono móvil: +34 622 56 87 79
+NHC: 8362853
+NASS: 734963587204
+Condición de riesgo: Trabajador de Minería
+Datos asistenciales.
+Médico: Dr. Jorge Lara Rivera. NC 749350177. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/12/2003
+Episodio: 31724173
+Hospital: Hospital Regional Universitario de Málaga
+Matrícula del coche: 6561POQ
+Modelo: Toyota Corolla
+VIN: VSZ3658I9FS625848
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 68 años de edad, acompañado de su hermana. Presenta antecedentes de consumo excesivo de alcohol durante más de 20 años, lo que ha llevado a un deterioro progresivo de su salud. En la exploración física se observan signos de malnutrición, como un peso corporal inferior al normal y una pérdida de masa muscular. También se detectan signos de envejecimiento prematuro, como arrugas y pérdida de cabello.
+La evolución clínica del paciente ha sido marcada por episodios recurrentes de intoxicación etílica, lo que ha llevado a complicaciones como la hepatosis alcohólica y la neuropatía periférica. En la exploración neurológica se observan signos de deterioro cognitivo, como dificultad para concentrarse y recordar información.
+Los resultados de las pruebas diagnósticas muestran un aumento de la bilirrubina y la alanina aminotransferasa en sangre, lo que sugiere una lesión hepática. También se detecta una disminución de la función renal, lo que puede estar relacionada con el consumo excesivo de alcohol.
+El tratamiento recomendado para el paciente consiste en una terapia de reemplazo de sustancias, que incluye la administración de vitaminas y minerales esenciales. También se recomienda una terapia psicológica para ayudar al paciente a manejar su consumo de alcohol y a evitar episodios de intoxicación. Se le recomienda a la familia del paciente que busque apoyo en un grupo de apoyo para familiares de personas con trastornos del consumo de alcohol.
+Evolución y comentarios:
+El paciente ha estado bajo tratamiento durante varias semanas, pero ha presentado dificultades para adherirse a la terapia. Se le ha ofrecido apoyo adicional, como sesiones de terapia individual y grupo, pero ha sido difícil para él comprometerse con el tratamiento. Se le recomienda una evaluación más detallada de su situación para determinar la mejor forma de abordar sus necesidades.
+Remitido por:
+Se le remite al paciente a un especialista en medicina de adicciones para una evaluación más detallada de su situación y para determinar la mejor forma de abordar sus necesidades. Se le recomienda que busque apoyo en un grupo de apoyo para familiares de personas con trastornos del consumo de alcohol.

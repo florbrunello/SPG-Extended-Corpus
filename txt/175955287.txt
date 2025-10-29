@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Esperanza Castro Nieto
+DNI: 97633100D
+Fecha de nacimiento: 10/01/1962
+Género: Mujer
+Domicilio: Calle de la Reina 4
+Ciudad: Ronda, Zaragoza, Aragón
+Código postal: 50536
+Email: esperanza_castronieto@ciberehd.org
+Teléfono fijo: +34 976 81 80 22
+Teléfono móvil: +34 776 08 72 93
+NHC: 6972168
+NASS: 907377191285
+Datos asistenciales.
+Médico: Dr. Iván Fuentes Pastor. NC 959229324. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/08/2023
+Episodio: 28334335
+Centro de salud: Centro de Salud Sevilla Norte
+Matrícula del coche: 8057PPY
+Modelo: Kia Sorento
+VIN: VSVZUOL9HWS337683
+Informe clínico del paciente:
+La paciente, Esperanza Castro Nieto, es una mujer de 61 años que se presenta con síntomas de dolor en el pecho y dificultad para respirar. La paciente tiene una historia de hipertensión y diabetes tipo 2, y ha estado tomando medicamentos para controlar estos trastornos. Sin embargo, en los últimos días ha experimentado un aumento en la frecuencia y la intensidad de los síntomas.
+La exploración física revela un dolor en el pecho que se irradia al brazo izquierdo, con una frecuencia cardíaca de 120 latidos por minuto y una presión arterial de 180/100 mmHg. La paciente también presenta una temperatura de 38,5°C y un estado de ánimo alterado.
+Los análisis de sangre muestran un aumento en la creatinina y un nivel de glucosa en sangre elevado. La ecografía cardíaca revela un coágulo en la arteria coronaria derecha.
+Con base en estos hallazgos, se diagnostica una embolia pulmonar y se inicia el tratamiento con anticoagulantes y medicamentos para controlar la presión arterial y la glucosa en sangre.
+Antecedentes:
+La paciente tiene una historia de hipertensión y diabetes tipo 2, y ha estado tomando medicamentos para controlar estos trastornos. En los últimos meses ha experimentado un aumento en la frecuencia y la intensidad de los síntomas.
+Evolución y comentarios:
+La paciente ha estado recibiendo tratamiento en el hospital durante las últimas 24 horas. La evolución ha sido favorable, con una disminución en la frecuencia y la intensidad de los síntomas. La paciente está en una habitación de cuidados intensivos y se le están administrando medicamentos para controlar la presión arterial y la glucosa en sangre.
+Remitido por:
+El paciente ha sido remitido al Servicio de Cardiología para una evaluación y tratamiento más a fondo. Se le han indicado pruebas adicionales para determinar la causa subyacente de la embolia pulmonar.

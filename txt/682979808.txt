@@ -1,0 +1,36 @@
+Datos del paciente.
+Nombre: Jaume Silva Aguilar
+DNI: 90968973V
+Fecha de nacimiento: 16/02/1954
+Género: Masculino
+Domicilio: Paseo de la Castellana 52
+Ciudad: Puertollano, Palencia, Castilla y León
+Código postal: 34984
+Email: jaume.silvaaguilar1021@aol.com
+Teléfono fijo: +34 979 44 42 40
+FAX: +34 979 58 67 76
+NHC: 4847617
+NASS: 797024170231
+Condición de riesgo: Paciente de alto riesgo
+Datos asistenciales.
+Médico: Dr. Pablo Bernal Alonso
+NC: 019210502
+Cargo: Residente de 2° año en Pediatría
+Institución: Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+Dirección: Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso: 21/02/2003
+Episodio: 09813547
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 5625JCE
+Modelo: Toyota Corolla
+VIN: VSBM6YLQ3JB364962
+Informe clínico del paciente:
+Paciente vegetariano de 49 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Se refirió a la consulta con síntomas de dolor abdominal crónico y pérdida de peso. La exploración física reveló signos de anemia y hepatomegalia. Se solicitaron análisis de sangre y orina para determinar la causa subyacente de los síntomas.
+Los resultados de los análisis de sangre mostraron un nivel elevado de transaminasas hepáticas y un nivel bajo de albúmina. La orina mostró signos de proteinuria y glucosuria. Con base en estos resultados, se sospechó un diagnóstico de hepatitis crónica y diabetes mellitus tipo 2.
+Se inició tratamiento con metformina y un régimen de dieta hipocalórica y baja en grasas. El paciente fue remitido a la Unidad de Hepatología para una evaluación más detallada y un plan de tratamiento personalizado.
+Antecedentes:
+El paciente tiene una historia de consumo de alcohol excesivo en el pasado, lo que podría estar relacionado con la hepatitis crónica. También tiene una familiares con antecedentes de diabetes mellitus tipo 2.
+Evolución y comentarios:
+El paciente ha estado siguiendo el tratamiento y ha mostrado una mejoría en los síntomas. Sin embargo, se requiere una evaluación más detallada para determinar la causa subyacente de la hepatitis crónica y para establecer un plan de tratamiento adecuado.
+Remitido por:
+El paciente fue remitido a la Unidad de Hepatología para una evaluación más detallada y un plan de tratamiento personalizado.

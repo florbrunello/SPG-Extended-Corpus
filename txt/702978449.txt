@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Carlota Sierra Acosta
+DNI: 52184315Y
+Fecha de nacimiento: 03/11/2024
+Género: Mujer
+Domicilio: Calle de la Lechuga 7
+Ciudad: Dos Hermanas, Granada, Andalucía
+Código postal: 18885
+Email: iNtA4H6iNJdSIS@ciberned.es
+Teléfono fijo: +34 958 75 90 90
+Teléfono móvil: +34 758 46 84 07
+NHC: 0981628
+NASS: 540355735773
+Condición de riesgo: Trabajador de Laboratorio
+Datos asistenciales.
+Médico: Dr. Sebastián Gómez Avila. NC 540948233. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 17623862
+Centro de salud: Centro de Salud Latina
+Informe clínico del paciente:
+Paciente de descendencia africana de 4 meses de edad, acompañado de su madre. Presenta una temperatura corporal de 37,5°C, con un ritmo cardíaco de 120 latidos por minuto y una presión arterial de 80/50 mmHg. La exploración física revela una piel de color moreno, con ojos y cabello oscuros. No se observan signos de infección o enfermedad crónica.
+La evolución clínica del paciente ha sido tranquila, con una alimentación normal y un estado de ánimo estable. No se han registrado antecedentes de enfermedades previas ni alergias conocidas.
+La exploración neurológica y muscular no muestra signos de alteración. La función renal y hepática se encuentra dentro de los límites normales.
+Se han solicitado análisis de sangre para evaluar la función renal y hepática, así como una radiografía de tórax para evaluar la presencia de cualquier patología pulmonar.
+El tratamiento está centrado en la prevención de infecciones y la promoción de la salud en general. Se le ha recomendado a la madre del paciente que mantenga una higiene adecuada y que busque atención médica inmediata si presenta cualquier síntoma de enfermedad.
+Evolución y comentarios:
+El paciente ha estado bajo observación durante 24 horas sin presentar signos de enfermedad. La madre del paciente ha sido informada sobre la importancia de la prevención de infecciones y la promoción de la salud en general.
+Remitido por:
+Dr. Sebastián Gómez Avila, Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Mercedes Galvez Díaz
+DNI: 29218445G
+Fecha de nacimiento: 05/09/1955
+Género: Mujer
+Domicilio: Calle de la Primavera 6, 10E
+Ciudad: Ermua, Ávila, Castilla y León
+Código postal: 05063
+Email: mercedes-galvez376@gmail.com
+Teléfono fijo: +34 920 96 13 91
+Teléfono móvil: +34 720 47 41 40
+NHC: 1025715
+NASS: 712861864113
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dr. Jorge Sanz Plaza. NC 767551591. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/03/1977
+Centro de salud: Centro de Salud Fuengirola
+Informe clínico del paciente:
+Paciente usuario de drogas de 21 años de edad, con antecedentes de consumo de sustancias ilegales desde la adolescencia. Presenta síntomas de abstinencia, incluyendo ansiedad, sudoración y temblores. La exploración física revela signos de desnutrición y fatiga. Los análisis de sangre muestran alteraciones en los niveles de glucosa y lípidos. Se solicitan pruebas adicionales para determinar la gravedad de la situación y establecer un plan de tratamiento adecuado.
+Antecedentes:
+El paciente ha sido atendido en varias ocasiones por problemas relacionados con el consumo de drogas, incluyendo episodios de sobredosis y problemas de salud mental. Ha recibido tratamiento en centros de rehabilitación y ha participado en programas de apoyo para usuarios de drogas.
+Evolución y comentarios:
+El paciente ha mostrado un compromiso inicial con el tratamiento, pero ha presentado dificultades para mantener la abstinencia. Se requiere un enfoque intensivo y personalizado para ayudarlo a superar sus problemas de salud y bienestar.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado un deterioro en su estado de salud y ha recomendado un seguimiento más estrecho. Se requiere una evaluación más detallada para determinar la mejor forma de abordar sus problemas de salud.

@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Antonio José Santos Caballero
+DNI: 14491915Y
+Fecha de nacimiento: 06/04/1962
+Género: Masculino
+Domicilio: Calle de la Libertad 51
+Ciudad: Torrelodones
+Provincia: Salamanca
+Código postal: 37782
+Email: pWw0Zsk6Cr@ioba.med.uva.es
+Teléfono fijo: +34 923 28 70 33
+Teléfono móvil: +34 623 85 84 49
+NHC: 2532005
+NASS: 885680089229
+Condición de riesgo: Microbiólogo
+Datos asistenciales.
+Médico: Dra. Elvira Calderon Ortega
+NC: 082284604
+Cargo: Residente de 5° año en Neurología
+Institución: Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)
+Dirección: Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso: 08/02/2015
+Episodio: 88586574
+Centro de salud: Centro de Salud Aluche
+Informe clínico del paciente:
+Paciente de 52 años de edad, de ascendencia norteamericana, acompañado de su abuela, presenta una condición médica sin especificar. Se ha registrado una sesión de reconocimiento facial, cuyo código de revisión es XW552GNK624.
+Antecedentes:
+No se dispone de información sobre antecedentes médicos previos del paciente.
+Evolución y comentarios:
+No se ha proporcionado información sobre la evolución clínica del paciente.
+Remitido por:
+No se ha proporcionado información sobre el médico que remitió al paciente al centro de salud.

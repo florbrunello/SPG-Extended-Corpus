@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Albert Galan Díaz
+DNI: 50741802F
+Fecha de nacimiento: 06/08/1966
+Género: M
+Domicilio: Calle de Preciados 97
+Ciudad: Plasencia, Gerona, Cataluña
+Código postal: 17872
+Email: diaz@ual.es
+Teléfono fijo: +34 972 92 99 57
+Teléfono móvil: +34 772 07 96 39
+NHC: 8364176
+NASS: 347424906613
+Condición de riesgo: Conductor de Camión
+Datos asistenciales.
+Médico: Dr. Juan Francisco Benítez Marín. NC 738458084. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 22/12/2021
+Episodio: 72251155
+Hospital: Complejo Asistencial Universitario Salamanca
+Matrícula del coche: 3974QIA
+Modelo: Honda CR-V
+VIN: VSDV2AWUQYG176349
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 55 años de edad, que presentó un episodio de insuficiencia cardíaca aguda después de conducir su vehículo durante varias horas. El paciente tenía antecedentes de hipertensión arterial y diabetes mellitus tipo 2. La exploración física reveló taquicardia, disnea y edema periférico. Los análisis de sangre mostraron elevadas concentraciones de creatinina y urea. Se realizó una ecografía cardíaca que demostró un aumento del tamaño del ventrículo izquierdo y una disminución de la función cardíaca.
+El tratamiento consistió en la administración de medicamentos para disminuir la presión arterial y mejorar la función cardíaca, así como la hospitalización en la unidad de cuidados intensivos para monitorizar la situación del paciente. El paciente mostró una mejoría significativa después de la administración del tratamiento y fue dado de alta del hospital después de 5 días de hospitalización.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, lo que lo coloca en un mayor riesgo de desarrollar insuficiencia cardíaca. También tiene antecedentes de accidente vascular cerebral en el pasado.
+Evolución y comentarios:
+El paciente mostró una mejoría significativa después de la administración del tratamiento y fue dado de alta del hospital después de 5 días de hospitalización. Se le recomendó seguir un régimen de ejercicio regular y una dieta equilibrada para mejorar su función cardíaca y prevenir futuros episodios de insuficiencia cardíaca.
+Remitido por:
+El paciente fue remitido por su médico de cabecera debido a un episodio de insuficiencia cardíaca aguda.

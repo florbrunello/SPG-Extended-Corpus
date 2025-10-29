@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Marco Diez Luna
+DNI: 64302995D
+Fecha de nacimiento: 09/08/1995
+Género: M
+Domicilio: Calle de Piamonte 50
+Ciudad: Ferrol, Álava, Pais Vasco
+Código postal: 01770
+Email: marco-luna638@yahoo.com
+Teléfono fijo: +34 945 03 41 99
+Teléfono móvil: +34 645 04 34 53
+NHC: 2150291
+NASS: 898876918364
+Condición de riesgo: Trabajador de Minería
+Datos asistenciales.
+Médico: Dr. Mikel Cano Diez. NC 220723937. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/08/2008
+Episodio: 10756700
+Centro de salud: Centro de Salud Fuenlabrada
+Informe clínico del paciente:
+Paciente de tez blanca de 13 años de edad, acompañado de su padre, con antecedentes de asma y alergia a los lácteos, refiere dolores abdominales crónicos desde hace 6 meses, con episodios de vómitos y diarrea. La exploración física revela: Tª 36,5 C; T.A: 110/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En cabeza y cuello no se palpan adenopatías ni bocio. La exploración abdominal revela un abdomen blando, depresible, con dolor en el hígado y la vesícula biliar. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 30 U/l; GPT 40 U/l; GGT 50 U/l. Se solicitan pruebas de imagen (Ecografía abdominal) que revelan una hígado aumentado de tamaño con áreas de necrosis. Con el diagnóstico de hepatitis crónica se instaura tratamiento sintomático (antitérmicos, antiinflamatorios) así como tratamiento específico: Inhibidores de la proteasa (PPI) y medicamentos para reducir la inflamación en el hígado. El paciente mejora significativamente de su cuadro tras 2 semanas de tratamiento, decidiéndose el alta a su domicilio donde continúa con el tratamiento.

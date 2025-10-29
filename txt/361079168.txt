@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Arturo Mora Gómez
+DNI: 43685184L
+Fecha de nacimiento: 31/03/1953
+Género: M
+Domicilio: Calle de las Yeserías 28
+Ciudad: Torrelodones, La Coruña, Galicia
+Código postal: 15278
+Email: arturo.gomez@aol.com
+Teléfono fijo: +34 981 41 34 64
+Teléfono móvil: +34 681 80 67 44
+NHC: 0916143
+NASS: 968770995254
+Condición de riesgo: Bombero
+Datos asistenciales.
+Médico: Dra. María Josefa Vila Gil. NC 218888327. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/06/1995
+Episodio: 91366503
+Centro de salud: Centro de Salud Móstoles
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 42 años de edad, acompañado de su abuela, que refiere una evolución clínica de 48 horas con dolor abdominal crónico, con irradiación a la espalda y fiebre de 38,5°C. La exploración física revela: Tª 39,2°C; T.A: 110/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Antecedentes:
+El paciente tiene un antecedente de hepatitis A en su infancia, y un antecedente de gastroenteritis viral en su juventud.
+Evolución y comentarios:
+El paciente se encuentra en una evolución clínica estable, con una temperatura corporal elevada y dolor abdominal crónico. Se le ha solicitado una exploración más exhaustiva para determinar la causa subyacente de su enfermedad.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien sospecha una infección gastrointestinal.
+Fecha de alta:
+El paciente se encuentra en una evolución clínica estable y se le ha solicitado una exploración más exhaustiva para determinar la causa subyacente de su enfermedad. Se le ha dado de alta con una cita para una revisión en 48 horas.

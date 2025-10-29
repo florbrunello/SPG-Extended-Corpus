@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: María Carmen Arias Cuesta
+DNI: 30046810R
+Fecha de nacimiento: 21/05/1999
+Género: Mujer
+Domicilio: Calle de la Ribera 26
+Ciudad: Aranda de Duero, Mallorca, Islas Baleares
+Código postal: 07094
+Email: cuesta@isciii.es
+Teléfono fijo: +34 971 54 92 21
+Teléfono móvil: +34 771 95 43 43
+NHC: 2268486
+NASS: 922106784855
+Condición de riesgo: Limpiador
+Datos asistenciales.
+Médico: Dra. Lidia Bermudez Vargas. NC 847350089. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/04/2010
+Centro de salud: Centro de Salud Latina
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 10 años de edad, acompañado de su madre. Presenta una historia previa de ansiedad en el colegio y problemas de sueño. En la exploración física se observa una tensión arterial de 120/80 mmHg, frecuencia cardíaca de 80 latidos por minuto y temperatura corporal de 36,5°C. La madre informa que el paciente ha estado presentando síntomas de ansiedad en los últimos 2 meses, como dificultad para conciliar el sueño, nerviosismo y miedo a estar solo. El paciente también informa de sentirse cansado y sin energía.
+Antecedentes:
+El paciente tiene una historia familiar de trastornos de ansiedad, con su abuela paterna diagnosticada de ansiedad generalizada. El paciente también ha estado expuesto a situaciones estresantes en el colegio, como la presión para rendir bien en las pruebas y la falta de apoyo de sus compañeros.
+Evolución y comentarios:
+El paciente ha sido evaluado con una prueba de ansiedad y se ha determinado que su nivel de ansiedad es moderado. Se le ha prescrito un tratamiento con un medicamento antidepresivo y se le ha recomendado que practique técnicas de relajación, como la meditación y la respiración profunda. El paciente y su madre han sido educados sobre el tratamiento y se les ha dado consejos sobre cómo manejar la ansiedad en el hogar.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha observado un aumento en la ansiedad del paciente en las últimas semanas. El médico de cabecera ha recomendado que el paciente busque atención psiquiátrica para evaluar y tratar su ansiedad.

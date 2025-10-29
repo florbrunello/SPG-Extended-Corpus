@@ -1,0 +1,56 @@
+Datos del paciente.
+Nombre: Anna Gracia Peña
+DNI: 47850652A
+Fecha de nacimiento: 11/08/2011
+Género: Mujer
+Domicilio: Calle de Covarrubias 29
+Ciudad: Majadahonda, Granada, Andalucía
+Código postal: 18332
+Email: gracia_pena@salud.madrid.org
+Teléfono fijo: +34 958 81 89 50
+Teléfono móvil: +34 658 39 40 75
+NHC: 5895470
+NASS: 154161029637
+Condición de riesgo: Técnico de Laboratorio
+Datos asistenciales.
+Médico: Dr. Esteban Gallego Velasco. NC 840709416. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 29211293
+Centro de salud: Centro de Salud Fuenlabrada
+Matrícula del coche: 2525YYK
+Modelo: Chrysler Pacifica
+VIN: VSCBSKHC3WC292289
+Informe clínico del paciente:
+Paciente de 13 años de edad, de ascendencia sudamericana, acompañado de su padre. Se refiere a una sesión de escaneo retiniano realizada en la unidad de oftalmología del hospital. El código obtenido para revisar la sesión es NQ616NVL105. El paciente no presenta síntomas ni antecedentes de enfermedades oculares.
+Sin embargo, para generar un informe clínico más detallado y completo, se necesitaría más información sobre el paciente, como su estado de salud actual, antecedentes médicos, resultados de pruebas y tratamiento prescrito. 
+Aquí te dejo un ejemplo de informe clínico más detallado:
+Datos del paciente.
+Nombre: Anna Gracia Peña
+DNI: 47850652A
+Fecha de nacimiento: 11/08/2011
+Género: Mujer
+Domicilio: Calle de Covarrubias 29
+Ciudad: Majadahonda, Granada, Andalucía
+Código postal: 18332
+Email: gracia_pena@salud.madrid.org
+Teléfono fijo: +34 958 81 89 50
+Teléfono móvil: +34 658 39 40 75
+NHC: 5895470
+NASS: 154161029637
+Condición de riesgo: Técnico de Laboratorio
+Datos asistenciales.
+Médico: Dr. Esteban Gallego Velasco. NC 840709416. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 29211293
+Centro de salud: Centro de Salud Fuenlabrada
+Matrícula del coche: 2525YYK
+Modelo: Chrysler Pacifica
+VIN: VSCBSKHC3WC292289
+Informe clínico del paciente:
+Paciente de 13 años de edad, de ascendencia sudamericana, acompañado de su padre. Se refiere a una sesión de escaneo retiniano realizada en la unidad de oftalmología del hospital. El código obtenido para revisar la sesión es NQ616NVL105. El paciente no presenta síntomas ni antecedentes de enfermedades oculares.
+La exploración física revela:
+- Presión intraocular: 18 mmHg
+- Reflejo pupilar: normal
+- Exploración visual: normal
+Los datos analíticos muestran:
+- Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3; plaquetas 250.

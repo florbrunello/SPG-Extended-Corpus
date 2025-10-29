@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Olga Casas Marti
+DNI: 48899703R
+Fecha de nacimiento: 23/03/1932
+Género: M
+Domicilio: Calle de los Jardines 37, 2O
+Ciudad: Melilla
+Código postal: 34840
+Email: casas@protonmail.com
+Teléfono fijo: +34 979 36 21 85
+Teléfono móvil: +34 779 14 92 15
+NHC: 8723100
+NASS: 886386115438
+Condición de riesgo: Trabajador Agrícola
+Datos asistenciales.
+Médico: Dr. Bruno Fernández Pascual. NC 695209757. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/1987
+Centro de salud: Centro de Salud Sevilla Oeste
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 54 años de edad, acompañado de su hermana, refiere dolores abdominales crónicos de localización variable en el último mes y pérdida de apetito en las últimas semanas. Antes de comenzar el cuadro estuvo en un viaje de negocios a Asia, donde ingirió alimentos y bebidas locales sin pasteurizar. Entre los comensales aparecieron varios casos de gastroenteritis.
+La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 20,5 seg. Bioquímica: Glucosa 100 mg/dl; urea 25 mg/dl; creatinina 1,1 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas diagnósticas (Rx abdominal, Ecografía abdominal, TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de gastroenteritis aguda se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y hidratación) y tratamiento antibiótico específico: Ciprofloxacina 500 mg vía oral cada 12 horas (durante 5 días). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico.

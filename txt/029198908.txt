@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Sebastián García Hernández
+DNI: 35199932L
+Fecha de nacimiento: 02/10/1957
+Género: M
+Domicilio: Calle de Segovia 87
+Ciudad: Palencia, Formentera, Islas Baleares
+Código postal: 07281
+Email: garcia_hernandez@udc.es
+Teléfono fijo: +34 971 05 52 44
+Teléfono móvil: +34 771 48 77 19
+NHC: 2688264
+Datos asistenciales.
+Médico: Dr. Ismael Espinosa Navarro. NC 787521116. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/03/1963
+Episodio: 14946922
+Hospital: Hospital Universitari de Bellvitge
+Informe clínico del paciente:
+Paciente musulman de 5 años de edad, acompañado de su madre, que refiere dolor abdominal crónico de 6 meses de evolución, con episodios de vómitos y diarrea. El paciente tiene una historia de alergia a la leche de vaca y ha sido tratado con un régimen dietético sin lactosa. En el examen físico, se observa una apariencia general de desnutrición, con signos de anemia. La exploración abdominal revela un aumento de la palpitación en el área del hígado, sin dolor a la palpación. Los análisis de sangre muestran una anemia normocítica, con niveles elevados de ácido úrico y creatinina. Se solicitan pruebas de imagen para evaluar la función hepática y la presencia de cualquier patología abdominal. El diagnóstico diferencial incluye hepatitis crónica, enfermedad hepática autoinmune y síndrome de malabsorción.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de gastroenterología para una evaluación más detallada de su condición. Se realizaron pruebas de imagen, incluyendo una ecografía abdominal y un escaneo de tomografía computarizada, que revelaron un hígado envejecido con signos de cirrosis. Se solicitó una biopsia hepática para confirmar el diagnóstico. El paciente fue tratado con un régimen de medicamentos para controlar la inflamación y la fibrosis hepática. Se le recomendó una dieta baja en grasas y proteínas para ayudar a reducir la carga hepática.
+Remitido por:
+El paciente fue remitido al servicio de gastroenterología del Hospital Universitari de Bellvitge por su médico de cabecera, quien sospechó una patología hepática crónica. El paciente fue evaluado por un equipo de gastroenterólogos y hepatólogos, quienes confirmaron el diagnóstico de enfermedad hepática crónica.

@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: María José Campos Pacheco
+DNI: 28552262Q
+Fecha de nacimiento: 31/12/1940
+Género: Mujer
+Domicilio: Calle del León 20
+Ciudad: Eibar, Madrid, Madrid
+Código postal: 28125
+Email: mariajose.campos.pacheco982@protonmail.com
+Teléfono fijo: +34 919 07 68 46
+Teléfono móvil: +34 617 64 87 73
+NHC: 1147936
+NASS: 28552262Q
+Condición de riesgo: Consumidor de alcohol
+Datos asistenciales.
+Médico: Dra. Clara González Franco. NC 148625267. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 30/04/2009
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 68 años de edad, acompañado de su hijo. Presenta una historia de abuso de alcohol durante más de 20 años, con un consumo promedio de 80 gramos de alcohol al día. En las últimas semanas, ha presentado síntomas de envejecimiento hepático, incluyendo ictericia y ascitis. La exploración física revela un estado de malnutrición, con pérdida de peso significativa y debilidad muscular. El análisis de sangre muestra un aumento de los niveles de bilirrubina y enzimas hepáticas.
+Evolución y comentarios:
+El paciente ha sido hospitalizado en la Unidad de Cuidados Intensivos para recibir tratamiento de soporte vital y control de la infección. Se ha iniciado un programa de desintoxicación con medicamentos y terapia de apoyo. El pronóstico es reservado debido a la gravedad de la enfermedad y la edad del paciente.
+Remitido por:
+Se recomienda una evaluación psicológica y social para determinar la causa subyacente del abuso de alcohol y para ofrecer apoyo a la familia del paciente. Se solicita una cita con el Servicio de Psiquiatría para evaluar la necesidad de tratamiento psiquiátrico.

@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Emilia García López
+DNI: 12345678A
+Fecha de nacimiento: 12/02/1968
+Género: Mujer
+Domicilio: Calle de la Princesa 123
+Ciudad: Madrid
+Código postal: 28008
+Email: emilia.garcia@ucm.es
+Teléfono fijo: +34 91 123 45 67
+Teléfono móvil: +34 66 789 01 23
+NHC: 1234567
+NASS: 987654321098
+Condición de riesgo: Persona con discapacidad
+Datos asistenciales.
+Médico: Dra. Sofía Pérez García. NC 987654321. Especialista en Medicina de Familia. Hospital Universitario La Paz. Paseo de la Castellana 261. 28046. Madrid. España.
+Fecha de ingreso: 20/03/2022
+Centro de salud: Centro de Salud Villaverde
+Informe clínico del paciente:
+Paciente de 54 años de edad, con antecedentes de enfermedad cardiovascular, que acude al servicio de urgencias con síntomas de dolor torácico radiante al brazo izquierdo y dificultad para respirar. La exploración física revela taquicardia, hipertensión y roncus bilaterales. Los análisis de sangre muestran elevación de la creatinina y la troponina. Se solicitan estudios de imagen (Rx tórax y ecocardiograma) que revelan un infarto de miocardio en el segmento anterior del ventrículo izquierdo. Se instaura tratamiento con anticoagulantes y analgésicos, y se realiza una angioplastia coronaria para restaurar la circulación sanguínea en el área afectada. El paciente se encuentra estable y se le realiza una vigilancia estrecha en la unidad de cuidados intensivos.
+Antecedentes:
+- Enfermedad cardiovascular
+- Hipertensión
+- Diabetes mellitus tipo 2
+Evolución y comentarios:
+El paciente se encuentra en una evolución estable y se le realiza una vigilancia estrecha en la unidad de cuidados intensivos. Se le han realizado análisis de sangre y estudios de imagen para confirmar el diagnóstico de infarto de miocardio y se ha instaurado tratamiento con anticoagulantes y analgésicos. Se le realizará una angioplastia coronaria para restaurar la circulación sanguínea en el área afectada.
+Remitido por:
+Se reenvía a la unidad de cardiología para seguir el tratamiento y la evolución del paciente.

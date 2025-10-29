@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Inmaculada Cortés Calderon
+DNI: 45900148Z
+Fecha de nacimiento: 17/05/1953
+Género: F
+Domicilio: Calle del Sacramento 39
+Ciudad: Ponferrada, Alicante, Comunidad Valenciana
+Código postal: 03514
+Email: inmaculadacortescalderon@outlook.com
+Teléfono fijo: +34 965 46 08 46
+Teléfono móvil: +34 765 74 94 73
+NHC: 4120205
+NASS: 748722112029
+Condición de riesgo: Minero
+Datos asistenciales.
+Médico: Dr. Felipe Luna Herrera. NC 760533108. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/08/1979
+Episodio: 08611308
+Hospital: Hospital Universitari Vall d'Hebron
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 26 años de edad, con antecedentes de episodios de intoxicación alcohólica en el pasado. Presenta síntomas de ansiedad y depresión, con dificultades para conciliar el sueño y una disminución en la motivación y la energía. La exploración física revela signos de desnutrición y una tensión arterial elevada. Se solicitan análisis de sangre para evaluar la función hepática y renal, así como pruebas de toxicidad alcohólica. El paciente se encuentra en un estado de riesgo debido a su condición de minero y su consumo de alcohol.
+Antecedentes:
+El paciente tiene un historial de consumo de alcohol desde la adolescencia, con episodios de intoxicación alcohólica en el pasado. Ha intentado reducir su consumo en varias ocasiones, pero sin éxito. En la última semana, ha aumentado su consumo de alcohol, lo que ha llevado a un empeoramiento de sus síntomas.
+Evolución y comentarios:
+El paciente se encuentra en una fase crítica de su enfermedad, con un alto riesgo de complicaciones cardiovasculares y neurológicas. Es fundamental que se le proporcione tratamiento para la desintoxicación y la rehabilitación, así como apoyo psicológico y emocional para ayudarlo a superar su adicción.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien se encontraba preocupado por su condición de salud y su consumo de alcohol. El paciente ha sido trasladado al Hospital Universitari Vall d'Hebron para recibir atención especializada.

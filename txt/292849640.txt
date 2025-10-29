@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Juan Pedro Conde Díaz
+DNI: 10954845Z
+Fecha de nacimiento: 25/02/1990
+Género: Hombre
+Domicilio: Calle de la Magdalena 59, 7I
+Ciudad: Lorca, Madrid, Madrid
+Código postal: 28684
+Email: juanpedro-diaz@udc.es
+Teléfono fijo: +34 915 66 73 80
+FAX: +34 916 23 04 79
+NHC: 8338072
+NASS: 462819483468
+Condición de riesgo: Guardia de Seguridad
+Datos asistenciales.
+Médico: Dr. José Luis Macias Galan. NC 773757028. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/06/2000
+Hospital: Hospital Universitario Príncipe de Asturias
+Informe clínico del paciente:
+Paciente discapacitado de 10 años de edad, acompañado de su padre, que presenta un cuadro de dificultad para caminar y mantener el equilibrio debido a una lesión cerebral en la infancia. La exploración física revela una marcha atáxica, con tendencia a caer hacia un lado, y una debilidad en las extremidades inferiores. Los datos analíticos muestran una hipocalcemia leve y una hipomagnesemia moderada.
+La evolución clínica ha sido marcada por episodios de convulsiones y dificultad para controlar los movimientos, especialmente durante las actividades físicas. El paciente también presenta una dificultad para comunicarse, con un lenguaje limitado y una comprensión reducida.
+Se han realizado pruebas diagnósticas, incluyendo una resonancia magnética cerebral, que ha mostrado una lesión en el lóbulo frontal izquierdo, con una disminución en la función motora y una alteración en la estructura del cerebro. El tratamiento ha consistido en un plan de rehabilitación física y terapia ocupacional, con el objetivo de mejorar la función motora y la autonomía del paciente.
+La pronóstico es reservado, ya que la lesión cerebral en la infancia ha tenido un impacto significativo en el desarrollo y la función del paciente. Sin embargo, con un tratamiento adecuado y un apoyo continuo, se espera que el paciente pueda mejorar su calidad de vida y alcanzar un mayor nivel de independencia.
+Antecedentes:
+El paciente tiene un antecedente de lesión cerebral en la infancia, que ha tenido un impacto significativo en su desarrollo y función. La lesión ocurrió durante un accidente doméstico, cuando el paciente tenía 3 años de edad.
+Evolución y comentarios:
+La evolución clínica del paciente ha sido marcada por episodios de convulsiones y dificultad para controlar los movimientos, especialmente durante las actividades físicas. El paciente también presenta una dificultad para comunicarse, con un lenguaje limitado y una comprensión reducida.
+Remitido por:
+El paciente fue remitido por su padre, quien se quejaba de la dificultad del paciente para caminar y mantener el equilibrio.

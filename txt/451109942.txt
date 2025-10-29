@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Vanessa Iglesias Conde
+DNI: 31391587Z
+Fecha de nacimiento: 19/10/1993
+Género: Femenino
+Domicilio: Calle del Espíritu Santo 89, 3B
+Ciudad: Almería, Cuenca, Castilla-La Mancha
+Código postal: 16577
+Email: vanessa.conde413@ub.edu
+Teléfono fijo: +34 969 98 96 30
+Teléfono móvil: +34 769 43 71 04
+NHC: 5960049
+Condición de riesgo: Operador de Equipos Mineros
+Datos asistenciales.
+Médico: Dr. Víctor Manuel Serra Morales. NC 397010305. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 05/02/2023
+Centro de salud: Centro de Salud Majadahonda
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 29 años de edad, acompañado de su madre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es IX514BMS440.

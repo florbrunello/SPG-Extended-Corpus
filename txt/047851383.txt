@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: Jorge Montero Ramos
+DNI: 78311741F
+Fecha de nacimiento: 26/03/2012
+Género: Masculino
+Domicilio: Calle de Fortuny 23, 2J
+Ciudad: Badajoz, Albacete, Castilla-La Mancha
+Código postal: 02746
+Email: jorge-montero_ramos@outlook.com
+Teléfono fijo: +34 967 96 31 77
+Teléfono móvil: +34 767 12 37 98
+NHC: 9252927
+NASS: 987654321098
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dr. Manuel Vidal Suárez. NC 685616733. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Cargo: Jefe de Sección de Endocrinología
+Dirección: Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 30/03/2019
+Episodio: 39810713
+Hospital: Hospital Universitario Príncipe de Asturias
+Matrícula del coche: 0272TPA
+Modelo: Ford Mustang
+VIN: VSIRXR0OOFP929113
+Fecha de ingreso: 30/03/2019
+Centro de salud de ingreso: Hospital Universitario Príncipe de Asturias
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 7 años de edad, acompañado de su madre. Presenta una temperatura corporal de 37,5°C, pulso de 90 bpm y respiraciones de 20/min. El paciente se encuentra consciente, orientado y con buen estado de nutrición e hidratación. En la exploración física, no se palpan adenopatías ni bocio, con pulsos carotídeos simétricos. La auscultación cardíaca es rítmica, sin soplos ni roces. La auscultación pulmonar muestra conservación del murmullo vesicular. El abdomen es blando, depresible, sin masas ni megalias. En la exploración neurológica, no se detectan signos meníngeos ni datos de focalidad. Las extremidades no presentan varices ni edemas. Los pulsos periféricos son presentes y simétricos.
+La evolución clínica del paciente es estable, sin signos de infección ni dolor. El paciente ha recibido tratamiento antibiótico preventivo en el hospital. Se ha solicitado una ecografía abdominal para evaluar la función hepática y renal. El paciente se encuentra en observación y se le realizará una revisión médica en las próximas 24 horas.
+Antecedentes:
+El paciente tiene antecedentes de alergia a ciertos alimentos y medicamentos. Su madre informa que el paciente ha tenido episodios de dolor abdominal en el pasado, pero no ha requerido hospitalización.
+Evolución y comentarios:
+El paciente se encuentra en una evolución estable y sin signos de infección. Se le realizará una revisión médica en las próximas 24 horas para evaluar su estado clínico.
+Remitido por:
+Dr. Manuel Vidal Suárez, Endocrinólogo Especialista en Diabetes.

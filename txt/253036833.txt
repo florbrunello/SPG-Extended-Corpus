@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Félix Serra Pacheco
+DNI: 56493242K
+Fecha de nacimiento: 10/03/1962
+Género: Masculino
+Domicilio: Calle de los Jardines 36
+Ciudad: Socuéllamos, Málaga, Andalucía
+Código postal: 29946
+Email: felix.serra-pacheco@outlook.com
+Teléfono fijo: +34 951 23 52 39
+Teléfono móvil: +34 751 55 81 75
+NHC: 3919658
+NASS: 743699657199
+Condición de riesgo: Científico de Investigación
+Datos asistenciales.
+Médico: Dra. Sofía Díaz Bravo. NC 427724292. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/09/2008
+Hospital: Complejo Asistencial Universitario de León
+Informe clínico del paciente:
+Paciente de 46 años de edad, con antecedentes de sobreviviente de violencia, que se presenta con una serie de características que requieren una evaluación detallada. Se ha registrado una sesión de huella dactilar, con el código RB281LNO553, y una sesión de escaneo del iris, con el código BU447RED627. A continuación, se presentan los resultados de la exploración física y los análisis realizados.
+Exploración física:
+La exploración física revela una temperatura corporal de 36,8°C, con una frecuencia cardíaca de 72 lpm y una tensión arterial de 120/80 mmHg. El paciente se encuentra consciente y orientado, con una buena condición general. No se detectan signos de dolor o incomodidad en el paciente.
+Análisis
+Los análisis realizados incluyen una serie de pruebas para evaluar la condición del paciente. Los resultados de estas pruebas se presentan a continuación:
+Hemograma: Hb 14,5 g/dl; leucocitos 7.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3.
+Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l.
+Orina: sedimento normal.
+Diagnóstico y tratamiento:
+Basado en los resultados de la exploración física y los análisis, se ha establecido el diagnóstico de una condición médica específica. Se ha iniciado un tratamiento para abordar esta condición, que incluye una serie de medicamentos y medidas para controlar los síntomas y prevenir complicaciones.
+Evolución y comentarios:
+El paciente se encuentra en una condición estable, con una buena respuesta al tratamiento. Se realizarán seguimientos periódicos para evaluar la evolución de la condición y ajustar el tratamiento según sea necesario.
+Remitido por:
+Este informe ha sido remitido por la Dra. Sofía Díaz Bravo, Residente de 2° año en Pediatría, Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER).

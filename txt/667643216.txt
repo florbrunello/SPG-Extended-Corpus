@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Marina Miguel Serrano
+DNI: 22051979Q
+Fecha de nacimiento: 26/01/1962
+Género: Mujer
+Domicilio: Calle del Barquillo 9
+Ciudad: Yecla, Ciudad Real, Castilla-La Mancha
+Código postal: 13757
+Email: marinaserrano@icloud.com
+Teléfono fijo: +34 926 05 49 30
+Teléfono móvil: +34 626 32 84 03
+NHC: 7017409
+Condición de riesgo: Científico de Investigación
+Datos asistenciales.
+Médico: Dra. Clara Ortiz Andres. NC 306945233. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/05/2002
+Centro de salud: Hospital Clínic Universitario de Valencia
+Informe clínico del paciente:
+La paciente, de 40 años, fue atendida en el Servicio de Urgencias por presentar síntomas de dolor torácico irradiado a la espalda, acompañado de una sensación de opresión en el pecho. La paciente es no fumadora y no tiene antecedentes médicos relevantes. La exploración física revela una tensión arterial de 120/80 mmHg, frecuencia cardíaca de 70 lpm y oxígeno arterial de 95% en el aire ambiente. La paciente se encuentra consciente y orientada, pero presenta una expresión facial de dolor.
+Se solicitan pruebas de imagen para evaluar la causa del dolor torácico, incluyendo una ecocardiografía y una tomografía computarizada del tórax. Los resultados de las pruebas muestran una enfermedad coronaria en una de las arterias coronarias, lo que explica los síntomas de dolor torácico y opresión en el pecho.
+Se instaura un tratamiento de revascularización coronaria mediante angioplastia y colocación de una stent en la arteria afectada. La paciente se encuentra estable y sin complicaciones en la unidad de cuidados intensivos. Se le prescribe un tratamiento antiagregante plaquetario y un seguimiento en el Servicio de Cardiología para evaluar la progresión de la enfermedad.
+La paciente es una científica de investigación y tiene un alto riesgo de desarrollar enfermedades cardiovasculares debido a su estilo de vida sedentario y su exposición a factores de estrés. Es importante que la paciente modifique su estilo de vida para prevenir la progresión de la enfermedad y reducir el riesgo de complicaciones cardiovasculares.
+Evolución y comentarios:
+La paciente se encuentra estable y sin complicaciones en la unidad de cuidados intensivos. Se le prescribe un tratamiento antiagregante plaquetario y un seguimiento en el Servicio de Cardiología para evaluar la progresión de la enfermedad.
+Remitido por:
+El paciente fue remitido por el Servicio de Urgencias del Hospital Clínic Universitario de Valencia.

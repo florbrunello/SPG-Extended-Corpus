@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Adriana Delgado Moya
+DNI: 83337772D
+Fecha de nacimiento: 06/04/1945
+Género: F
+Domicilio: Calle de Narváez 66
+Ciudad: Marbella, Vizcaya, Pais Vasco
+Código postal: 48264
+Email: adriana.delgado_moya@ioba.med.uva.es
+Teléfono fijo: +34 946 93 01 61
+Teléfono móvil: +34 746 91 17 36
+NHC: 2303366
+NASS: 899564006818
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dra. Rebeca León Cuesta. NC 307412386. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/07/2015
+Episodio: 32053920
+Hospital: Hospital Universitario La Paz
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 70 años de edad, con antecedentes de hipertensión arterial, diabetes mellitus tipo 2 y enfermedad cardiovascular. Presenta una historia de 10 años de evolución de la enfermedad, con múltiples episodios de angina de pecho y un infarto de miocardio en el año 2005. En la actualidad, se encuentra en un estado de estabilidad, pero con una capacidad de ejercicio reducida debido a la enfermedad.
+La exploración física revela: presión arterial 160/90 mmHg, frecuencia cardíaca 80 bpm, temperatura corporal 36,5°C, saturación de oxígeno 95%. El paciente presenta una deformidad en la mano izquierda debido a una fractura en el pasado, y una cicatriz en la pierna derecha debido a una cirugía.
+Los datos analíticos muestran los siguientes resultados: hemograma normal, bioquímica normal, función renal normal. La ecografía cardíaca muestra una disfunción ventricular izquierda, con una fracción de ejección reducida.
+El tratamiento actual incluye la administración de metoprolol, atorvastatina y aspirina, así como un régimen de ejercicio regular y una dieta equilibrada. El paciente se encuentra en un estado de estabilidad, pero se requiere un seguimiento regular para controlar la enfermedad y prevenir complicaciones.
+Evolución y comentarios:
+El paciente ha estado bajo seguimiento en el hospital durante los últimos 5 años, con un historial de cumplimiento regular con el tratamiento. En la última revisión, se detectó una disminución en la función renal, lo que requirió una ajuste en la dosis de la atorvastatina. El paciente se encuentra en un estado de estabilidad, pero se requiere un seguimiento regular para controlar la enfermedad y prevenir complicaciones.
+Remitido por:
+Dra. Rebeca León Cuesta, Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.

@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: María Elena Santamaria Rivero
+DNI: 15014925L
+Fecha de nacimiento: 04/06/2013
+Género: Femenino
+Domicilio: Calle de Piamonte 44
+Ciudad: Ermua, Valencia, Comunidad Valenciana
+Código postal: 46476
+Email: mariaelena1883@ciberehd.org
+Teléfono fijo: +34 960 03 43 65
+Teléfono móvil: +34 660 90 63 71
+NHC: 5389336
+Datos asistenciales.
+Médico: Dra. Elisa Vázquez Abad. NC 101519064. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/04/2024
+Episodio: 50556880
+Hospital: Hospital Universitario Virgen Macarena
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 10 años de edad, acompañado de su abuela. Presenta un cuadro de confusión y desorientación, con alteraciones en la conciencia y la coordinación motora. La exploración física revela signos de intoxicación aguda, con vómitos y diarrea. La temperatura corporal es de 37,5°C, y la frecuencia cardíaca es de 120 latidos por minuto. La paciente se encuentra en un estado de alerta reducida, con dificultades para comunicarse.
+La historia clínica del paciente indica que ha consumido una cantidad significativa de alcohol en las últimas horas, lo que ha llevado a su actual estado de intoxicación. La paciente tiene antecedentes de consumo de alcohol en el pasado, pero nunca había llegado a este punto de intoxicación.
+La evolución del paciente es incierta, ya que depende de la cantidad de alcohol consumido y la rapidez con la que se inicie el tratamiento. Se requiere un seguimiento estrecho para evitar complicaciones y asegurar la recuperación del paciente.
+Antecedentes:
+La paciente tiene antecedentes de consumo de alcohol en el pasado, pero nunca había llegado a este punto de intoxicación. Su abuela informa que la paciente ha estado bebiendo alcohol en las últimas semanas, pero nunca había consumido tanta cantidad en un solo período.
+Evolución y comentarios:
+La paciente se encuentra en un estado de alerta reducida, con dificultades para comunicarse. La exploración física revela signos de intoxicación aguda, con vómitos y diarrea. La temperatura corporal es de 37,5°C, y la frecuencia cardíaca es de 120 latidos por minuto.
+Remitido por:
+El paciente fue remitido por su abuela, quien informa que la paciente ha estado bebiendo alcohol en las últimas semanas y que nunca había consumido tanta cantidad en un solo período. La abuela solicita atención médica inmediata para su nieta.

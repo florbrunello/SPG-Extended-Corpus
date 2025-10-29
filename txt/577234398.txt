@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Tamara Castillo Ramírez
+DNI: 50875687D
+Fecha de nacimiento: 31/10/1976
+Género: M
+Domicilio: Calle de la Princesa 27
+Ciudad: Ibiza, Mallorca, Islas Baleares
+Código postal: 07238
+Email: ramirez@ciberehd.org
+Teléfono fijo: +34 971 24 57 30
+Teléfono móvil: +34 671 10 22 65
+NHC: 7950440
+NASS: 990518549622
+Condición de riesgo: Trabajador Agrícola
+Datos asistenciales.
+Médico: Dr. Juan Antonio Andres Costa. NC 348426192. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/01/1992
+Episodio: 00460225
+Centro de salud: Centro de Salud Tetuán
+Informe clínico del paciente:
+Paciente vegetariano de 15 años de edad, acompañado de su hermana, que refiere dolor abdominal crónico de 2 meses de evolución, con síntomas de náuseas y vómitos en las últimas 48 horas. La exploración física revela: Tª 36,8 C; T.A: 110/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, con dolor en el hipocondrio derecho.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de hepatitis aguda de causa desconocida se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento específico con: Metilprednisolona 20 mg vía oral cada 12 horas (durante 5 días) y Acetaminofén 500 mg vía oral cada 6 horas (durante 3 días). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento.

@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Roberto Sierra Abad
+DNI: 43106323E
+Fecha de nacimiento: 15/03/1961
+Género: M
+Domicilio: Calle de Valverde 96, 7S
+Ciudad: Lorca, Navarra, Navarra
+Código postal: 31143
+Email: roberto_sierra-abad@ual.es
+Teléfono fijo: +34 948 00 48 26
+FAX: +34 948 05 48 86
+NHC: 5741672
+NASS: 43106323E
+Condición de riesgo: Paciente con antecedentes de enfermedad hepática
+Datos asistenciales.
+Médico: Dra. Ana María Serrano Ríos. NC 390883409. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/07/2023
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+Informe clínico del paciente:
+Paciente musulman de 17 años de edad, con antecedentes de enfermedad hepática, que acude al servicio de Gastroenterología con síntomas de ictericia y dolor abdominal. El paciente tiene una historia de consumo de alcohol y drogas, y ha sido diagnosticado con hepatitis B crónica.
+La exploración física revela ictericia, dolor abdominal, y un aumento de la resistencia en la zona hepática. Los análisis de sangre muestran un aumento de las enzimas hepáticas y un decremento de la función hepática.
+Se solicitan pruebas de imagen para evaluar la gravedad de la enfermedad hepática y determinar la necesidad de un trasplante de hígado. El paciente es sometido a una exploración endoscópica para evaluar la presencia de lesiones en el tracto digestivo.
+El tratamiento consiste en la administración de medicamentos para controlar la ictericia y el dolor abdominal, así como la realización de un seguimiento regular para evaluar la evolución de la enfermedad.
+Antecedentes:
+El paciente tiene una historia de consumo de alcohol y drogas, lo que ha llevado a la enfermedad hepática. El paciente también tiene antecedentes de hepatitis B crónica.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento para controlar la ictericia y el dolor abdominal. La exploración endoscópica ha revelado lesiones en el tracto digestivo, lo que ha llevado a la realización de un seguimiento regular para evaluar la evolución de la enfermedad.
+Remitido por:
+El paciente ha sido remitido por el servicio de Urgencias del Hospital Universitario Reina Sofía de Córdoba.

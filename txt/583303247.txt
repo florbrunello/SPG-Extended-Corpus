@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Raúl Camacho Esteban
+DNI: 87700378K
+Fecha de nacimiento: 13/07/1995
+Género: Masculino
+Domicilio: Calle del Barquillo 30
+Ciudad: Linares, Huesca, Aragón
+Código postal: 22720
+Email: raul_camacho@udc.es
+Teléfono fijo: +34 974 44 89 84
+Teléfono móvil: +34 774 10 04 10
+NHC: 4785868
+NASS: 286259437360
+Condición de riesgo: Granjero
+Datos asistenciales.
+Médico: Dr. Jorge Rojas Serrano. NC 799502651. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 26/07/2008
+Episodio: 30208735
+Hospital: Complejo Hospitalario Universitario de Lugo
+Informe clínico del paciente:
+Paciente no fumador de 13 años de edad, acompañado de su padre. Se presenta con síntomas de vértigo y mareos desde hace 3 días, con exacerbación en las últimas 24 horas. La exploración física revela: Tª 36,8 C; T.A: 110/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni signos de inestabilidad. La exploración neurológica muestra signos de hipotensión ortostática, con vértigo y nistagmus. Los análisis de sangre muestran: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 55%); plaquetas 200.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 85%; TTPA 25,2 seg. Bioquímica: Glucosa 95 mg/dl; urea 15 mg/dl; creatinina 0,7 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 18 U/l; GGT 22 U/l; fosfatasa alcalina 120 U/l; calcio 8,9 mg/dl. Orina: sedimento normal.
+Evolución y comentarios:
+El paciente fue trasladado a la unidad de neurología para realizar una evaluación más exhaustiva. Se solicitó una resonancia magnética cerebral, que no mostró signos de lesión cerebral. Se inició tratamiento con medicamentos antieméticos y antihistamínicos, con mejora significativa de los síntomas en las siguientes 24 horas. El paciente fue dado de alta con recomendaciones de reposo y seguimiento en el servicio de neurología.
+Remitido por:
+Dr. Jorge Rojas Serrano, Neurólogo Investigador en Trastornos Cognitivos, Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12).

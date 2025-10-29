@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Xavier Luque Marcos
+DNI: 21298957Z
+Fecha de nacimiento: 24/05/1960
+Género: Varón
+Domicilio: Calle de Jesús y María 54
+Ciudad: Segovia, Pontevedra, Galicia
+Código postal: 36503
+Email: luque504@protonmail.com
+Teléfono fijo: +34 986 90 04 64
+FAX: +34 986 95 03 06
+NHC: 3192482
+NASS: 793089114543
+Condición de riesgo: Paciente con antecedentes de enfermedad crónica
+Datos asistenciales.
+Médico: Dra. Nerea Romero Rojas. NC 395942098. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/05/2005
+Centro de salud: Centro de Salud Ronda
+Antecedentes:
+El paciente tiene antecedentes de enfermedad crónica por hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación orals.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de cuidados intensivos debido a un episodio de insuficiencia cardíaca aguda, con síntomas de disnea y dolor torácico. Se realizó una exploración física, que reveló taquicardia, hipotensión y roncus en la región pulmonar inferior.
+Informe clínico del paciente:
+La exploración física revela: Tª 38,5 C; T.A: 110/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 200.000/mm3. VSG: 40 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 12 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de insuficiencia cardíaca aguda, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de las piernas) así como tratamiento farmacológico con furosemida y digoxina. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde continuará con el tratamiento y seguimiento médico.
+Remitido por:
+Se remite al paciente al Servicio de Cardiología para continuar con el tratamiento y seguimiento médico.

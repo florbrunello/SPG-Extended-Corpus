@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Gema Rueda Martínez
+DNI: 65911169T
+Fecha de nacimiento: 21/03/1940
+Género: F
+Domicilio: Calle de Piamonte 55
+Ciudad: Úbeda, Pontevedra, Galicia
+Código postal: 36022
+Email: ruedamartinez1498@ual.es
+Teléfono fijo: +34 986 58 27 66
+FAX: +34 986 98 20 76
+NHC: 7964179
+NASS: 920779123223
+Condición de riesgo: Anciano
+Datos asistenciales.
+Médico: Dr. Juan Ramón Salazar Rojas. NC 855762103. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/09/2022
+Episodio: 62540941
+Centro de salud: Centro de Salud Aranjuez
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 82 años de edad, acompañado de su yerno, presenta una historia de hipertensión arterial y diabetes mellitus tipo 2 controladas con medicación. En la exploración física, se observa una persona de constitución delgada, con pérdida de peso significativa en los últimos meses. La temperatura corporal es de 36,5°C, con frecuencia cardíaca de 80 latidos por minuto y frecuencia respiratoria de 16 respiraciones por minuto. La presión arterial es de 140/90 mmHg.
+La exploración neurológica revela una persona con buena conciencia y orientación, pero con dificultad para caminar sin apoyo. La exploración visual muestra una visión borrosa en ambas ojeras. La exploración auditiva revela una audición normal en ambos oídos. La exploración sensorial muestra una sensibilidad normal en ambos brazos y piernas.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 70%); plaquetas 200.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl.
+Con el diagnóstico de demencia vascular, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y estimulación cognitiva) así como tratamiento farmacológico (medicación para controlar la hipertensión arterial y la diabetes mellitus tipo 2). El paciente se encuentra en observación en la unidad de cuidados intensivos para monitorear su estado clínico y ajustar el tratamiento según sea necesario.
+Antecedentes:
+El paciente tiene una historia de hipertensión arterial y diabetes mellitus tipo 2 controladas con medicación. Ha tenido episodios de dolor de cabeza y mareos en los últimos meses.
+Evolución y comentarios:
+El paciente ha estado en observación en la unidad de cuidados intensivos durante las últimas 24 horas. Su estado clínico ha mejorado significativamente con el tratamiento sintomático y farmacológico. Se espera que el paciente pueda ser transferido a la unidad de rehabilitación en las próximas horas.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notificado una demencia vascular en el paciente. Se ha solicitado una evaluación neurológica y una exploración detallada del paciente para determinar la causa subyacente de la demencia vascular.

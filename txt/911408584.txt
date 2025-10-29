@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Montserrat Gutiérrez Santana
+DNI: 23409083M
+Fecha de nacimiento: 17/09/1938
+Género: F
+Domicilio: Calle de Lavapiés 79, 5H
+Ciudad: Eibar, Cádiz, Andalucía
+Código postal: 11635
+Email: montserrat.gutierrez_santana@gmail.com
+Teléfono fijo: +34 956 42 51 35
+Teléfono móvil: +34 756 51 39 21
+NHC: 2323672
+NASS: 656753115845
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dr. Juan Miguel Silva Moreno. NC 547913387. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/12/1971
+Episodio: 62649737
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 6068XCZ
+Modelo: Chevrolet Silverado
+VIN: VSUN5AFD4VY915884
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 33 años de edad, acompañado de su vecina, refiere dolores en la región lumbar desde hace una semana, con exacerbación en las últimas 48 horas. Se queja de dificultad para caminar y levantar objetos pesados. Antecedentes de esguince de rodilla en el pasado, pero sin antecedentes de dolor crónico en la región lumbar.
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni fiebre. En la región lumbar se aprecia dolor a la palpación, con limitación de movimiento en la flexión y extensión.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,2 g/dl; leucocitos 9.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 15 mm 1ª hora. Coagulación: TQ 95%; TTPA 28,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,1 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Rx lumbar y Ecografía abdominal) que no evidencian patología significativa. Con el diagnóstico de lumbalgia aguda se instaura tratamiento sintomático (analgésicos y reposo) y tratamiento físico (fisioterapia). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio.

@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Esther Rivas Gil
+DNI: 26065198B
+Fecha de nacimiento: 17/06/1985
+Género: M
+Domicilio: Calle del Marqués de Cubas 59, 8P
+Ciudad: Zamora, Gerona, Cataluña
+Código postal: 17600
+Email: esther.rivas1644@ioba.med.uva.es
+Teléfono fijo: +34 972 47 16 27
+Teléfono móvil: +34 672 13 09 56
+NHC: 1704273
+NASS: 579304414904
+Condición de riesgo: Trabajador de Minería
+Datos asistenciales.
+Médico: Dr. Izan Herrero Ruiz. NC 415740039. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/09/1991
+Episodio: 12429291
+Centro de salud: Centro de Salud Arganzuela
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 6 años de edad, acompañado de su abuela. Presenta una temperatura corporal de 38,5°C y muestra signos de infección respiratoria aguda, con tos seca y dificultad para respirar. La exploración física revela ausencia de adenopatías y pulmones normales, pero con signos de inflamación en las vías respiratorias inferiores.
+La historia clínica indica que el paciente ha estado expuesto a un virus respiratorio en el colegio, y que ha desarrollado síntomas en las últimas 48 horas. El paciente también ha presentado vómitos y diarrea en las últimas 24 horas.
+Los análisis de laboratorio muestran un aumento en la cuenta de leucocitos y un nivel elevado de proteína C-reactiva, lo que sugiere una infección activa. La radiografía de tórax muestra signos de infección en los pulmones.
+Se ha iniciado el tratamiento con antibióticos y se está administrando oxígeno para ayudar al paciente a respirar. El paciente está siendo monitoreado de cerca y se están realizando análisis de laboratorio regulares para evaluar la respuesta al tratamiento.
+Evolución y comentarios:
+El paciente ha mostrado una mejoría significativa en los primeros 24 horas de tratamiento, con una reducción en la temperatura corporal y una mejoría en los síntomas respiratorios. Sin embargo, sigue siendo necesario un seguimiento estrecho para asegurarse de que la infección no se agrave.
+Remitido por:
+El paciente ha sido remitido al servicio de Pediatría para su seguimiento y tratamiento continuo. Se recomienda que se realicen análisis de laboratorio regulares y se monitoree la evolución del paciente para asegurarse de que la infección no se agrave.

@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Juan Francisco Guzman Garrido
+DNI: 21206486A
+Fecha de nacimiento: 15/04/1948
+Género: Varón
+Domicilio: Calle del Barquillo 2, 8Y
+Ciudad: Yecla, Gerona, Cataluña
+Código postal: 17899
+Email: JGNGuofo@uhu.es
+Teléfono fijo: +34 972 79 28 06
+Teléfono móvil: +34 672 77 40 15
+NHC: 6976429
+NASS: 262345678901
+Condición de riesgo: Cirujano
+Datos asistenciales.
+Médico: Dra. María Mar Aranda Heredia. NC 215184973. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/11/1987
+Centro de salud: Hospital Universitario Infanta Leonor
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 39 años de edad, con antecedentes de hipertensión arterial y sobrepeso. Presenta síntomas de dolor en el pecho y disnea al realizar actividades físicas. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En la exploración cardíaca se aprecian soplos en la región pulmonar. La ecografía cardíaca muestra un aumento del tamaño del ventrículo izquierdo y una disminución de la función ventricular.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y sobrepeso desde los 30 años de edad. Ha sido tratado con medicamentos antihipertensivos y ha modificado su estilo de vida para controlar su peso y mejorar su salud cardiovascular.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos para monitorizar su condición y realizar pruebas diagnósticas. Se han solicitado análisis de sangre y ecografías para evaluar la función cardíaca y detectar posibles complicaciones.
+Remitido por:
+Se remite al paciente a la unidad de cardiología para continuar su tratamiento y seguimiento. Se le recomienda realizar cambios en su estilo de vida y seguir un programa de rehabilitación cardiovascular.

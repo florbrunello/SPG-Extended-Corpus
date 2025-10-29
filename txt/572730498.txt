@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Gregorio Galan Conde
+DNI: 85295202R
+Fecha de nacimiento: 17/05/1949
+Género: Hombre
+Domicilio: Calle de los Embajadores 83
+Ciudad: Vigo, Galicia
+Código postal: 36208
+Email: gregoriogalan@ioba.med.uva.es
+Teléfono fijo: +34 987 43 54 89
+Teléfono móvil: +34 687 71 72 96
+NHC: 1493995
+NASS: 468043486571
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dra. Clara Plaza Carrillo. NC 554548869. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/05/1981
+Episodio: 98057893
+Hospital: Hospital Universitario Virgen del Rocío
+Informe clínico del paciente:
+Paciente con antecedentes de abuso de sustancias, con 31 años de edad, que acude al servicio de urgencias con síntomas de intoxicación aguda. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de alteración del estado de conciencia, con respuesta a estímulos dolorosos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 200.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 100 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de toxicología y se instaura tratamiento sintomático y de apoyo para la intoxicación aguda. El paciente se encuentra estable y se le realiza seguimiento en el servicio de urgencias.
+Antecedentes:
+El paciente tiene antecedentes de abuso de sustancias, con historial de consumo de drogas ilegales. Ha sido ingresado en el pasado por síntomas relacionados con el abuso de sustancias.
+Evolución y comentarios:
+El paciente ha mostrado una buena evolución en el servicio de urgencias, con mejora de los síntomas de intoxicación aguda. Se le ha realizado seguimiento y se le ha proporcionado tratamiento sintomático y de apoyo.
+Remitido por:
+El paciente ha sido remitido a la Unidad de Salud Mental para seguir su tratamiento y seguimiento.

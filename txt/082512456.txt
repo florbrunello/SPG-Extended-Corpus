@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Adrián Gracia Jurado
+DNI: 96420152N
+Fecha de nacimiento: 10/06/1956
+Género: Masculino
+Domicilio: Calle de Recoletos 19
+Ciudad: Almería, La Coruña, Galicia
+Código postal: 15095
+Email: adrian-gracia-jurado@ioba.med.uva.es
+Teléfono fijo: +34 981 85 76 26
+Teléfono móvil: +34 781 53 22 85
+NHC: 2040120
+Condición de riesgo: Granjero
+Datos asistenciales.
+Médico: Dr. Pedro José Valero Romero. NC 312744693. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 10/06/2023
+Episodio: 68239357
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 2367KXU
+Modelo: Tesla Model 3
+VIN: VSBLIOARVRJ730170
+Fecha de ingreso: 10/06/2023
+Centro de salud de ingreso: Centro de Salud Puente de Vallecas
+Informe clínico del paciente:
+El paciente, un hombre de 67 años, fue ingresado en la unidad de cuidados intensivos con una temperatura de 38,5°C, presión arterial de 120/80 mmHg, frecuencia cardíaca de 100 bpm y frecuencia respiratoria de 20 rpm. Presentaba una lesión en la mano derecha con hemorragia moderada y dolor en la región lumbar. El paciente tenía una historia de hipertensión arterial y diabetes mellitus tipo 2. La exploración física reveló una lesión en la mano derecha con hemorragia moderada, dolor en la región lumbar y una temperatura corporal elevada. Se solicitaron pruebas de laboratorio, incluyendo una radiografía de tórax y una ecografía abdominal, que no mostraron patología significativa. El paciente fue tratado con antibióticos y analgésicos para controlar la infección y el dolor. El paciente se encuentra en observación en la unidad de cuidados intensivos.
+Antecedentes:
+El paciente tiene una historia de hipertensión arterial y diabetes mellitus tipo 2. Ha tenido varias hospitalizaciones en el pasado por complicaciones relacionadas con estas condiciones.
+Evolución y comentarios:
+El paciente ha mejorado significativamente desde su ingreso, con una temperatura corporal que ha bajado a 37,5°C y una frecuencia cardíaca que ha disminuido a 80 bpm. La lesión en la mano derecha sigue siendo un problema, pero el paciente está recibiendo tratamiento para controlar la infección y el dolor.
+Remitido por:
+El paciente fue remitido por el servicio de emergencias del hospital.

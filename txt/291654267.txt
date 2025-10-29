@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Rosario Román Heredia
+DNI: 81789631K
+Fecha de nacimiento: 30/10/1950
+Género: Femenino
+Domicilio: Calle de las Yeserías 85, 1Y
+Ciudad: Toledo, León, Castilla y León
+Código postal: 24167
+Email: rosario.heredia1697@ciberer.es
+Teléfono fijo: +34 987 43 37 21
+Teléfono móvil: +34 787 70 12 73
+NHC: 5822091
+Condición de riesgo: Operador de Maquinaria Agrícola
+Datos asistenciales.
+Médico: Dr. Felipe Vidal Domínguez. NC 038790360. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/04/2023
+Episodio: 98895957
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Matrícula del coche: 5008UYD
+Modelo: Subaru Outback
+VIN: VSGAF3LQAVC704613
+Informe clínico del paciente:
+Paciente de tez blanca de 72 años de edad, acompañado de su pareja, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que acude al servicio de urgencias con síntomas de dolor abdominal crónico, especialmente en la región lumbar, con irradiación a la región glútea. El paciente refiere una pérdida de peso de 5 kg en las últimas 2 semanas, acompañada de una disminución de la apetencia y una sensación de malestar general.
+La exploración física revela: temperatura corporal de 36,8°C, pulso de 80 rpm, frecuencia respiratoria de 18 rpm, tensión arterial de 140/90 mmHg, y una exploración abdominal que muestra una masa palpable en la región lumbar, con una longitud de 10 cm y una anchura de 5 cm, con una consistencia firme y sin dolor a la palpación.
+Los resultados de los análisis de sangre muestran: hemoglobina de 12,5 g/dl, leucocitos de 8.500/mm3, y una glucemia de 120 mg/dl. La ecografía abdominal realizada muestra una masa en la región lumbar, con características de un tumor.
+Con el diagnóstico de tumor abdominal, se decide realizar una biopsia de la masa para determinar su naturaleza. El paciente es derivado al servicio de cirugía para realizar la biopsia y se le prescribe un tratamiento conservador para la hipertensión arterial y la diabetes mellitus tipo 2.
+Evolución y comentarios:
+El paciente se somete a la biopsia y se obtiene una muestra de tejido para su análisis. Los resultados de la biopsia muestran que la masa es un tumor de células renales, de tipo carcinoma renal. El paciente es informado de su diagnóstico y se le explica el tratamiento que se le ofrece, que incluye una cirugía para remover el tumor y un tratamiento adyuvante con quimioterapia y radioterapia.
+Remitido por:
+El paciente es remitido al servicio de cirugía para realizar la cirugía y se le prescribe un tratamiento conservador para la hipertensión arterial y la diabetes mellitus tipo 2.

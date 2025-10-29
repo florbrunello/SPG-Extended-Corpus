@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Jesús Escudero Ruiz
+DNI: 57282215W
+Fecha de nacimiento: 07/04/1986
+Género: Masculino
+Domicilio: Calle de Amor de Dios 60
+Ciudad: Aranda de Duero, Las Palmas, Canarias
+Código postal: 35749
+Email: escudero137@ucm.es
+Teléfono fijo: +34 928 97 05 72
+Teléfono móvil: +34 628 76 38 32
+NHC: 7848698
+NASS: 902606212871
+Condición de riesgo: Trabajador de Residuos Sólidos
+Datos asistenciales.
+Médico: Dra. Noa Redondo Hernández. NC 638635451. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/09/2011
+Episodio: 16363420
+Centro de salud: Centro de Salud Sevilla Sur
+Informe clínico del paciente:
+Paciente vegano de 25 años de edad, con antecedentes de hipersensibilidad a ciertos alimentos y alergias respiratorias. Fue llevado al Servicio de Urgencias con síntomas de dolor abdominal, vómitos y diarrea. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 15.000/mm3 (neutrófilos 80%); plaquetas 200.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 100 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 130 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, Rx tórax) y pruebas de laboratorio (Cultivo de heces, Analítica de orina) para determinar la causa de los síntomas. El paciente es ingresado en la unidad de cuidados intensivos para monitorización y tratamiento.

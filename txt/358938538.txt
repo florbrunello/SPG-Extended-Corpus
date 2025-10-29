@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Alejandro Rivas Rivas
+DNI: 16930801H
+Fecha de nacimiento: 02/04/2011
+Género: Hombre
+Domicilio: Calle de Preciados 87, 3W
+Ciudad: Palencia, Toledo, Castilla-La Mancha
+Código postal: 45358
+Email: alejandro.rivas_rivas@icloud.com
+Teléfono fijo: +34 925 24 04 42
+Teléfono móvil: +34 725 99 85 34
+NHC: 0088776
+NASS: 577573754475
+Condición de riesgo: Científico de Investigación
+Datos asistenciales.
+Médico: Dra. Anna Domínguez Cruz. NC 843294624. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 15/09/2011
+Episodio: 06418195
+Centro de salud: Centro de Salud Ronda
+Informe clínico del paciente:
+Paciente de tez blanca de 5 meses de edad, acompañado de su hermana. Presenta un peso de 6 kg y una talla de 65 cm. Su temperatura corporal es de 36,8°C y su pulso es de 120 latidos por minuto. No presenta signos de infección ni dolor en ninguna parte del cuerpo.
+La exploración física revela una apariencia general saludable, con una piel suave y sin lesiones. El examen de la cabeza y el cuello no muestra ninguna anormalidad. La auscultación cardíaca es normal, sin soplos ni roces. La auscultación pulmonar también es normal, con un murmullo vesicular claro.
+El paciente tiene una historia de lactancia materna y no ha recibido ningún medicamento antes de su ingreso. No tiene antecedentes familiares de enfermedades graves.
+Se solicitan análisis de sangre para verificar los niveles de glucosa, creatinina y otros parámetros de salud. También se solicitan radiografías de tórax y abdomen para verificar la presencia de cualquier anormalidad en los pulmones y el abdomen.
+Antecedentes:
+El paciente tiene una historia de lactancia materna y no ha recibido ningún medicamento antes de su ingreso. No tiene antecedentes familiares de enfermedades graves.
+Evolución y comentarios:
+El paciente está siendo monitorizado de cerca y se le están administrando análisis de sangre y radiografías para verificar su salud general. Se le está proporcionando atención médica adecuada y se le están informando a los padres sobre su progreso.
+Remitido por:
+Dra. Anna Domínguez Cruz, Endocrinóloga Especialista en Diabetes, Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC).

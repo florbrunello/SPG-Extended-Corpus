@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: María Mercedes Cruz Fernández
+DNI: 38407929E
+Fecha de nacimiento: 02/11/1949
+Género: Mujer
+Domicilio: Calle de Alcalá 68
+Ciudad: Jaén, Badajoz, Extremadura
+Código postal: 06252
+Email: mariamercedes.cruz_fernandez@aol.com
+Teléfono fijo: +34 924 84 10 49
+Teléfono móvil: +34 624 58 03 99
+NHC: 6207968
+NASS: 064698689911
+Condición de riesgo: Investigadora
+Datos asistenciales.
+Médico: Dra. Emilia Menendez Franco. NC 305477908. Investigadora Principal en Parkinson.
+Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED).
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/01/2004
+Centro de salud: Hospital Universitario de la Princesa
+Informe clínico del paciente:
+La paciente, de 54 años de edad, presenta una historia de antecedentes familiares de enfermedades neurodegenerativas, incluyendo una tía materna con Parkinson. Su madre, que la acompaña en la consulta, también tiene antecedentes de enfermedad de Alzheimer. La paciente se queja de un declive progresivo en su función motora, con dificultades para caminar y mantener el equilibrio. También ha notado una disminución en su capacidad para realizar tareas cotidianas, como vestirse y desayunar.
+La exploración física revela una postura encorvada y una marcha inestable. La paciente tiene dificultades para levantar los brazos y mantener el equilibrio en una posición de pie. La función motora de las manos es normal. La paciente tiene una disminución en su capacidad para realizar tareas cognitivas, como recordar nombres y fechas.
+Los datos analíticos muestran una disminución en la velocidad de procesamiento y una disminución en la capacidad para realizar tareas de atención. La paciente tiene una disminución en su capacidad para recordar eventos recientes.
+Se solicitan pruebas de imagen para evaluar la función cerebral y la presencia de lesiones en el cerebro. Se realizan pruebas de sangre para evaluar la función hepática y la presencia de enfermedades infecciosas.
+El diagnóstico diferencial incluye enfermedad de Parkinson, enfermedad de Alzheimer y otras enfermedades neurodegenerativas. La paciente se somete a un tratamiento con medicamentos para mejorar la función motora y la función cognitiva.
+Antecedentes:
+La paciente tiene antecedentes de enfermedades familiares de enfermedades neurodegenerativas, incluyendo una tía materna con Parkinson y una madre con enfermedad de Alzheimer.
+Evolución y comentarios:
+La paciente se somete a un tratamiento con medicamentos para mejorar la función motora y la función cognitiva. La paciente tiene una respuesta favorable al tratamiento y se observa una mejoría en su función motora y su función cognitiva.
+Remitido por:
+La Dra. Emilia Menendez Franco, Investigadora Principal en Parkinson, remite a la paciente a la unidad de neurología para continuar con el tratamiento y la evaluación de su condición.

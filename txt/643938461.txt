@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Natalia Cano Suárez
+DNI: 61332652R
+Fecha de nacimiento: 14/11/1989
+Género: Femenino
+Domicilio: Calle Gran Vía 79
+Ciudad: Ciudad autónoma de Ceuta, Ceuta
+Código postal: 52575
+Email: natalia_cano@ciberned.es
+Teléfono fijo: +34 956 85 41 26
+Teléfono móvil: +34 656 08 54 80
+NHC: 1630125
+NASS: 670505373324
+Condición de riesgo: Fabricante
+Datos asistenciales.
+Médico: Dra. Cristina Gracia Fernández. NC 627314050. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 31/01/2018
+Episodio: 08882203
+Centro de salud: Centro de Salud Sevilla Este
+Matrícula del coche: 5317CKK
+Modelo: Jeep Wrangler
+VIN: VSGKG2Q7F9H803708
+Informe clínico del paciente:
+Paciente musulmana de 28 años de edad, acompañada de su hermana, que refiere dolor abdominal agudo y vómitos desde la noche anterior. La paciente tiene antecedentes de gastritis y uso de medicamentos antiácidos. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia dolor en la región epigástrica, sin signos de obstrucción intestinal. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,5 mEq/l; GOT 30 U/l; GPT 40 U/l; GGT 60 U/l. Se solicitan pruebas de imagen (Ecografía abdominal) y análisis de sangre (Hemograma, bioquímica) para evaluar la causa del dolor abdominal y los resultados de los análisis. Se inicia tratamiento sintomático (antitérmicos, antiinflamatorios) y se monitoriza la evolución de la paciente.
+Antecedentes:
+La paciente tiene antecedentes de gastritis y uso de medicamentos antiácidos. También tiene antecedentes de dolor abdominal agudo en el pasado.
+Evolución y comentarios:
+La paciente se encuentra estable y se monitoriza su evolución. Se solicitarán pruebas de imagen y análisis de sangre para evaluar la causa del dolor abdominal.
+Remitido por:
+Se remite al paciente a la Unidad de Cuidados Intensivos para seguimiento y tratamiento.

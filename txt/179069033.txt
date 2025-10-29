@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Concepción Gallego Merino
+DNI: 61504390K
+Fecha de nacimiento: 27/01/1997
+Género: Femenino
+Domicilio: Calle de la Luna 17
+Ciudad: Ponferrada, Zaragoza, Aragón
+Código postal: 50825
+Email: concepcion_gallego-merino@icloud.com
+Teléfono fijo: +34 976 84 77 41
+Teléfono móvil: +34 676 96 17 39
+NHC: 3288121
+NASS: 547887290156
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+Datos asistenciales.
+Médico: Dr. Gabriel Ortega Marín. NC 258477363. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/11/2004
+Episodio: 97225966
+Centro de salud: Centro de Salud Móstoles
+Informe clínico del paciente:
+Paciente no fumador de 7 años de edad, acompañado de su hermano. Presenta una temperatura corporal de 37,5°C, sin síntomas respiratorios ni cardíacos. La exploración física revela una tensión arterial de 90/60 mmHg, frecuencia cardíaca de 120 latidos por minuto y una respiración de 20 ciclos por minuto. El paciente parece estar en buen estado general, sin signos de infección ni dolor.
+Antecedentes:
+El paciente no tiene antecedentes médicos relevantes. Sin embargo, su hermano ha sido diagnosticado con una enfermedad cardíaca congénita.
+Evolución y comentarios:
+El paciente ha estado bajo observación durante las últimas 24 horas y no ha presentado ningún síntoma adicional. Se le han realizado pruebas de laboratorio, incluyendo una electrocardiograma y una ecografía cardíaca, que no han revelado ninguna anormalidad. Se le ha prescrito un tratamiento con antibióticos como medida preventiva.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera para una evaluación más exhaustiva.

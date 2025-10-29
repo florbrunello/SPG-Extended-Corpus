@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Lucía Molina Herrera
+DNI: 23775124R
+Fecha de nacimiento: 04/08/1966
+Género: Mujer
+Domicilio: Calle de Claudio Coello 8
+Ciudad: Plasencia, Santa Cruz de Tenerife, Canarias
+Código postal: 38850
+Email: herrera1716@udc.es
+Teléfono fijo: +34 922 47 02 66
+FAX: +34 922 91 91 55
+NHC: 2087593
+NASS: 467892348571
+Condición de riesgo: Paciente en investigación clínica
+Datos asistenciales.
+Médico: Dra. Marta Vargas Velasco. NC 045828636. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Cargo: Jefa de Sección de Neurología
+Dirección: Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)
+Fecha de ingreso: 02/01/1985
+Episodio: 71049761
+Hospital: Hospital de la Santa Creu i Sant Pau
+Informe clínico del paciente:
+La paciente, de 18 años de edad, fue ingresada en el hospital con una condición médica grave. Presenta una historia clínica compleja, con antecedentes de enfermedades neurológicas y una evolución clínica inestable. La exploración física revela signos de deterioro neurológico, con alteraciones en la marcha y la coordinación. Los resultados de las pruebas diagnósticas muestran alteraciones en la función cerebral, con signos de atrofia y lesiones en la materia blanca. El tratamiento iniciado incluye terapia física y rehabilitación, con medicación para controlar los síntomas y prevenir complicaciones.
+La paciente tiene una condición médica crítica y requiere un seguimiento estrecho para evitar complicaciones y mejorar su calidad de vida. La evolución clínica será monitoreada de cerca, con ajustes en el tratamiento según sea necesario. Se realizarán pruebas adicionales para evaluar la progresión de la enfermedad y determinar la mejor estrategia de tratamiento.
+Antecedentes:
+La paciente tiene una historia clínica compleja, con antecedentes de enfermedades neurológicas y una evolución clínica inestable. Ha sido sometida a varias pruebas diagnósticas y tratamientos, sin lograr una respuesta satisfactoria. La condición médica actual es crítica y requiere un seguimiento estrecho.
+Evolución y comentarios:
+La paciente ha mostrado una respuesta favorable al tratamiento iniciado, con mejoría en los síntomas y signos de deterioro neurológico. Sin embargo, la condición médica sigue siendo crítica y requiere un seguimiento estrecho para evitar complicaciones y mejorar su calidad de vida.
+Remitido por:
+El informe clínico del paciente ha sido remitido al equipo de atención médica para su revisión y ajuste del tratamiento según sea necesario. Se realizarán pruebas adicionales para evaluar la progresión de la enfermedad y determinar la mejor estrategia de tratamiento.

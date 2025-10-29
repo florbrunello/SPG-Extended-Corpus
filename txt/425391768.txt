@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Montserrat Domínguez León
+DNI: 64046675R
+Fecha de nacimiento: 06/02/1928
+Género: Femenino
+Domicilio: Calle de los Embajadores 44
+Ciudad: Langreo, Huelva, Andalucía
+Código postal: 21210
+Email: montserrat_dominguezleon@icloud.com
+Teléfono fijo: +34 959 64 73 64
+Teléfono móvil: +34 659 67 85 92
+NHC: 0634701
+Condición de riesgo: Técnico de Radiología
+Datos asistenciales.
+Médico: Dr. Bruno Bernal Miguel. NC 543188284. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 02/12/2023
+Episodio: 08559404
+Centro de salud: Centro de Salud Málaga Sur
+Informe clínico del paciente:
+Paciente de 8 años de edad, acompañado de su hermana, que fue llevado al hospital por su madre, quien informó que el niño había estado consumiendo pequeñas cantidades de alcohol en los últimos días. La madre también informó que el niño había estado presentando síntomas de enojo y agresividad, así como problemas para dormir.
+La exploración física reveló que el niño estaba desnutrido y tenía signos de irritabilidad. El niño también presentaba signos de infección en la garganta y en los oídos.
+Los análisis de sangre mostraron un nivel de alcohol en sangre elevado, así como signos de intoxicación por alcohol en el niño. El niño también presentaba signos de deshidratación y debilidad muscular.
+Se solicitó un escaneo cerebral para evaluar posibles daños en el cerebro causados por el consumo de alcohol. El escaneo mostró signos de edema cerebral y daño en la corteza cerebral.
+Se instauró un tratamiento para la desintoxicación del alcohol y se le administró un medicamento para reducir la irritabilidad y el enojo del niño. Se le también se le administró un antibiótico para tratar la infección en la garganta y en los oídos.
+El niño fue ingresado en la unidad de cuidados intensivos para recibir tratamiento continuo y supervisión. Se le también se le realizó un seguimiento para evaluar el progreso del tratamiento y la condición del niño.
+Antecedentes:
+El niño había estado presentando problemas de comportamiento y enojo en los últimos meses. La madre había notado que el niño había estado bebiendo pequeñas cantidades de alcohol en los últimos días.
+Evolución y comentarios:
+El niño ha estado recibiendo tratamiento para la desintoxicación del alcohol y ha mostrado signos de mejora en su condición. Sin embargo, todavía se le necesita supervisión continua para asegurarse de que no esté consumiendo alcohol.
+Remitido por:
+El niño fue remitido por su madre, quien informó que el niño había estado presentando problemas de comportamiento y enojo en los últimos meses. La madre también informó que el niño había estado bebiendo pequeñas cantidades de alcohol en los últimos días.

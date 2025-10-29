@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Juan Arias Sierra
+DNI: 91993201D
+Fecha de nacimiento: 30/07/1956
+Género: Varón
+Domicilio: Calle de Santa Engracia 80, 5Y
+Ciudad: Lleida, Huesca, Aragón
+Código postal: 22088
+Email: juan@aol.com
+Teléfono fijo: +34 974 45 45 50
+Teléfono móvil: +34 774 12 17 33
+NHC: 3366699
+NASS: 988164436801
+Condición de riesgo: Electricista
+Datos asistenciales.
+Médico: Dr. Juan Luis Villar Rico. NC 158401239. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/09/2022
+Hospital: Hospital Universitario Río Hortega
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 66 años de edad, que acude al servicio de urgencias con quejas de cefaleas intensas y frecuentes durante las últimas semanas, acompañadas de náuseas y vómitos. La exploración física revela signos de hipertensión arterial y taquicardia. Se solicitan análisis de sangre y estudios de imagen para determinar la causa subyacente de sus síntomas.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2. También ha tenido episodios de migraña en el pasado.
+Evolución y comentarios:
+El paciente se encuentra en estado estable, aunque con signos de dolor en la cabeza y en la región cervical. Se le ha iniciado tratamiento con analgésicos y antieméticos, y se le han solicitado estudios de imagen para determinar la causa subyacente de sus síntomas.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien se encontraba en la ciudad de Lleida y no tenía acceso a los recursos necesarios para tratar a su paciente.

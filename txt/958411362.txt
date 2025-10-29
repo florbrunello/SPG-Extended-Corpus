@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Mohammed Marín Rojas
+DNI: 37086932F
+Fecha de nacimiento: 20/09/2004
+Género: Hombre
+Domicilio: Calle de Lope de Vega 62, 5W
+Ciudad: Córdoba, Madrid, Madrid
+Código postal: 28594
+Email: marin@gmail.com
+Teléfono fijo: +34 912 75 16 40
+FAX: +34 915 50 54 14
+NHC: 3975707
+NASS: 37086932F
+Condición de riesgo: Estudiante universitario
+Datos asistenciales.
+Médico: Dra. María Paz Jurado Beltran. NC 573629885. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 92918996
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Informe clínico del paciente:
+Paciente no fumador de 20 años de edad, sin antecedentes médicos relevantes, que acude al servicio de emergencias con síntomas de dolor abdominal crónico y pérdida de apetito durante las últimas semanas. El paciente informa que ha estado experimentando dificultades para digerir alimentos y ha perdido aproximadamente 5 kg en las últimas 2 semanas.
+La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia dolor en el epigastrio, sin masas ni megalias.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. Bioquímica: Glucosa 110 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l.
+Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) para evaluar la causa del dolor abdominal. El diagnóstico se realizará una vez se obtengan los resultados de las pruebas.
+Antecedentes:
+El paciente informa que ha estado tomando medicamentos para la ansiedad y la depresión durante los últimos 6 meses, pero no ha notado ningún efecto secundario. El paciente también informa que ha estado bebiendo alcohol en exceso durante las últimas semanas.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos. Se le han administrado analgésicos para controlar el dolor y se le está evaluando la necesidad de hospitalización.
+Remitido por:
+El paciente fue remitido por el servicio de emergencias del hospital.

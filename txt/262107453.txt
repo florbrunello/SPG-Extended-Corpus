@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Ramón Zamora Hidalgo
+DNI: 92178984K
+Fecha de nacimiento: 30/05/1980
+Género: M
+Domicilio: Calle de Moratín 71
+Ciudad: Burgos, Burgos, Castilla y León
+Código postal: 09835
+Email: ramon.zamora_hidalgo@ub.edu
+Teléfono fijo: +34 947 48 36 94
+Teléfono móvil: +34 747 93 21 04
+NHC: 8907567
+Condición de riesgo: Ingeniero de Minas
+Datos asistenciales.
+Médico: Dra. Raquel Martínez Prieto. NC 369379964. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 15/04/1993
+Episodio: 99656307
+Centro de salud: Centro de Salud Arganzuela
+Antecedentes:
+- Paciente con antecedentes de alergia a ciertos alimentos.
+- Historia familiar de enfermedades autoinmunes.
+Evolución y comentarios:
+- El paciente presentó síntomas de dolor en la región lumbar y fiebre en la última semana.
+- Se realizaron pruebas de laboratorio y se encontró una inflamación en la región lumbar.
+Informe clínico del paciente:
+El paciente fue ingresado en la unidad de cuidados intensivos con un diagnóstico de neumonía grave. Presentaba dificultad para respirar y se necesitaba oxígeno para mantener la oxigenación adecuada. La temperatura corporal era de 38,5°C y la frecuencia cardíaca era de 120 latidos por minuto. El paciente estaba consciente y orientado, pero con un estado de ánimo alterado.
+La exploración física reveló signos de infección en la región pulmonar derecha, con ausencia de signos de shock. La presión arterial era de 120/80 mmHg y la frecuencia respiratoria era de 24 respiraciones por minuto. Se encontraron signos de inflamación en la región lumbar, con dolor al tocar la zona.
+Los datos analíticos mostraron un aumento en la glucemia y una disminución en la función renal. Se realizaron pruebas de laboratorio para determinar la causa de la infección y se encontró una bacteria resistente a los antibióticos.
+Se inició el tratamiento con antibióticos de amplio espectro y se realizó una exploración por resonancia magnética para determinar la causa de la inflamación en la región lumbar. El paciente fue trasladado a la unidad de cuidados intensivos para recibir el tratamiento adecuado.
+En la exploración por resonancia magnética se encontró una lesión en la región lumbar, que se creía que era la causa de la inflamación. Se realizó una biopsia para determinar la causa de la lesión y se encontró un tumor benigno.
+El paciente fue sometido a una cirugía para remover el tumor y se inició el tratamiento con quimioterapia para prevenir la recurrencia del tumor. El paciente se encuentra en proceso de recuperación y se espera que se recupere completamente.
+Remitido por:
+Dra. Raquel Martínez Prieto, Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.

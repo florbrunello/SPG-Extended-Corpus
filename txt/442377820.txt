@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Ángel Casas Montoya
+DNI: 16965594N
+Fecha de nacimiento: 27/10/1984
+Género: Hombre
+Domicilio: Calle del Fúcar 85, 6D
+Ciudad: Liria, Granada, Andalucía
+Código postal: 18463
+Email: angelcasas_montoya@isciii.es
+Teléfono fijo: +34 958 55 08 22
+Teléfono móvil: +34 658 89 68 61
+NHC: 9360936
+Datos asistenciales.
+Médico: Dr. Enrique Márquez Durán. NC 203039696. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/04/2010
+Centro de salud de ingreso: Complejo Hospitalario Torrecárdenas
+Informe clínico del paciente:
+Paciente vegetariano de 25 años de edad, que acude a la consulta con síntomas de dolor abdominal crónico, con episodios de diarrea y estreñimiento. El paciente reporta una dieta vegetariana estricta durante los últimos 5 años, con una ingesta diaria de aproximadamente 1500 kcal. El paciente también reporta una historia de antecedentes familiares de enfermedades gastrointestinales.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. El paciente se encuentra consciente, orientado, sin sudoración ni fiebre. La exploración abdominal revela una masa en el quicio derecho, con dolor en la palpación.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 60%); plaquetas 200.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 15 U/l; GGT 25 U/l; fosfatasa alcalina 100 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, Rx abdominal) que revelan una masa en el quicio derecho, con características de un quiste hidatídico.
+Con el diagnóstico de quiste hidatídico se instaura tratamiento quirúrgico (excisión del quiste) y tratamiento antibiótico específico (Metronidazol 500 mg vía oral cada 8 horas durante 10 días). El paciente se somete a la cirugía con éxito y se le dispensa medicación para la profilaxis de recaídas.
+Antecedentes:
+El paciente tiene una historia de antecedentes familiares de enfermedades gastrointestinales, específicamente su padre padeció de enfermedad de Crohn.
+Evolución y comentarios:
+El paciente se somete a la cirugía con éxito y se le dispensa medicación para la profilaxis de recaídas. El paciente se mantiene en observación en el hospital durante 5 días, con un seguimiento regular de la evolución clínica.
+Remitido por:
+El paciente es remitido a su domicilio, con instrucciones para seguir el tratamiento antibiótico y la profilaxis de recaídas. Se le asigna un seguimiento regular en el hospital para controlar la evolución clínica.

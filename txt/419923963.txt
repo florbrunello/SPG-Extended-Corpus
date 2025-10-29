@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Andrés Izquierdo Zamora
+DNI: 67126682D
+Fecha de nacimiento: 24/08/1945
+Género: V
+Domicilio: Calle de Argumosa 84
+Ciudad: Las Palmas de Gran Canaria, Toledo, Castilla-La Mancha
+Código postal: 45483
+Email: izquierdozamora@icloud.com
+Teléfono fijo: +34 925 35 77 52
+Teléfono móvil: +34 625 34 06 09
+NHC: 1024049
+NASS: 430234555469
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dr. Juan Pedro Caballero Gil. NC 059032635. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/09/2002
+Hospital: Hospital Universitario Severo Ochoa
+Matrícula del coche: 3770LAN
+Modelo: Chrysler Pacifica
+VIN: VSG4QEE5V7G997312

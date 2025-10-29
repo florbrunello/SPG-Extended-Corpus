@@ -1,0 +1,42 @@
+Datos del paciente.
+Nombre: Isaac Campos Romero
+DNI: 72860546L
+Fecha de nacimiento: 27/05/2001
+Género: Hombre
+Domicilio: Calle de Lope de Vega 69, 1X
+Ciudad: Teruel, Barcelona, Cataluña
+Código postal: 08911
+Email: campos-romero@ucm.es
+Teléfono fijo: +34 937 26 05 42
+Teléfono móvil: +34 634 78 56 09
+NHC: 2421980
+NASS: 888414873413
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+Datos asistenciales.
+Médico: Dr. Sebastián Casado Álvarez. NC 903951980. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/10/2002
+Episodio: 65497825
+Hospital: Hospital Universitario de Cabueñes
+Informe clínico del paciente:
+Paciente no fumador de un año de edad, acompañado de su madre.
+Antecedentes:
+El paciente presenta una historia de salud normal hasta la fecha de ingreso, sin antecedentes de enfermedades crónicas ni alergias notables.
+Evolución y comentarios:
+El paciente se encuentra estable y sin síntomas a la fecha de ingreso. Se realizarán análisis y pruebas complementarias para determinar la causa subyacente de su condición actual.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien sospecha una infección respiratoria.
+Exploración física:
+La exploración física revela:
+Temperatura corporal: 37,5°C
+Frecuencia cardíaca: 120 bpm
+Frecuencia respiratoria: 24 rpm
+Presión arterial: 90/60 mmHg
+Estado general: el paciente se encuentra alerta y orientado, sin signos de dolor ni malestar.
+Análisis y pruebas complementarias
+Se realizarán análisis de sangre y orina, así como pruebas de imagen (radiografías y ecografías) para determinar la causa subyacente de la condición del paciente.
+Diagnóstico:
+El diagnóstico se realizará una vez que se hayan obtenido los resultados de los análisis y pruebas complementarias.
+Tratamiento:
+El tratamiento se determinará según el diagnóstico establecido y la condición del paciente.
+Pronóstico:
+El pronóstico se determinará según la gravedad de la condición del paciente y la respuesta al tratamiento.

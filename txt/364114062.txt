@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Héctor Heredia Bravo
+DNI: 29162507W
+Fecha de nacimiento: 20/06/1976
+Género: Varón
+Domicilio: Calle de Fortuny 11
+Ciudad: Zafra, Málaga, Andalucía
+Código postal: 29627
+Email: heredia_bravo1022@protonmail.com
+Teléfono fijo: +34 951 07 23 71
+Teléfono móvil: +34 651 31 04 93
+NHC: 2309171
+Condición de riesgo: Operador de Máquina
+Datos asistenciales.
+Médico: Dr. Ignacio Ibáñez Miranda. NC 129817593. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/11/2009
+Episodio: 33626802
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 33 años de edad, acompañado de su compañero de estudio. El paciente ha presentado problemas de ansiedad y estrés durante los últimos 6 meses, incluyendo síntomas de ansiedad generalizada, sudores, temblores y dificultad para dormir. El paciente ha recibido tratamiento con medicamentos antipsicóticos y ansiolíticos, así como terapia cognitivo-conductual (TCC). El paciente ha presentado una buena respuesta al tratamiento y ha estado recibiendo seguimiento regular con el equipo de psiquiatría.

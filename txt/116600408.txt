@@ -1,0 +1,44 @@
+Datos del paciente.
+Nombre: Bruno Andres Mendoza
+DNI: 14118351P
+Fecha de nacimiento: 22/09/1971
+Género: Hombre
+Domicilio: Calle de Santa Engracia 70, 8S
+Ciudad: Huelva, Islas Baleares
+Código postal: 07495
+Email: andres1418@ciberisciii.es
+Teléfono fijo: +34 971 45 09 37
+Teléfono móvil: +34 671 76 00 17
+NHC: 9408299
+NASS: 134165419459
+Condición de riesgo: Operador de Equipos Mineros
+Datos asistenciales.
+Médico: Dr. Tomás Ferrer Calvo. NC 861175717. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/03/2021
+Centro de salud: Centro de Salud Centro
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 49 años de edad, acompañado de su madre, que refiere un cuadro de dolor abdominal crónico de varios meses de evolución, con episodios de diarrea y vómitos en las últimas semanas. El paciente tiene antecedentes de enfermedad de Crohn en tratamiento con medicamentos inmunosupresores desde hace 10 años.
+Evolución clínica:
+El paciente ha sido ingresado en la unidad de gastroenterología debido a un empeoramiento de su condición, con aumento de la frecuencia y gravedad de los episodios de diarrea y vómitos. La exploración física revela: temperatura 38,5°C, frecuencia cardíaca 120/min, frecuencia respiratoria 24/min. El abdomen está dolorido en el cuadrante superior derecho, con signos de peritonealización.
+Exploración física:
+La exploración física revela:
+- Tª 38,5°C
+- Fc 120/min
+- Fr 24/min
+- Abdomen dolorido en el cuadrante superior derecho
+- Signos de peritonealización
+Pruebas diagnósticas:
+Se han realizado las siguientes pruebas diagnósticas:
+- Hemograma: leucocitos 15.000/mm3 (neutrófilos 80%)
+- VSG: 40 mm 1ª hora
+- Coagulación: TQ 90%
+- Bioquímica: glucosa 120 mg/dl, urea 30 mg/dl, creatinina 1,2 mg/dl
+- Orina: sedimento normal
+Tratamiento:
+Se ha iniciado tratamiento con medicamentos inmunosupresores y antibióticos, y se ha solicitado una ecografía abdominal para evaluar la presencia de abscesos o otros procesos inflamatorios.
+Pronóstico:
+El pronóstico es reservado debido a la gravedad de la condición y la posible presencia de abscesos o otros procesos inflamatorios. Se requiere una vigilancia estrecha y un tratamiento adecuado para evitar complicaciones.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos debido a la gravedad de su condición. Se ha iniciado tratamiento con medicamentos inmunosupresores y antibióticos, y se ha solicitado una ecografía abdominal para evaluar la presencia de abscesos o otros procesos inflamatorios.
+Remitido por:
+El paciente ha sido remitido a la unidad de gastroenterología debido a un empeoramiento de su condición. Se requiere una vigilancia estrecha y un tratamiento adecuado para evitar complicaciones.

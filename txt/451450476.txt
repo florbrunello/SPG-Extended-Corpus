@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Valentín Román Ramos
+DNI: 58386768A
+Fecha de nacimiento: 11/08/2013
+Género: H
+Domicilio: Calle de Bailén 63
+Ciudad: Ronda, Gerona, Cataluña
+Código postal: 17786
+Email: roman.ramos620@ub.edu
+Teléfono fijo: +34 972 63 58 21
+FAX: +34 972 77 83 67
+NHC: 0797013
+NASS: 527968036347
+Condición de riesgo: Inspector de Seguridad Minera
+Datos asistenciales.
+Médico: Dra. María Luz Calvo Padilla. NC 437068020. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 20/09/2017
+Episodio: 54098690
+Centro de salud: Centro de Salud Delicias
+Informe clínico del paciente:
+Paciente de tez blanca de 4 años de edad, acompañado de su padre, con antecedentes de hipotiroidismo congénito diagnosticado en la infancia y tratado con levo-tiroxina desde entonces. Presenta un cuadro de hipotiroidismo subóptimo con niveles de TSH ligeramente elevados y T4 en el límite inferior de la normalidad. La exploración física revela un niño de talla y peso dentro de la normalidad para su edad, con una apariencia general de buen estado de salud. La exploración neurológica no muestra signos de hipotiroidismo, como lentitud en la reacción o alteraciones en la coordinación motora. Sin embargo, se observa una ligera hipotensión arterial y una frecuencia cardíaca ligeramente disminuida.
+Exploración física: y pruebas diagnósticas:
+La exploración física completa, incluyendo la exploración de la piel, los órganos abdominales y la exploración neurológica, no muestra signos de hipotiroidismo grave. Sin embargo, se observa una ligera hipotensión arterial y una frecuencia cardíaca ligeramente disminuida. Los resultados de las pruebas diagnósticas, incluyendo la dosis de TSH y T4, muestran niveles ligeramente elevados de TSH y T4 en el límite inferior de la normalidad.
+Tratamiento: y pronóstico:
+Se decide aumentar la dosis de levo-tiroxina para mejorar los niveles de T4 y TSH. Se solicita una revisión de la dosis de medicación en 6 semanas para evaluar la respuesta al tratamiento. El pronóstico es bueno, con la expectativa de que el paciente mejore con el tratamiento adecuado.
+Antecedentes:
+El paciente tiene antecedentes de hipotiroidismo congénito diagnosticado en la infancia y tratado con levo-tiroxina desde entonces.
+Evolución y comentarios:
+El paciente ha sido seguido en el servicio de Endocrinología desde su diagnóstico y ha estado recibiendo tratamiento con levo-tiroxina. La exploración física y las pruebas diagnósticas han mostrado niveles ligeramente elevados de TSH y T4 en el límite inferior de la normalidad. Se ha decidido aumentar la dosis de levo-tiroxina para mejorar los niveles de T4 y TSH.
+Remitido por:
+Dra. María Luz Calvo Padilla.

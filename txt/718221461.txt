@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Gloria García León
+DNI: 49255460V
+Fecha de nacimiento: 22/07/1969
+Género: Mujer
+Domicilio: Calle de Bailén 25
+Ciudad: Segovia, La Coruña, Galicia
+Código postal: 15700
+Email: gloria1967@isciii.es
+Teléfono fijo: +34 981 59 36 89
+Teléfono móvil: +34 681 28 28 42
+NHC: 2908176
+NASS: 448636078138
+Condición de riesgo: Operador de Maquinaria Pesada
+Datos asistenciales.
+Médico: Dr. Juan Carlos Casas Sierra. NC 885418136. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/01/2002
+Episodio: 15972942
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Fecha de ingreso: 10/03/2023
+Centro de salud de ingreso: Hospital Universitario de Gran Canaria Dr. Negrín
+Informe clínico del paciente:
+Paciente vegano de 32 años de edad, con antecedentes de hipotiroidismo subclínico, que acude al servicio de urgencias con síntomas de fatiga, pérdida de peso y aumento de la frecuencia cardíaca. Presenta un nivel de TSH elevado en la exploración inicial, lo que sugiere un posible hipotiroidismo subclínico. La exploración física revela un estado de ánimo alterado, con ansiedad y nerviosismo, y un aumento de la frecuencia cardíaca. La paciente también presenta un nivel de glucosa en sangre elevado, lo que sugiere una posible resistencia a la insulina.
+La paciente tiene un historial de consumo de suplementos de hierro y vitamina B12, lo que podría estar relacionado con su hipotiroidismo subclínico. La exploración de laboratorio muestra un nivel de TSH elevado, un nivel de T4 disminuido y un nivel de T3 disminuido. La paciente también presenta un nivel de glucosa en sangre elevado y un nivel de insulina disminuido.
+Se decide realizar una exploración de imagen con resonancia magnética de la glándula tiroides para evaluar la presencia de cualquier patología. La exploración de imagen muestra una glándula tiroides hipoplásica con una función reducida. Se decide iniciar el tratamiento con levo-tiroido para tratar el hipotiroidismo subclínico y se le prescribe a la paciente un régimen de seguimiento para monitorear su función tiroidea y su estado de salud general.
+La paciente se encuentra en una condición estable y se le indica que siga un régimen de seguimiento para monitorear su función tiroidea y su estado de salud general. Se le aconseja que siga un régimen de vida saludable, incluyendo una dieta equilibrada y un estilo de vida activo, para ayudar a controlar su hipotiroidismo subclínico.
+Antecedentes:
+- Hipotiroidismo subclínico
+- Consumo de suplementos de hierro y vitamina B12
+- Resistencia a la insulina
+Evolución y comentarios:
+La paciente se encuentra en una condición estable y se le indica que siga un régimen de seguimiento para monitorear su función tiroidea y su estado de salud general.
+Remitido por:
+Dr. Juan Carlos Casas Sierra, Endocrinólogo Especialista en Diabetes, Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC).

@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Ainhoa Mora Conde
+DNI: 76595321P
+Fecha de nacimiento: 01/07/1987
+Género: Femenino
+Domicilio: Calle del Doctor Esquerdo 93, 5Z
+Ciudad: Onda, Alicante, Comunidad Valenciana
+Código postal: 03775
+Email: ainhoa@protonmail.com
+Teléfono fijo: +34 965 21 35 48
+Teléfono móvil: +34 665 53 20 43
+NHC: 4482468
+NASS: 912085073820
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dr. Ángel Romero Calvo. NC 502996941. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/03/1994
+Episodio: 14489728
+Hospital: Hospital Clínic San Carlos
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 6 años de edad, acompañado de su madre, con antecedentes de alergia a los frutos secos y una historia de episodios recurrentes de asma bronquial. La madre informa que el paciente ha estado experimentando síntomas de dolor abdominal y vómitos durante las últimas 48 horas.
+La exploración física revela: temperatura 37,5°C; presión arterial 90/60 mmHg; frecuencia cardíaca 120 lpm. El paciente se encuentra consciente, orientado y con buen estado de nutrición e hidratación. En la exploración abdominal, se aprecia un aumento de la sensibilidad en la región epigástrica, con ausencia de masas o megalias.
+Los datos analíticos muestran los siguientes resultados: hemograma normal; bioquímica: glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl. Se solicitan análisis adicionales, incluyendo una exploración de la función hepática y renal.
+Con el diagnóstico de gastroenteritis viral, se instaura tratamiento sintomático, incluyendo reposo, hidratación y medicación antiemética. El paciente se encuentra en observación en la unidad de cuidados pediátricos.
+Antecedentes:
+El paciente tiene antecedentes de alergia a los frutos secos y asma bronquial. La madre informa que el paciente ha estado experimentando síntomas de dolor abdominal y vómitos durante las últimas 48 horas.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados pediátricos. Se seguirá monitoreando su evolución y se realizarán análisis adicionales para confirmar el diagnóstico y determinar la mejor estrategia de tratamiento.
+Remitido por:
+Dr. Ángel Romero Calvo, Residente de 4° año en Medicina Interna, Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC).

@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Vanessa Iglesias Romero
+DNI: 11189076J
+Fecha de nacimiento: 15/12/1939
+Género: F
+Domicilio: Calle Serrano 71
+Ciudad: Alcalá de Henares, Menorca, Islas Baleares
+Código postal: 07923
+Email: vanessaiglesiasromero@yahoo.com
+Teléfono fijo: +34 971 54 79 77
+FAX: +34 971 01 91 54
+NHC: 9254530
+NASS: 905321360137
+Condición de riesgo: Trabajador de Minería
+Datos asistenciales.
+Médico: Dr. Guillermo Costa Rey. NC 542058470. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/11/1968
+Centro de salud: Centro de Salud Delicias
+Informe clínico del paciente:
+Paciente de descendencia africana de 28 años de edad, acompañado de su abuelo, presenta un cuadro de disminución progresiva de la movilidad y coordinación en los últimos 6 meses, con dificultades para realizar tareas cotidianas y actividades físicas. Antecedentes de exposición a sustancias tóxicas en el trabajo como minero.
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se aprecian signos de parkinsonismo, con rigidez y bradiquinesia en los miembros inferiores.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 70%); plaquetas 250.000/ mm3. VSG: 25 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía cerebral, TAC craneal) que no evidencian patología significativa. Se instaura tratamiento sintomático (antiparkinsonianos) y se realiza seguimiento regular para ajustar la terapia.
+Evolución y comentarios:
+El paciente presenta una evolución estable en los últimos 3 meses, con mejoría en la movilidad y coordinación. Se mantiene bajo seguimiento regular para ajustar la terapia y evitar complicaciones.
+Remitido por:
+Dr. Guillermo Costa Rey, Investigador Principal en Parkinson, Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED).

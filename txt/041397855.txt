@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Jorge Estevez Carrasco
+DNI: 29934078S
+Fecha de nacimiento: 23/05/1965
+Género: M
+Domicilio: Calle de la Alameda 43
+Ciudad: Estepa, Lérida, Cataluña
+Código postal: 25048
+Email: GrDHyR0S@protonmail.com
+Teléfono fijo: +34 973 94 99 08
+Teléfono móvil: +34 773 14 88 82
+NHC: 4480232
+NASS: 174005559349
+Condición de riesgo: Ingeniero de Minas
+Datos asistenciales.
+Médico: Dra. Lorena Rodríguez Maldonado. NC 530724205. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/01/1980
+Episodio: 62246480
+Hospital: Hospital Universitario 12 de Octubre
+Informe clínico del paciente:
+Paciente vegetariano de 14 años de edad, acompañado de su hermana, con antecedentes de asma leve y alergia a los frutos secos. Fue derivado a nuestra unidad por un episodio de dolor abdominal crónico y diarrea persistente durante las últimas 4 semanas.
+La exploración física revela: Tª 37,5 C; T.A: 110/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.200/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que no evidencian patología significativa. Se considera el diagnóstico de enfermedad inflamatoria intestinal (EII) y se inicia tratamiento con antiinflamatorios no esteroideos (AINE) y medicación para controlar la diarrea.
+Antecedentes:
+El paciente tiene antecedentes de asma leve y alergia a los frutos secos. También ha tenido episodios de dolor abdominal crónico en el pasado.
+Evolución y comentarios:
+El paciente ha mejorado significativamente después de iniciar el tratamiento con AINE y medicación para controlar la diarrea. Se le realizará seguimiento regular para monitorear su evolución y ajustar el tratamiento según sea necesario.
+Remitido por:
+Dra. Lorena Rodríguez Maldonado. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).

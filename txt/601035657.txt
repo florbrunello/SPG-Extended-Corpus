@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: José Javier Espinosa Reyes
+DNI: 46315440H
+Fecha de nacimiento: 31/12/2006
+Género: Masculino
+Domicilio: Calle del León 41
+Ciudad: Burgos
+Código postal: 46734
+Email: josejavier-espinosa-reyes@ciberehd.org
+Teléfono fijo: +34 960 17 32 25
+Teléfono móvil: +34 660 61 15 62
+NHC: 0443550
+NASS: 46315440H46734
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dr. Antonio Jiménez Quintana. NC 699280028. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/06/2015
+Hospital: Hospital Universitario Virgen del Rocío
+Médico de referencia: Dr. Juan Pérez García. NC 123456789. Pediatra Especialista en Infectología. Hospital Universitario Virgen del Rocío. Avenida Manuel Siurot s/n. 41013. Sevilla. España.
+Informe clínico del paciente:
+Paciente de 8 años de edad, con antecedentes de alergia a los lácteos, quien acude al servicio de urgencias con síntomas de dolor abdominal y vómitos durante las últimas 24 horas. La exploración física revela: Tª 37,2 C; T.A: 90/60 mmHg; Fc: 25 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 15 mm 1ª hora. Coagulación: TQ 90%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal y Rx abdominal) que no evidencian patología significativa. Con el diagnóstico de gastroenteritis viral se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cabeza) y tratamiento de rehidratación oral. El paciente mejora significativamente de su cuadro tras 24 horas de ingreso, decidiéndose el alta a su domicilio.

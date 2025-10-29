@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Patricia Alonso Trujillo
+DNI: 49566519R
+Fecha de nacimiento: 28/06/1928
+Género: Mujer
+Domicilio: Paseo de la Castellana 45
+Ciudad: Benidorm, Pontevedra, Galicia
+Código postal: 36759
+Email: trujillo825@udc.es
+Teléfono fijo: +34 986 51 27 27
+FAX: +34 986 54 10 07
+NHC: 4529200
+NASS: 013117703896
+Condición de riesgo: Enfermera
+Datos asistenciales.
+Médico: Dra. Antonia Costa Otero. NC 585862233. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/05/1988
+Episodio: 86852241
+Hospital: Hospital General Universitario Reina Sofía
+Matrícula del coche: 1366INV
+Modelo: Mazda CX-5
+VIN: VSESN7TLE4K321457
+Fecha de ingreso:
+11/05/1988
+Centro de salud de ingreso:
+Hospital General Universitario Reina Sofía

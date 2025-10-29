@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Moisés Roldan Garrido
+DNI: 33227471S
+Fecha de nacimiento: 19/05/2014
+Género: Masculino
+Domicilio: Calle de Miguel Ángel 56
+Ciudad: Lugo, Zaragoza, Aragón
+Código postal: 50421
+Email: moises-garrido597@outlook.com
+Teléfono fijo: +34 976 63 75 65
+Teléfono móvil: +34 676 97 05 11
+NHC: 8942157
+NASS: 657247003376
+Condición de riesgo: Albañil
+Datos asistenciales.
+Médico: Dr. Aarón Heredia Vega. NC 257510987. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 60101238
+Hospital: Hospital General de Villalba
+Matrícula del coche: 2336QHI
+Modelo: Ford F-150
+VIN: VSTVQHE119N916394
+Informe clínico del paciente:
+Paciente usuario de drogas de 10 años de edad, acompañado de su padre. Presenta síntomas de abstinencia y dependencia a una sustancia no especificada. La exploración física revela signos de agitación y ansiedad, con aumento de la frecuencia cardíaca y presión arterial. Se solicitan pruebas de toxicología y análisis de sangre para determinar la sustancia involucrada y la gravedad de la situación.
+Antecedentes:
+El paciente tiene antecedentes de problemas de conducta y ajuste social, con historial de uso de sustancias desde los 8 años de edad. Su padre informa que ha intentado intervenir en varias ocasiones, pero el paciente no ha mostrado interés en recibir ayuda.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de psiquiatría infantil para recibir tratamiento y seguimiento. Se le ha prescrito medicación para controlar los síntomas de abstinencia y se le ha ofrecido terapia cognitivo-conductual para abordar los problemas de conducta y ajuste social. El padre del paciente ha sido informado sobre la situación y se le ha ofrecido apoyo y recursos para ayudar a su hijo.
+Remitido por:
+El paciente ha sido remitido por su padre, quien ha expresado su preocupación por la situación de su hijo y ha solicitado ayuda profesional para abordar el problema de uso de sustancias.

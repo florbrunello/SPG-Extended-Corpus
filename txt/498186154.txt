@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Diego Medina Izquierdo
+DNI: 20015259S
+Fecha de nacimiento: 14/08/2003
+Género: M
+Domicilio: Calle de Áncora 6
+Ciudad: Zaragoza, Cáceres, Extremadura
+Código postal: 10119
+Email: diego.izquierdo970@outlook.com
+Teléfono fijo: +34 927 17 69 87
+FAX: +34 927 01 13 40
+NHC: 2828952
+NASS: 473124509817
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dr. Juan Ramón Mendoza Vargas. NC 916545517. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/05/2024
+Episodio: 15387523
+Hospital: Hospital Universitari de Bellvitge
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 20 años de edad, acompañado de su tío, con antecedentes de abuso de sustancias desde la adolescencia. Presenta síntomas de ansiedad y depresión, con episodios de agresividad y altercados con familiares y amigos. En la exploración física, se observa una presión arterial elevada y una temperatura corporal ligeramente alta. Los análisis de sangre muestran niveles elevados de lípidos y triglicéridos. El paciente refiere un consumo diario de alcohol de 5 litros de cerveza y 2 botellas de vino tinto.
+La evolución clínica ha sido marcada por episodios de crisis de ansiedad y depresión, con intentos de suicidio en el pasado. El paciente ha sido sometido a tratamiento psicológico y farmacológico en varias ocasiones, pero no ha logrado mantenerse en la terapia. En la exploración neurológica, se observa una disminución de la coordinación motora y una alteración de la conciencia.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 45 mm 1ª hora. Coagulación: TQ 85%; TTPA 28,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 35 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 30 U/l; GPT 50 U/l; GGT 100 U/l; fosfatasa alcalina 180 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) para evaluar la posible afectación del hígado y el cerebro. El tratamiento se centra en la abstinencia del alcohol y la administración de medicamentos para controlar los síntomas de ansiedad y depresión.
+Antecedentes:
+El paciente tiene antecedentes de abuso de sustancias desde la adolescencia, con episodios de crisis de ansiedad y depresión. Ha sido sometido a tratamiento psicológico y farmacológico en varias ocasiones, pero no ha logrado mantenerse en la terapia.
+Evolución y comentarios:
+La evolución clínica ha sido marcada por episodios de crisis de ansiedad y depresión, con intentos de suicidio en el pasado. El paciente ha sido sometido a tratamiento psicológico y farmacológico en varias ocasiones, pero no ha logrado mantenerse en la terapia.
+Remitido por:
+El paciente ha sido remitido por su tío, quien se encuentra preocupado por su bienestar y su seguridad.

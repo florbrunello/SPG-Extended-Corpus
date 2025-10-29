@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: María Soledad Beltran Blanco
+DNI: 79217823G
+Fecha de nacimiento: 09/05/1944
+Género: Mujer
+Domicilio: Calle del Sombrerete 87, 5D
+Ciudad: Segovia, Castilla y León
+Código postal: 32195
+Email: mariasoledad@hotmail.com
+Teléfono fijo: +34 988 54 72 14
+Teléfono móvil: +34 788 42 43 18
+NHC: 8113488
+NASS: 321952098789
+Condición de riesgo: Paciente con antecedentes de diabetes tipo 2
+Datos asistenciales.
+Médico: Dr. Cristian Izquierdo Carrillo. NC 664647438. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/04/2003
+Episodio: 95380124
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 58 años de edad, acompañado de su esposa, que acude al servicio de urgencias con dolor abdominal severo y vómitos durante las últimas 24 horas. La paciente tiene antecedentes de diabetes tipo 2 y ha estado tomando medicamentos orales para controlar su glucemia.
+La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. La paciente se encuentra consciente, orientada, sudorosa, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia distensión abdominal, dolor en la región epigástrica y ausencia de signos de obstrucción intestinal.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.000/mm3 (neutrófilos 80%); plaquetas 200.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 250 mg/dl; urea 40 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que revelan una obstrucción intestinal en la región del colon ascendente. Se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y fluidoterapia) así como tratamiento quirúrgico (colecistectomía y colostomía) para resolver la obstrucción intestinal. La paciente se encuentra en estado estable y se le recomienda una evaluación posterior para determinar la causa subyacente de la obstrucción intestinal.

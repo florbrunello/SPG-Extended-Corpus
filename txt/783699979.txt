@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Encarnación Esteban Crespo
+DNI: 83183308J
+Fecha de nacimiento: 12/01/1989
+Género: Femenino
+Domicilio: Calle de las Letras 41
+Ciudad: Xirivella, Albacete, Castilla-La Mancha
+Código postal: 02642
+Email: encarnacion.esteban-crespo@ual.es
+Teléfono fijo: +34 967 92 15 24
+Teléfono móvil: +34 767 19 03 57
+NHC: 5609530
+NASS: 816576854659
+Condición de riesgo: Estudiante universitaria
+Datos asistenciales.
+Médico: Dra. Alejandra Cruz Durán. NC 748617204. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/10/2004
+Episodio: 90017727
+Centro de salud: Centro de Salud Conde de Casal
+Informe clínico del paciente:
+La paciente, de 15 años de edad, se refirió a la consulta con una queja de dolor en el pecho, que se había iniciado 2 días antes y se había agravado en las últimas 24 horas. La paciente es estudiante universitaria y no tiene antecedentes médicos relevantes. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 18 lpm. Se encuentra consciente, orientada, sin sudoración ni fiebre. En la exploración cardíaca se aprecia un ritmo cardíaco regular, sin soplos ni roces. La paciente se queja de dolor en el pecho, localizado en la región epigástrica, que se agravaba con la inspiración. La ecocardiografía realizada en la consulta muestra una dilatación del ventrículo izquierdo y una disminución de la función sistólica.
+Se solicitan pruebas complementarias, incluyendo una electrocardiografía, una ecocardiografía de alta resolución y una resonancia magnética cardíaca. Los resultados de estas pruebas muestran una cardiomiopatía hipertrófica, con una dilatación del ventrículo izquierdo y una disminución de la función sistólica.
+Se instaura un tratamiento con medicamentos para reducir la frecuencia cardíaca y mejorar la función cardíaca. La paciente se mantiene en observación en la unidad de cuidados intensivos para monitorear su estado y ajustar el tratamiento según sea necesario.
+Evolución y comentarios:
+La paciente se mantiene estable en la unidad de cuidados intensivos. Se realiza una ecocardiografía diaria para monitorear la función cardíaca y ajustar el tratamiento según sea necesario. La paciente se muestra cooperativa y atenta a las instrucciones del personal médico.
+Remitido por:
+Dra. Alejandra Cruz Durán, Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

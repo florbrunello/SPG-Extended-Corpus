@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Martina Valero Otero
+DNI: 43713674N
+Fecha de nacimiento: 04/12/1981
+Género: M
+Domicilio: Calle del Nuncio 18
+Ciudad: Estepa, Palencia, Castilla y León
+Código postal: 34625
+Email: martinavalero@us.es
+Teléfono fijo: +34 979 56 86 33
+Teléfono móvil: +34 779 75 54 11
+NHC: 7055862
+NASS: 690502960027
+Condición de riesgo: Trabajador Agrícola
+Datos asistenciales.
+Médico: Dr. Alberto Diez Costa. NC 671640038. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/12/2003
+Episodio: 34307941
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Fecha de ingreso: 10/12/2003
+Centro de salud de ingreso: Complejo Hospitalario Universitario de Cartagena
+Informe clínico del paciente:
+Paciente no fumador de 22 años de edad, acompañado de su hija. Presenta una historia de antecedentes familiares de enfermedad de Huntington, por lo que se le ha solicitado una evaluación genética. La exploración física revela una persona con buen estado de nutrición y hidratación, sin signos de enfermedad activa. La evaluación neurológica es normal, sin signos de deterioro cognitivo o motor.
+La evaluación genética ha mostrado una mutación en el gen HTT, asociada con la enfermedad de Huntington. Sin embargo, el paciente no presenta signos de enfermedad activa y su edad es relativamente joven, por lo que se le ha recomendado una vigilancia regular para detectar cualquier síntoma temprano.
+Se le ha ofrecido la opción de participar en un estudio de investigación para evaluar la efectividad de un tratamiento experimental para la enfermedad de Huntington. El paciente ha aceptado participar en el estudio y se le ha explicado los riesgos y beneficios asociados con la participación.
+En resumen, el paciente es un joven de 22 años con una historia de antecedentes familiares de enfermedad de Huntington, que ha sido diagnosticado con una mutación en el gen HTT. Se le ha recomendado una vigilancia regular y se le ha ofrecido la opción de participar en un estudio de investigación para evaluar un tratamiento experimental para la enfermedad.

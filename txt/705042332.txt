@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Iván Marti García
+DNI: 42445385N
+Fecha de nacimiento: 15/10/1990
+Género: M
+Domicilio: Calle de las Infantas 9
+Ciudad: Tarragona, Jaén, Andalucía
+Código postal: 23858
+Email: ivangarcia@uhu.es
+Teléfono fijo: +34 953 22 73 00
+Teléfono móvil: +34 753 40 12 70
+NHC: 7347774
+Condición de riesgo: Plomero
+Datos asistenciales.
+Médico: Dr. Ignacio Hurtado Segura. NC 172377762. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 02/04/2024
+Episodio: 34211471
+Hospital: Hospital Universitario Virgen de la Victoria
+Fecha de ingreso:
+02/04/2024
+Centro de salud de ingreso:
+Hospital Universitario Virgen de la Victoria
+Informe clínico del paciente:
+El paciente, Iván Marti García, de 33 años de edad, fue ingresado en el Hospital Universitario Virgen de la Victoria con una historia de dolores en la espalda y piernas durante los últimos meses. El paciente es un plomero que ha estado trabajando en una construcción en la ciudad de Tarragona.
+La exploración física revela que el paciente tiene una temperatura corporal de 37,5°C, una frecuencia cardíaca de 80 latidos por minuto y una presión arterial de 120/80 mmHg. El paciente tiene una apariencia general de buena salud, pero presenta dolor en la región lumbar y en las piernas al caminar.
+Se solicitan pruebas diagnósticas para determinar la causa del dolor. El paciente es sometido a una radiografía de la columna vertebral, que muestra una hernia discal en la región lumbar. También se solicita una ecografía de las piernas, que muestra una inflamación en el tendón de Aquiles.
+El tratamiento iniciado es el doloroso y antiinflamatorio, así como la fisioterapia para mejorar la movilidad y reducir el dolor. El paciente es seguido de cerca por el equipo médico para determinar la evolución de su condición y ajustar el tratamiento según sea necesario.
+La evolución clínica del paciente es buena, y el dolor se reduce significativamente después de una semana de tratamiento. El paciente es dado de alta del hospital después de 10 días de ingreso, con instrucciones para seguir con el tratamiento y realizar ejercicios de fisioterapia para mantener la movilidad y reducir el dolor.
+Antecedentes:
+El paciente tiene una historia de dolores en la espalda y piernas durante los últimos meses. El paciente es un plomero que ha estado trabajando en una construcción en la ciudad de Tarragona.
+Evolución y comentarios:
+El paciente tiene una evolución clínica buena, y el dolor se reduce significativamente después de una semana de tratamiento. El paciente es dado de alta del hospital después de 10 días de ingreso, con instrucciones para seguir con el tratamiento y realizar ejercicios de fisioterapia para mantener la movilidad y reducir el dolor.
+Remitido por:
+El paciente es remitido a la consulta de Medicina Física y Rehabilitación para seguir con el tratamiento y realizar ejercicios de fisioterapia para mantener la movilidad y reducir el dolor.

@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Antonio Alonso Abad
+DNI: 27994587E
+Fecha de nacimiento: 25/10/1993
+Género: Hombre
+Domicilio: Calle de Ayala 53, 1P
+Ciudad: Parla, Asturias, Asturias
+Código postal: 33731
+Email: antonio-alonso.abad@isciii.es
+Teléfono fijo: +34 984 91 33 68
+Teléfono móvil: +34 684 26 82 91
+NHC: 8455738
+NASS: 687832388326
+Condición de riesgo: Técnico de Radiología
+Datos asistenciales.
+Médico: Dra. Emma Conde Galvez. NC 360294729. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 27/10/2012
+Episodio: 21857099
+Hospital: Hospital GaldaKao - Usansolo
+Fecha de ingreso: 27/10/2012
+Centro de salud de ingreso: Hospital GaldaKao - Usansolo
+Informe clínico del paciente:
+El paciente, de 19 años de edad, presentó síntomas de dolor abdominal crónico y pérdida de peso en los últimos meses. Su historia clínica incluye una antecedente de gastroesofagitis erosiva tratada con medicamentos antiinflamatorios no esteroideos (AINE). En el examen físico, se observó una abdomen protuberante, con dolor en la región epigástrica y pérdida de apetito. Los análisis de laboratorio mostraron anemia leve y elevación de la enzima alanina aminotransferasa (ALT). Se solicitó una ecografía abdominal que reveló un tumor de 5 cm en el hígado. El paciente fue remitido a la Unidad de Cirugía Hepática para evaluación y tratamiento.
+Antecedentes:
+El paciente tiene una historia de gastroesofagitis erosiva tratada con AINE.
+Evolución y comentarios:
+El paciente fue ingresado en la Unidad de Cirugía Hepática para evaluación y tratamiento del tumor hepático. Se realizaron pruebas de imagen y análisis de laboratorio para determinar la naturaleza y el tamaño del tumor. El paciente fue evaluado por un equipo de especialistas en cirugía hepática y se determinó que el tumor era inoperable. Se inició el tratamiento con quimioterapia y radioterapia para controlar el crecimiento del tumor.
+Remitido por:
+La Dra. Emma Conde Galvez, Investigadora Clínica en Medicina Interna, remitió al paciente a la Unidad de Cirugía Hepática para evaluación y tratamiento del tumor hepático.

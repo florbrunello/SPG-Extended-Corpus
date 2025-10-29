@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Eva María Muñoz Mesa
+DNI: 99586410K
+Fecha de nacimiento: 08/11/1968
+Género: Femenino
+Domicilio: Calle de Gobernador 82, 10Z
+Ciudad: Hellín, Valencia, Comunidad Valenciana
+Código postal: 46732
+Email: evamaria_mesa@hotmail.com
+Teléfono fijo: +34 960 28 62 74
+Teléfono móvil: +34 660 28 94 95
+NHC: 2154921
+NASS: 153409162394
+Condición de riesgo: Paciente con antecedentes de enfermedad rara
+Datos asistenciales.
+Médico: Dr. Víctor Manuel Pereira Rodríguez. NC 552910708. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/05/2023
+Episodio: 84152830
+Hospital: Hospital General de Villalba
+Informe clínico del paciente:
+Paciente de 53 años de edad, con antecedentes de enfermedad rara, que acude a consulta por presentar síntomas de dolor abdominal crónico y pérdida de peso. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 200.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal. Se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de enfermedad rara, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la dieta) y se realiza seguimiento estrecho para determinar la evolución del paciente.

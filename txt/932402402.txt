@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Diego Exposito Ramos
+DNI: 68327991M
+Fecha de nacimiento: 04/10/1991
+Género: Masculino
+Domicilio: Calle de la Paz 56
+Ciudad: Eibar, Jaén, Andalucía
+Código postal: 23472
+Email: ramos@salud.madrid.org
+Teléfono fijo: +34 953 72 68 87
+FAX: +34 953 91 11 00
+NHC: 7534458
+NASS: 042584179116
+Condición de riesgo: Paciente con antecedentes familiares de enfermedades cardíacas
+Datos asistenciales.
+Médico: Dra. Lara Zamora Galan. NC 100960630. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/01/1998
+Episodio: 34732654
+Hospital: Hospital Universitario Virgen Macarena
+Cargo del médico: Jefe de Servicio de Cardiología
+Fecha de ingreso:
+10/01/1998
+Centro de salud de ingreso:
+Hospital Universitario Virgen Macarena
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 6 años de edad, acompañado de su padre. Presenta una historia clínica de hipertensión arterial en la familia, con un padre que sufre de enfermedad cardíaca isquémica. El paciente ha sido referido al Servicio de Cardiología por una serie de episodios de dolor torácico en los últimos meses, que se han intensificado en las últimas semanas.
+La exploración física revela: Tª 36,5 C; T.A: 90/60 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 95 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecocardiograma transtorácico y Rx tórax) para evaluar la función cardíaca y descartar cualquier patología pulmonar. El paciente se encuentra en observación en la Unidad de Cuidados Intensivos, donde se le administra tratamiento para controlar la hipertensión arterial y aliviar el dolor torácico.
+Antecedentes:
+El paciente tiene una historia clínica de hipertensión arterial en la familia, con un padre que sufre de enfermedad cardíaca isquémica. El paciente ha sido referido al Servicio de Cardiología por una serie de episodios de dolor torácico en los últimos meses, que se han intensificado en las últimas semanas.
+Evolución y comentarios:
+El paciente se encuentra en observación en la Unidad de Cuidados Intensivos, donde se le administra tratamiento para controlar la hipertensión arterial y aliviar el dolor torácico. Se solicitan pruebas de imagen para evaluar la función cardíaca

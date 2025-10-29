@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Inés Ortiz Montes
+DNI: 26332127W
+Fecha de nacimiento: 10/12/2012
+Género: Mujer
+Domicilio: Calle de Argumosa 78
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52839
+Email: ines.montes1672@ciberehd.org
+Teléfono fijo: +34 956 28 37 49
+FAX: +34 956 17 15 98
+NHC: 8266637
+NASS: 484408915295
+Condición de riesgo: Paramédico
+Datos asistenciales.
+Médico: Dr. Valentín Ruiz Carmona. NC 310562934. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/02/2022
+Episodio: 67592056
+Centro de salud: Centro de Salud Collado Villalba
+Antecedentes:
+No se proporcionan antecedentes médicos del paciente.
+Evolución y comentarios:
+No se proporcionan comentarios sobre la evolución del paciente.
+Remitido por:
+No se proporciona información sobre quién remitió al paciente.
+Informe clínico del paciente:
+Paciente de 9 años de edad, acompañado de su abuela, con una consulta virtual desde la dirección IP (en red interna) 192.168.6.81, con dirección MAC 48:61:8E:0C:E6:F6. Se desconoce la causa de la consulta y se requiere una evaluación médica más detallada para determinar la causa de la consulta.

@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Francisco Manuel Lorenzo Salazar
+DNI: 30170068W
+Fecha de nacimiento: 19/11/2018
+Género: M
+Domicilio: Calle de la Reina 79, 4F
+Ciudad: Bormujos, Córdoba, Andalucía
+Código postal: 14112
+Email: franciscomanuel.lorenzosalazar@hotmail.com
+Teléfono fijo: +34 957 71 53 50
+Teléfono móvil: +34 657 63 99 41
+NHC: 3388850
+NASS: 858201709193
+Condición de riesgo: Pintor de Construcción
+Datos asistenciales.
+Médico: Dr. Adrián Velasco Jiménez. NC 015887777. Neurólogo Investigador en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 20/02/2025
+Episodio: 17901372
+Centro de salud: Centro de Salud Málaga Oeste
+Matrícula del coche: 3011KSS
+Modelo: Ford F-150
+VIN: VSMGE2J4IAH629221
+Informe clínico del paciente:
+Paciente usuario de drogas de 6 años de edad, acompañado de su hermana. Presenta signos de intoxicación aguda por sustancias, con vómitos y alteración de la conciencia. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra desorientado y con signos de disminución de la función cognitiva.
+Antecedentes:
+El paciente tiene antecedentes de consumo de sustancias ilegales en su entorno familiar.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento de soporte vital y tratamiento farmacológico para la intoxicación aguda. Se está realizando una evaluación psicológica para determinar la gravedad del daño cerebral.
+Remitido por:
+El paciente ha sido remitido por su madre, quien se encuentra preocupada por su bienestar y la posibilidad de que haya sido expuesto a sustancias peligrosas en su entorno familiar.

@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Ángel Rivas Estevez
+DNI: 51081656J
+Fecha de nacimiento: 15/10/2014
+Género: Masculino
+Domicilio: Calle de Fortuny 57, 8J
+Ciudad: Torrelodones, Álava, Pais Vasco
+Código postal: 01674
+Email: angel_rivasestevez290@ciberned.es
+Teléfono fijo: +34 945 33 13 89
+Teléfono móvil: +34 745 19 90 72
+NHC: 9847442
+NASS: 652100069553
+Condición de riesgo: Fabricante
+Datos asistenciales.
+Médico: Dr. Nicolás Simon Varela. NC 805731645. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 11/02/2016
+Hospital: Hospital Universitario Río Hortega
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de un año de edad, acompañado de su abuela, que presenta una historia de convulsiones en las últimas 48 horas, con un primer episodio en la noche del día 10 de febrero y otro en la mañana del día 11 de febrero. El paciente se encuentra en buen estado general, con una temperatura corporal de 36,5°C y una frecuencia cardíaca de 120 latidos por minuto. La exploración física revela signos de convulsiones recientes, con una pequeña hemorragia en la oreja derecha.
+Los análisis de sangre muestran un hemograma normal, con un conteo de glóbulos rojos de 4,5 millones/mm³, un conteo de glóbulos blancos de 12.000/mm³ y un conteo de plaquetas de 300.000/mm³. La electroencefalografía (EEG) muestra una actividad anormal en la región temporal derecha.
+Con el diagnóstico de convulsiones infantiles, se instaura tratamiento con fármacos anticonvulsivantes, incluyendo carbamazepina y clonazepam. El paciente se encuentra en observación en la unidad de cuidados intensivos, con un seguimiento estrecho de su estado clínico y una evaluación continua de su respuesta al tratamiento.
+Antecedentes:
+El paciente tiene una historia de convulsiones en la familia, con un primo hermano que también ha experimentado convulsiones en la infancia.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento durante las últimas 24 horas, con una reducción significativa en la frecuencia y la intensidad de las convulsiones. La EEG ha mostrado una mejora en la actividad anormal en la región temporal derecha.
+Remitido por:
+El paciente ha sido remitido a la unidad de neurología pediátrica para una evaluación más detallada y un seguimiento a largo plazo.

@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: Miriam Mesa Rivas
+DNI: 21124736H
+Fecha de nacimiento: 25/09/1943
+Género: F
+Domicilio: Calle Mayor 16
+Ciudad: Ibiza, Álava, Pais Vasco
+Código postal: 01983
+Email: miriammesa@ciberehd.org
+Teléfono fijo: +34 945 17 67 49
+Teléfono móvil: +34 645 34 95 84
+NHC: 1126761
+NASS: 587111833098
+Condición de riesgo: Minero
+Datos asistenciales.
+Médico: Dra. Ainhoa Trujillo Varela. NC 400406114. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 22/09/2002
+Episodio: 50684630
+Hospital: Complejo Hospitalario La Mancha Centro
+Informe clínico del paciente:
+La paciente, de 58 años, fue derivada al Servicio de Oftalmología por presentar un cuadro de visión borrosa en ambos ojos durante las últimas semanas. La exploración física revela visión 20/200 en ambos ojos, con fotofobia y dolor ocular. La paciente denuncia una historia de consumo de alcohol excesivo durante los últimos 20 años, con un promedio de 6-8 vasos diarios. También menciona una historia familiar de alcoholismo en su padre y hermano.
+La exploración oftalmológica muestra signos de retinopatía alcohólica en ambos ojos, con edema macular y pérdida de visión central. La paciente también presenta signos de neuropatía óptica, con pérdida de visión periférica y alteraciones en la visión de color.
+Se solicitan análisis de sangre para evaluar la función hepática y renal, así como una ecografía hepática y renal para evaluar la presencia de enfermedad hepática o renal. La paciente es derivada al Servicio de Psiquiatría para evaluar la posibilidad de tratamiento para el alcoholismo.
+El tratamiento propuesto incluye la reducción del consumo de alcohol, la implementación de un plan de tratamiento para el alcoholismo y la evaluación de la posibilidad de tratamiento quirúrgico para la retinopatía alcohólica. La paciente es informada sobre los riesgos y beneficios del tratamiento y se le ofrece apoyo emocional y psicológico.
+La evolución clínica de la paciente será seguida de cerca, y se realizarán revisiones periódicas para evaluar la respuesta al tratamiento y ajustar el plan de tratamiento según sea necesario.
+Antecedentes:
+- Historia de consumo de alcohol excesivo durante los últimos 20 años.
+- Historia familiar de alcoholismo en su padre y hermano.
+- Visión borrosa en ambos ojos durante las últimas semanas.
+Evolución y comentarios:
+- La paciente presenta signos de retinopatía alcohólica en ambos ojos.
+- La paciente también presenta signos de neuropatía óptica.
+- La paciente es derivada al Servicio de Psiquiatría para evaluar la posibilidad de tratamiento para el alcoholismo.
+Remitido por:
+- Dra. Ainhoa Trujillo Varela, Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.

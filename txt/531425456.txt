@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Vicente Salazar Miguel
+DNI: 97261304P
+Fecha de nacimiento: 22/09/1973
+Género: Hombre
+Domicilio: Calle de Moratín 89
+Ciudad: Cáceres, Asturias, Asturias
+Código postal: 33744
+Email: vicentemiguel@ciberer.es
+Teléfono fijo: +34 984 69 77 47
+FAX: +34 984 08 60 77
+NHC: 9190058
+NASS: 982960571712
+Condición de riesgo: Usuario de drogas
+Datos asistenciales.
+Médico: Dr. Mateo Torres Escobar. NC 344612175. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/06/1994
+Hospital: Hospital Universitari i Politècnic La Fe
+Informe clínico del paciente:
+Paciente usuario de drogas de 20 años de edad, con antecedentes de consumo de sustancias ilegales desde los 15 años. Presenta síntomas de abstinencia y ansiedad, con irritabilidad y cambios en el estado de ánimo. La exploración física revela signos de desnutrición y fatiga, con temperatura corporal normal y pulso regular. El paciente se encuentra consciente y orientado, pero con dificultades para concentrarse y tomar decisiones.
+La historia clínica del paciente muestra una evolución caracterizada por episodios de consumo excesivo y abstinencia, con intentos de rehabilitación y readaptación social. El paciente ha recibido tratamiento psicológico y farmacológico en el pasado, pero no ha logrado mantenerse libre del consumo de drogas.
+En la actualidad, el paciente se encuentra en una fase de crisis, con signos de deterioro físico y emocional. Es necesario realizar un seguimiento estrecho y proporcionar apoyo psicológico y terapéutico para ayudar al paciente a superar su adicción y mejorar su calidad de vida.
+Antecedentes:
+El paciente tiene un antecedente de hospitalización en el pasado por consumo excesivo de drogas, con una estancia de 10 días en la unidad de rehabilitación. También ha recibido tratamiento ambulatorio en un centro de salud mental, con terapia individual y grupo.
+Evolución y comentarios:
+El paciente ha mostrado una evolución variable en el tratamiento, con períodos de mejora y deterioro. Es necesario mantener un seguimiento estrecho y ajustar el tratamiento según sea necesario.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, que ha detectado signos de deterioro físico y emocional en el paciente. Se ha solicitado un informe clínico para evaluar la situación del paciente y determinar el mejor curso de acción.

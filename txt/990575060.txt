@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: María Lourdes Villanueva Fernández
+DNI: 74923696T
+Fecha de nacimiento: 05/01/1991
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 71, 9X
+Ciudad: Linares, Zamora, Castilla y León
+Código postal: 49222
+Email: marialourdes87@ciberisciii.es
+Teléfono fijo: +34 980 96 84 21
+Teléfono móvil: +34 780 33 87 27
+NHC: 4521343
+NASS: 265463185159
+Condición de riesgo: Plomero
+Datos asistenciales.
+Médico: Dra. Inmaculada Vázquez Gracia. NC 479885693. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/11/2008
+Centro de salud: Centro de Salud Sevilla Este
+Informe clínico del paciente:
+Paciente de 17 años de edad, con antecedentes de hipertensión arterial sistólica, sin antecedentes de enfermedades cardiovasculares. Se refirió a la consulta con dolor de cabeza y mareos recientes. La exploración física reveló: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni alteraciones en la respiración. En la exploración neurológica, se detectaron signos de hipertensión arterial sistólica con aumento de la tensión arterial en ambas arterias carótidas.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 7.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de hipertensión arterial sistólica, se instauró tratamiento con medicamentos antihipertensivos (Amlodipino 5 mg vía oral cada 12 horas) y seguimiento en la consulta de cardiología. El paciente se encuentra en seguimiento y sin complicaciones.

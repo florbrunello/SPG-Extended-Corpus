@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Francisco José Arias Crespo
+DNI: 95424839R
+Fecha de nacimiento: 10/08/1926
+Género: Hombre
+Domicilio: Calle de la Cabeza 60
+Ciudad: Liria, Barcelona, Cataluña
+Código postal: 08799
+Email: crespo1398@ucm.es
+Teléfono fijo: +34 939 88 04 55
+FAX: +34 934 13 32 71
+NHC: 7522142
+Condición de riesgo: Ingeniero de Minas
+Datos asistenciales.
+Médico: Dr. Ramón Bermudez Diez. NC 528936055. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/09/2008
+Episodio: 12825761
+Hospital: Hospital Universitario Fundación Alcorcón
+Informe clínico del paciente:
+El paciente es un hombre de 82 años de edad, de ascendencia caribeña, que se encuentra acompañado de su marido. Presenta una historia clínica compleja, con antecedentes de ansiedad y depresión en el pasado. En la exploración física, se observa que el paciente tiene una buena condición física, sin signos de enfermedad crónica. Sin embargo, presenta una actitud de ansiedad y nerviosismo, con una tendencia a la hipervigilancia.
+La exploración neurológica revela una función cognitiva normal, sin signos de demencia o deterioro cognitivo. El paciente tiene una buena coordinación motora y una función sensorial normal. Sin embargo, presenta una tendencia a la inquietud y la agitación, con un aumento de la frecuencia cardíaca y la presión arterial.
+Los resultados de las pruebas de laboratorio muestran una función renal normal, sin signos de insuficiencia renal. El paciente tiene una función hepática normal, sin signos de enfermedad hepática. Sin embargo, presenta una tendencia a la anemia, con un nivel de hemoglobina ligeramente bajo.
+En cuanto a la evolución clínica, el paciente ha presentado una serie de episodios de ansiedad y depresión en el pasado, con una tendencia a la recurrencia. En la actualidad, el paciente se encuentra en un estado de ansiedad aguda, con una tendencia a la hipervigilancia y la inquietud. El tratamiento se ha centrado en la administración de medicamentos antipsicóticos y ansiolíticos, con una buena respuesta clínica.
+Evolución y comentarios:
+El paciente ha presentado una buena respuesta al tratamiento, con una reducción significativa de los síntomas de ansiedad y depresión. Sin embargo, el paciente sigue presentando una tendencia a la inquietud y la agitación, lo que requiere una vigilancia continua y un ajuste del tratamiento según sea necesario.
+Remitido por:
+El paciente ha sido remitido a su domicilio, con instrucciones para seguir el tratamiento y realizar una serie de pruebas de seguimiento para evaluar la evolución clínica. El paciente y su marido han sido informados sobre la importancia de la adherencia al tratamiento y la necesidad de realizar una vigilancia continua para prevenir la recurrencia de los síntomas.

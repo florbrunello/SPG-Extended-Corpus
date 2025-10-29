@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Alejandro Santana Crespo
+DNI: 91313101L
+Fecha de nacimiento: 08/08/1934
+Género: Varón
+Domicilio: Calle de Bailén 15
+Ciudad: Eibar, Valladolid, Castilla y León
+Código postal: 47214
+Email: crespo1687@ual.es
+Teléfono fijo: +34 983 03 47 28
+Teléfono móvil: +34 683 71 19 29
+NHC: 8596779
+NASS: 552870307763
+Condición de riesgo: Paciente de riesgo
+Datos asistenciales.
+Médico: Dra. Margarita Lorenzo Álvarez. NC 687201500. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/12/1954
+Episodio: 15877992
+Centro de salud: Centro de Salud Chamartín
+Antecedentes:
+El paciente tiene antecedentes de enfermedad renal crónica en estadio 3, con una función renal residual del 40%.
+Evolución y comentarios:
+El paciente fue ingresado en el servicio de nefrología con un cuadro de insuficiencia renal aguda, que se caracterizó por una elevación de la creatinina sérica y una disminución de la función renal. Se inició tratamiento con diálisis peritoneal y se le administraron medicamentos para controlar la hipertensión y la anemia.
+Informe clínico del paciente:
+El paciente de 20 años de edad, de ascendencia sudamericana, fue ingresado en el servicio de nefrología con un cuadro de insuficiencia renal aguda. El paciente presentaba una elevación de la creatinina sérica y una disminución de la función renal. Se inició tratamiento con diálisis peritoneal y se le administraron medicamentos para controlar la hipertensión y la anemia. El paciente mostró una buena respuesta al tratamiento y su función renal se estabilizó.
+Remitido por:
+El paciente fue remitido por el servicio de urgencias con un cuadro de insuficiencia renal aguda. El paciente fue evaluado y se inició tratamiento con diálisis peritoneal y medicamentos para controlar la hipertensión y la anemia. El paciente fue estabilizado y se le recomendó continuar con el tratamiento en el servicio de nefrología.

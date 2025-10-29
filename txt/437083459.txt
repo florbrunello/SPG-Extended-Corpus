@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Noa López Santos
+DNI: 16573882J
+Fecha de nacimiento: 30/03/1957
+Género: Femenino
+Domicilio: Calle del Sombrerete 60
+Ciudad: San Pedro del Pinatar, Zamora, Castilla y León
+Código postal: 49315
+Email: noalopez_santos@protonmail.com
+Teléfono fijo: +34 980 30 36 34
+FAX: +34 980 12 08 10
+NHC: 1783252
+NASS: 700914035300
+Condición de riesgo: Fumadora
+Datos asistenciales.
+Médico: Dr. Adolfo Nieto López. NC 817709228. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/1985
+Episodio: 18327544
+Hospital: Hospital Universitario Río Hortega
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 28 años de edad, con antecedentes de episodios de pancreatitis aguda y hepatopatía alcohólica, acompañado de su suegro. Presenta una evolución clínica caracterizada por episodios recurrentes de dolor abdominal y vómitos, con un patrón de consumo de alcohol elevado y persistente. La exploración física revela signos de malnutrición y deshidratación, con un estado de conciencia alterado y un nivel de conciencia disminuido. Se han realizado pruebas diagnósticas, incluyendo análisis de sangre y exploración por imágenes, que han mostrado signos de daño hepático y pancreático.
+La condición clínica del paciente se ha evaluado como grave, con un alto riesgo de complicaciones, incluyendo la posible necesidad de trasplante hepático. Se ha iniciado tratamiento con medicamentos para controlar los síntomas y prevenir la descompensación hepática y pancreática. Se requiere una evaluación exhaustiva de la condición del paciente y un plan de tratamiento individualizado para abordar sus necesidades específicas.
+La evolución del paciente será monitoreada de cerca, con revisiones regulares para ajustar el plan de tratamiento y evaluar el progreso clínico. Se recomienda una intervención psicológica y de apoyo para ayudar al paciente a abordar su consumo de alcohol y mejorar su calidad de vida.

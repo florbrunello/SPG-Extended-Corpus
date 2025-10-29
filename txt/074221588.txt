@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: María Dolores Abad Gil
+DNI: 54333063W
+Fecha de nacimiento: 24/03/2012
+Género: M
+Domicilio: Calle del Sacramento 27
+Ciudad: Béjar, Pontevedra, Galicia
+Código postal: 36683
+Email: mariadolores-abad.gil@uca.es
+Teléfono fijo: +34 986 06 53 49
+Teléfono móvil: +34 786 94 91 82
+NHC: 8655875
+NASS: 659416185562
+Datos asistenciales.
+Médico: Dr. Mateo Diez Mateos. NC 311954286. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/10/2016
+Episodio: 15933269
+Centro de salud: Centro de Salud Barajas

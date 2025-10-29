@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Lidia Aparicio Costa
+DNI: 62419506J
+Fecha de nacimiento: 22/11/1980
+Género: Mujer
+Domicilio: Calle de Valverde 49, 10F
+Ciudad: León, Granada, Andalucía
+Código postal: 18021
+Email: costa@imibic.org
+Teléfono fijo: +34 958 33 05 60
+FAX: +34 958 31 76 38
+NHC: 4505205
+NASS: 62419506J
+Condición de riesgo: Exfumador
+Datos asistenciales.
+Médico: Dr. Germán Montoya Lorenzo. NC 629557968. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/02/2023
+Centro de salud: Centro de Salud Fuenlabrada
+Informe clínico del paciente:
+Paciente de 42 años de edad, exfumador de 4 años, acompañado de su padre. Presenta una disminución significativa en la memoria a corto plazo, dificultades para aprender nuevas habilidades y una tendencia a repetir preguntas y actividades. El paciente también ha informado de dificultades para encontrar las palabras adecuadas y una sensación de confusión y desorientación en entornos nuevos.
+La exploración física revela una presencia de signos de rigidez en los músculos, especialmente en las piernas, y una reducción en la velocidad y la coordinación motora. El paciente también presenta dificultades para realizar tareas motoras finas, como escribir o vestirse.
+Los resultados de las pruebas neurológicas, incluyendo la evaluación de la función cognitiva, muestran una disminución en la capacidad de razonamiento y una dificultad para resolver problemas complejos. La exploración de la función visual y auditiva no muestra alteraciones significativas.
+Con el diagnóstico de demencia tipo Alzheimer, se instaura un tratamiento sintomático, incluyendo medicamentos para aliviar los síntomas de la enfermedad, y un plan de cuidado y apoyo para el paciente y su familia.
+Antecedentes:
+El paciente tiene una historia de consumo de tabaco de 20 años, con un promedio de 20 cigarrillos al día. También ha informado de una historia familiar de enfermedades neurodegenerativas.
+Evolución y comentarios:
+El paciente ha mostrado una respuesta favorable al tratamiento, con una reducción en la gravedad de los síntomas y una mejora en la calidad de vida. Sin embargo, se requiere un seguimiento continuo para ajustar el tratamiento y evaluar la progresión de la enfermedad.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado una disminución en la función cognitiva y una dificultad para realizar tareas diarias.

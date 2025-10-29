@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Noelia Galvez Bravo
+DNI: 41555453L
+Fecha de nacimiento: 11/04/1942
+Género: Mujer
+Domicilio: Calle de Fuencarral 73
+Ciudad: Jaca, Huesca, Aragón
+Código postal: 22999
+Email: noelia-galvez@uhu.es
+Teléfono fijo: +34 974 17 69 23
+Teléfono móvil: +34 674 76 71 56
+NHC: 9056826
+Condición de riesgo: Trabajador de Laboratorio
+Datos asistenciales.
+Médico: Dr. José Ángel Pérez Santos. NC 489565873. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 22/03/1984
+Episodio: 95542365
+Centro de salud: Centro de Salud San Sebastián de los Reyes

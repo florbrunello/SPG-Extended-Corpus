@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Mónica Millan Castillo
+DNI: 75662248E
+Fecha de nacimiento: 30/07/1950
+Género: Mujer
+Domicilio: Calle del Gobernador 14, 1K
+Ciudad: Vitoria, Granada, Andalucía
+Código postal: 18803
+Email: monica-millancastillo@gmail.com
+Teléfono fijo: +34 958 52 98 49
+Teléfono móvil: +34 658 64 44 97
+NHC: 9411723
+NASS: 468043486571
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dr. Juan José Aparicio Alonso
+NC: 096992338
+Cargo: Residente de 2° año en Pediatría
+Institución: Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+Dirección: Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso: 02/06/1973
+Centro de salud de ingreso: Hospital Universitario Virgen Macarena
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 22 años de edad, acompañado de su pareja. La paciente presenta una historia de antecedentes de salud que incluyen una enfermedad crónica no especificada, por lo que se le solicita realizar una exploración física y pruebas diagnósticas para determinar la causa subyacente de sus síntomas.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. La paciente se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. La paciente presenta una lesión en la mano derecha, que se describe como una "herida abierta".
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 60%); plaquetas 200.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 100 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 4,0 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 9,0 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) y pruebas de laboratorio (Hemocultivos, Serologías específicas) para determinar la causa subyacente de los síntomas de la paciente.

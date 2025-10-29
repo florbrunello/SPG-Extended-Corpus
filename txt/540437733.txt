@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Miriam González Jiménez
+DNI: 75715748R
+Fecha de nacimiento: 11/11/1972
+Género: F
+Domicilio: Calle del Prado 98
+Ciudad: Hellín, León, Castilla y León
+Código postal: 24827
+Email: miriam.gonzalez@ciberned.es
+Teléfono fijo: +34 987 10 00 78
+Teléfono móvil: +34 687 28 37 92
+NHC: 4605245
+NASS: 934991980537
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dr. Isaac Iglesias Diez. NC 666162921. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/11/1987
+Centro de salud: Centro de Salud Boadilla del Monte
+Informe clínico del paciente:
+Paciente de tez blanca de 15 años de edad, acompañado de su abuela. Presenta una temperatura corporal de 37,5°C, pulso de 80 ppm y respiraciones de 20 rpm. El paciente se encuentra consciente y orientado, con buen estado de nutrición e hidratación. En la exploración física, no se palpan adenopatías ni bocio en la zona cervical. La auscultación cardíaca revela un ritmo cardíaco normal sin soplos ni roces. La auscultación pulmonar muestra conservación del murmullo vesicular. El abdomen es blando y depresible, sin masas ni megalias. En la exploración neurológica, no se detectan signos meníngeos ni datos de focalidad. Las extremidades no presentan varices ni edemas.
+Exploración complementaria:
+Se han solicitado análisis de sangre para determinar la causa subyacente de los síntomas del paciente. Los resultados de los análisis aún no están disponibles.
+Diagnóstico y tratamiento:
+El diagnóstico del paciente aún no está claro, pero se sospecha que pueda tener una infección respiratoria. Se le ha recetado un curso de antibióticos para tratar la posible infección. Se le pedirá que regrese al hospital para una revisión en 48 horas para evaluar la respuesta al tratamiento.

@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Arturo Mora Prieto
+DNI: 33496226S
+Fecha de nacimiento: 23/11/2015
+Género: M
+Domicilio: Calle de San Bernardo 64, 9J
+Ciudad: Socuéllamos, Tarragona, Cataluña
+Código postal: 43534
+Email: mora@ciberehd.org
+Teléfono fijo: +34 977 85 30 58
+Teléfono móvil: +34 777 90 21 93
+NHC: 7547353
+NASS: 932935932855
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dr. José Carlos Gutiérrez Ruiz. NC 371081132. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/07/2020
+Episodio: 71830277
+Centro de salud: Centro de Salud Conde de Casal
+Informe clínico del paciente:
+Paciente judío de 4 años de edad, acompañado de su tío. Presenta una temperatura corporal de 38,5°C, con sudoración y tos seca. Se encuentra en buen estado de nutrición y hidratación. La exploración física revela ausencia de signos de infección respiratoria aguda, sin ronquidos ni dificultad para respirar. La auscultación cardíaca es rítmica y sin soplos ni roces. La exploración abdominal no muestra signos de dolor ni distensión.
+Antecedentes:
+El paciente tiene antecedentes de una enfermedad respiratoria crónica, diagnosticada como asma bronquial, desde los 2 años de edad. Ha sido tratado con broncodilatadores y corticosteroides inhalados, sin necesidad de hospitalización. El paciente también tiene una historia de alergia a los alimentos, específicamente a la leche de vaca y el gluten.
+Evolución y comentarios:
+El paciente fue ingresado en el Servicio de Pediatría del Hospital Universitario de Madrid el 25 de julio de 2020, con un diagnóstico de neumonía viral aguda. Se le realizó una exploración física y se solicitaron análisis de sangre y orina. Los resultados de los análisis mostraron una infección viral aguda, sin signos de bacteriemia ni sepsis. El paciente se encuentra en buen estado de salud y se le ha iniciado un tratamiento con antivirales y antibióticos para prevenir posibles complicaciones.
+Remitido por:
+El paciente fue remitido por su pediatra de cabecera, quien notificó una temperatura corporal alta y tos seca en el paciente. Se le solicitó un estudio de sangre y orina para confirmar el diagnóstico y determinar el tratamiento adecuado.

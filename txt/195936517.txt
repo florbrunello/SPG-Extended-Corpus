@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Josefa Pacheco Segura
+DNI: 48618113T
+Fecha de nacimiento: 04/11/2001
+Género: F
+Domicilio: Calle de Génova 49
+Ciudad: Ciudad autónoma de Ceuta, Ceuta,
+Código postal: 52070
+Email: pacheco.segura@protonmail.com
+Teléfono fijo: +34 956 96 54 88
+Teléfono móvil: +34 656 51 50 37
+NHC: 9819169
+Datos asistenciales.
+Médico: Dra. Mireia Gracia Pascual. NC 612881659. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/12/2018
+Episodio: 89920251
+Centro de salud: Centro de Salud Ciudad Lineal
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 17 años de edad, acompañado de su madre. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es MD387AER506.

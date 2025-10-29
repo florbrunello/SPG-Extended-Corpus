@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Ahmed Plaza Soriano
+DNI: 72724831G
+Fecha de nacimiento: 09/03/2025
+Género: M
+Domicilio: Calle de la Cabeza 93
+Ciudad: Majadahonda, Santa Cruz de Tenerife, Canarias
+Código postal: 38570
+Email: plaza537@udc.es
+Teléfono fijo: +34 922 54 27 37
+Teléfono móvil: +34 722 41 51 43
+NHC: 2469293
+NASS: 127004945971
+Condición de riesgo: Trabajador Industrial
+Datos asistenciales.
+Médico: Dr. Alberto Vega Rueda. NC 111416120. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 09/03/2025
+Hospital: Hospital Clínic Barcelona
+Matrícula del coche: 7841EQU
+Modelo: Ram 1500
+VIN: VSTT7R59QPF102164
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 0 meses de edad, acompañado de su abuela. Presenta un cuadro de hipoglucemia severa, con niveles de glucosa en sangre inferiores a 30 mg/dl. La paciente ha sido ingresada en la unidad de cuidados intensivos para recibir tratamiento de reanimación y estabilización.
+La exploración física revela: Tª 36,5 C; T.A: 90/60 mmHg; Fc: 120 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 18,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 20,5 seg. Bioquímica: Glucosa 20 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 140 U/l; calcio 8,2 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) y pruebas de laboratorio (Hemocultivos, Serologías específicas para infecciones). Los resultados de estas pruebas no han sido obtenidos todavía.
+Con el diagnóstico de hipoglucemia severa se instaura tratamiento de reanimación y estabilización, incluyendo la administración de glucosa en vía intravenosa y la monitorización de los niveles de glucosa en sangre. El paciente se encuentra en estado estable y se espera que se recupere completamente con el tratamiento adecuado.
+Evolución y comentarios:
+La evolución del paciente ha sido favorable, con una recuperación completa de los niveles de glucosa en sangre y una estabilización del estado clínico. Se han realizado pruebas de imagen y laboratorio para determinar la causa subyacente de la hipoglucemia severa, pero los resultados no han sido obtenidos todavía.
+Remitido por:
+Se remite al paciente a la unidad

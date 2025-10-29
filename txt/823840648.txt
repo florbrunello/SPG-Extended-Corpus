@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Mikel Guerra Serra
+DNI: 18091840V
+Fecha de nacimiento: 05/04/1931
+Género: M
+Domicilio: Calle del Gobernador 19
+Ciudad: Béjar, Gerona, Cataluña
+Código postal: 17739
+Email: mikel@icloud.com
+Teléfono fijo: +34 972 30 88 41
+Teléfono móvil: +34 772 64 76 53
+NHC: 5438852
+NASS: 007767192192
+Condición de riesgo: Bombero
+Datos asistenciales.
+Médico: Dra. Teresa Mesa Soto. NC 576487501. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/1993
+Episodio: 96968853
+Hospital: Hospital Universitario 12 de Octubre
+Informe clínico del paciente:
+Paciente no fumador de 62 años de edad, acompañado de su pareja, que acude al Servicio de Urgencias con un cuadro de dolor torácico agudo y dificultad respiratoria. El paciente tiene una historia de hipertensión arterial y diabetes mellitus tipo 2, y actualmente se encuentra en un estado de salud general aceptable.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 20 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 9.500/mm3 (neutrófilos 70%); plaquetas 250.000/ mm3. VSG: 10 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 15 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía torácica, Rx torácica) que no evidencian patología significativa. Se diagnostica un cuadro de angina de pecho aguda y se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) así como tratamiento farmacológico (nitroglicerina, beta-bloqueantes).
+El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio con seguimiento médico regular.
+Antecedentes:
+El paciente tiene una historia de hipertensión arterial y diabetes mellitus tipo 2, que se encuentra bien controlada con medicación y dieta.
+Evolución y comentarios:
+El paciente ha estado en un estado de salud general aceptable hasta la presentación del cuadro de angina de pecho aguda. La exploración física y los datos analíticos no han revelado patología significativa.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera con el diagnóstico de angina de pecho aguda.

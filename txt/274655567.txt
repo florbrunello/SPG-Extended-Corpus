@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Vanessa Trujillo Álvarez
+DNI: 33424121S
+Fecha de nacimiento: 26/03/1938
+Género: M
+Domicilio: Calle de Juan Bravo 17, 7P
+Ciudad: Yecla, Álava, Pais Vasco
+Código postal: 01094
+Email: vanessa.alvarez@udc.es
+Teléfono fijo: +34 945 35 10 70
+Teléfono móvil: +34 745 97 84 22
+NHC: 4995479
+NASS: 538657544746
+Condición de riesgo: Plomero
+Datos asistenciales.
+Médico: Dr. Xavier Quintana Carrillo. NC 420447122. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/11/2020
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 8904GLI
+Modelo: Jeep Wrangler
+VIN: VSOUIN81CEC802789
+Evolución y comentarios:
+El paciente fue ingresado en el hospital con una temperatura de 38°C y dolor de cabeza. Se realizó un examen físico y se encontró que el paciente tenía una presión arterial alta y un ritmo cardíaco acelerado. Se solicitaron análisis de sangre y se realizó una ecografía cardíaca.
+Informe clínico del paciente:
+Paciente de ascendencia oceánica de 82 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es GO709VAQ734.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, Dr. Juan Pérez García, quien se encontraba en el hospital para una reunión con el equipo de investigación del CIBERCV.

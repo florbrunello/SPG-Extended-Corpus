@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Manuela Muñoz Cruz
+DNI: 50779635M
+Fecha de nacimiento: 29/12/1938
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 91
+Ciudad: Córdoba, Ibiza, Islas Baleares
+Código postal: 07903
+Email: munoz470@udc.es
+Teléfono fijo: +34 971 02 77 15
+Teléfono móvil: +34 771 01 61 10
+NHC: 7655388
+NASS: 709942523510
+Condición de riesgo: Ingeniero de Minas
+Datos asistenciales.
+Médico: Dr. Mariano Hidalgo Ríos. NC 189749713. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/03/1990
+Episodio: 38668114
+Hospital: Complejo Asistencial Universitario Salamanca
+Matrícula del coche: 2947DNL
+Modelo: BMW 3 Series
+VIN: VSDV3SEI0KK272636
+Informe clínico del paciente:
+Paciente no fumador de 51 años de edad, con antecedentes personales de hipertensión arterial y dislipemia, que acude al servicio de emergencia con dolor torácico agudo y dificultad para respirar. La exploración física revela: Tª 37,5 C; T.A: 140/90 mmHg; Fc: 22 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca con soplos cardíacos en la región cardiaca y auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Antecedentes:
+El paciente tiene un historial de hipertensión arterial y dislipemia, que ha sido controlada con medicación en el pasado. También tiene un antecedente de infarto de miocardio en el año 2010.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos para monitorización y tratamiento de su condición. Se ha realizado un ecocardiograma transtorácico que muestra una disminución de la función ventricular izquierda y una hipertrofia ventricular derecha. Se ha iniciado el tratamiento con nitroglicerina y furosemida para reducir la presión arterial y mejorar la función cardíaca.
+Remitido por:
+El paciente ha sido remitido al servicio de cardiología para una evaluación más detallada de su condición y para discutir opciones de tratamiento adicionales.

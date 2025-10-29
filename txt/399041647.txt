@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Esteban Galan Moya
+DNI: 82405600G
+Fecha de nacimiento: 13/04/1939
+Género: Hombre
+Domicilio: Calle de las Tres Cruces 25
+Ciudad: Bormujos, La Coruña, Galicia
+Código postal: 15336
+Email: galanmoya1708@isciii.es
+Teléfono fijo: +34 981 04 50 96
+Teléfono móvil: +34 681 37 72 40
+NHC: 4679898
+NASS: 463982135654
+Condición de riesgo: Albañil
+Datos asistenciales.
+Médico: Dra. María Asunción Bravo Roca. NC 293790146. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/09/1991
+Episodio: 91889533
+Centro de salud: Centro de Salud Valdemoro
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 52 años de edad, acompañado de su hija, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, presenta síntomas de angina de pecho desde hace 3 días, con dolor en el pecho irradiado a la mandíbula y brazo izquierdo, sin antecedentes de enfermedad cardiovascular previa. La exploración física revela taquicardia, hipertensión arterial y roncus cardíacos en la zona inferior del esternón. Se solicitan pruebas de imagen (ECG y TAC coronario) que muestran una lesión en la pared inferior del ventrículo izquierdo con isquemia miocárdica. Se diagnostica infarto agudo de miocardio y se inicia tratamiento con aspirina, nitratos y beta-bloqueantes. El paciente es trasladado a la unidad de cuidados intensivos para monitorización y tratamiento continuo.
+Evolución y comentarios:
+El paciente presenta una evolución estable durante las primeras 24 horas de ingreso, con control de la taquicardia y la hipertensión arterial. Se realiza una angiografía coronaria que confirma la lesión en la pared inferior del ventrículo izquierdo. Se decide intervenir quirúrgicamente para colocar un stent en la lesión. El paciente es trasladado a la sala de cirugía y se realiza la intervención con éxito. El paciente es trasladado de nuevo a la unidad de cuidados intensivos para recuperación y monitorización.
+Remitido por:
+Dra. María Asunción Bravo Roca. NC 293790146. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

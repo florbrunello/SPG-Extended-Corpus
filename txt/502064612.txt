@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Esteban Velasco Camacho
+DNI: 90200434T
+Fecha de nacimiento: 08/05/1972
+Género: V
+Domicilio: Calle del Carmen 32
+Ciudad: Plasencia, Cáceres, Extremadura
+Código postal: 10578
+Email: velasco@ciberehd.org
+Teléfono fijo: +34 927 74 62 08
+Teléfono móvil: +34 627 58 74 30
+NHC: 9451673
+NASS: 90200434T105780
+Condición de riesgo: Paciente con historia de exposición a agentes biológicos
+Datos asistenciales.
+Médico: Dra. María Inmaculada Pardo Macias. NC 001271083. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/05/1991
+Episodio: 57156656
+Centro de salud: Centro de Salud Carabanchel
+Informe clínico del paciente:
+Paciente musulman de 19 años de edad, con antecedentes de exposición a agentes biológicos. Presenta una condición clínica compleja, con síntomas de infección sistémica y reacciones adversas a la exposición a sustancias biológicas. El paciente ha sido sometido a un proceso de reconocimiento facial y escaneo del iris, con códigos de acceso correspondientes a NI617NBJ441 y RM866AHF526, respectivamente.
+La exploración física revela: temperatura corporal elevada, taquicardia, hipertensión arterial y signos de inflamación en varias áreas del cuerpo. El paciente está consciente y orientado, pero presenta signos de malestar y ansiedad.
+Los datos analíticos muestran los siguientes resultados: hemograma con leucocitos elevados, proteínas en orina y signos de inflamación en la biopsia de tejido. La resonancia magnética (RM) ha revelado lesiones en varios órganos, incluyendo el hígado, el riñón y el pulmón.
+Con el diagnóstico de infección sistémica y reacciones adversas a la exposición a sustancias biológicas, se ha instaurado un tratamiento intensivo, incluyendo antibióticos, antivirales y medicamentos para controlar la inflamación. El paciente está siendo monitoreado de cerca y se están realizando pruebas adicionales para determinar la causa subyacente de la infección y las reacciones adversas.
+Antecedentes:
+El paciente tiene antecedentes de exposición a agentes biológicos en un laboratorio de investigación. El paciente ha sido sometido a un proceso de reconocimiento facial y escaneo del iris como parte de un estudio de investigación.
+Evolución y comentarios:
+El paciente ha estado en tratamiento durante varias semanas y ha presentado una mejoría significativa en sus síntomas. Sin embargo, la condición clínica del paciente sigue siendo compleja y requiere un seguimiento estrecho.
+Remitido por:
+El paciente ha sido remitido al Servicio de Medicina Interna del Hospital Universitario para un seguimiento y tratamiento continuo.

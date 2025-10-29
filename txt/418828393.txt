@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Ignacio Villar Costa
+DNI: 28003810E
+Fecha de nacimiento: 26/06/1975
+Género: V
+Domicilio: Calle del Rollo 87, 10N
+Ciudad: Elda, Navarra, Navarra
+Código postal: 31053
+Email: ignacio-villar@h12o.es
+Teléfono fijo: +34 948 40 89 37
+Teléfono móvil: +34 648 08 82 30
+NHC: 7218375
+NASS: 777912886937
+Condición de riesgo: Paciente en estudio
+Datos asistenciales.
+Médico: Dr. Arnau Aguilar Martín. NC 758309608. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/03/1993
+Hospital: Hospital Universitario de Fuenlabrada
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 47 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, acompañado de su esposa. El paciente refiere dolores de cabeza intensos y frecuentes durante las últimas semanas, acompañados de náuseas y vómitos. La exploración física revela hipertensión arterial (160/100 mmHg) y signos de hiperglucemia (glucemia de 220 mg/dl). Los análisis de sangre muestran elevación de la creatinina (1,5 mg/dl) y proteinuria (300 mg/dl).
+Se solicitan pruebas de imagen para evaluar la causa de la hipertensión y la proteinuria. La ecografía renal muestra un riñón derecho hipoplástico con función reducida. La angiografía renal revela estenosis de la arteria renal izquierda.
+Con el diagnóstico de hipertensión arterial y proteinuria secundaria a enfermedad renal, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) así como tratamiento farmacológico: Amlodipino 10 mg vía oral cada 24 horas y Enalapril 20 mg vía oral cada 24 horas. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde se le recomienda seguimiento ambulatorio.
+Evolución y comentarios:
+El paciente se refiere a la clínica con mejora en los síntomas y sin signos de complicaciones. Se le prescribe seguimiento ambulatorio cada 15 días para control de la presión arterial y la función renal.
+Remitido por:
+Dr. Arnau Aguilar Martín, Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

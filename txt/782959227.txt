@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Lidia Morales Galan
+DNI: 45148863R
+Fecha de nacimiento: 02/04/1942
+Género: F
+Domicilio: Calle de Ibiza 76, 5L
+Ciudad: Badajoz, Salamanca, Castilla y León
+Código postal: 37746
+Email: lidia_moralesgalan@yahoo.com
+Teléfono fijo: +34 923 09 41 45
+Teléfono móvil: +34 723 18 80 82
+NHC: 7937596
+Condición de riesgo: Granjero
+Datos asistenciales.
+Médico: Dr. Joaquín Serrano Hernández. NC 717384222. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 07/02/1974
+Episodio: 38905088
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Informe clínico del paciente:
+Paciente de descendencia africana de 31 años de edad, con antecedentes de enfermedades oculares en su familia. Presenta una visión borrosa en el ojo derecho desde hace 2 semanas, con dolor leve en la región ocular. La exploración física revela una pupila dilatada en el ojo derecho, con una visión de 20/50 en ese ojo. La exploración oftalmológica muestra una retinopatía proliferativa en el ojo derecho, con una neovascularización significativa.
+Los datos analíticos muestran un hemograma normal, con un recuento de leucocitos de 8.500/mm3 y un recuento de plaquetas de 250.000/mm3. La bioquímica muestra un nivel de glucosa de 120 mg/dl y un nivel de colesterol de 200 mg/dl.
+Se solicitan pruebas de imagen para evaluar la extensión de la retinopatía proliferativa y la presencia de cualquier otro tipo de lesión ocular. Se realiza una angiografía fluoresceínica de la retina, que muestra una gran neovascularización en el ojo derecho.
+Con el diagnóstico de retinopatía proliferativa secundaria a diabetes mellitus, se instaura un tratamiento con láser panretinal para reducir la neovascularización y prevenir la progresión de la enfermedad. El paciente se somete a una serie de sesiones de láser, con una mejora significativa en la visión en el ojo derecho.
+Evolución y comentarios:
+El paciente se somete a una serie de controles para evaluar la respuesta al tratamiento y la progresión de la enfermedad. Se realiza una angiografía fluoresceínica de la retina cada 3 meses para evaluar la reducción de la neovascularización.
+Remitido por:
+Dr. Joaquín Serrano Hernández
+Oftalmólogo Especialista en Retina y Vítreo
+Instituto Universitario de Oftalmobiología Aplicada (IOBA)
+Avenida Ramón y Cajal, 7. 47011. Valladolid. España

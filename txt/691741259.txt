@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Teresa Soler Martín
+DNI: 26259813T
+Fecha de nacimiento: 04/04/2006
+Género: F
+Domicilio: Calle de Valverde 8, 9N
+Ciudad: Vitoria, Cantabria, Cantabria
+Código postal: 39290
+Email: teresa-martin@ub.edu
+Teléfono fijo: +34 942 32 44 30
+FAX: +34 942 38 78 37
+NHC: 3901257
+Condición de riesgo: Dentista
+Datos asistenciales.
+Médico: Dr. Eugenio Rivero Álvarez. NC 568466820. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/02/2011
+Episodio: 71697498
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+Matrícula del coche: 1037JEA
+Modelo: Honda CR-V
+VIN: VSQFAE1N3VV335474
+Informe clínico del paciente:
+Paciente de descendencia africana de 4 años de edad, acompañado de su abuela. Se registró una sesión de firma biométrica, el código obtenido para revisarla es VI048RAU381. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es PY967ATY313.
+Antecedentes:
+Ninguno.
+Evolución y comentarios:
+El paciente se encuentra en buen estado de salud, sin síntomas ni signos de enfermedad.
+Remitido por:
+Ninguno.

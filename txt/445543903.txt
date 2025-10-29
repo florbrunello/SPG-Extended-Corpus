@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Unai Campos Herrero
+DNI: 60878200Y
+Fecha de nacimiento: 17/02/1926
+Género: Hombre
+Domicilio: Calle de la Primavera 71
+Ciudad: Lleida, Granada, Andalucía
+Código postal: 18079
+Email: herrero1783@ual.es
+Teléfono fijo: +34 958 96 82 84
+Teléfono móvil: +34 758 42 77 06
+NHC: 2440562
+NASS: 60878200Y
+Condición de riesgo: Anciano
+Datos asistenciales.
+Médico: Dra. María Dolores Bueno Palacios. NC 656563223. Residente de 5° año en Neurología.
+Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/04/2021
+Centro de salud de ingreso: Hospital Universitario de Basurto
+Matrícula del coche: 7562CMR
+Modelo: Tesla Model 3
+VIN: VSUM4ETBKPF075576
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 95 años de edad, acompañado de su hija, presenta un cuadro de demencia leve con pérdida de memoria y disminución de la función cognitiva. El paciente ha estado experimentando dificultades para recordar eventos recientes y ha mostrado una disminución en la capacidad para realizar tareas diarias.
+La exploración física revela una presencia de signos de envejecimiento, incluyendo un declive en la función muscular y una disminución en la movilidad. El paciente también presenta una disminución en la función sensorial, incluyendo una disminución en la audición y la visión.
+Los datos analíticos muestran un resultado de hemograma normal, con una cuenta de leucocitos de 7.500/mm3 y una cuenta de plaquetas de 250.000/mm3. La bioquímica muestra un resultado de glucosa de 120 mg/dl y un resultado de urea de 30 mg/dl.
+Se han solicitado pruebas de imagen, incluyendo una resonancia magnética cerebral y una ecografía abdominal, para evaluar la presencia de cualquier patología subyacente. El paciente está actualmente en tratamiento con un régimen de medicamentos para manejar los síntomas de la demencia.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento durante las últimas semanas y ha mostrado una ligera mejoría en la función cognitiva. Sin embargo, el paciente sigue presentando dificultades para recordar eventos recientes y ha mostrado una disminución en la capacidad para realizar tareas diarias.
+Remitido por:
+Dra. María Dolores Bueno Palacios
+Residente de 5° año en Neurología
+Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

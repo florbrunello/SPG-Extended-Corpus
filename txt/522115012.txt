@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Gloria Romero Esteban
+DNI: 83455036L
+Fecha de nacimiento: 31/08/1946
+Género: Mujer
+Domicilio: Calle de Alberto Aguilera 29
+Ciudad: Talavera de la Reina, Santa Cruz de Tenerife, Canarias
+Código postal: 38638
+Email: gloria.romero@ciberisciii.es
+Teléfono fijo: +34 922 12 41 58
+FAX: +34 922 68 25 28
+NHC: 8813309
+Condición de riesgo: Trabajador Agrícola
+Datos asistenciales.
+Médico: Dra. María Josefa Parra Aparicio. NC 571868174. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/02/1988
+Episodio: 05160850
+Hospital: Hospital Universitario Río Hortega
+Matrícula del coche: 9761YSE
+Modelo: Toyota RAV4
+VIN: VSJ9GMHN4WM917177
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 41 años de edad que acude al Servicio de Urgencias con síntomas de mareos y dificultad para mantener el equilibrio. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin signos de alteración neurológica. En la exploración abdominal no se palpan adenopatías ni megalias. Se solicita un análisis de sangre para evaluar la función hepática y renal.
+Antecedentes:
+El paciente tiene antecedentes de consumo de alcohol excesivo durante los últimos 10 años, lo que ha llevado a una hepatomegalia y un aumento de la transaminasa láctica en el análisis de sangre. También tiene antecedentes de episodios de mareos y vómitos en el pasado.
+Evolución y comentarios:
+El paciente es ingresado en la unidad de cuidados intensivos para ser monitoreado y recibir tratamiento para la desintoxicación del alcohol. Se le administra un medicamento para controlar los síntomas de mareos y se le recomienda una dieta balanceada y un régimen de hidratación adecuado.
+Remitido por:
+El paciente es remitido a la unidad de hepatología para ser evaluado y recibir tratamiento para la enfermedad hepática crónica.

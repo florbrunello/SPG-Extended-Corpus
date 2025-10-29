@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Isaac Carmona Reyes
+DNI: 29235602A
+Fecha de nacimiento: 30/07/1979
+Género: M
+Domicilio: Calle de la Ribera 81
+Ciudad: Castellón de la Plana, Soria, Castilla y León
+Código postal: 42508
+Email: isaac_reyes@ciberned.es
+Teléfono fijo: +34 975 71 90 76
+FAX: +34 975 39 98 28
+NHC: 1012645
+NASS: 647411873144
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dra. Milagros Segura Santiago. NC 431229441. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 14/06/2016
+Hospital: Hospital Clínic Barcelona
+Informe clínico del paciente:
+Paciente usuario de drogas de 36 años de edad, acompañado de su hija.
+Exploración física:
+La exploración física ha revelado signos de abstinencia, como sudoración, temblores y escalofríos. El paciente ha sido tratado con medicamentos para la abstinencia y ha recibido orientación y apoyo para su recuperación.
+Diagnóstico:
+El diagnóstico principal es la dependencia de sustancias ilegales, con síntomas relacionados con la abstinencia. El paciente también presenta problemas de salud relacionados con el uso de drogas, como ansiedad y cambios en el estado de ánimo.
+Tratamiento:
+El tratamiento consiste en medicamentos para la abstinencia y orientación y apoyo para la recuperación. El paciente también ha recibido tratamiento para sus problemas de salud relacionados con el uso de drogas.
+Prognosis:
+La prognosis es difícil de predecir, ya que el paciente ha tenido problemas de salud relacionados con el uso de drogas durante varios años. Sin embargo, con el tratamiento adecuado y el apoyo adecuado, el paciente puede lograr su recuperación.

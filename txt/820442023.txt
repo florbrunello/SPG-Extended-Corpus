@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Belén Varela Montes
+DNI: 60839462T
+Fecha de nacimiento: 14/07/1964
+Género: F
+Domicilio: Calle de Arenal 8
+Ciudad: Bormujos, Granada, Andalucía
+Código postal: 18250
+Email: varela.montes@ub.edu
+Teléfono fijo: +34 958 49 21 14
+Teléfono móvil: +34 658 38 45 78
+NHC: 5156025
+NASS: 206294321000
+Condición de riesgo: Fumador
+Datos asistenciales.
+Médico: Dra. Vanessa Peña Giménez. NC 601085183. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/12/2022
+Centro de salud: Centro de Salud Sevilla Sur
+Informe clínico del paciente:
+Paciente fumador de 58 años de edad, acompañado de su abuela, que acude al Servicio de Urgencias con síntomas de dolor torácico irradiado a la espalda y dificultad para respirar. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 200.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 130 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan Hemocultivos: negativos para bacterias y levaduras. Las pruebas de imagen solicitadas (Rx tórax, Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) no evidencian patología significativa.
+Con el diagnóstico de angina de pecho se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de las piernas) así como tratamiento medicamentoso con nitratos, betabloqueantes y antiagregantes plaquetarios. El paciente mejora significativamente de su cuadro tras 24 horas de ingreso, decidiéndose el alta a su domicilio con seguimiento médico regular.

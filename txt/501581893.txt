@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: José Marcos Mendoza
+DNI: 39865397A
+Fecha de nacimiento: 21/12/1926
+Género: V
+Domicilio: Calle de Recoletos 73
+Ciudad: Getafe, Córdoba, Andalucía
+Código postal: 14596
+Email: josemarcos.mendoza30@yahoo.com
+Teléfono fijo: +34 957 56 60 34
+Teléfono móvil: +34 757 14 33 74
+NHC: 0795164
+Condición de riesgo: Trabajador de Sanitización
+Datos asistenciales.
+Médico: Dra. Rocío Macias Moreno. NC 370676387. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 15/04/1967
+Episodio: 13776605
+Hospital: Hospital Universitario Puerto Real
+Informe clínico del paciente:
+Paciente discapacitado de 40 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es DI316KXV512.

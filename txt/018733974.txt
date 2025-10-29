@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Abel Romero Robles
+DNI: 59167563V
+Fecha de nacimiento: 03/10/2023
+Género: Hombre
+Domicilio: Calle del Pez 64, 3A
+Ciudad: Gijón, Vizcaya, Pais Vasco
+Código postal: 48280
+Email: abel-romerorobles@us.es
+Teléfono fijo: +34 946 62 48 52
+FAX: +34 946 14 94 81
+NHC: 6345206
+Condición de riesgo: Trabajador de Residuos Sólidos
+Datos asistenciales.
+Médico: Dr. Rodrigo Gil Morales. NC 698709207. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 00159905
+Hospital: Complejo Hospitalario La Mancha Centro
+Matrícula del coche: 4449XYL
+Modelo: Jeep Wrangler
+VIN: VSX6B20XARC092247
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de un año de edad, acompañado de su hermana. El paciente presenta una temperatura corporal de 37,5°C, pulso de 120 bpm y respiraciones de 24 por minuto. El estado general es bueno, sin signos de dolor ni malestar.
+La exploración física revela un peso de 12 kg y una talla de 90 cm. La piel y los ojos están dentro de los límites normales. No se encuentran signos de infección ni inflamación en la zona de la nariz, oídos, garganta ni otras áreas.
+La exploración neurológica no muestra signos de alteración en la conciencia, orientación ni respuesta a estímulos. La exploración muscular y la reflexología no presentan alteraciones.
+Se solicitan pruebas de laboratorio para evaluar la función renal y hepática, así como una radiografía de tórax para evaluar la función pulmonar.
+El diagnóstico inicial es de una infección respiratoria aguda, por lo que se inicia tratamiento con antibióticos y se recomienda reposo y hidratación.
+Antecedentes:
+El paciente tiene una historia de alergia a ciertos alimentos, pero no se tiene información sobre la gravedad de esta alergia.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento durante las últimas 24 horas y ha mostrado una mejora en su estado general. Sin embargo, se sigue observando una temperatura corporal elevada y se solicitan pruebas adicionales para evaluar la gravedad de la infección.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha informado sobre la presencia de síntomas respiratorios agudos y una temperatura corporal elevada.

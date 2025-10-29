@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Lucas Arroyo Vera
+DNI: 46410079N
+Fecha de nacimiento: 25/12/1981
+Género: Varón
+Domicilio: Calle del Pez 9
+Ciudad: Lorca, Navarra, Navarra
+Código postal: 31495
+Email: uoua8uzvzO189@udc.es
+Teléfono fijo: +34 948 72 23 72
+Teléfono móvil: +34 748 44 90 97
+NHC: 4576022
+NASS: 795680807015
+Condición de riesgo: Paciente con antecedentes de accidente cerebrovascular en la familia
+Datos asistenciales.
+Médico: Dra. Magdalena Abad Guerrero. NC 109784467. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/03/1994
+Centro de salud: Complejo Hospitalario Universitario de Santiago
+Médico de cabecera: Dr. Juan Pérez García. NC 098765432. Médico de Familia. Policlínico de Santiago. Avenida de la Constitución 123. 15705. Santiago de Compostela. España.
+Fecha de ingreso:
+25/03/1994
+Centro de salud de ingreso:
+Complejo Hospitalario Universitario de Santiago
+Informe clínico del paciente:
+Paciente de 12 años de edad, acompañado de su madre, que acude al servicio de emergencia con síntomas de dolor de cabeza y vómitos. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de meningeos, con rigidez de cuello y fotofobia.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 200.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de meningitis bacteriana se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cabeza) así como tratamiento antibiótico específico: Ceftriaxona 2 gramos intravenoso cada 12 horas (durante 10 días) y Vancomicina 1 gramo intravenoso cada 12 horas (durante 5 días). El paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.

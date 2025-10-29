@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Vicente Rueda Vázquez
+DNI: 56136718C
+Fecha de nacimiento: 09/07/1982
+Género: Hombre
+Domicilio: Calle de Valverde 88
+Ciudad: Albacete, Cáceres, Extremadura
+Código postal: 10179
+Email: vazquez@icloud.com
+Teléfono fijo: +34 927 52 99 61
+Teléfono móvil: +34 627 24 87 64
+NHC: 6557637
+NASS: 644343206193
+Condición de riesgo: Trabajador de Servicios de Limpieza
+Datos asistenciales.
+Médico: Dr. Francisco Muñoz Marcos. NC 527037338. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/04/1995
+Episodio: 71243842
+Centro de salud: Centro de Salud Majadahonda
+Matrícula del coche: 7935DRE
+Modelo: Chrysler Pacifica
+VIN: VSV94RLWKGU569829
+Informe clínico del paciente:
+Paciente fumador de 12 años de edad, acompañado de su tía. Presenta una condición médica compleja, con antecedentes de asma y alergia a ciertos alimentos. La exploración física revela signos de hipertensión arterial y alteraciones en la función pulmonar. Los análisis de sangre muestran niveles elevados de eosinófilos y aumentos en la concentración de IgE.
+La evolución clínica ha sido marcada por episodios recurrentes de asma y bronquitis, acompañados de síntomas de alergia como picazón y enrojecimiento en la piel. La exploración física también revela signos de inflamación en la región nasal y faríngea.
+La ecografía pulmonar ha mostrado signos de bronquiolitis y eosinofilia en la cavidad pulmonar. Los análisis de sangre han confirmado la presencia de eosinófilos y aumentos en la concentración de IgE, lo que sugiere una respuesta alérgica intensa.
+El tratamiento ha consistido en la administración de corticosteroides orales y inhalación de broncodilatadores. El paciente también ha recibido tratamiento para la alergia, incluyendo inyecciones de epinefrina y medicamentos para reducir la respuesta alérgica.
+La evolución clínica ha sido favorable, con mejoría en los síntomas y reducción en la frecuencia de los episodios de asma y bronquitis. Sin embargo, se requiere un seguimiento estrecho para monitorear la respuesta al tratamiento y ajustar la terapia según sea necesario.
+Evolución y comentarios:
+El paciente ha mostrado una buena respuesta al tratamiento, con reducción en la frecuencia de los episodios de asma y bronquitis. Sin embargo, se requiere un seguimiento estrecho para monitorear la respuesta al tratamiento y ajustar la terapia según sea necesario.
+Remitido por:
+Dr. Francisco Muñoz Marcos. NC 527037338. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.

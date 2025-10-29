@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Elvira Caballero Aranda
+DNI: 78765721J
+Fecha de nacimiento: 02/05/1987
+Género: M
+Domicilio: Calle de Velázquez 40, 8E
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52479
+Email: elvira-caballero@yahoo.com
+Teléfono fijo: +34 956 45 81 11
+Teléfono móvil: +34 656 98 22 29
+NHC: 9419549
+NASS: 677193997607
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dra. María Josefa Lorenzo Montoya. NC 098958079. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/2023
+Centro de salud de ingreso: Hospital General Universitario Morales Meseguer
+Episodio: 79617729
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 35 años de edad, acompañado de su vecino, que refiere dolores en el pecho y dificultad para respirar desde la mañana. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca con soplo en la región pulmonar izquierda. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 9.500/mm3 (neutrófilos 70%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 18 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 12 U/l; GPT 16 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de insuficiencia cardíaca se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de piernas) así como tratamiento farmacológico: enalapril 5 mg vía oral cada 12 horas (durante 6 semanas) y digoxina 0,125 mg vía oral cada 12 horas (durante 3 semanas). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.

@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Anna Aparicio González
+DNI: 29995111Y
+Fecha de nacimiento: 22/11/1951
+Género: F
+Domicilio: Calle del Duque de Alba 64, 10M
+Ciudad: Xirivella, Alicante, Comunidad Valenciana
+Código postal: 03008
+Email: anna_aparicio@imibic.org
+Teléfono fijo: +34 965 60 03 36
+Teléfono móvil: +34 765 81 02 37
+NHC: 0934024
+NASS: 489787858858
+Condición de riesgo: Trabajador Agrícola
+Datos asistenciales.
+Médico: Dr. Luis Rueda Galan. NC 578012991. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/03/1965
+Episodio: 06206948
+Centro de salud: Centro de Salud Málaga Oeste
+Informe clínico del paciente:
+La paciente, de 72 años, fue derivada por su médico de cabecera con una queja de dolor abdominal crónico de varios meses de evolución. Presenta un cuadro de pérdida de peso de 10 kg en los últimos 6 meses y un aumento de 5 cm en la circunferencia de la cintura en los últimos 3 meses. La exploración física revela un abdomen distendido con un aumento de la resistencia a la palpación en la región epigástrica. El análisis de sangre muestra un aumento en la concentración de amilasa pancreática y una disminución en la concentración de calcio sérico. La ecografía abdominal revela un aumento en el tamaño del páncreas con una formación de cálculos biliares. Con el diagnóstico de pancreatitis crónica, se inició un tratamiento con analgésicos y antiinflamatorios, así como un régimen de dieta y hidratación adecuados.
+Antecedentes:
+La paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, para las que está en tratamiento con medicamentos orales.
+Evolución y comentarios:
+La paciente se encuentra estable y sin signos de complicación. Se le ha recomendado una dieta baja en grasas y azúcares, así como una ingesta adecuada de fibra y agua.
+Remitido por:
+Se le ha remitido al paciente a su médico de cabecera para seguir con el tratamiento y control de su condición. Se le ha recomendado una cita en el servicio de gastroenterología para una revisión en 6 semanas.

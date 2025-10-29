@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Iñigo Escobar Rivero
+DNI: 97790373P
+Fecha de nacimiento: 08/09/1944
+Género: Masculino
+Domicilio: Calle de los Embajadores 88
+Ciudad: Telde, Gerona, Cataluña
+Código postal: 17012
+Email: inigo-escobar@imibic.org
+Teléfono fijo: +34 972 65 06 71
+Teléfono móvil: +34 772 38 57 17
+NHC: 8245120
+NASS: 724651062765
+Condición de riesgo: Trabajador de Sanitización
+Datos asistenciales.
+Médico: Dra. Emma Vicente Santos. NC 588434040. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/02/1975
+Episodio: 00580872
+Centro de salud: Centro de Salud Chamartín
+Informe clínico del paciente:
+Paciente migrante de 30 años de edad, originario de un país en vías de desarrollo, que acude al servicio de urgencias con síntomas de dolor de cabeza intensos y frecuencia urinaria. Se encuentra en buen estado general, con una temperatura de 36,5°C y presión arterial de 120/80 mmHg. La exploración física revela una tensión muscular en el cuello y una pequeña inflamación en el ojo izquierdo.
+Antecedentes:
+El paciente informa que ha estado trabajando en un hospital durante los últimos 5 años, donde ha estado expuesto a diferentes tipos de agentes químicos y biológicos. También informa que ha tenido problemas de salud en el pasado, incluyendo una infección por VIH que fue tratada con éxito.
+Evolución y comentarios:
+El paciente ha sido tratado con analgésicos y antiinflamatorios, y se le ha realizado una serie de pruebas para determinar la causa de sus síntomas. Los resultados de las pruebas han sido inconclusivos, y se le ha recomendado que se someta a una serie de pruebas adicionales para determinar la causa de sus síntomas.
+Remitido por:
+El paciente ha sido remitido a un especialista en medicina interna para que se le realicen más pruebas y se le diagnostique y trate adecuadamente.

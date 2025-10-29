@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Gema Castro Ruiz
+DNI: 52899090X
+Fecha de nacimiento: 16/02/1990
+Género: Femenino
+Domicilio: Calle de San Millán 4, 8A
+Ciudad: Alcázar de San Juan, Valladolid, Castilla y León
+Código postal: 47224
+Email: gema464@protonmail.com
+Teléfono fijo: +34 983 19 91 80
+Teléfono móvil: +34 783 03 86 21
+NHC: 8260300
+NASS: 929191855912
+Condición de riesgo: Operador de Maquinaria Agrícola
+Datos asistenciales.
+Médico: Dra. Concepción Soto Merino. NC 809841125. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/11/2012
+Episodio: 00243015
+Hospital: Hospital General Universitario Reina Sofía
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 22 años de edad, con antecedentes de episodios de intoxicación alcohólica en el pasado. Se presenta con síntomas de ansiedad y depresión, con dificultades para conciliar el sueño y una tendencia a la automedicación con alcohol.
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, pero con evidentes signos de abstinencia alcohólica, incluyendo sudoración y temblores. No se detectan signos de infección o lesiones.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 15 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía hepática y Ecografía renal) y se instaura un tratamiento de abstinencia alcohólica, incluyendo medicación para la ansiedad y la depresión. El paciente muestra una respuesta favorable al tratamiento y se le prescribe una terapia de rehabilitación para abordar sus problemas de consumo de alcohol.
+Evolución y comentarios:
+El paciente ha estado bajo seguimiento durante 6 meses y ha logrado mantenerse libre de consumo de alcohol. Ha participado activamente en la terapia de rehabilitación y ha mostrado una mejora significativa en su calidad de vida.
+Remitido por:
+Dra. Concepción Soto Merino, Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

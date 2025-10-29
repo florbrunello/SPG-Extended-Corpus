@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Iván Román Ramos
+DNI: 30731563K
+Fecha de nacimiento: 11/05/2003
+Género: Masculino
+Domicilio: Calle del Marqués de Urquijo 49
+Ciudad: Alcorcón, Palencia, Castilla y León
+Código postal: 34739
+Email: ivan.roman.ramos@isciii.es
+Teléfono fijo: +34 979 61 27 18
+Teléfono móvil: +34 779 92 42 89
+NHC: 5830940
+NASS: 017320320723
+Condición de riesgo: Enfermera
+Datos asistenciales.
+Médico: Dra. Irene Ibáñez Estevez. NC 741571056. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Centro de salud: Centro de Salud Arganzuela
+Informe clínico del paciente:
+El paciente es un joven de 21 años de edad, sin antecedentes médicos relevantes, que acude al servicio de urgencias con síntomas de dolor abdominal crónico. Presenta una evolución clínica de 2 semanas, con episodios de dolor abdominal severo, acompañado de náuseas y vómitos. La exploración física revela un abdomen dolorido en la región epigástrica, con signos de irritación peritoneal. Los análisis de laboratorio muestran una elevación de la enzima alanina aminotransferasa (ALT) y una reducción de la creatinina sérica. La ecografía abdominal muestra un aumento de la espesura del hígado y una presencia de fluidos en el peritoneo.
+La historia clínica del paciente sugiere una posible causa de hepatitis viral, con la presencia de síntomas de dolor abdominal y elevación de las enzimas hepáticas. Se solicitan pruebas de laboratorio adicionales, incluyendo una prueba de hepatitis B y C, y una biopsia hepática para confirmar el diagnóstico.
+En cuanto a la evolución clínica, el paciente ha estado recibiendo tratamiento con analgésicos y antieméticos, pero sin mejoría significativa. Se le ha recomendado una dieta blanda y se le han proporcionado instrucciones sobre la importancia de la higiene y la prevención de la infección.
+En resumen, el paciente es un joven de 21 años de edad con síntomas de dolor abdominal crónico y elevación de las enzimas hepáticas. La exploración física y los análisis de laboratorio sugieren una posible causa de hepatitis viral. Se solicitan pruebas de laboratorio adicionales y se le recomienda un tratamiento conservador hasta que se confirme el diagnóstico.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento en el servicio de urgencias durante 3 días, sin mejoría significativa. Se le ha recomendado una dieta blanda y se le han proporcionado instrucciones sobre la importancia de la higiene y la prevención de la infección. La evolución clínica del paciente es inestable y se requiere un seguimiento cercano para determinar la causa subyacente de sus síntomas.
+Remitido por:
+Dra. Irene Ibáñez Estevez. NC 741571056. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

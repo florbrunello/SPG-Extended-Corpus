@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Alfonso Rey Pastor
+DNI: 55754234A
+Fecha de nacimiento: 26/11/1955
+Género: Hombre
+Domicilio: Calle Gran Vía 88
+Ciudad: San Fernando, Sevilla, Andalucía
+Código postal: 41054
+Email: rey@ciberehd.org
+Teléfono fijo: +34 954 15 99 83
+Teléfono móvil: +34 654 57 84 93
+NHC: 2222137
+NASS: 500936180267
+Condición de riesgo: Trabajador de Minería
+Datos asistenciales.
+Médico: Dr. Manuel Santamaria Pardo. NC 365173132. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/08/2006
+Episodio: 17412942
+Hospital: Hospital Universitari Vall d'Hebron
+Informe clínico del paciente:
+Paciente de tez blanca de 50 años de edad, con antecedentes de exposición a sustancias tóxicas en el ambiente laboral. Presenta síntomas de irritación respiratoria y cutánea, con picazón y erupciones en la piel. La exploración física revela: temperatura corporal normal, frecuencia cardíaca acelerada y respiratoria, con signos de tos seca y dificultad para respirar. Los análisis de sangre muestran alteraciones en los niveles de enzimas hepáticas y renal.
+La evolución clínica ha sido caracterizada por una progresión lenta de la enfermedad, con aumento de la gravedad de los síntomas. Se han realizado pruebas diagnósticas para determinar la causa subyacente de la enfermedad, incluyendo análisis de sangre, radiografías y exploraciones de imágenes. El tratamiento ha sido sintomático, con medicamentos para aliviar la irritación respiratoria y cutánea, así como para reducir la inflamación y el dolor.
+La pronóstico es reservado, con una posible progresión hacia una enfermedad más grave si no se toman medidas de prevención y tratamiento adecuadas. Es importante que el paciente siga las recomendaciones del médico para evitar la exposición a sustancias tóxicas y realizar un seguimiento regular de su salud.
+Antecedentes:
+El paciente tiene antecedentes de exposición a sustancias tóxicas en el ambiente laboral, lo que ha llevado a la aparición de síntomas de irritación respiratoria y cutánea. La exposición a estas sustancias ha sido prolongada y ha causado daños en los órganos respiratorios y cutáneos.
+Evolución y comentarios:
+La evolución clínica del paciente ha sido caracterizada por una progresión lenta de la enfermedad, con aumento de la gravedad de los síntomas. Se han realizado pruebas diagnósticas para determinar la causa subyacente de la enfermedad, incluyendo análisis de sangre, radiografías y exploraciones de imágenes. El tratamiento ha sido sintomático, con medicamentos para aliviar la irritación respiratoria y cutánea, así como para reducir la inflamación y el dolor.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado una disminución en su estado de salud y ha recomendado una evaluación médica más detallada.

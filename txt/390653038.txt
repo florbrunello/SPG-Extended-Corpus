@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Tamara Rey Díaz
+DNI: 58046927X
+Fecha de nacimiento: 09/05/2011
+Género: F
+Domicilio: Calle de Espoz y Mina 60, 1O
+Ciudad: Plasencia, Valladolid, Castilla y León
+Código postal: 47321
+Email: 3o4fxPQhaqwjtb1096@ioba.med.uva.es
+Teléfono fijo: +34 983 08 09 69
+Teléfono móvil: +34 683 49 46 44
+NHC: 5447749
+Condición de riesgo: Químico
+Datos asistenciales.
+Médico: Dr. Marcos Hidalgo Castro. NC 047394536. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 01/12/2017
+Hospital: Hospital Regional Universitario de Málaga
+Matrícula del coche: 9577KHA
+Modelo: BMW 3 Series
+VIN: VSUYX5ZU42T999382
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 6 años de edad, acompañado de su abuela, presenta síntomas de dolor abdominal crónico desde hace varias semanas, con picos de fiebre y escalofríos. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 35 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 137 mEq/l; potasio 3,7 mEq/l; GOT 15 U/l; GPT 28 U/l; GGT 38 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Antecedentes:
+El paciente tiene antecedentes de alergia a ciertos alimentos, incluyendo frutos secos y nueces. También tiene una historia de asma leve.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos, recibiendo tratamiento para controlar la fiebre y el dolor abdominal. Se están realizando pruebas adicionales para determinar la causa subyacente de los síntomas.
+Remitido por:
+Dr. Juan Carlos Sánchez García, Pediatra de la Unidad de Cuidados Intensivos.

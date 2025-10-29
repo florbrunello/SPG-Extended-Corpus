@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Montserrat Medina Álvarez
+DNI: 25428387R
+Fecha de nacimiento: 30/10/1960
+Género: F
+Domicilio: Calle de Narváez 46
+Ciudad: Aranda de Duero, Tarragona, Cataluña
+Código postal: 43751
+Email: montserrat@ual.es
+Teléfono fijo: +34 977 08 23 14
+Teléfono móvil: +34 777 27 97 04
+NHC: 2339853
+NASS: 736329653174
+Condición de riesgo: Albañil
+Datos asistenciales.
+Médico: Dra. María Belén Navarro Álvarez. NC 890437001. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/06/2018
+Episodio: 82996602
+Hospital: Hospital General de Villalba
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 57 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, refiere dolores precordiales de intensidad moderada en el último mes, con episodios de disnea en la última semana. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En auscultación cardíaca se aprecia un soplo holotrópico en la región cardiaca, con una intensidad moderada. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.000/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 10 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 20 U/l; GPT 15 U/l; GGT 30 U/l; fosfatasa alcalina 150 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Exploración complementaria:
+Se solicitan pruebas de imagen (Ecocardiograma transtorácico y TAC cardiaca) que revelan un infarto agudo de miocardio en la zona inferior derecha, con una fracción de eyección reducida del 30%. Se solicitan también análisis de sangre para determinar la presencia de anticuerpos contra el virus de la inmunodeficiencia humana (HIV).
+Diagnóstico y tratamiento:
+Con el diagnóstico de infarto agudo de miocardio y diabetes mellitus tipo 2, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de las piernas) así como tratamiento farmacológico con aspirina, atorvastatina y metformina. El paciente es sometido a una angioplastia coronaria con colocación de una stent en la arteria coronaria derecha. El paciente es trasladado a la Unidad de Cuidados Intensivos para monitorización y tratamiento continuo.

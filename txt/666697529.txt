@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Alfonso Andres Camacho
+DNI: 31373659A
+Fecha de nacimiento: 11/10/1973
+Género: Hombre
+Domicilio: Calle de Almagro 76
+Ciudad: Getafe, Teruel, Aragón
+Código postal: 44702
+Email: alfonso_andres_camacho@uhu.es
+Teléfono fijo: +34 978 35 24 04
+Teléfono móvil: +34 678 29 92 32
+NHC: 0215437
+NASS: 448729669155
+Condición de riesgo: Trabajador de Mantenimiento
+Datos asistenciales.
+Médico: Dr. Izan Paredes Díaz. NC 460271844. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/07/2024
+Hospital: Hospital Clínic Barcelona
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 50 años de edad, con antecedentes de consumo excesivo de alcohol durante los últimos 10 años, presentó un episodio de convulsiones generalizadas en el hogar, lo que motivó su ingreso en el Servicio de Urgencias del Hospital Clínic Barcelona. Al llegar al hospital, el paciente se encontraba confundido y con dificultades para hablar, pero sin signos de trauma o lesiones evidentes.
+La exploración física reveló: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. El paciente se encontraba consciente, pero con dificultades para hablar y con una coordinación motora alterada. No se encontraron signos de infección o trauma en la exploración neurológica.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 50 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl.
+El paciente fue sometido a una resonancia magnética cerebral, que mostró signos de encefalopatía alcohólica con atrofia cortical y lesiones vasculares. Se inició tratamiento con metadona para la dependencia alcohólica y se le recomendó un programa de rehabilitación para abordar su consumo excesivo de alcohol.
+Evolución y comentarios:
+El paciente ha estado en el hospital durante 5 días, durante los cuales ha recibido tratamiento para su dependencia alcohólica y ha participado en un programa de rehabilitación. Ha mostrado una mejoría significativa en su estado de ánimo y ha sido capaz de hablar y caminar sin dificultades. Se le ha recomendado seguir un programa de seguimiento para abordar su consumo excesivo de alcohol y prevenir futuros episodios de encefalopatía alcohólica.
+Remitido por:
+El paciente ha sido remitido a su domicilio, donde continuará recibiendo tratamiento y seguimiento por parte de su equipo de salud. Se le ha recomendado que busque ayuda para abordar su consumo excesivo de alcohol y que siga un programa de rehabilitación para prevenir futuros episodios de encefalopatía alcohólica.

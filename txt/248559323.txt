@@ -1,0 +1,43 @@
+Datos del paciente.
+Nombre: Remedios Lara Valero
+DNI: 52581627Q
+Fecha de nacimiento: 08/03/2004
+Género: F
+Domicilio: Calle de Don Ramón de la Cruz 23, 8E
+Ciudad: Zaragoza, Huelva, Andalucía
+Código postal: 21986
+Email: remedios_lara@uhu.es
+Teléfono fijo: +34 959 20 91 07
+Teléfono móvil: +34 759 45 23 98
+NHC: 8065329
+NASS: 327662489881
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dra. María José Blazquez Paredes. NC 842229129. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/03/2014
+Episodio: 23713437
+Centro de salud: Centro de Salud Málaga Sur
+Informe clínico del paciente:
+La paciente Remedios Lara Valero, de 9 años de edad, de ascendencia sudamericana, fue ingresada en el Centro de Salud Málaga Sur el 06/03/2014, con un episodio de 23713437. La paciente se encuentra acompañada de su tío.
+La exploración física revela:
+Tª 36,8 C; T.A: 120/80 mmHg; Fc: 90 lpm. La paciente se encuentra consciente, orientada, sin sudoración ni taquicardia.
+En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular.
+Auscultación cardíaca rítmica, sin soplos, roces ni extratonos.
+Auscultación pulmonar con conservación del murmullo vesicular.
+Abdomen blando, depresible, sin masas ni megalias.
+En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad.
+Extremidades sin varices ni edemas.
+Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados:
+Hemograma: Hb 12,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3.
+VSG: 20 mm 1ª hora.
+Coagulación: TQ 90%; TTPA 20,5 seg.
+Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,6 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 10 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl.
+Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal) y análisis de sangre (Hemocultivos) para completar la evaluación de la paciente.
+Antecedentes:
+La paciente tiene un antecedente de escaneo del iris realizado en una sesión anterior, con un código obtenido para revisarla de QA519WSP792.
+Evolución y comentarios:
+La paciente se encuentra estable y sin síntomas. Se le ha solicitado un seguimiento en la consulta de gastroenterología para evaluar su evolución.
+Remitido por:
+La paciente fue remitida por su médico de cabecera, Dr. Juan Pérez García, quien realizó una evaluación previa y determinó la necesidad de ingreso en el Centro de Salud Málaga Sur.

@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Aarón Bermúdez Aguilar
+DNI: 82585725Q
+Fecha de nacimiento: 14/06/1935
+Género: Hombre
+Domicilio: Calle de Bailén 83, 10O
+Ciudad: San Fernando, Mallorca, Islas Baleares
+Código postal: 07835
+Email: aaron@icloud.com
+Teléfono fijo: +34 971 07 03 48
+Teléfono móvil: +34 671 37 13 20
+NHC: 5770514
+NASS: 919300362146
+Condición de riesgo: Trabajador de Laboratorio
+Datos asistenciales.
+Médico: Dr. Christian Márquez Ortiz. NC 391733277. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 14/05/1984
+Hospital: Hospital Universitario Severo Ochoa
+Informe clínico del paciente:
+Paciente vegano de 48 años de edad, con antecedentes de hipertensión arterial y dislipidemia, que acude al Servicio de Endocrinología con síntomas de fatiga y pérdida de peso en los últimos meses. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 7.500/mm3 (neutrófilos 55%); plaquetas 250.000/mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 4,0 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 25 U/l; fosfatasa alcalina 100 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) que no evidencian patología significativa. Con el diagnóstico de hipotireoidismo se instaura tratamiento sintomático (reposo, elevación de la temperatura corporal y suplementos de hierro) así como tratamiento hormonal específico: L-Tiroidina 100 mcg vía oral cada mañana (durante 6 semanas) y Levo-Tiroidina 50 mcg vía oral cada mañana (durante 3 semanas). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y dislipidemia, por lo que se le ha recomendado una dieta baja en grasas y sal, así como un estilo de vida activo.
+Evolución y comentarios:
+El paciente ha mostrado una buena evolución durante el tratamiento, con una reducción significativa de los síntomas de fatiga y pérdida de peso. Se le ha recomendado una revisión en el Servicio de Endocrinología en 6 semanas para evaluar la respuesta al tratamiento.
+Remitido por:
+Se le ha remitido al paciente una hoja de instrucciones para el

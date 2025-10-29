@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Lourdes Villanueva Sierra
+DNI: 77371673H
+Fecha de nacimiento: 04/01/1964
+Género: Mujer
+Domicilio: Calle del Marqués de Urquijo 87, 10H
+Ciudad: Ibiza, Lérida, Cataluña
+Código postal: 25850
+Email: lourdes1625@ciberer.es
+Teléfono fijo: +34 973 80 70 12
+Teléfono móvil: +34 773 89 80 04
+NHC: 4735201
+NASS: 530480440128
+Condición de riesgo: Conserje
+Datos asistenciales.
+Médico: Dr. Gonzalo Roca Reyes. NC 597246267. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 23/02/1988
+Episodio: 09122829
+Centro de salud: Centro de Salud Conde de Casal
+Informe clínico del paciente:
+Paciente vegano de 58 años de edad, con antecedentes de hipertensión arterial y dislipidemia. Se presentó en la consulta con síntomas de dolor en el pecho y dificultad para respirar. La exploración física reveló hipertensión arterial y taquicardia. Se realizaron pruebas de laboratorio y de imagen para evaluar la causa de los síntomas. El diagnóstico fue angina de pecho, y se inició tratamiento con medicamentos para controlar la hipertensión y la dislipidemia. El paciente fue instruido sobre la importancia de seguir un estilo de vida saludable y de controlar los factores de riesgo para prevenir complicaciones cardiacas.

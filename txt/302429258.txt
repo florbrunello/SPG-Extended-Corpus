@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: José Javier Santamaria Galan
+DNI: 26836297N
+Fecha de nacimiento: 08/09/1983
+Género: Hombre
+Domicilio: Calle de Embajadores 19
+Ciudad: Vitoria, Ciudad Real, Castilla-La Mancha
+Código postal: 13756
+Email: josejavier_santamaria@uca.es
+Teléfono fijo: +34 926 00 44 44
+Teléfono móvil: +34 626 29 05 42
+NHC: 3880747
+NASS: 745752553172
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dra. Aurora Aranda Manzano. NC 179840240. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/12/2022
+Episodio: 55523327
+Centro de salud: Centro de Salud Ciudad Lineal
+Matrícula del coche: 4892HUW
+Modelo: Jeep Wrangler
+VIN: VSU6WW9YQ2A890338
+Informe clínico del paciente:
+Paciente de 6 años de edad, sin antecedentes médicos relevantes, que acude al centro de salud con su padre debido a una leve infección respiratoria. El paciente presenta síntomas de tos y fiebre, pero no hay signos de gravedad. La exploración física revela una temperatura de 38,5°C, sin signos de dolor ni inflamación en la región torácica. El paciente es consciente y orientado, con buen estado de nutrición e hidratación.
+Se solicitan análisis de sangre y orina para determinar la causa de la infección. El paciente se mantiene en observación en el centro de salud y se le proporciona tratamiento sintomático para aliviar los síntomas.
+Antecedentes:
+El paciente no tiene antecedentes médicos relevantes.
+Evolución y comentarios:
+El paciente se mantiene estable y sin signos de gravedad. Se le proporciona tratamiento sintomático y se le realiza seguimiento para determinar la causa de la infección.
+Remitido por:
+Dra. Aurora Aranda Manzano.

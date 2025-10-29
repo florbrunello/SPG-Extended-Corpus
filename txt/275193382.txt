@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Gonzalo Herrera Maldonado
+DNI: 68657961V
+Fecha de nacimiento: 27/05/1937
+Género: Masculino
+Domicilio: Calle de la Luna 4
+Ciudad: Motril, Madrid, Madrid
+Código postal: 28481
+Email: maldonado@protonmail.com
+Teléfono fijo: +34 915 34 01 59
+Teléfono móvil: +34 610 65 41 11
+NHC: 8198277
+NASS: 693195254045
+Condición de riesgo: Limpiador
+Datos asistenciales.
+Médico: Dra. María Luisa Aguilera Aguilar. NC 702453788. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/08/2007
+Centro de salud: Hospital Clínic Universitario Virgen de la Arrixaca
+Informe clínico del paciente:
+Paciente vegano de 70 años de edad, acompañado de su hermana, refiere un cuadro de deterioro cognitivo progresivo con pérdida de memoria reciente y dificultad para realizar actividades diarias. Presenta un historial de hipertensión arterial y diabetes mellitus tipo 2. En la exploración física, se encuentra con un estado de ánimo alterado, con signos de ansiedad y depresión. La exploración neurológica revela un deterioro en la función cognitiva, con dificultad para realizar pruebas de memoria y atención. Los datos analíticos muestran un aumento en la glucemia y una disminución en la función renal.
+La evolución clínica del paciente ha sido gradual, con un aumento en la gravedad de los síntomas en las últimas semanas. El paciente ha presentado episodios de confusión y desorientación, con dificultad para reconocer a familiares y amigos. La exploración de la base del cráneo no ha revelado signos de hemorragia o edema cerebral.
+Se han solicitado pruebas de imagen, incluyendo una resonancia magnética cerebral, que ha revelado un atrofia cortical difusa y una disminución en la función cognitiva. El diagnóstico de demencia alzhéimer se ha confirmado mediante la exploración de la base del cráneo y la evaluación de la función cognitiva.
+El tratamiento del paciente ha consistido en la administración de medicamentos para controlar la hipertensión arterial y la diabetes mellitus tipo 2, así como la realización de terapia cognitiva para mejorar la función cognitiva del paciente. El paciente y su familia han sido informados sobre la gravedad de la enfermedad y la necesidad de un seguimiento regular para controlar la evolución clínica del paciente.
+Evolución y comentarios:
+El paciente ha mostrado una respuesta favorable al tratamiento, con una disminución en la gravedad de los síntomas en las últimas semanas. Sin embargo, la evolución clínica del paciente sigue siendo incierta, y es necesario un seguimiento regular para controlar la evolución de la enfermedad.
+Remitido por:
+Dra. María Luisa Aguilera Aguilar
+Neuróloga Especialista en Alzheimer
+Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)
+Avenida Monforte de Lemos 3-5
+28029. Madrid. España.

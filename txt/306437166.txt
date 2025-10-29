@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: María Cristina Durán Pacheco
+DNI: 41271818C
+Fecha de nacimiento: 28/07/1999
+Género: Femenino
+Domicilio: Calle de las Huertas 25, 9D
+Ciudad: Eibar, Madrid, Madrid
+Código postal: 28928
+Email: duran_pacheco@ciberehd.org
+Teléfono fijo: +34 912 35 74 19
+FAX: +34 910 16 84 85
+NHC: 3140597
+Condición de riesgo: Minero
+Datos asistenciales.
+Médico: Dra. Sofía Paredes García. NC 181073094. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/06/2016
+Centro de salud: Centro de Salud Málaga Este
+Informe clínico del paciente:
+La paciente se presenta con síntomas de dolor abdominal y fiebre durante las últimas 48 horas. Se trata de una joven de 16 años con antecedentes de sobreviviente de violencia. La exploración física revela temperatura de 38,5°C, pulso de 110 bpm y respiraciones de 24/min. Se encuentra consciente y orientada, pero presenta dolor abdominal en el área inferior izquierda.
+La exploración complementaria incluye análisis de sangre, que muestra leucocitos de 15.000/mm³ y hemoglobina de 12 g/dl. La radiografía abdominal muestra signos de inflamación en el intestino delgado.
+Se establece un diagnóstico de apendicitis aguda y se decide someter a la paciente a una exploración quirúrgica. Durante la intervención, se encuentra una apendicitis inflamada y se realiza una apendicectomía. La paciente se recupera bien de la cirugía y se le prescribe un tratamiento antibiótico para prevenir infecciones.
+Antecedentes:
+La paciente tiene antecedentes de sobreviviente de violencia, lo que puede estar relacionado con su actual estado de salud. Es importante realizar un seguimiento a largo plazo para asegurarse de que no haya secuelas de la violencia.
+Evolución y comentarios:
+La paciente se encuentra bien después de la cirugía y se le prescribe un tratamiento antibiótico para prevenir infecciones. Es importante realizar un seguimiento a largo plazo para asegurarse de que no haya secuelas de la violencia.
+Remitido por:
+Se remite a la paciente a su médico de cabecera para un seguimiento a largo plazo.

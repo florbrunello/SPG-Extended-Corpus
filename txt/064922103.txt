@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Nicolás Flores Gil
+DNI: 45338447L
+Fecha de nacimiento: 21/05/1957
+Género: V
+Domicilio: Calle de Eduardo Dato 39
+Ciudad: Tarragona, Soria, Castilla y León
+Código postal: 42676
+Email: nicolasgil577@uhu.es
+Teléfono fijo: +34 975 62 61 98
+Teléfono móvil: +34 675 74 44 26
+NHC: 3919810
+NASS: 758731202045
+Condición de riesgo: Enfermera
+Datos asistenciales.
+Médico: Dr. Joel Rueda Ferrer. NC 268408868. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 05/02/1971
+Episodio: 88016754
+Hospital: Hospital Clínic Barcelona
+Fecha de ingreso:
+05/02/1971
+Centro de salud de ingreso:
+Hospital Clínic Barcelona
+Informe clínico del paciente:
+Paciente exfumador de 13 años de edad, acompañado de su abuela. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es WF655CDW520.

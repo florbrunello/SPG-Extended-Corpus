@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Laia Redondo Abad
+DNI: 60400915V
+Fecha de nacimiento: 26/08/1987
+Género: Mujer
+Domicilio: Calle del Doctor Esquerdo 34, 2H
+Ciudad: Ciudad autónoma de Ceuta, Ceuta
+Código postal: 52049
+Email: laia.redondoabad@gmail.com
+Teléfono fijo: +34 956 40 95 03
+Teléfono móvil: +34 686 45 67 89
+NHC: 4100988
+NASS: 467876543210
+Condición de riesgo: Bombero
+Datos asistenciales.
+Médico: Dra. Juana Castro Martínez. NC 368172197. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 17/08/2024
+Episodio: 17863030
+Hospital: Hospital Universitario Puerta de Hierro Majadahonda
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 36 años de edad, que acude al servicio de urgencias con sintomatología de dolor de cabeza intenso y frecuencia urinaria durante las últimas 48 horas. La paciente informa que ha estado realizando un entrenamiento intensivo en el equipo de bomberos durante las últimas semanas, lo que podría estar relacionado con el aumento de la frecuencia urinaria.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. La paciente se encuentra consciente, orientada, sin sudoración ni taquicardia. En la exploración neurológica, se detectan signos de hipertensión intracraneal, con dolor de cabeza intenso y fotofobia.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 10 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía cerebral, TAC craneal) que muestran una pequeña hemorragia subaracnoidea, lo que podría estar relacionado con la hipertensión intracraneal.
+Con el diagnóstico de hipertensión intracraneal secundaria a la actividad física intensiva, se instaura tratamiento médico (antihipertensivos, analgésicos) y se recomienda reposo y control de la presión arterial.
+Evolución y comentarios:
+La paciente se encuentra estable y se le ha prescrito un tratamiento para controlar la presión arterial y aliviar los síntomas de dolor de cabeza. Se le recomienda realizar un seguimiento médico regular para evitar complicaciones.
+Remitido por:
+Dra. Juana Castro Martínez, Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.

@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Luisa Diez Cuesta
+DNI: 70183983N
+Fecha de nacimiento: 02/02/1987
+Género: Mujer
+Domicilio: Calle de Salitre 17, 9W
+Ciudad: Salamanca, Ávila, Castilla y León
+Código postal: 05299
+Email: diez724@us.es
+Teléfono fijo: +34 920 66 12 73
+Teléfono móvil: +34 620 46 20 63
+NHC: 4425634
+Condición de riesgo: Soldado
+Datos asistenciales.
+Médico: Dr. Rubén Blazquez Soriano. NC 050982474. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 14/10/1991
+Episodio: 60898033
+Centro de salud: Centro de Salud Aranjuez

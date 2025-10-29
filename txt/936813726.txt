@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: Tamara Galan Bravo
+DNI: 81463390N
+Fecha de nacimiento: 15/07/2007
+Género: Mujer
+Domicilio: Calle de la Virgen de los Peligros 53, 4A
+Ciudad: Gandía, Álava, Pais Vasco
+Código postal: 01862
+Email: galan1452@protonmail.com
+Teléfono fijo: +34 945 85 81 61
+Teléfono móvil: +34 645 66 93 26
+NHC: 1831081
+NASS: 170854250427
+Condición de riesgo: Albañil
+Datos asistenciales.
+Médico: Dra. Beatriz Márquez Delgado. NC 183323000. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/2017
+Episodio: 04134591
+Hospital: Complejo Asistencial Universitario Salamanca
+Informe clínico del paciente:
+Paciente de ascendencia asiática del sudeste de 9 años de edad, acompañado de su madre.
+Antecedentes:
+El paciente tiene antecedentes de alergia a ciertos alimentos y ha presentado episodios de asma en el pasado.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos debido a una infección respiratoria aguda. La evolución ha sido complicada, con signos de insuficiencia respiratoria y requerimiento de apoyo ventilatorio.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notificado la presencia de una infección respiratoria aguda y la necesidad de ingreso en la unidad de cuidados intensivos.
+Exploración física:
+La exploración física revela signos de insuficiencia respiratoria, con taquicardia y taquipnea. La temperatura corporal es normal, pero se observa sudoración y ansiedad.
+Pruebas diagnósticas:
+Se han realizado pruebas diagnósticas para determinar la causa de la infección respiratoria aguda, incluyendo análisis de sangre y radiografías de tórax.
+Tratamiento:
+El paciente está recibiendo tratamiento con antibióticos y apoyo ventilatorio. Se está considerando la posibilidad de hospitalización en la unidad de cuidados intensivos para seguir monitorizando la evolución del paciente.
+Pronóstico:
+El pronóstico es incierto debido a la complejidad de la infección respiratoria aguda y la presencia de signos de insuficiencia respiratoria. Se está trabajando para establecer un plan de tratamiento adecuado para mejorar la evolución del paciente.

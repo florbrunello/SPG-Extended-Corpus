@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Elvira Benítez Santos
+DNI: 85762175M
+Fecha de nacimiento: 10/08/1939
+Género: Femenino
+Domicilio: Calle de Claudio Coello 81, 2I
+Ciudad: Girona, Guadalajara, Castilla-La Mancha
+Código postal: 19032
+Email: tJ23JYLXG3zt@gmail.com
+Teléfono fijo: +34 949 66 85 18
+Teléfono móvil: +34 749 05 47 03
+NHC: 3456729
+Condición de riesgo: Policía
+Datos asistenciales.
+Médico: Dr. Gregorio Crespo Luque. NC 955891984. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 06/09/1998
+Episodio: 92238709
+Hospital: Hospital Universitario de Crúces
+Informe clínico del paciente:
+Paciente exfumador de 59 años de edad, acompañado de su hija, que refiere dolor ocular persistente en el ojo izquierdo durante las últimas 48 horas, con visión borrosa y fotofobia. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 60 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En la exploración oftalmológica se aprecia: conjuntiva inflamada, córnea opaca, pupila reactiva a la luz, y visión reducida en el ojo izquierdo.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 100 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de conjuntivitis infecciosa se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cabeza) así como tratamiento antibiótico específico: Azitromicina 500 mg vía oral cada 24 horas (durante 3 días) y Loteprednol 0,5% gotas oftálmicas cada 4 horas (durante 7 días). El paciente mejora significativamente de su cuadro tras 48 horas de tratamiento, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.

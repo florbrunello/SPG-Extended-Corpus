@@ -1,0 +1,37 @@
+Datos del paciente.
+Nombre: Diego Gracia Galvez
+DNI: 45319613E
+Fecha de nacimiento: 29/01/1931
+Género: Masculino
+Domicilio: Calle de la Princesa 64, 3O
+Ciudad: Majadahonda, Gerona, Cataluña
+Código postal: 17498
+Email: gracia@hotmail.com
+Teléfono fijo: +34 972 31 11 20
+Teléfono móvil: +34 772 42 96 44
+NHC: 2843756
+Condición de riesgo: Paramédico
+Datos asistenciales.
+Médico: Dra. Andrea Hernández Bernal. NC 923038326. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/04/1991
+Episodio: 57440168
+Centro de salud: Centro de Salud Chamartín
+Matrícula del coche: 7499FWW
+Modelo: Tesla Model 3
+VIN: VSON2AWW9WL676128
+Informe clínico del paciente:
+Paciente de tez blanca de 60 años de edad, acompañado de su madre.
+Antecedentes:
+El paciente presenta una historia de hipertensión arterial y dislipidemia, tratada con medicación oral. También tiene antecedentes de una cirugía de hernia umbilical realizada 10 años atrás.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de cuidados intensivos debido a una complicación de una infección respiratoria, que se desarrolló en el contexto de una enfermedad pulmonar obstructiva crónica (EPOC). Durante su estancia en la unidad, el paciente presentó signos de insuficiencia respiratoria aguda, lo que requirió la implementación de un tratamiento de soporte ventilatorio.
+Exploración física:
+La exploración física revela signos de insuficiencia respiratoria aguda, con dificultad para respirar y ausencia de tos. El paciente también presenta signos de deshidratación y debilidad muscular.
+Pruebas diagnósticas:
+Se realizaron pruebas de laboratorio para evaluar la función renal y hepática del paciente, así como para detectar la presencia de infecciones. También se realizaron pruebas de imagen para evaluar la función pulmonar y la presencia de complicaciones.
+Tratamiento:
+El paciente recibió tratamiento con antibióticos y medicación para controlar la hipertensión arterial y la dislipidemia. También se le administró oxígeno suplementario y se implementó un tratamiento de soporte ventilatorio.
+Pronóstico:
+El pronóstico del paciente es reservado debido a la gravedad de la enfermedad pulmonar obstructiva crónica y la complicación de insuficiencia respiratoria aguda. Sin embargo, el paciente está recibiendo tratamiento y atención médica intensiva en la unidad de cuidados intensivos.
+Remitido por:
+El paciente fue remitido por el Dr. Juan Carlos García, médico de cabecera del paciente.

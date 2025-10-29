@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Carlos Tomas Román
+DNI: 98521739C
+Fecha de nacimiento: 07/03/2021
+Género: Hombre
+Domicilio: Calle de Covarrubias 49, 6D
+Ciudad: Lugo, Pontevedra, Galicia
+Código postal: 36558
+Email: tomas1328@ioba.med.uva.es
+Teléfono fijo: +34 986 93 31 47
+FAX: +34 986 85 39 63
+NHC: 5226452
+NASS: 646861444621
+Condición de riesgo: Técnico de Radiología
+Datos asistenciales.
+Médico: Dra. Isabel Delgado Guerra. NC 120630542. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/08/2023
+Episodio: 58402657
+Centro de salud: Centro de Salud Sevilla Oeste
+Matrícula del coche: 6913NLP
+Modelo: Ford F-150
+VIN: VSU1U0K217M181218
+Fecha de ingreso: 28/08/2023
+Centro de salud de ingreso: Centro de Salud Sevilla Oeste
+Informe clínico del paciente:
+El paciente presenta una temperatura corporal de 37,5°C, con una frecuencia cardíaca de 120 latidos por minuto y una frecuencia respiratoria de 24 respiraciones por minuto. La exploración física revela un estado general de bienestar, con una apariencia normal y sin signos de dolor o malestar. El paciente está acompañado de su abuelo, quien reporta que el paciente ha estado con fiebre durante las últimas 24 horas.
+La historia clínica del paciente revela que ha estado con una infección respiratoria aguda en la semana anterior, por lo que se le ha recetado un tratamiento antibiótico. El paciente también tiene una historia de alergia a los alimentos, específicamente a los frutos secos.
+Los análisis de laboratorio realizados en el momento del ingreso muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 35 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se han solicitado pruebas de imagen para evaluar la posible infección respiratoria aguda, incluyendo una radiografía de tórax y una ecografía pulmonar. El resultado de estas pruebas se espera en las próximas horas.
+El tratamiento recomendado para el paciente incluye un aumento de la dosis de antibióticos y un seguimiento estrecho de la evolución clínica. Se le ha recetado un analgésico para aliviar el dolor y se le ha recomendado una dieta blanda para evitar la irritación gastrointestinal.
+Se espera que el paciente mejore en las próximas horas y se le pueda dar de alta en las próximas 24 horas. Se le ha explicado a la familia del paciente las posibles complicaciones de la infección respiratoria aguda y se les ha recomendado un seguimiento estrecho en el caso de que se presenten síntomas de gravedad.

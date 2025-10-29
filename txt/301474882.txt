@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Francisco Javier Aguilar Lozano
+DNI: 49612029V
+Fecha de nacimiento: 30/07/1977
+Género: Masculino
+Domicilio: Calle Gran Vía 31
+Ciudad: Cádiz, Orense, Galicia
+Código postal: 32611
+Email: aguilar1087@aol.com
+Teléfono fijo: +34 988 13 16 19
+Teléfono móvil: +34 688 28 67 62
+NHC: 0769104
+NASS: 732713757347
+Condición de riesgo: Plomero
+Datos asistenciales.
+Médico: Dra. Matilde Robles Rivero. NC 182781522. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/02/2010
+Episodio: 01055228
+Centro de salud: Centro de Salud Coslada
+Informe clínico del paciente:
+El paciente, un joven de 32 años de edad, acompañado de su madre, se presenta con una condición médica que requiere atención especializada. La exploración física revela signos de una enfermedad crónica, con síntomas persistentes y una evolución clínica compleja.
+La historia clínica del paciente indica una exposición prolongada a sustancias tóxicas, lo que sugiere una relación entre su condición de riesgo como plomero y su enfermedad actual. La falta de información sobre su historia médica previa y la ausencia de antecedentes familiares de enfermedades similares dificultan la determinación de un diagnóstico preciso.
+La exploración física muestra signos de una enfermedad crónica, con síntomas persistentes y una evolución clínica compleja. La auscultación cardíaca revela un ritmo irregular, con soplos y roces en la zona cardíaca. La exploración pulmonar muestra un murmullo vesicular anormal, con signos de inflamación en la zona pulmonar. La exploración abdominal revela un abdomen blando, depresible, con signos de inflamación en la zona abdominal.
+Los resultados de los análisis de sangre muestran una elevación de la temperatura corporal, con un nivel de leucocitos alto y una inflamación en la zona pulmonar. La ecografía abdominal muestra signos de inflamación en la zona abdominal, con una acumulación de líquido en la zona peritoneal.
+Con base en la exploración física y los resultados de los análisis de sangre, se establece un diagnóstico de una enfermedad crónica, probablemente relacionada con la exposición a sustancias tóxicas. Se recomienda un tratamiento sintomático, con medicamentos para aliviar los síntomas y una evaluación más detallada para determinar la causa subyacente de la enfermedad.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento y evaluación más detallada. Se han realizado análisis de sangre y ecografía abdominal para determinar la causa subyacente de la enfermedad. El paciente está siendo monitoreado de cerca para cualquier signo de complicación.
+Remitido por:
+La Dra. Matilde Robles Rivero, Investigadora Clínica en Síndromes Raros, Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER), Avenida Monforte de Lemos 3-5, 28029 Madrid, España.

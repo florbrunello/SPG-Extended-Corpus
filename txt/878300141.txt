@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Oliver Álvarez Soriano
+DNI: 88713137K
+Fecha de nacimiento: 16/11/2023
+Género: H
+Domicilio: Calle de Embajadores 95, 9W
+Ciudad: Ferrol, Santa Cruz de Tenerife, Canarias
+Código postal: 38391
+Email: oliversoriano@salud.madrid.org
+Teléfono fijo: +34 922 91 99 38
+Teléfono móvil: +34 622 28 53 39
+NHC: 3612197
+NASS: 250056512827
+Condición de riesgo: Minero
+Datos asistenciales.
+Médico: Dr. Joaquín Padilla Soto. NC 531565227. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/02/2024
+Episodio: 33264803
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 5896LBQ
+Modelo: Ford F-150
+VIN: VSWHK2TG1EE076200
+Informe clínico del paciente:
+Paciente de 3 meses de edad, acompañado de su padre. Presenta un estado general bueno, con peso y talla dentro de los límites normales para su edad. No presenta síntomas ni signos de enfermedad. Se realizaron pruebas de rutina para evaluar su estado de salud, y todos los resultados fueron normales.
+Es importante destacar que, como el paciente es un bebé, no se pueden realizar pruebas complejas ni se puede registrar información detallada sobre su estado de salud. Lo importante es asegurarse de que esté recibiendo el cuidado y la atención adecuados para su edad y desarrollo.

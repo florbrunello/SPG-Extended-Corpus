@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: María Luisa Aguilera Castro
+DNI: 22440786P
+Fecha de nacimiento: 24/06/1928
+Género: F
+Domicilio: Calle de Atocha 84, 5P
+Ciudad: Dos Hermanas, Zamora, Castilla y León
+Código postal: 49345
+Email: castro@outlook.com
+Teléfono fijo: +34 980 32 94 58
+Teléfono móvil: +34 680 99 37 78
+NHC: 9365602
+NASS: 500393395625
+Condición de riesgo: Paciente con antecedentes médicos relevantes
+Datos asistenciales.
+Médico: Dra. Lourdes Sáez Ferrer. NC 502039575. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Cargo: Jefa de Sección de Síndromes Raros
+Fecha de ingreso: 09/03/1950
+Episodio: 63993131
+Hospital: Hospital Universitario Ramón y Cajal
+Informe clínico del paciente:
+Paciente de tez blanca de 21 años de edad, acompañado de su padre, con antecedentes médicos relevantes. Presenta una condición clínica compleja que requiere una evaluación detallada. A continuación, se describen los hallazgos clínicos y los resultados de las pruebas realizadas.
+Exploración física:
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias.
+Pruebas diagnósticas:
+Se realizaron las siguientes pruebas diagnósticas:
+Hemograma: Hb 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3.
+VSG: 35 mm 1ª hora.
+Coagulación: TQ 90%; TTPA 20,5 seg.
+Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 130 U/l; calcio 8,5 mg/dl.
+Orina: sedimento normal.
+Diagnóstico y tratamiento:
+Con base en los hallazgos clínicos y los resultados de las pruebas, se estableció el diagnóstico de [insertar diagnóstico]. Se inició el tratamiento con [insertar tratamiento], que se continuará durante [insertar duración].
+Evolución y pronóstico:
+El paciente se encuentra estable y sin complicaciones. La evolución clínica será seguida de cerca y se realizarán revisiones periódicas para ajustar el tratamiento según sea necesario.

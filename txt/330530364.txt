@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Esther León Mora
+DNI: 17005131N
+Fecha de nacimiento: 11/06/1997
+Género: Femenino
+Domicilio: Calle de Lavapiés 42, 5D
+Ciudad: Huelva, Guipúzcoa, Pais Vasco
+Código postal: 20131
+Email: esther@isciii.es
+Teléfono fijo: +34 943 56 36 93
+Teléfono móvil: +34 743 35 38 87
+NHC: 1388204
+NASS: 624386391291
+Condición de riesgo: Paciente menor de edad
+Datos asistenciales.
+Médico: Dra. Ana María Castaño Robles. NC 771236648. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/05/2012
+Episodio: 86885234
+Hospital: Hospital de Manises
+Informe clínico del paciente:
+Paciente vegetariano de 14 años de edad, acompañado de su hermana, que refiere una serie de síntomas que han llevado a su ingreso en el hospital. Según el paciente, ha estado experimentando una sensación de ansiedad y miedo intenso durante las últimas semanas, lo que ha afectado significativamente su capacidad para realizar actividades cotidianas.
+La exploración física revela que el paciente está en buen estado de salud física, con una tensión arterial normal y una frecuencia cardíaca dentro del rango normal. Sin embargo, el paciente muestra signos de alteración emocional, como lágrimas y temblores, cuando se le pregunta sobre sus síntomas.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 7.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,0 mEq/l; GOT 10 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 9,0 mg/dl. Orina: sedimento normal.
+Se han solicitado pruebas de imagen (Ecografía cerebral, TAC craneal) para evaluar la posible presencia de alteraciones en el cerebro del paciente. Los resultados de estas pruebas no han sido disponibles en el momento de la redacción de este informe.
+Antecedentes:
+El paciente tiene antecedentes de ansiedad y miedo en el pasado, aunque nunca ha requerido tratamiento psiquiátrico. El paciente es vegetariano desde hace unos años y ha estado siguiendo una dieta equilibrada.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento con medicamentos antipsicóticos y ansiolíticos desde su ingreso en el hospital. El paciente ha mostrado una mejoría significativa en sus síntomas de ansiedad y miedo, aunque todavía requiere tratamiento para controlar sus síntomas.
+Remitido por:
+El paciente ha sido remitido a la Unidad de Psiquiatría del Hospital de Manises para continuar su tratamiento y seguimiento.

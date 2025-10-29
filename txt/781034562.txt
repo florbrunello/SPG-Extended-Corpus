@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Isaac Cabrera Palacios
+DNI: 94578701X
+Fecha de nacimiento: 10/08/1967
+Género: Masculino
+Domicilio: Calle de Ferraz 55, 6T
+Ciudad: Plasencia, Formentera, Islas Baleares
+Código postal: 07363
+Email: cabrera395@outlook.com
+Teléfono fijo: +34 971 51 47 64
+Teléfono móvil: +34 671 33 03 02
+NHC: 7670607
+NASS: 459688521
+Condición de riesgo: Fumador
+Datos asistenciales.
+Médico: Dra. Nuria Garrido Roldan. NC 459688521. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 08/02/1994
+Episodio: 70376857
+Centro de salud: Centro de Salud Coslada
+Informe clínico del paciente:
+Paciente fumador de 26 años de edad, con antecedentes de consumo de tabaco desde los 18 años, con un promedio de 20 cigarros diarios. Presenta una evolución clínica de 8 años, con un aumento progresivo de la visión borrosa en ambos ojos, especialmente en la distancia. La exploración física revela una visión de 20/50 en ambos ojos, con un aumento de la presión intraocular en el ojo derecho. Los resultados de las pruebas diagnósticas, incluyendo la oftalmoscopia y la ecografía, no muestran patología significativa en la retina o el vitreo. Se recomienda un seguimiento regular para monitorizar la evolución de la enfermedad y considerar el tratamiento con láser o cirugía si es necesario.
+Evolución y comentarios:
+El paciente ha sido tratado con un programa de reducción del consumo de tabaco y se le ha recomendado una dieta equilibrada y un estilo de vida saludable. Se le ha asignado un seguimiento regular para monitorizar la evolución de la enfermedad.
+Remitido por:
+Dra. Nuria Garrido Roldan.

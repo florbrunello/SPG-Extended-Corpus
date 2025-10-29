@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Isabel Alonso Abad
+DNI: 24108511A
+Fecha de nacimiento: 02/01/1969
+Género: F
+Domicilio: Calle del Prado 28
+Ciudad: San Vicente del Raspeig, Salamanca, Castilla y León
+Código postal: 37157
+Email: alonso_abad52@gmail.com
+Teléfono fijo: +34 923 82 97 28
+Teléfono móvil: +34 623 28 07 26
+NHC: 1906896
+NASS: 250456451500
+Condición de riesgo: Limpiador
+Datos asistenciales.
+Médico: Dr. Mohamed Moya Peña. NC 890514913. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/01/2023
+Episodio: 24717729
+Hospital: Hospital Regional Universitario de Málaga
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 8 años de edad, acompañado de su madre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es WD711TPE157.

@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Ana Isabel Ferrer Aguilar
+DNI: 60795359B
+Fecha de nacimiento: 12/01/1956
+Género: F
+Domicilio: Calle de Segovia 49
+Ciudad: Lugo, Cuenca, Castilla-La Mancha
+Código postal: 16390
+Email: ferreraguilar@hotmail.com
+Teléfono fijo: +34 969 57 64 09
+Teléfono móvil: +34 669 18 57 43
+NHC: 9077909
+NASS: 468043486571
+Condición de riesgo: Plomero
+Datos asistenciales.
+Médico: Dra. María Soledad Benítez Pereira. NC 513471993. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Cargo: Jefa de Sección de Neurología
+Dirección: Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso:
+Fecha de ingreso: 14/04/2022
+Episodio: 45709775
+Centro de salud de ingreso:
+Hospital: Hospital General Universitario Morales Meseguer
+Informe clínico del paciente:
+Paciente fumador de 66 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que acude al servicio de urgencias con sintomatología de cefalea y mareos. La exploración física revela hipertensión arterial (160/100 mmHg) y taquicardia (120 lpm). El paciente refiere haber tenido una caída en el hogar la noche anterior, sin pérdida de conocimiento.
+La evolución clínica del paciente ha sido de empeoramiento progresivo de la cefalea y mareos, con pérdida de equilibrio y dificultad para caminar. El paciente ha sido sometido a una serie de pruebas diagnósticas, incluyendo una resonancia magnética cerebral, que ha mostrado una lesión en el lóbulo temporal derecho, consistentemente con un accidente cerebrovascular isquémico.
+El tratamiento del paciente ha consistido en la administración de anticoagulantes y antiplaquetarios, así como la realización de una terapia fisioterapéutica para mejorar la función motora y la equilibrio. El paciente ha sido trasladado a la unidad de cuidados intensivos para monitorización continua y tratamiento de apoyo.
+La pronóstico del paciente es reservado, debido a la gravedad de la lesión cerebral y la edad del paciente. Se requiere una atención médica continuada y apoyo a la familia del paciente para ayudar a gestionar la situación.
+Antecedentes:
+El paciente tiene un antecedente de hipertensión arterial y diabetes mellitus tipo 2, que han sido tratados con medicación y cambios en el estilo de vida. El paciente también tiene un antecedente de fumador, que ha sido un factor de riesgo para la enfermedad cardiovascular.
+Evolución y comentarios:
+La evolución del paciente ha sido de empeoramiento progresivo de la cefalea y mareos, con pérdida de equilibrio y dificultad para caminar. El paciente ha sido sometido a una serie de pruebas diagnósticas, incluyendo una resonancia magnética cerebral, que ha mostrado una lesión en el lóbulo temporal derecho, consistentemente con un accidente cerebrovascular isquémico.
+Remitido por:
+El paciente ha sido remitido a la unidad de cuidados intensivos para monitorización continua y tratamiento de apoyo. Se requiere una atención médica continuada y apoyo a la familia del paciente para ayudar a gestionar la situación.

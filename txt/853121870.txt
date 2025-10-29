@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Juan Pedro Ortiz Paredes
+DNI: 42455576Z
+Fecha de nacimiento: 03/11/2012
+Género: Hombre
+Domicilio: Calle de la Reina 85, 6G
+Ciudad: Bormujos, Pontevedra, Galicia
+Código postal: 36174
+Email: juanpedro_ortiz_paredes1775@hotmail.com
+Teléfono fijo: +34 986 66 78 18
+Teléfono móvil: +34 786 29 43 49
+NHC: 8454326
+NASS: 226369242351
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dra. Cristina Delgado Calvo. NC 254752321. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 05/04/2023
+Episodio: 16230002
+Centro de salud: Centro de Salud Tetuán
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 10 años de edad, acompañado de su abuela, quien refiere una visión borrosa en ambos ojos desde hace unos días. El paciente no tiene antecedentes médicos relevantes. Se realizó una exploración física, que reveló una visión borrosa en ambos ojos, sin signos de dolor o sensibilidad.
+Se solicitó una exploración oftalmológica, que incluyó una escaneo retiniano. El resultado de la exploración fue normal, sin signos de patología oculares. El código obtenido para revisar la escaneo es SE856NFI236.
+El paciente se encuentra en buen estado general, sin signos de dolor o malestar. Se le recomendó un seguimiento en el Servicio de Oftalmología para evaluar la evolución de la visión.
+Antecedentes:
+El paciente no tiene antecedentes médicos relevantes.
+Evolución y comentarios:
+El paciente se encuentra en buen estado general, sin signos de dolor o malestar. Se le recomendó un seguimiento en el Servicio de Oftalmología para evaluar la evolución de la visión.
+Remitido por:
+Dra. Cristina Delgado Calvo, Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.

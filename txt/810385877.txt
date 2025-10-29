@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Juan Carlos Salazar Alarcon
+DNI: 40191732Z
+Fecha de nacimiento: 18/11/1927
+Género: Varón
+Domicilio: Calle de Don Ramón de la Cruz 85
+Ciudad: Alcorcón, Jaén, Andalucía
+Código postal: 23646
+Email: juancarlossalazar.alarcon@udc.es
+Teléfono fijo: +34 953 34 05 60
+FAX: +34 953 22 94 39
+NHC: 0096186
+NASS: 40191732Z
+Condición de riesgo: Pintor de Construcción
+Datos asistenciales.
+Médico: Dr. Joan Domínguez Paredes. NC 296553989. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 10/01/1985
+Episodio: 02092314
+Hospital: Hospital Universitario Virgen del Rocío
+Informe clínico del paciente:
+Paciente de descendencia africana de 57 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que se presenta en la consulta con síntomas de fatiga crónica y pérdida de peso. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración neurológica se detectan signos de debilidad muscular en las extremidades inferiores.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, tratados con medicamentos orales. En el pasado, ha presentado episodios de insuficiencia renal aguda, que se han resuelto con tratamiento conservador.
+Evolución y comentarios:
+El paciente ha estado en tratamiento con medicamentos orales durante varios años, sin presentar complicaciones significativas. Sin embargo, en las últimas semanas, ha notado una disminución en su estado de ánimo y una pérdida de peso significativa. La exploración física ha revelado signos de debilidad muscular en las extremidades inferiores, lo que sugiere una posible afectación neurológica.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, que ha notado una disminución en su estado de ánimo y una pérdida de peso significativa en las últimas semanas. El médico de cabecera ha recomendado una evaluación más detallada para determinar la causa subyacente de los síntomas.

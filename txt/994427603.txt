@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Silvia Carrasco López
+DNI: 73772873M
+Fecha de nacimiento: 03/02/1947
+Género: Mujer
+Domicilio: Calle de Bravo Murillo 69
+Ciudad: San Vicente del Raspeig, Madrid, Madrid
+Código postal: 28907
+Email: silvia.carrasco195@gmail.com
+Teléfono fijo: +34 913 43 68 26
+Teléfono móvil: +34 615 72 09 54
+NHC: 5151310
+NASS: 021771724443
+Condición de riesgo: Alta educación
+Datos asistenciales.
+Médico: Dra. Remedios Casas Martínez. NC 002225764. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/07/2006
+Episodio: 03975462
+Centro de salud: Centro de Salud Málaga Oeste
+Antecedentes:
+El paciente es un exfumador de 59 años de edad, con antecedentes de hipertensión arterial controlada con medicación y una historia de diabetes mellitus tipo 2 controlada con dieta y medicación oral.
+Evolución y comentarios:
+El paciente se presentó en la consulta con una queja de visión borrosa en el ojo derecho durante los últimos días. La exploración física reveló una tensión intraocular normal y una visión de 20/20 en el ojo izquierdo. La exploración oftalmológica del ojo derecho mostró un aumento de la presión intraocular y una retina con signos de edema macular.
+Informe clínico del paciente:
+El paciente fue sometido a una exploración oftalmológica completa, que incluyó una escaneo retiniano. El resultado de la exploración mostró un edema macular asociado con una retinopatía diabética. El paciente fue tratado con un tratamiento conservador, incluyendo medicación para reducir la presión intraocular y un seguimiento regular para monitorear la evolución de la enfermedad.
+Remitido por:
+El paciente fue remitido a la unidad de oftalmología para un seguimiento y tratamiento más intensivo. Se le indicó que regrese a la consulta en una semana para una revisión de la evolución de la enfermedad.

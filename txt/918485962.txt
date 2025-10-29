@@ -1,0 +1,19 @@
+Datos del paciente.
+Nombre: Lucas Carrillo Ramírez
+DNI: 24170870D
+Fecha de nacimiento: 23/05/1968
+Género: Masculino
+Domicilio: Calle de Fuencarral 77
+Ciudad: Castellón de la Plana, Guadalajara, Castilla-La Mancha
+Código postal: 19444
+Email: carrillo1977@protonmail.com
+Teléfono fijo: +34 949 23 79 93
+FAX: +34 949 02 31 66
+NHC: 4854554
+Condición de riesgo: Carpintero
+Datos asistenciales.
+Médico: Dra. Alicia Fernández Martín. NC 907387392. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/08/1996
+Centro de salud: Centro de Salud Móstoles
+Informe clínico del paciente:
+Paciente de tez blanca de 28 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-ophthalmology.net//17097882O.

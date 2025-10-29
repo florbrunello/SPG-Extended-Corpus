@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Ignacio Exposito Crespo
+DNI: 72367967P
+Fecha de nacimiento: 16/09/1985
+Género: V
+Domicilio: Calle de la Paz 37, 3Y
+Ciudad: Cáceres, Vizcaya, Pais Vasco
+Código postal: 48912
+Email: ignacio.crespo@ciberisciii.es
+Teléfono fijo: +34 946 89 06 62
+Teléfono móvil: +34 646 40 86 67
+NHC: 5794087
+NASS: 181896233400
+Condición de riesgo: Minero
+Datos asistenciales.
+Médico: Dr. Víctor Padilla Estevez. NC 811431089. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/01/2025
+Episodio: 01671279
+Hospital: Hospital Universitario de Cabueñes
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 39 años de edad, acompañado de su vecina, refiere un cuadro de confusión y disorientación desde hace 3 días, con pérdida de memoria reciente y dificultad para realizar tareas cotidianas. La exploración física revela: Tª 36,8 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, pero con signos de agitación y ansiedad. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de deterioro cognitivo, con dificultad para realizar pruebas de memoria y atención.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.200/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 20,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía cerebral, TAC craneal) que no evidencian patología significativa. Con el diagnóstico de deterioro cognitivo leve, se instaura tratamiento sintomático (reposo, hidratación y medicación antipsicótica) y se realiza seguimiento neurológico y psiquiátrico.
+Antecedentes:
+El paciente tiene antecedentes de alcoholismo y consumo de drogas ilegales en el pasado, pero no ha reportado ningún síntoma neurológico previo.
+Evolución y comentarios:
+El paciente ha mejorado significativamente con el tratamiento, pero sigue presentando signos de deterioro cognitivo. Se le ha recomendado realizar un seguimiento neurológico y psiquiátrico regular.
+Remitido por:
+Dr. Víctor Padilla Estevez, Neurólogo Especialista en Alzheimer, Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED).

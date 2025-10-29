@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Christian Martínez Ibáñez
+DNI: 40381585W
+Fecha de nacimiento: 21/11/1950
+Género: Varón
+Domicilio: Calle de la Magdalena 53
+Ciudad: Almería, Ávila, Castilla y León
+Código postal: 05082
+Email: ibanez@ciberned.es
+Teléfono fijo: +34 920 45 76 39
+FAX: +34 920 11 16 28
+NHC: 5882098
+NASS: 546811202275
+Condición de riesgo: Desconocido
+Datos asistenciales.
+Médico: Dr. Iñigo Soriano Hidalgo. NC 310388793. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/01/1986
+Episodio: 33783419
+Centro de salud: Centro de Salud Benalmádena
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 35 años de edad, acompañado de su compañero, con antecedentes de episodios de confusión y desorientación en el último mes. El paciente refiere sentirse cansado y sin energía, con dificultades para concentrarse y recordar eventos recientes. No ha experimentado dolor o molestias en el cuerpo.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Ha sido tratado con medicamentos para controlar su presión arterial y nivel de azúcar en la sangre. No tiene antecedentes de accidentes cerebrovasculares o enfermedades neurológicas.
+Evolución y comentarios:
+El paciente fue evaluado por un equipo de médicos especializados en neurología. Se realizaron pruebas de imagen, incluyendo una resonancia magnética de cabeza, para evaluar la posible causa de sus síntomas. Los resultados de las pruebas indican la presencia de un tumor cerebral en el lóbulo temporal izquierdo.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien se preocupó por su estado de salud y lo derivó a un especialista en neurología para una evaluación más completa.

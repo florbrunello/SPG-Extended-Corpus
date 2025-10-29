@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Carlota Román Montero
+DNI: 13136389P
+Fecha de nacimiento: 22/02/1997
+Género: M
+Domicilio: Calle de Santa Engracia 78, 8F
+Ciudad: Eibar, Zaragoza, Aragón
+Código postal: 50432
+Email: roman.montero1521@ciberehd.org
+Teléfono fijo: +34 976 93 67 75
+FAX: +34 976 41 58 29
+NHC: 2491975
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dra. Carlota Prieto Cortés. NC 165682659. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/12/2012
+Episodio: 82255973
+Centro de salud: Centro de Salud Sevilla Oeste
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 15 años de edad, acompañado de su hermana, que acude al servicio de urgencias con síntomas de dolor abdominal crónico y fiebre recurrente durante los últimos 6 meses. El paciente reporta haber experimentado pérdida de peso, fatiga y pesadez en el estómago.
+La exploración física revela: temperatura 38,5°C, presión arterial 120/80 mmHg, frecuencia cardíaca 100 lpm, respiratoria 20 lpm. El paciente se encuentra consciente, orientado y con buen estado de nutrición e hidratación. La exploración abdominal revela dolor en el epigastrio y hipocondrio derecho, con tendencia a irradiarse hacia la espalda.
+Los datos analíticos muestran los siguientes resultados: hemograma normal, bioquímica con elevación de la enzima hepática alanina aminotransferasa (ALT) a 120 U/l, glucosa 90 mg/dl, urea 20 mg/dl, creatinina 0,8 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen, incluyendo radiografía de tórax, ecografía abdominal y ultrasonografía de hígado y páncreas. Las pruebas de imagen revelan una lesión en el hígado de 2,5 cm de diámetro, con signos de inflamación y necrosis.
+Con el diagnóstico de hepatitis autoinmune, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios) y tratamiento específico con esteroides orales (prednisolona 1 mg/kg/día). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, con disminución de la fiebre y dolor abdominal.
+Antecedentes:
+El paciente tiene antecedentes de enfermedades gastrointestinales, incluyendo gastroenteritis viral y enfermedad inflamatoria intestinal (EII). El paciente también tiene antecedentes de alergia a ciertos alimentos, incluyendo leche y huevos.
+Evolución y comentarios:
+El paciente se encuentra en evolución estable, con mejoría significativa de su cuadro después del tratamiento. El paciente ha sido educado sobre la importancia de seguir el tratamiento y realizar cambios en su estilo de vida para prevenir futuras complicaciones.
+Remitido por:
+El paciente ha sido remitido al servicio de gastroenterología para seguimiento y tratamiento continuo.

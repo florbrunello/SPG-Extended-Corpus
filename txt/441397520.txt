@@ -1,0 +1,38 @@
+Datos del paciente.
+Nombre: Nuria Espinosa Miguel
+DNI: 31908688Y
+Fecha de nacimiento: 07/04/2008
+Género: F
+Domicilio: Calle de Gobernador 29, 5L
+Ciudad: Lugo, Guadalajara, Castilla-La Mancha
+Código postal: 19755
+Email: espinosa395@ciberisciii.es
+Teléfono fijo: +34 949 08 71 25
+FAX: +34 949 94 31 85
+NHC: 6569274
+NASS: 707106127648
+Condición de riesgo: Población infantil
+Datos asistenciales.
+Médico: Dr. Germán Castaño Peña. NC 785289622. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 19/09/2016
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 8 años de edad, acompañado de su madre, refiere dolor ocular y visión borrosa en el ojo izquierdo desde hace 3 días. Antecedentes de alergias a polen y medicamentos. No tiene antecedentes médicos relevantes.
+Antecedentes:
+El paciente tiene un antecedente de alergia a polen, por lo que se le ha recetado un tratamiento de prevención de alergias.
+Exploración física:
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 30 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración oftalmológica se observa un edema conjuntival en el ojo izquierdo y una visión borrosa en el mismo ojo.
+Pruebas diagnósticas:
+Se solicitan pruebas diagnósticas para determinar la causa del dolor ocular y la visión borrosa en el ojo izquierdo. Las pruebas realizadas incluyen:
+Ecografía ocular
+Prueba de visión
+Análisis de sangre para detectar infecciones o enfermedades sistémicas
+Tratamiento:
+El paciente recibe un tratamiento para aliviar el dolor ocular y mejorar la visión en el ojo izquierdo. El tratamiento incluye:
+Medicamentos antiinflamatorios
+Medicamentos para mejorar la visión
+Tratamiento: de prevención de alergias
+Evolución y comentarios:
+El paciente se encuentra en evolución estable y se le sigue observando en la clínica de oftalmología. Se le realizarán pruebas adicionales para determinar la causa del dolor ocular y la visión borrosa en el ojo izquierdo.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera para ser evaluado en la clínica de oftalmología.

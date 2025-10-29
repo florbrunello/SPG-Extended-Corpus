@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Luis Miguel Luna Benítez
+DNI: 43236707L
+Fecha de nacimiento: 18/12/1953
+Género: Varón
+Domicilio: Calle del Fúcar 19
+Ciudad: Ponferrada, Granada, Andalucía
+Código postal: 18587
+Email: WyMKwU5XJ@ucm.es
+Teléfono fijo: +34 958 47 07 85
+FAX: +34 958 96 29 31
+NHC: 0543709
+NASS: 354809520238
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dra. Gemma Álvarez Vicente. NC 286894763. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/03/1967
+Episodio: 81382369
+Centro de salud: Centro de Salud Málaga Sur
+Informe clínico del paciente:
+Paciente migrante de 13 años de edad, acompañado de su hermana, que presenta una condición clínica compleja y multifactorial. El paciente tiene una historia de exposición a diferentes agentes patógenos durante su traslado internacional, lo que ha llevado a una serie de síntomas y signos que requieren una evaluación detallada.
+La exploración física revela: temperatura corporal normal, ritmo cardíaco regular, sin signos de dolor o inestabilidad. Sin embargo, el paciente muestra una serie de lesiones y contusiones en la piel, consistentes con un accidente o lesión traumática. Además, el paciente presenta una serie de síntomas gastrointestinales, incluyendo náuseas, vómitos y diarrea.
+Los datos analíticos muestran los siguientes resultados: hemograma normal, sin anormalidades en la cuenta de glóbulos rojos, blancos o plaquetas. Sin embargo, el paciente tiene una serie de anormalidades en los análisis de orina, incluyendo una concentración de proteínas en orina elevada y una serie de cambios en la morfología de las células epiteliales.
+Con base en la exploración física y los análisis de laboratorio, se sospecha que el paciente puede tener una infección por un agente patógeno, posiblemente una bacteria o un virus. Se han solicitado una serie de pruebas de laboratorio adicionales para confirmar el diagnóstico y determinar el tratamiento adecuado.
+Se está evaluando la posibilidad de una infección por Leptospira, una bacteria que se transmite a través de la exposición a agua contaminada o a animales infectados. Se están realizando pruebas de sangre para detectar la presencia de anticuerpos contra Leptospira y se están solicitando una serie de pruebas de imagen para evaluar la función renal y la presencia de cualquier lesión o inflamación en los riñones.
+Se está considerando el tratamiento con antibióticos, posiblemente una combinación de penicilina y estreptomicina, para tratar la infección y prevenir complicaciones. Se está monitoreando de cerca el estado del paciente y se están realizando ajustes en el tratamiento según sea necesario.
+La evolución clínica del paciente es incierta en este momento, pero se está trabajando arduamente para determinar el diagnóstico y desarrollar un plan de tratamiento efectivo. Se está manteniendo a la familia informada de los progresos del caso y se están proporcionando apoyo emocional y psicológico a la hermana del paciente.

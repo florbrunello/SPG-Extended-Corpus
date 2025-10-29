@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Antonio Prieto De la Fuente
+DNI: 83723615G
+Fecha de nacimiento: 09/06/1940
+Género: Varón
+Domicilio: Calle del Amparo 52
+Ciudad: Ciudad autónoma de Melilla, Melilla
+Código postal: 51073
+Email: delafuente@icloud.com
+Teléfono fijo: +34 951 25 46 52
+Teléfono móvil: +34 651 49 74 64
+NHC: 2053236
+NASS: 475203107872
+Condición de riesgo: Policía
+Datos asistenciales.
+Médico: Dra. Irene Arias Blazquez. NC 352267669. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/04/1995
+Hospital: Hospital Universitari i Politècnic La Fe
+Matrícula del coche: 6691ZOC
+Modelo: Chevrolet Silverado
+VIN: VSNTFVCOARZ349039
+Informe clínico del paciente:
+Paciente no fumador de 54 años de edad, que acude a la consulta con dolor abdominal crónico y pérdida de peso significativa en los últimos meses. El paciente informa que ha tenido episodios de diarrea y vómitos en las últimas semanas, lo que ha llevado a una importante pérdida de peso y debilidad generalizada. El paciente también informa de una sensación de falta de apetito y malestar generalizado.
+La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen distendido, con dolor en el hipocondrio derecho, sin masas ni megalias.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 85%; TTPA 22,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC abdominal) que revelan una importante dilatación del colon ascendente y transverso, con signos de inflamación y obstrucción. El paciente es sometido a una exploración endoscópica que revela una importante inflamación y ulceración en el colon ascendente y transverso.
+Con el diagnóstico de colitis ulcerosa, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento médico específico: Prednisolona 40 mg vía oral cada 12 horas (durante 4 semanas) y Mesalazina 2 gramos vía oral cada 12 horas (durante 6 semanas). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose la prolongación del tratamiento y seguimiento en consulta.

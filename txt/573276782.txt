@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Arnau Vega Zamora
+DNI: 12289179A
+Fecha de nacimiento: 24/11/1926
+Género: Masculino
+Domicilio: Calle del Sombrerete 37, 1W
+Ciudad: Móstoles, Sevilla, Andalucía
+Código postal: 41342
+Email: arnau_zamora803@isciii.es
+Teléfono fijo: +34 954 48 15 80
+Teléfono móvil: +34 654 70 20 27
+NHC: 1463367
+NASS: 468043486571
+Condición de riesgo: Trabajador de la Construcción
+Datos asistenciales.
+Médico: Dra. Noa Lozano Herrera. NC 234388985. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/12/2015
+Episodio: 07012463
+Hospital: Complejo Hospitalario La Mancha Centro
+Informe clínico del paciente:
+Paciente discapacitado de 89 años de edad, acompañado de su hija, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que acude al servicio de urgencias con dolor abdominal crónico y pérdida de peso en los últimos meses. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia un abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 9.500/mm3 (neutrófilos 60%); plaquetas 180.000/mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 140 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal y Rx de abdomen) que muestran un aumento del hígado y la vesícula biliar, con signos de inflamación y fibrosis. Se diagnostica una enfermedad hepática crónica, probablemente causada por la hepatitis C crónica. Se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento específico: Interferón alfa 3 veces a la semana (durante 12 semanas) y Ribavirina 2 veces al día (durante 12 semanas). El paciente mejora significativamente de su cuadro tras 6 semanas de tratamiento, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento.

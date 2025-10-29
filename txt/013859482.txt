@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Adrián Zamora Paredes
+DNI: 94812614J
+Fecha de nacimiento: 22/01/2000
+Género: Hombre
+Domicilio: Calle de Covarrubias 27
+Ciudad: Ferrol
+Código postal: 10645
+Email: adrian.zamora_paredes540@gmail.com
+Teléfono fijo: +34 927 08 82 41
+Teléfono móvil: +34 627 76 68 32
+NHC: 0163773
+NASS: 520275660373
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dr. Julián Navarro Durán. NC 755342849. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/01/2021
+Centro de salud: Centro de Salud Delicias
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 20 años de edad, con antecedentes de salud no especificados, se presenta con un cuadro clínico no descrito. Se registró una sesión de huella dactilar, el código obtenido para revisarla es JO431WUE153. La exploración física no se menciona en este informe. Se desconoce la evolución clínica y el tratamiento aplicado.
+Antecedentes:
+No se proporcionan antecedentes médicos relevantes.
+Evolución y comentarios:
+No se proporcionan comentarios sobre la evolución clínica del paciente.
+Remitido por:
+No se proporciona información sobre quién remitió al paciente al centro de salud.

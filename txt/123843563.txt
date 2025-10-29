@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: Moisés Miguel Ramos
+DNI: 19530089F
+Fecha de nacimiento: 09/03/2025
+Género: Masculino
+Domicilio: Calle de las Huertas 49, 3F
+Ciudad: Albacete, Córdoba, Andalucía
+Código postal: 14927
+Email: moises_miguel_ramos@ual.es
+Teléfono fijo: +34 957 21 09 49
+FAX: +34 957 57 51 93
+NHC: 5181963
+NASS: 368744235301
+Condición de riesgo: No aplica
+Datos asistenciales.
+Médico: Dra. María Lourdes Serra Arias. NC 912605371. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 89919605
+Centro de salud: Centro de Salud Málaga Norte
+Informe clínico del paciente:
+Paciente no fumador de 0 meses de edad, acompañado de su madre.
+Antecedentes:
+No hay antecedentes relevantes.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de pediatría por... (continuación del informe)
+Remitido por:
+No aplica.
+Exploración física:
+La exploración física revela... (continuación del informe)
+Pruebas diagnósticas:
+Se han realizado las siguientes pruebas diagnósticas:... (continuación del informe)
+Tratamiento:
+El tratamiento establecido para el paciente es... (continuación del informe)
+Pronóstico:
+El pronóstico del paciente es... (continuación del informe)

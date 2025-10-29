@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: María Rosa Benito Conde
+DNI: 11634310J
+Fecha de nacimiento: 04/09/1943
+Género: F
+Domicilio: Calle de Áncora 99, 1B
+Ciudad: Ciudad Real, Castilla-La Mancha
+Código postal: 13789
+Email: mariarosa_conde68@ual.es
+Teléfono fijo: +34 926 98 24 84
+Teléfono móvil: +34 726 13 81 83
+NHC: 9174691
+NASS: 468043486571
+Condición de riesgo: Paciente con antecedentes de enfermedades crónicas
+Datos asistenciales.
+Médico: Dra. Rosario Díaz Otero. NC 709333066. Investigadora Clínica en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/04/2015
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial, diabetes mellitus tipo 2 y enfermedad pulmonar obstructiva crónica (EPOC). Ha tenido varios episodios de insuficiencia cardíaca en el pasado y ha sido sometido a un procedimiento de angioplastia coronaria.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de cuidados intensivos debido a un episodio de insuficiencia cardíaca aguda. Fue sometido a un tratamiento con diuréticos y medicamentos inotrópicos, y se le realizó un seguimiento estricto de su estado clínico. A pesar de los esfuerzos terapéuticos, el paciente no mejoró significativamente y se mantuvo en estado de insuficiencia cardíaca grave.
+Informe clínico del paciente:
+El paciente es un hombre de 71 años de edad, de ascendencia africana, que fue ingresado en la unidad de cuidados intensivos debido a un episodio de insuficiencia cardíaca aguda. El paciente tiene antecedentes de enfermedades crónicas, incluyendo hipertensión arterial, diabetes mellitus tipo 2 y EPOC. Fue sometido a un tratamiento con diuréticos y medicamentos inotrópicos, pero no mejoró significativamente. Se le realizó un seguimiento estricto de su estado clínico, pero el paciente se mantuvo en estado de insuficiencia cardíaca grave.
+Exploración física:
+La exploración física reveló signos de insuficiencia cardíaca grave, incluyendo disnea, edema periférico y taquicardia. El paciente también presentaba signos de hipotensión y oliguria.
+Pruebas diagnósticas:
+Se realizaron varias pruebas diagnósticas, incluyendo electrocardiograma, ecocardiograma y análisis de sangre. Los resultados mostraron signos de insuficiencia cardíaca grave y daño cardíaco.
+Tratamiento:
+El paciente recibió un tratamiento con diuréticos y medicamentos inotrópicos, pero no mejoró significativamente. Se le realizó un seguimiento estricto de su estado clínico, pero el paciente se mantuvo en estado de insuficiencia cardíaca grave.
+Pronóstico:
+El pronóstico del paciente es grave, ya que la insuficiencia cardíaca aguda es una condición potencialmente mortal. Es importante continuar con el tratamiento y el seguimiento estricto del estado clínico del paciente.
+Remitido por:
+El paciente fue remitido a la unidad de cuidados intensivos debido a un episodio de insuficiencia cardíaca aguda. El paciente fue sometido a un tratamiento con diuréticos y medicamentos inotrópicos, pero no mejoró significativamente. Se le realizó un seguimiento estricto de su estado clínico, pero el paciente se mantuvo en estado de insuficiencia cardíaca grave.

@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Christian Prieto Luque
+DNI: 88007140D
+Fecha de nacimiento: 08/03/1960
+Género: V
+Domicilio: Calle de Juan Bravo 4, 8C
+Ciudad: Avilés, Toledo, Castilla-La Mancha
+Código postal: 45565
+Email: christianprieto@yahoo.com
+Teléfono fijo: +34 925 08 95 03
+Teléfono móvil: +34 725 67 21 13
+NHC: 3898396
+NASS: 745841070339
+Condición de riesgo: Farmacéutico
+Datos asistenciales.
+Médico: Dr. Mohammed Mora Gracia. NC 105847190. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/07/1991
+Hospital: Complejo Hospitalario Universitario de Santiago
+Centro de salud de ingreso:
+Complejo Hospitalario Universitario de Santiago
+Fecha de ingreso:
+24/07/1991

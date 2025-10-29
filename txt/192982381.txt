@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Rubén Sánchez Vera
+DNI: 10418102E
+Fecha de nacimiento: 03/05/1938
+Género: M
+Domicilio: Calle de la Princesa 12
+Ciudad: Zaragoza, Menorca, Islas Baleares
+Código postal: 07457
+Email: sanchez-vera1742@ual.es
+Teléfono fijo: +34 971 89 82 57
+Teléfono móvil: +34 771 31 18 96
+NHC: 8047017
+NASS: 995436734595
+Condición de riesgo: Montador
+Datos asistenciales.
+Médico: Dr. Gonzalo Hernández Gutiérrez. NC 843559392. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 04/09/1954
+Episodio: 69000350
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Informe clínico del paciente:
+Paciente vegano de 16 años de edad, acompañado de su madre, que refiere dolor abdominal crónico desde hace 3 meses. El dolor se sitúa en la región epigástrica y se agrava después de las comidas. El paciente también ha experimentado pérdida de peso y fatiga.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. La exploración abdominal revela dolor en la región epigástrica, sin signos de obstrucción intestinal.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 50%); plaquetas 250.000/mm3. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 40 U/l.
+Con el diagnóstico de gastritis crónica se instaura tratamiento sintomático (antitérmicos, antiinflamatorios y reposo) y tratamiento farmacológico con omeprazol 20 mg vía oral una vez al día durante 4 semanas. El paciente mejora significativamente de su cuadro tras 2 semanas de tratamiento, decidiéndose el alta a su domicilio.
+Antecedentes:
+El paciente tiene antecedentes de asma bronquial desde la infancia, que se controla con tratamiento con inhaladores.
+Evolución y comentarios:
+El paciente se mantiene estable durante el período de observación, sin signos de complicación. Se le recomienda seguir con el tratamiento farmacológico y realizar revisiones periódicas para controlar la evolución de la enfermedad.
+Remitido por:
+El paciente fue remitido por el médico de cabecera, Dr. Juan Luis García Pérez, quien sospechó de gastritis crónica debido a los síntomas descritos por el paciente.

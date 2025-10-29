@@ -1,0 +1,36 @@
+Datos del paciente.
+Nombre: José Zamora Millan
+DNI: 41983785E
+Fecha de nacimiento: 31/07/2022
+Género: M
+Domicilio: Calle de Tribulete 48
+Ciudad: Jaén, León, Castilla y León
+Código postal: 24088
+Email: jose_zamora-millan@ub.edu
+Teléfono fijo: +34 987 64 75 33
+Teléfono móvil: +34 687 60 45 65
+NHC: 7147945
+NASS: 797555158188
+Condición de riesgo: Bombero
+Datos asistenciales.
+Médico: Dr. Adrián Guzman Galvez. NC 500917262. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 65410751
+Hospital: Complejo Hospitalario Torrecárdenas
+Evolución y comentarios:
+El paciente se registró en la consulta virtual con una dirección IP (en red interna) 192.168.76.95 y dirección MAC 3D:B6:78:99:64:68. No se tiene información adicional sobre su evolución clínica.
+Informe clínico del paciente:
+El paciente de 2 años de edad presenta una condición médica sin especificar. Se requiere una exploración física y análisis de laboratorio para determinar la causa subyacente de su condición.
+La exploración física revela:
+Temperatura: 37,5°C
+Presión arterial: 90/60 mmHg
+Frecuencia cardíaca: 120 lpm
+Estado de conciencia: consciente y orientado
+Los resultados de los análisis de laboratorio no se han proporcionado.
+Se requiere una exploración más exhaustiva para determinar la causa subyacente de la condición del paciente y desarrollar un plan de tratamiento adecuado.
+Remitido por:
+El paciente fue remitido por su padre, quien se presentó en la consulta virtual con su hijo.
+Fecha de ingreso:
+09/03/2025
+Centro de salud de ingreso:
+Complejo Hospitalario Torrecárdenas

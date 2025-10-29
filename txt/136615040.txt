@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Jesús María Blazquez Vargas
+DNI: 69023541N
+Fecha de nacimiento: 17/01/1982
+Género: Masculino
+Domicilio: Calle de la Cabeza 71
+Ciudad: Zamora, La Rioja, La Rioja
+Código postal: 26210
+Email: jesusmariavargas@uca.es
+Teléfono fijo: +34 941 95 12 02
+Teléfono móvil: +34 641 22 67 47
+NHC: 8295544
+Condición de riesgo: Operador de Maquinaria Agrícola
+Datos asistenciales.
+Médico: Dr. Darío Padilla Santiago. NC 498830259. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 11/09/1982 (revisar esta fecha)
+Episodio: 03454373
+Centro de salud: Centro de Salud Fuencarral
+Matrícula del coche: 8085OUP
+Modelo: Hyundai Elantra
+VIN: VSXRR2ZR0PI620408
+Informe clínico del paciente:
+Paciente no fumador de 7 meses de edad, acompañado de su hermano. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es QM217TDV270.

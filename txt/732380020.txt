@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Juan Carlos Calderon Gómez
+DNI: 29774752X
+Fecha de nacimiento: 29/07/2012
+Género: Masculino
+Domicilio: Calle de Lavapiés 61
+Ciudad: Ponferrada, Granada, Andalucía
+Código postal: 18275
+Email: N5x7mdl@uca.es
+Teléfono fijo: +34 958 51 14 19
+FAX: +34 958 64 02 27
+NHC: 8612959
+NASS: 774768361297
+Condición de riesgo: Trabajador de Sanitización
+Datos asistenciales.
+Médico: Dr. Alejandro Camacho López. NC 980563421. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/01/2014
+Episodio: 90011215
+Centro de salud: Centro de Salud Collado Villalba
+Informe clínico del paciente:
+Paciente vegetariano de un año de edad, acompañado de su abuela, que refiere dolores abdominales de localización variable en el último mes y vómitos en la última semana. Antes de comenzar el cuadro estuvo en un parque infantil, donde jugó con otros niños y comió una barra de chocolate.
+La exploración física revela: Tª 37,5 C; T.A: 105/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni fiebre. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 138 mEq/l; potasio 3,5 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan Hemocultivos: negativos para bacterias y virus. Las pruebas de imagen solicitadas (Ecografía abdominal, TAC craneal) no evidencian patología significativa.
+Con el diagnóstico de gastroenteritis viral se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento de rehidratación oral. El paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio.
+Antecedentes:
+El paciente tiene antecedentes de alergia a los huevos y la leche. Ha recibido vacunas completas de rutina.
+Evolución y comentarios:
+El paciente ha evolucionado de manera satisfactoria durante su estancia en el hospital. Ha recibido tratamiento adecuado y ha mejorado significativamente de su cuadro.
+Remitido por:
+El paciente ha sido remitido a su domicilio con instrucciones de seguimiento y control de su evolución.

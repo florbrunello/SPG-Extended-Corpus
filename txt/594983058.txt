@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: María Rosario Ramírez Gutiérrez
+DNI: 47164258K
+Fecha de nacimiento: 23/01/1939
+Género: Mujer
+Domicilio: Calle del León 98
+Ciudad: Girona, Guadalajara, Castilla-La Mancha
+Código postal: 19596
+Email: mariarosario-ramirezgutierrez@ioba.med.uva.es
+Teléfono fijo: +34 949 42 40 88
+Teléfono móvil: +34 649 36 31 58
+NHC: 0305034
+NASS: 339822467267
+Condición de riesgo: Cirujano
+Datos asistenciales.
+Médico: Dr. Cristóbal Plaza Carrillo. NC 705095858. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/09/1940
+Episodio: 38795358
+Hospital: Hospital Universitario de Crúces
+Informe clínico del paciente:
+Paciente de ascendencia gitana de un año de edad, acompañado de su madre. Presenta una condición clínica compleja que requiere una evaluación detallada.
+Antecedentes:
+La madre del paciente informó que ha presentado síntomas de infección respiratoria aguda en las últimas 48 horas, con fiebre y tos. El paciente también ha presentado vómitos y diarrea en las últimas 24 horas.
+Evolución y comentarios:
+La paciente fue evaluada en la unidad de cuidados intensivos, donde se realizó una exploración física y se tomaron muestras de sangre y orina para análisis. Los resultados de los análisis mostraron una infección por virus de la gripe y una infección bacteriana por Staphylococcus aureus. El paciente recibió tratamiento antibiótico y antiviral, y se le administró oxígeno y fluidos intravenosos para mantener su estado de hidratación.
+Remitido por:
+La paciente fue remitida al servicio de pediatría para continuar con su tratamiento y seguimiento.
+Fecha de alta:
+La paciente fue dada de alta del hospital después de 5 días de ingreso, con una condición clínica estable y sin síntomas de infección. Se le recetó un tratamiento de seguimiento con antibióticos y antivirales, y se le aconsejó a la madre que buscara atención médica de inmediato si los síntomas se agravaban.

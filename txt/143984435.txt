@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Joan Rubio Plaza
+DNI: 22462163H
+Fecha de nacimiento: 04/04/1962
+Género: Varón
+Domicilio: Calle de la Ribera 8
+Ciudad: Yecla, León, Castilla y León
+Código postal: 24725
+Email: joan.rubio@ciberisciii.es
+Teléfono fijo: +34 987 63 66 80
+Teléfono móvil: +34 787 16 12 97
+NHC: 6570520
+NASS: 445021385559
+Condición de riesgo: Trabajador Industrial
+Datos asistenciales.
+Médico: Dr. Marco Casado Miranda. NC 440141597. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/11/1964
+Episodio: 71959984
+Centro de salud: Centro de Salud Fuenlabrada
+Informe clínico del paciente:
+El paciente, de 61 años, fue derivado al servicio de urgencias del Centro de Salud Fuenlabrada con un cuadro de dolor abdominal severo y vómitos durante las últimas 48 horas. El paciente tiene una historia de hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación oral.
+La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen distendido, con dolor a la palpación en la región epigástrica y lumbar, con signos de peritonitis generalizada.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 18.000/mm3 (neutrófilos 80%); plaquetas 250.000/ mm3. VSG: 60 mm 1ª hora. Coagulación: TQ 80%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 35 mg/dl; creatinina 1,2 mg/dl; sodio 130 mEq/l; potasio 4,2 mEq/l; GOT 30 U/l; GPT 40 U/l; GGT 50 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento con leucocitos y hemoglobina.
+Durante el ingreso se solicitan Hemocultivos: positivo para Staphylococcus aureus y Serologías específicas para Staphylococcus aureus: Test de Coombs > 1/1280; Staphylococcus aureus +++. Las pruebas de imagen solicitadas (Ecografía abdominal, TAC abdominal) muestran una colecistitis aguda y una litiasis biliar.
+Con el diagnóstico de colecistitis aguda y litiasis biliar se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento quirúrgico: colecistectomía laparoscópica. El paciente mejora significativamente de su cuadro tras la intervención quirúrgica, decidiéndose el alta a su domicilio

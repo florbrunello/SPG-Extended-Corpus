@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Gerard Santos Ibáñez
+DNI: 67138750W
+Fecha de nacimiento: 02/09/1985
+Género: Hombre
+Domicilio: Calle de la Paz 58
+Ciudad: Cáceres, Formentera, Islas Baleares
+Código postal: 07493
+Email: gerard-santos@outlook.com
+Teléfono fijo: +34 971 04 65 32
+Teléfono móvil: +34 771 59 16 90
+NHC: 8944290
+NASS: 393782043599
+Condición de riesgo: Ingeniero de Minas
+Datos asistenciales.
+Médico: Dr. Abel Rojas Bernal. NC 097338198. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 03/07/2014
+Hospital: Hospital Universitario Fundació Jiménez Díaz
+Matrícula del coche: 5587JSP
+Modelo: Honda Civic
+VIN: VSZWKS46AXY417226
+Informe clínico del paciente:
+Paciente fumador de 28 años de edad, con antecedentes de hipertensión arterial y dislipidemia, que acude al servicio de urgencias con dolor de cabeza y mareos. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni tachipnea. En cabeza y cuello no se palpan adenopatías ni bocio. Auscultación cardíaca rítmica, sin soplos ni roces. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.200/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía cerebral, TAC craneal) que no evidencian patología significativa. Con el diagnóstico de dolor de cabeza y mareos se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se recomienda a la paciente que acuda a su médico de cabecera para una evaluación más detallada de su hipertensión arterial y dislipidemia.

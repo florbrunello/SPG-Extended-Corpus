@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Francisco Manuel Lozano Fernández
+DNI: 63132533V
+Fecha de nacimiento: 21/11/1992
+Género: Masculino
+Domicilio: Paseo de la Castellana 56, 6Y
+Ciudad: San Sebastián, Badajoz, Extremadura
+Código postal: 06181
+Email: jZyzn@ual.es
+Teléfono fijo: +34 924 88 28 12
+Teléfono móvil: +34 624 60 45 25
+NHC: 3081701
+NASS: 364254061250
+Condición de riesgo: Discapacitado
+Datos asistenciales.
+Médico: Dr. Óscar Montoya Pascual. NC 694860818. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/05/2009
+Episodio: 39858779
+Centro de salud: Centro de Salud Carabanchel
+Informe clínico del paciente:
+Paciente discapacitado de 16 años de edad, con antecedentes de lesión cerebral en la infancia. Presenta dificultades en la comunicación verbal y motora, con una capacidad de movilidad limitada. La exploración física revela una postura corporal anormal, con una reducción en la amplitud de movimiento de las extremidades. La evaluación neurológica muestra una disminución en la función cognitiva, con dificultades en la atención y la memoria.
+Los datos analíticos muestran una anormalidad en la electroencefalografía, con una actividad anormal en la corteza cerebral. La ecografía cerebral muestra una atrofia en la región temporal, con una reducción en la masa cerebral.
+El tratamiento se centra en la rehabilitación física y terapia ocupacional, con el objetivo de mejorar la función motora y la capacidad de comunicación. Se han prescrito medicamentos para controlar los síntomas de la discapacidad y mejorar la calidad de vida del paciente.
+La evolución del paciente ha sido estable, con una mejora lenta pero constante en la función motora y la capacidad de comunicación. Se han realizado revisiones periódicas para ajustar el tratamiento y evaluar la progresión del paciente.
+Antecedentes:
+El paciente tiene antecedentes de lesión cerebral en la infancia, con una historia de convulsiones y dificultades en la comunicación verbal y motora. La exploración física y la evaluación neurológica han mostrado una disminución en la función cognitiva y una reducción en la amplitud de movimiento de las extremidades.
+Evolución y comentarios:
+La evolución del paciente ha sido estable, con una mejora lenta pero constante en la función motora y la capacidad de comunicación. Se han realizado revisiones periódicas para ajustar el tratamiento y evaluar la progresión del paciente. Es importante seguir monitoreando el paciente y ajustar el tratamiento según sea necesario para asegurar una mejora óptima en la función motora y la calidad de vida.
+Remitido por:
+El paciente ha sido remitido al Centro de Salud Carabanchel por la unidad de rehabilitación del hospital. El objetivo del tratamiento es mejorar la función motora y la capacidad de comunicación del paciente, y asegurar una mejora óptima en la calidad de vida.

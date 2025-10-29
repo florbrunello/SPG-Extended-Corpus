@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Lara Pereira Arroyo
+DNI: 62330846H
+Fecha de nacimiento: 19/08/2008
+Género: Mujer
+Domicilio: Calle de la Alameda 95, 4X
+Ciudad: Écija, Cádiz, Andalucía
+Código postal: 11201
+Email: larapereira@gmail.com
+Teléfono fijo: +34 956 58 90 49
+Teléfono móvil: +34 656 62 32 17
+NHC: 9038552
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dra. Ana Belén Ortega Ramos. NC 467009381. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 12/11/2017
+Episodio: 44229652
+Hospital: Hospital Clínic Universitario de Valencia
+Matrícula del coche: 2009GVX
+Modelo: Honda Civic
+VIN: VSCEZ227DBU488801
+Fecha de ingreso:
+12/11/2017
+Centro de salud de ingreso:
+Hospital Clínic Universitario de Valencia

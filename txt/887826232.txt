@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Luis Conde Espinosa
+DNI: 67723563V
+Fecha de nacimiento: 23/11/1968
+Género: Masculino
+Domicilio: Calle de O'Donnell 41
+Ciudad: Melilla
+Código postal: 17737
+Email: conde.espinosa@ub.edu
+Teléfono fijo: +34 972 17 92 99
+Teléfono móvil: +34 672 83 23 33
+NHC: 0033970
+NASS: 467783625371
+Condición de riesgo: Operador de Maquinaria Pesada
+Datos asistenciales.
+Médico: Dr. Javier Fuentes Navarro. NC 927732012. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 08/01/2025
+Centro de salud: Centro de Salud Barajas
+Informe clínico del paciente:
+Paciente de tez blanca de 56 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, acompañado de su madre. El paciente refiere dolor en el pecho de intensidad moderada durante las últimas 24 horas, con episodios de sofocos y disnea en reposo. La exploración física revela: Tª 37,5°C; T.A: 140/90 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,2 g/dl; leucocitos 12.500/mm3 (neutrófilos 70%); plaquetas 220.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 150 mg/dl; urea 30 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 28 U/l; GGT 36 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan Electrocardiograma, Ecografía cardíaca y Radiografía de tórax, que no evidencian patología significativa. Con el diagnóstico de angina de pecho estable, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación testicular) así como tratamiento medicamentoso: Aspirina 100 mg vía oral cada 24 horas y Nitratos sublinguales como necesarios.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación. También tiene antecedentes de accidente cerebrovascular isquémico en el año 2010.
+Evolución y comentarios:
+El paciente se encuentra estable y sin complicaciones. Se le ha explicado la importancia de la adherencia al tratamiento y se le ha remitido a un especialista para una evaluación más detallada.
+Remitido por:
+Se remite al paciente a un especialista en cardiología para una evaluación más detallada y planificación del tratamiento.

@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Eric Gómez Miranda
+DNI: 42454786Y
+Fecha de nacimiento: 27/07/2011
+Género: Masculino
+Domicilio: Calle Mayor 52, 1G
+Ciudad: Denia, Granada, Andalucía
+Código postal: 18120
+Email: z0nADoFh@ciberer.es
+Teléfono fijo: +34 958 85 44 29
+FAX: +34 958 35 32 63
+NHC: 2587788
+NASS: 740061735290
+Condición de riesgo: Pintor de Construcción
+Datos asistenciales.
+Médico: Dra. Esperanza Plaza Espinosa. NC 965989298. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/01/2013
+Episodio: 21132443
+Centro de salud: Centro de Salud Majadahonda
+Informe clínico del paciente:
+Paciente vegano de un año de edad, acompañado de su hermano. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es KR005NQB160.
+Antecedentes:
+El paciente no tiene antecedentes médicos relevantes.
+Evolución y comentarios:
+El paciente se encuentra en buen estado de salud general. La sesión de escaneo retiniano se realizó sin incidentes.
+Remitido por:
+Dra. Esperanza Plaza Espinosa
+Centro de Salud Majadahonda
+01/01/2013

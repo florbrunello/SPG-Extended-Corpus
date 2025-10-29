@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Mikel Vila Lozano
+DNI: 15042367E
+Fecha de nacimiento: 01/02/1943
+Género: Varón
+Domicilio: Calle de Arenal 28
+Ciudad: Salamanca, Vizcaya, Pais Vasco
+Código postal: 48902
+Email: lozano1926@ioba.med.uva.es
+Teléfono fijo: +34 946 25 45 64
+Teléfono móvil: +34 746 26 77 50
+NHC: 4721907
+NASS: 239498181876
+Condición de riesgo: Ingeniero de Minas
+Datos asistenciales.
+Médico: Dr. Alejandro Macias Delgado. NC 712837992. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/12/1972
+Episodio: 31321240
+Hospital: Hospital Universitario de Crúces
+Informe clínico del paciente:
+Paciente no fumador de 29 años de edad, con antecedentes de hipertensión arterial y obesidad. Presenta síntomas de dolor en la región lumbar y piernas, que se han intensificado en las últimas semanas. La exploración física revela: Tª 36,8 C; T.A: 130/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de debilidad muscular en las piernas, con pérdida de reflejos. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y obesidad, lo que podría estar relacionado con la aparición de los síntomas actuales.
+Evolución y comentarios:
+El paciente ha estado bajo tratamiento con medicamentos para la hipertensión y la obesidad, pero no ha notado mejoría en los síntomas. Se le ha solicitado una resonancia magnética para evaluar la presencia de lesiones en la región lumbar.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado la presencia de síntomas de dolor en la región lumbar y piernas.

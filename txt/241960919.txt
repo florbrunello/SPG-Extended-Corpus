@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Omar Redondo López
+DNI: 59101862G
+Fecha de nacimiento: 24/08/1953
+Género: Varón
+Domicilio: Calle de Recoletos 85, 1W
+Ciudad: Ontinyent, Cantabria
+Código postal: 39186
+Email: omar@ual.es
+Teléfono fijo: +34 942 71 15 48
+Teléfono móvil: +34 742 59 31 72
+NHC: 2447895
+NASS: 827897174431
+Condición de riesgo: Fabricante
+Datos asistenciales.
+Médico: Dr. Christian Pérez Lozano. NC 711557722. Residente de 5° año en Urología.
+Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 31/08/2015
+Episodio: 75739897
+Centro de salud: Centro de Salud Aluche
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 62 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Se presentó en la consulta con síntomas de dolor abdominal crónico, con episodios de ictericia y hepatomegalia. La exploración física reveló un abdomen protuberante, con una masa palpable en la región epigástrica. La ecografía abdominal mostró un tumor hepático de 8 cm de diámetro, con características de carcinoma hepatocelular.
+La biopsia hepática confirmó el diagnóstico de carcinoma hepatocelular, con una clasificación de Edmondson-Steiner de 5. El paciente fue sometido a una resección hepática extensa, con una cirugía de 12 horas de duración. La recuperación del paciente fue lenta, con una estancia en la unidad de cuidados intensivos de 48 horas.
+En la revisión postoperatoria, el paciente presentó una hemorragia gastrointestinal leve, que se controló con la administración de terapia de reemplazo de coagulación. El paciente fue dado de alta en la unidad de cuidados hospitalarios, con instrucciones de seguimiento en la consulta de oncología.
+Antecedentes:
+El paciente tiene un antecedente de cirrosis hepática, diagnosticado 5 años atrás. El paciente también tiene un antecedente de consumo excesivo de alcohol, con una historia de 20 años de consumo regular.
+Evolución y comentarios:
+El paciente ha estado en seguimiento en la consulta de oncología durante los últimos 6 meses, con revisiones periódicas de la condición clínica y la respuesta al tratamiento. El paciente ha presentado una respuesta favorable al tratamiento, con una disminución de la tasa de crecimiento del tumor.
+Remitido por:
+El paciente ha sido remitido a la unidad de cuidados hospitalarios para seguimiento y tratamiento continuo. El paciente será revisado en la consulta de oncología en una semana, para evaluar la respuesta al tratamiento y ajustar la terapia según sea necesario.

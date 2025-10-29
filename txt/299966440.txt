@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Antonio Fuentes Aguilera
+DNI: 66735688S
+Fecha de nacimiento: 03/12/2001
+Género: Varón
+Domicilio: Calle de la Cabeza del Rey Don Pedro 64, 9S
+Ciudad: Vilanova i la Geltrú, Sevilla, Andalucía
+Código postal: 41737
+Email: aguilera@yahoo.com
+Teléfono fijo: +34 954 93 19 04
+Teléfono móvil: +34 754 44 66 80
+NHC: 3613379
+NASS: 101135111153
+Condición de riesgo: Trabajador de Laboratorio
+Datos asistenciales.
+Médico: Dr. Rafael Merino Rico. NC 697622836. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/12/2009
+Episodio: 67624947
+Centro de salud: Centro de Salud Barajas
+Informe clínico del paciente:
+Paciente exfumador de 8 años de edad, acompañado de su hermana. La exploración física revela: Tª 36,5 C; T.A: 110/70 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 200.000/mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal) que no evidencian patología significativa. Con el diagnóstico de asma se instaura tratamiento sintomático (broncodilatadores, antiinflamatorios, reposo) y tratamiento preventivo con corticosteroides inhalados. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio con seguimiento médico regular.
+Antecedentes:
+El paciente tiene antecedentes de asma desde los 5 años de edad, con episodios recurrentes de asma grave en el pasado.
+Evolución y comentarios:
+El paciente ha sido tratado con broncodilatadores y corticosteroides inhalados con buena respuesta. Sin embargo, ha requerido ingreso hospitalario en varias ocasiones por episodios de asma grave.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera para valoración y tratamiento de su asma.

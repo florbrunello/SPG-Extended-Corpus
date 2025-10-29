@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: José Ignacio Ríos Pérez
+DNI: 47032438Z
+Fecha de nacimiento: 22/09/1951
+Género: Hombre
+Domicilio: Calle de la Primavera 81
+Ciudad: Alcázar de San Juan, Sevilla, Andalucía
+Código postal: 41999
+Email: joseignacio1252@isciii.es
+Teléfono fijo: +34 954 96 70 18
+FAX: +34 954 67 39 75
+NHC: 2936809
+Condición de riesgo: Trabajador de Mantenimiento
+Datos asistenciales.
+Médico: Dr. Adrián Miranda Alarcon. NC 906220650. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/10/2004
+Episodio: 09793763
+Centro de salud: Centro de Salud Fuencarral
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 53 años de edad, con antecedentes de hipertensión arterial y sobrepeso, que acude al servicio de urgencias con síntomas de cefalea intensa y vómitos durante las últimas 24 horas. La exploración física revela: Tª 37,5 C; T.A: 140/90 mmHg; Fc: 22 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración neurológica se aprecian signos de hipertensión intracraneal, con rigidez de cuello y nistagmus. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 70%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía cerebral y TAC craneal) que muestran un hematoma subaracnoideo de 3 cm de diámetro en la región frontal. Con el diagnóstico de hematoma subaracnoideo, se instaura tratamiento de soporte (reposo, hidratación y control de la presión arterial) y se considera la posibilidad de intervenir quirúrgicamente para evacuar el hematoma. El paciente se encuentra estable y se le sigue en observación en la unidad de cuidados intensivos.

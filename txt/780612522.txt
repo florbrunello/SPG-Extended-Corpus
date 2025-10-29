@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Manuel Vila Mesa
+DNI: 43146852W
+Fecha de nacimiento: 16/03/1986
+Género: M
+Domicilio: Paseo de la Castellana 96
+Ciudad: Córdoba, Las Palmas, Canarias
+Código postal: 35071
+Email: manuel@aol.com
+Teléfono fijo: +34 928 24 66 68
+FAX: +34 928 27 40 90
+NHC: 8568434
+NASS: 602629766430
+Datos asistenciales.
+Médico: Dr. José Ángel Santos Casas. NC 555658920. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/03/2022
+Episodio: 21495814
+Centro de salud: Centro de Salud Málaga Norte
+Informe clínico del paciente:
+El paciente, un hombre de 36 años, se presenta con una historia de consumo excesivo de alcohol. La exploración física revela signos de malnutrición y deshidratación. La evaluación neurológica muestra alteraciones en la coordinación y equilibrio, así como una leve disminución de la conciencia. Se solicitan análisis de sangre para determinar los niveles de alcohol y otros posibles trastornos. El paciente es ingresado en la unidad de cuidados intensivos para recibir tratamiento y monitorización continua.
+Antecedentes:
+El paciente tiene una historia de consumo excesivo de alcohol durante los últimos 5 años, lo que ha llevado a problemas de salud relacionados con el alcoholismo. Ha tenido episodios de desmayos y ha presentado signos de malnutrición y deshidratación.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento y monitorización continua. Se le ha administrado fluidos intravenosos para rehidratarlo y se han iniciado tratamientos para abordar los problemas de salud relacionados con el alcoholismo. El paciente está siendo monitoreado de cerca para determinar su progreso y ajustar el tratamiento según sea necesario.
+Remitido por:
+El paciente fue remitido por su médico de cabecera debido a su estado de salud crítico. Se le ha solicitado a la familia que se mantenga en contacto con el equipo de salud para recibir actualizaciones sobre el progreso del paciente.

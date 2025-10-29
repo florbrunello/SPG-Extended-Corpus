@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Dolores Alarcon Izquierdo
+DNI: 73785749R
+Fecha de nacimiento: 27/02/1954
+Género: Femenino
+Domicilio: Calle de la Virgen de los Peligros 50
+Ciudad: Benidorm, Badajoz, Extremadura
+Código postal: 06942
+Email: TTSvsG1299@uca.es
+Teléfono fijo: +34 924 42 67 09
+Teléfono móvil: +34 624 21 87 84
+NHC: 6554981
+NASS: 463842492342
+Condición de riesgo: Paciente de alto riesgo cardiovascular
+Datos asistenciales.
+Médico: Dr. José Carlos Rivas Soto. NC 465819833. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/07/2022
+Centro de salud: Centro de Salud Sevilla Este
+Antecedentes:
+El paciente refiere una historia de hipertensión arterial controlada con tratamiento farmacológico durante los últimos 5 años. También tiene antecedentes de diabetes mellitus tipo 2, controlada con dieta y ejercicio. El paciente es fumador activo desde los 25 años.
+Evolución y comentarios:
+El paciente fue ingresado en el Servicio de Urgencias por un cuadro de dolor de cabeza severo y vómitos durante las últimas 24 horas. La exploración física revela: Tª 38,5 C; T.A: 140/90 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación.
+Informe clínico del paciente:
+El paciente, de 68 años de edad, presenta un cuadro de dolor de cabeza severo y vómitos durante las últimas 24 horas. La exploración física revela hipertensión arterial y fiebre. El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2. El tratamiento farmacológico actual incluye amlodipino 5 mg vía oral cada 12 horas y metformina 500 mg vía oral cada 12 horas.
+La exploración neurológica revela: el paciente está consciente y orientado, con buen estado de nutrición e hidratación. La exploración visual revela: el paciente tiene visión normal en ambos ojos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,7 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas diagnósticas: Ecografía cerebral, que revela un coágulo en el territorio cerebral derecho. El paciente es sometido a tratamiento anticoagulante con heparina subcutánea y aspirina oral.
+Con el diagnóstico de trombosis cerebral se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) así como tratamiento anticoagulante con heparina subcutánea y aspirina oral. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde continúa con el tratamiento anticoagulante.
+Remitido por:
+El paciente fue remitido por el Servicio de Urgencias del Centro de Salud Sevilla Este.

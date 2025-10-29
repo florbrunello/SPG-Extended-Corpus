@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Isaac Paredes Durán
+DNI: 10265455A
+Fecha de nacimiento: 31/10/1961
+Género: Hombre
+Domicilio: Calle del León 63, 8M
+Ciudad: Telde, Álava, Pais Vasco
+Código postal: 01060
+Email: isaac-paredes@gmail.com
+Teléfono fijo: +34 945 02 91 46
+Teléfono móvil: +34 745 51 75 07
+NHC: 7375971
+NASS: 979073765909
+Condición de riesgo: No se proporcionó
+Datos asistenciales.
+Médico: Dra. Belén Silva Bueno. NC 050678014. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/06/1992
+Episodio: 27474038
+Hospital: Hospital Universitari Vall d'Hebron
+Informe clínico del paciente:
+El paciente, de 61 años de edad, fue ingresado en la unidad de neurología debido a una serie de síntomas que comenzaron a manifestarse en los últimos meses. El paciente refirió dolores de cabeza frecuentes, mareos y dificultad para mantener el equilibrio. También presentó una disminución en su capacidad para recordar eventos recientes y una dificultad para encontrar palabras en su idioma nativo. El paciente también refirió una sensación de cansancio y fatiga generalizada.
+La exploración física reveló signos de deterioro cognitivo, incluyendo una disminución en la velocidad de procesamiento y una dificultad para realizar tareas que requieren una gran cantidad de atención y concentración. El paciente también presentó signos de deterioro motor, incluyendo una disminución en la fuerza muscular y una dificultad para mantener el equilibrio.
+Los análisis de laboratorio mostraron signos de inflamación en el cerebro y una disminución en la función cognitiva. El paciente fue diagnosticado con una enfermedad neurodegenerativa, específicamente con una forma leve de demencia.
+El tratamiento incluyó medicamentos para controlar los síntomas y mejorar la función cognitiva. El paciente también recibió terapia ocupacional y fisioterapia para ayudarlo a mantener sus habilidades motoras y cognitivas. El paciente fue dado de alta del hospital después de una semana de tratamiento y se le recomendó seguir con el tratamiento en su casa.
+En la revisión del paciente en la clínica, se observó una mejoría en los síntomas y una mejora en la función cognitiva. El paciente continuó con el tratamiento y se le realizó una revisión regular para monitorear su progreso.

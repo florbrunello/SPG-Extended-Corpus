@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Samuel Rivero Parra
+DNI: 95583693V
+Fecha de nacimiento: 12/11/1925
+Género: Varón
+Domicilio: Calle de Ferraz 62
+Ciudad: Vitoria, Albacete, Castilla-La Mancha
+Código postal: 02646
+Email: samuel808@ciberisciii.es
+Teléfono fijo: +34 967 52 43 39
+Teléfono móvil: +34 667 82 97 58
+NHC: 7098767
+NASS: 832420560065
+Condición de riesgo: Trabajador de Línea de Producción
+Datos asistenciales.
+Médico: Dr. Francisco José Rojas Rivas. NC 458607454. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/03/2013
+Episodio: 82694142
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 1218XON
+Modelo: Volkswagen Golf
+VIN: VST1P2C3SKI435918
+Fecha de ingreso: 05/03/2013
+Centro de salud de ingreso: Centro de Salud Getafe
+Informe clínico del paciente:
+Paciente usuario de drogas de 87 años de edad, acompañado de su marido. Presenta una historia de consumo de sustancias ilícitas durante varios años, lo que ha llevado a un deterioro significativo de su salud en general. En el momento del ingreso, el paciente presenta síntomas de insuficiencia renal crónica, hipertensión arterial y problemas respiratorios, lo que sugiere una complicada historia clínica.
+La exploración física revela: Tª 38,5 C; T.A: 140/90 mmHg; Fc: 120 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 10,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 150.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 80%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 40 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento con presencia de hemoglobina y leucocitos.
+Con el diagnóstico de insuficiencia renal crónica, hipertensión arterial y problemas respiratorios, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de piernas) así como tratamiento farmacológico para controlar la hipertensión y la insuficiencia renal. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde se le indicó un seguimiento estrecho con el equipo de nefrología.

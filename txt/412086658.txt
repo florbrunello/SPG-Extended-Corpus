@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Paula Vega Alonso
+DNI: 99910406Q
+Fecha de nacimiento: 21/02/2008
+Género: F
+Domicilio: Calle de la Virgen de los Peligros 91
+Ciudad: Ourense, Pontevedra, Galicia
+Código postal: 36356
+Email: paula_alonso1871@outlook.com
+Teléfono fijo: +34 986 57 04 86
+Teléfono móvil: +34 686 50 38 79
+NHC: 6650484
+NASS: 811332906242
+Condición de riesgo: Operador de Equipos Mineros
+Datos asistenciales.
+Médico: Dra. Estefanía Salas Miranda. NC 789302571. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 11/05/2014
+Centro de salud: Centro de Salud Benalmádena

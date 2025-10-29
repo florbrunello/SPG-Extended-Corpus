@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Belén Guillen Moya
+DNI: 75262918H
+Fecha de nacimiento: 05/05/1950
+Género: Mujer
+Domicilio: Calle del León 60
+Ciudad: Segovia, Lérida, Cataluña
+Código postal: 25878
+Email: guillen-moya@udc.es
+Teléfono fijo: +34 973 28 31 56
+Teléfono móvil: +34 773 14 10 71
+NHC: 7781864
+NASS: 130916004266
+Condición de riesgo: Paciente no hospitalizado
+Datos asistenciales.
+Médico: Dr. Rafael Casado Abad. NC 582853156. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/02/2023
+Episodio: 41112836
+Hospital: Hospital Universitario de la Princesa
+Matrícula del coche: 0574SYQ
+Modelo: Kia Sorento
+VIN: VSE1I6E2MSF241298
+Informe clínico del paciente:
+La paciente fue ingresada en la unidad de cuidados intensivos por presentar un cuadro de insuficiencia respiratoria aguda. Según la historia clínica, la paciente tiene una enfermedad pulmonar obstructiva crónica (EPOC) en estadio III, y ha presentado un empeoramiento de su condición en los últimos días. La paciente también tiene una historia de asma y ha sido tratada con broncodilatadores y esteroides.
+La exploración física revela una temperatura de 37,5°C, frecuencia cardíaca de 120/min y frecuencia respiratoria de 30/min. La paciente está consciente y orientada, pero presenta una saturación de oxígeno en sangre de 88%. La exploración pulmonar revela ronquidos y estridor en las vías respiratorias.
+Los análisis de sangre muestran un hemoglobina de 12 g/dl, un recuento de glóbulos blancos de 18.000/mm³ y un recuento de glóbulos rojos de 4,5 millones/mm³. La orina es normal.
+Se solicitan pruebas de imagen, incluyendo una radiografía de tórax y una ecografía pulmonar. La radiografía de tórax muestra un infiltrado alveolar en ambos pulmones, mientras que la ecografía pulmonar revela una reducción de la función pulmonar.
+Con base en estos resultados, se diagnostica una neumonía bacteriana y se inicia tratamiento con antibióticos intravenosos. La paciente también recibe oxígeno terapéutico y tratamiento para la EPOC.
+Antecedentes:
+La paciente tiene una historia de asma y EPOC en estadio III. Ha sido tratada con broncodilatadores y esteroides.
+Evolución y comentarios:
+La paciente ha presentado un empeoramiento de su condición en los últimos días. La exploración física y los análisis de sangre revelan una insuficiencia respiratoria aguda.
+Remitido por:
+La paciente ha sido remitida desde el Servicio de Medicina de Urgencia.

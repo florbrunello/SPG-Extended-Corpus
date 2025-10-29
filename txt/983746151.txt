@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Paloma Ibáñez Sáez
+DNI: 10287214G
+Fecha de nacimiento: 13/02/2010
+Género: Femenino
+Domicilio: Calle de Argumosa 11, 2I
+Ciudad: Vilanova i la Geltrú, Guadalajara, Castilla-La Mancha
+Código postal: 19750
+Email: ibanezsaez83@aol.com
+Teléfono fijo: +34 949 06 81 51
+Teléfono móvil: +34 649 89 02 41
+NHC: 4986763
+Condición de riesgo: Inspector de Seguridad Minera
+Datos asistenciales.
+Médico: Dra. María Begoña Hernández Medina. NC 018618722. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/10/2019
+Episodio: 78957343
+Centro de salud: Centro de Salud Marbella
+Matrícula del coche: 9065QJS
+Modelo: BMW 3 Series
+VIN: VSLE4KM8S6P110787
+Informe clínico del paciente:
+La paciente, Paloma Ibáñez Sáez, de 9 años de edad, fue atendida en la consulta de Psiquiatría con síntomas de ansiedad y trastorno del estado de ánimo. La paciente presentaba una tez blanca y estaba acompañada de su abuela. Después de realizar una exploración física y una evaluación psicológica, se determinó que la paciente no presentaba ninguna condición médica grave y que sus síntomas podrían estar relacionados con la ansiedad y el estrés.
+Se le recomendó a la paciente y a su abuela que buscaran ayuda en un centro de salud mental para obtener tratamiento y apoyo. También se les recomendó que realizaran ejercicios de relajación y que practicaran técnicas de manejo del estrés.
+La paciente fue dada de alta y se le recomendó que volviera a la consulta en una semana para seguir siendo evaluada y para recibir tratamiento.
+Antecedentes:
+La paciente no tiene antecedentes médicos previos. Sin embargo, su abuela informó que la paciente había estado experimentando síntomas de ansiedad y trastorno del estado de ánimo durante los últimos meses.
+Evolución y comentarios:
+La paciente mejoró significativamente después de recibir tratamiento y apoyo. Su abuela informó que la paciente estaba más calmada y que su estado de ánimo había mejorado.
+Remitido por:
+La paciente fue remitida por su abuela, quien se preocupaba por la salud mental de su nieta. La Dra. María Begoña Hernández Medina, residente de 3° año en Psiquiatría, atendió a la paciente y le proporcionó tratamiento y apoyo.

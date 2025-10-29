@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Rafael Durán Navarro
+DNI: 49027484V
+Fecha de nacimiento: 21/11/1947
+Género: V
+Domicilio: Calle de Ríos Rosas 47
+Ciudad: Burgos, Zamora, Castilla y León
+Código postal: 49537
+Email: rafael_duran-navarro@udc.es
+Teléfono fijo: +34 980 63 32 82
+Teléfono móvil: +34 680 36 02 80
+NHC: 0674259
+NASS: 531398854640
+Condición de riesgo: Soldador
+Datos asistenciales.
+Médico: Dra. Emma Montoya Cabrera. NC 329322671. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/09/2013
+Episodio: 65006213
+Centro de salud: Centro de Salud Tetuán
+Informe clínico del paciente:
+Paciente transeúnte de 65 años de edad, acompañado de su hermano, que refiere una serie de episodios de confusión y disorientación en los últimos días. El paciente tiene una historia de hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación. El examen físico revela una presión arterial de 180/90 mmHg, frecuencia cardíaca de 90 bpm y temperatura corporal de 37,5°C. El paciente está consciente y orientado, pero presenta dificultades para recordar su nombre y fecha de nacimiento.
+La exploración neurológica revela signos de deterioro cognitivo, incluyendo disminución de la conciencia, dificultades para hablar y dificultades para realizar tareas simples. El paciente también presenta signos de debilidad en los miembros inferiores.
+Los datos analíticos muestran un aumento en la creatinina sérica (1,2 mg/dl) y una disminución en la función renal (creatinina de 0,9 ml/min). El paciente también presenta un aumento en la glucemia (180 mg/dl) y una disminución en la función pancreática (glucosa de 120 mg/dl).
+Con el diagnóstico de deterioro cognitivo y función renal disminuida, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la presión arterial) así como tratamiento para la hipertensión arterial y la diabetes mellitus tipo 2. El paciente se encuentra en observación en la unidad de cuidados intensivos.
+Evolución y comentarios:
+El paciente ha mostrado una respuesta favorable al tratamiento, con una disminución en la frecuencia cardíaca y una mejora en la función renal. Sin embargo, el paciente sigue presentando signos de deterioro cognitivo y debilidad en los miembros inferiores.
+Remitido por:
+Dra. Emma Montoya Cabrera, Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

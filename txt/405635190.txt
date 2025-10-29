@@ -1,0 +1,41 @@
+Datos del paciente.
+Nombre: Sergio Exposito Salazar
+DNI: 79218332F
+Fecha de nacimiento: 12/10/1993
+Género: Masculino
+Domicilio: Calle de Argumosa 61, 7P
+Ciudad: Xàtiva, Cantabria, Cantabria
+Código postal: 39993
+Email: sergio-exposito@udc.es
+Teléfono fijo: +34 942 84 80 25
+Teléfono móvil: +34 742 50 92 91
+NHC: 2375650
+NASS: 399933456789
+Condición de riesgo: Operador de Maquinaria Pesada
+Datos asistenciales.
+Médico: Dra. Andrea Ramos Jurado. NC 955959149. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/11/2008
+Episodio: 95380907
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Médico asistente: Dr. Juan Carlos García Pérez. NC 765432109. Residente en Neurología. Hospital Universitario Virgen de la Arrixaca. C/ Fuente Nueva s/n. 30120. Murcia. España.
+Fecha de ingreso: 24/11/2008
+Fecha de ingreso:
+Fecha de ingreso: 24/11/2008
+Hora de ingreso: 14:30
+Tipo de ingreso: Urgencia
+Centro de salud de ingreso:
+Complejo Hospitalario Universitario de Cartagena
+Avenida de las Fuerzas Armadas, s/n
+30202 Cartagena, Murcia, España
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 15 años de edad, acompañado de su hermano, que acude al servicio de urgencias con síntomas de dolor abdominal severo y vómitos durante las últimas 24 horas. El paciente tiene antecedentes de alergia a ciertos alimentos y ha estado tomando medicamentos para controlar los síntomas.
+La exploración física revela: temperatura 38,5°C; presión arterial 120/80 mmHg; frecuencia cardíaca 100 bpm; frecuencia respiratoria 20 rpm. El paciente está consciente, orientado, pero presenta signos de dolor abdominal severo.
+Los resultados de las pruebas de laboratorio muestran: hemograma normal; bioquímica: glucosa 120 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l. La radiografía abdominal muestra signos de obstrucción intestinal.
+Con el diagnóstico de obstrucción intestinal se instaura tratamiento quirúrgico de emergencia. El paciente es llevado a la sala de cirugía y se realiza una exploración abdominal. Se encuentra una obstrucción intestinal debido a un quiste ovoide. Se realiza una resección del quiste y se coloca un catéter para drenaje de la zona afectada.
+El paciente es llevado a la sala de recuperación y se le administra analgésicos y antibióticos para controlar los síntomas. El paciente se encuentra estable y se le sigue observando en la sala de recuperación.
+Antecedentes:
+El paciente tiene antecedentes de alergia a ciertos alimentos y ha estado tomando medicamentos para controlar los síntomas. El paciente también tiene antecedentes de problemas gastrointestinales en el pasado.
+Evolución y comentarios:
+El paciente ha estado evolucionando bien después de la cirugía. El paciente ha sido observado en la sala de recuperación y se le han administrado analgésicos y antibióticos para controlar los síntomas. El paciente se encuentra estable y se le sigue observando en la sala de recuperación.
+Remitido por:
+El paciente ha sido remitido por su hermano, quien se encuentra preocupado por el estado del paciente. El hermano ha informado que el paciente ha estado experimentando síntomas de dolor abdominal severo y vómitos durante las últimas 24 horas.

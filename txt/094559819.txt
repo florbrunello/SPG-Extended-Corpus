@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Ainhoa Luque Diez
+DNI: 18636390L
+Fecha de nacimiento: 19/09/1992
+Género: F
+Domicilio: Calle de Zurbano 67, 8T
+Ciudad: Parla, Valencia, Comunidad Valenciana
+Código postal: 46325
+Email: diez@h12o.es
+Teléfono fijo: +34 960 82 31 87
+Teléfono móvil: +34 660 38 13 50
+NHC: 6244191
+Condición de riesgo: Conserje
+Datos asistenciales.
+Médico: Dr. Jonathan Calvo Montes. NC 446433817. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/11/2013
+Hospital: Hospital Universitario Virgen Macarena
+Informe clínico del paciente:
+Paciente judío de 21 años de edad, acompañado de su compañero de trabajo, que acude al servicio de urgencias con un cuadro de dolor abdominal crónico de 6 meses de evolución, con exacerbaciones recientes. El paciente refiere haber tenido una dieta normal, sin antecedentes de enfermedades gastrointestinales previas.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 100 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 4,0 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 9,0 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de enfermedad inflamatoria intestinal se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación) así como tratamiento medicamentoso (mesalazina 1 gramo vía oral cada 8 horas durante 6 semanas). El paciente mejora significativamente de su cuadro tras 2 semanas de tratamiento, decidiéndose el alta a su domicilio.

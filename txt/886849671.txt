@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Juan Miguel Núñez Bernal
+DNI: 95208968P
+Fecha de nacimiento: 02/01/1941
+Género: Hombre
+Domicilio: Calle de Tribulete 15
+Ciudad: Ourense, Valencia, Comunidad Valenciana
+Código postal: 46144
+Email: juanmiguel697@isciii.es
+Teléfono fijo: +34 960 90 77 02
+Teléfono móvil: +34 760 65 55 00
+NHC: 1054552
+NASS: 95208968P46144
+Condición de riesgo: Sin información disponible
+Datos asistenciales.
+Médico: Dra. Ainhoa Izquierdo Villar. NC 289675053. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/04/1946
+Episodio: 40562384
+Centro de salud: Centro de Salud Collado Villalba
+Matrícula del coche: 6495IOR
+Modelo: Toyota RAV4
+VIN: VSEVV3IEVCR888909
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 5 años de edad, acompañado de su hermana.

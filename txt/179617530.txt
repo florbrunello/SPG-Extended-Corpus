@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Montserrat Bueno Del Rio
+DNI: 43843858Q
+Fecha de nacimiento: 21/02/2017
+Género: Mujer
+Domicilio: Calle de Eduardo Dato 83
+Ciudad: Fuenlabrada, Palencia, Castilla y León
+Código postal: 34024
+Email: montserrat_bueno@ciberisciii.es
+Teléfono fijo: +34 979 53 67 27
+FAX: +34 979 12 20 51
+NHC: 5959209
+NASS: 606030447456
+Condición de riesgo: Soldador
+Datos asistenciales.
+Médico: Dr. Emilio Luque Soler. NC 894626670. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/12/2021
+Episodio: 39442384
+Hospital: Hospital Universitario 12 de Octubre
+Informe clínico del paciente:
+La paciente se refirió a la sala de urgencias con sintomatología de ansiedad y depresión. Se realizó una evaluación psicológica y se detectó una condición de salud mental inusual. Se solicitaron pruebas adicionales para determinar la causa subyacente. La paciente se encuentra en buen estado de salud general y se le realizan pruebas de rutina para determinar la causa de sus síntomas.
+Fecha de ingreso:
+15/12/2021
+Centro de salud de ingreso:
+Hospital Universitario 12 de Octubre

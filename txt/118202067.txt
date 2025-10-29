@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Unai Santamaria Abad
+DNI: 64023398T
+Fecha de nacimiento: 01/11/1972
+Género: M
+Domicilio: Calle del León 61
+Ciudad: Parla, Madrid, Comunidad de Madrid
+Código postal: 28980
+Email: unai@yahoo.com
+Teléfono fijo: +34 923 70 78 52
+Teléfono móvil: +34 623 94 15 00
+NHC: 4946669
+NASS: 036013146208
+Condición de riesgo: No especificado
+Datos asistenciales.
+Médico: Dra. Laia Flores Mateos. NC 504241269. Neuropsicóloga Clínica Investigadora. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/02/2023
+Centro de salud: Centro de Salud Sevilla Oeste
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 50 años de edad, acompañado de su esposa, que acude al Servicio de Urgencias con dolor abdominal severo y vómitos durante las últimas 24 horas. Antecedentes de hipertensión arterial y diabetes mellitus tipo 2.
+Exploración física:
+La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen distendido, con dolor intenso en el hipogastrio, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Pruebas diagnósticas:
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 12.500/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 180 mg/dl; urea 35 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento con leucocitos y hemoglobina.
+Tratamiento:
+Con el diagnóstico de pancreatitis aguda, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento antibiótico específico: Ceftriaxona 1 gramo intravenoso cada 12 horas (durante 5 días) y Metronidazol 500 mg intravenoso cada 8 horas (durante 5 días). El paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio donde se le indicará un seguimiento ambulatorio.
+Pronóstico:
+El pronóstico es bueno, aunque se le recomienda un seguimiento estrecho para evitar complicaciones.

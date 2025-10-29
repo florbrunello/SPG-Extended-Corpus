@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Pedro José Diez De la Fuente
+DNI: 44210508T
+Fecha de nacimiento: 26/02/1964
+Género: Hombre
+Domicilio: Calle de Velázquez 78
+Ciudad: Totana, Cádiz, Andalucía
+Código postal: 11077
+Email: MTi58dF@ub.edu
+Teléfono fijo: +34 956 72 54 88
+Teléfono móvil: +34 756 36 57 47
+NHC: 8258194
+NASS: 685684119754
+Condición de riesgo: Alto
+Datos asistenciales.
+Médico: Dra. Esther Escobar Vázquez. NC 109657318. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/09/1982
+Episodio: 49630663
+Centro de salud: Centro de Salud Fuenlabrada
+Matrícula del coche: 0009BIE
+Modelo: Subaru Outback
+VIN: VSOXD8RVIHM397924
+Fecha de ingreso:
+20/09/1982
+Centro de salud de ingreso:
+Centro de Salud Fuenlabrada
+Informe clínico del paciente:
+Paciente vegetariano de 58 años de edad, con antecedentes de hipertensión arterial y dislipemia, acompañado de su esposa. Presenta un cuadro de dolor torácico irradiado a la espalda, con exacerbación en la noche y al respirar profundamente. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 8.200/mm3 (neutrófilos 55%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 137 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 130 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de angina de pecho se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación testicular) así como tratamiento médico específico: Nitroglicerina 0,5 mg sublingual cada 5 minutos (durante 30 minutos), Metoprolol 50 mg vía oral cada 8 horas (durante 3 días) y Aspirina 100 mg vía oral cada 12 horas (durante 5 días). El paciente mejora significativamente de su cuadro tras 2 horas de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento médico. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.

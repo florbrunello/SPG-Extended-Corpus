@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: María Teresa Esteban Guzman
+DNI: 61220183W
+Fecha de nacimiento: 14/08/2024
+Género: Femenino
+Domicilio: Calle del Carmen 100, 6X
+Ciudad: Úbeda, Orense, Galicia
+Código postal: 32231
+Email: esteban-guzman1963@uca.es
+Teléfono fijo: +34 988 48 16 49
+Teléfono móvil: +34 688 48 97 83
+NHC: 5182403
+Condición de riesgo: Trabajador de Sanitización
+Datos asistenciales.
+Médico: Dra. Encarnación Galvez Jiménez. NC 373522852. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/08/2024
+Episodio: 89072547
+Centro de salud: Centro de Salud Carabanchel
+Informe clínico del paciente:
+Paciente vegetariano de 0 meses de edad, acompañado de su tío.
+Antecedentes:
+El paciente es un recién nacido de 0 meses de edad, sin antecedentes médicos relevantes. Su madre es vegetariana y ha informado de una dieta equilibrada durante el embarazo.
+Evolución y comentarios:
+El paciente se encuentra en buen estado de salud, sin signos de infección ni enfermedad. Su temperatura corporal es normal y no presenta síntomas de dolor ni malestar.
+Remitido por:
+El paciente ha sido remitido por su tío, quien ha informado de su buena salud y no ha observado ningún síntoma de enfermedad.
+Exploración física:
+La exploración física revela un recién nacido en buen estado de salud, con una temperatura corporal normal y sin signos de infección ni enfermedad. El paciente se encuentra consciente y orientado, sin signos de dolor ni malestar.
+Pruebas diagnósticas:
+No se han realizado pruebas diagnósticas adicionales, ya que el paciente se encuentra en buen estado de salud y no presenta síntomas de enfermedad.
+Tratamiento:
+No se ha iniciado tratamiento, ya que el paciente se encuentra en buen estado de salud y no presenta síntomas de enfermedad.
+Pronóstico:
+El pronóstico es bueno, ya que el paciente se encuentra en buen estado de salud y no presenta síntomas de enfermedad.

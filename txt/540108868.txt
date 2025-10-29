@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Anna Martín Casas
+DNI: 62450313T
+Fecha de nacimiento: 13/04/1947
+Género: F
+Domicilio: Calle de Don Ramón de la Cruz 15
+Ciudad: Zaragoza, Huesca, Aragón
+Código postal: 22850
+Email: casas@gmail.com
+Teléfono fijo: +34 974 22 58 50
+Teléfono móvil: +34 774 23 75 71
+NHC: 2501750
+NASS: 295793488405
+Condición de riesgo: Electricista
+Datos asistenciales.
+Médico: Dra. María Rosa Mateo Alonso. NC 191321518. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/06/2018
+Episodio: 12632888
+Centro de salud: Centro de Salud Fuencarral
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 71 años de edad, que refiere una evolución de 3 días de síntomas de dolor abdominal agudo, con picos de 9/10 en la escala de dolor, localizado en la región epigástrica. La paciente también reporta náuseas y vómitos en las últimas 24 horas. Antecedentes relevantes de hipertensión arterial y diabetes mellitus tipo 2, controlada con medicación.
+La exploración física revela: Tª 38,5 C; T.A: 130/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen doloroso en la región epigástrica, con signos de peritonealización.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.000/mm3 (neutrófilos 80%); plaquetas 250.000/mm3. VSG: 40 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento con leucocitos y estribozoos.
+Se solicitan pruebas diagnósticas: Ecografía abdominal, que muestra una colecistitis aguda, y una exploración de sangre para detectar infecciones bacterianas. Se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación abdominal) así como tratamiento antibiótico específico: Ceftriaxona 2 gramos vía intravenosa cada 12 horas (durante 5 días) y Metronidazol 500 mg vía oral cada 8 horas (durante 5 días). El paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento antibiótico.

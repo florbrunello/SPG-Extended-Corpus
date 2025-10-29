@@ -1,0 +1,42 @@
+Datos del paciente.
+Nombre: Joel Robles Andres
+DNI: 97218351L
+Fecha de nacimiento: 01/02/2025
+Género: Hombre
+Domicilio: Calle de Recoletos 58
+Ciudad: Ciudad Real, Huesca, Aragón
+Código postal: 22166
+Email: joel.robles_andres1879@aol.com
+Teléfono fijo: +34 974 10 95 65
+Teléfono móvil: +34 774 26 08 75
+NHC: 7602431
+NASS: 644461386322
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dr. Adolfo Casas Fuentes. NC 404649743. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 76501327
+Hospital: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 5564ANG
+Modelo: Subaru Outback
+VIN: VSNXZ5PC1AD929981
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de un mes de edad, acompañado de su hermana. Presenta una temperatura corporal de 37,5°C, pulso de 120 bpm y respiraciones de 40 por minuto. Se encuentra alerta y orientado, con una condición general buena.
+La exploración física revela:
+En cabeza y cuello, no se palpan adenopatías ni bocio.
+En el sistema cardiovascular, no se detectan soplos ni roces.
+En el sistema respiratorio, se conserva el murmullo vesicular.
+En el sistema digestivo, no se palpan masas ni megalias.
+En la exploración neurológica, no se detectan signos meníngeos ni datos de focalidad.
+Los datos analíticos muestran los siguientes resultados:
+Hemograma: Hb 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%).
+VSG: 20 mm 1ª hora.
+Coagulación: TQ 90%; TTPA 25,5 seg.
+Bioquímica: Glucosa 120 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l.
+Se solicitan pruebas de imagen (Ecografía abdominal y TAC craneal) para evaluar la condición del paciente. El diagnóstico y tratamiento se determinarán según los resultados de estas pruebas.
+Antecedentes:
+No se tienen antecedentes médicos previos relevantes.
+Evolución y comentarios:
+El paciente se encuentra en una condición general buena, pero es necesario seguir monitorizando su condición y realizar pruebas de imagen para determinar el diagnóstico y tratamiento adecuados.
+Remitido por:
+No se remite a ningún especialista o unidad de referencia.

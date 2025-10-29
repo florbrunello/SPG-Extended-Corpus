@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: María Rosario Mesa López
+DNI: 88991962V
+Fecha de nacimiento: 21/07/1995
+Género: F
+Domicilio: Calle de Alcalá 53, 10R
+Ciudad: Fuenlabrada, León, Castilla y León
+Código postal: 24544
+Email: mariarosario1962@uca.es
+Teléfono fijo: +34 987 20 64 20
+FAX: +34 987 41 84 73
+NHC: 3415139
+NASS: 468043486571
+Condición de riesgo: Paciente menor
+Datos asistenciales.
+Médico: Dra. Verónica Acosta Paredes. NC 030192747. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/07/2010
+Centro de salud: Centro de Salud Aranjuez
+Informe clínico del paciente:
+Paciente vegetariano de 14 años de edad, acompañado de su hermana. Presenta una historia de convulsiones parciales desde hace 2 semanas, con exacerbación en los últimos 3 días. La familia reporta que el paciente ha estado bien hasta que comenzó a presentar convulsiones en la noche del 10 de julio, con una frecuencia de 2-3 por noche. El paciente no tiene antecedentes médicos relevantes y no toma ningún medicamento.
+La exploración física revela un paciente consciente y orientado, con una temperatura de 36,8°C, tensión arterial de 100/60 mmHg, frecuencia cardíaca de 90 lpm y frecuencia respiratoria de 18 lpm. No se observan signos de irritación ni de convulsiones en el momento de la evaluación.
+Los análisis de laboratorio muestran un hemograma normal, con una cuenta de leucocitos de 8.500/mm3. El electroencefalograma (EEG) muestra una actividad anormal en el lóbulo temporal izquierdo, con una frecuencia de 3-4 Hz.
+El diagnóstico de diagnóstico de epilepsia parcial temporal izquierda se basa en la historia clínica y los resultados del EEG. Se recomienda un tratamiento con medicamentos antiepilépticos, como la carbamazepina, para controlar las convulsiones y prevenir futuras exacerbaciones.
+Antecedentes:
+El paciente tiene una historia de convulsiones parciales desde hace 2 semanas, con exacerbación en los últimos 3 días.
+Evolución y comentarios:
+El paciente ha estado bien hasta que comenzó a presentar convulsiones en la noche del 10 de julio. La familia reporta que el paciente ha estado bien hasta ese momento.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien se refirió a la consulta de Neurología por sospecha de epilepsia.

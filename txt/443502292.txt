@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Vanessa Arias Cano
+DNI: 91967922F
+Fecha de nacimiento: 19/03/1975
+Género: Mujer
+Domicilio: Calle de la Cabeza del Rey Don Pedro 88
+Ciudad: Alcoy, Región de Murcia, Región de Murcia
+Código postal: 30848
+Email: vanessa-cano@hotmail.com
+Teléfono fijo: +34 968 27 90 89
+Teléfono móvil: +34 668 07 59 54
+NHC: 3599839
+NASS: 079384596852
+Condición de riesgo: Cirujano
+Datos asistenciales.
+Médico: Dra. Beatriz Otero Vega. NC 712782181. Investigadora Clínica en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 03/12/1989
+Episodio: 60451687
+Hospital: Hospital Universitario Reina Sofía de Córdoba
+Informe clínico del paciente:
+Paciente de descendencia africana de 14 años de edad, acompañado de su abuelo, que refiere dolor abdominal crónico desde hace varios meses, con episodios de vómitos y diarrea. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 130 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de dolor abdominal crónico de origen desconocido se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento antibiótico específico: Cefalexina 500 mg vía oral cada 8 horas (durante 10 días). El paciente mejora significativamente de su cuadro tras 5 días de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.
+Antecedentes:
+La paciente tiene antecedentes de alergia a los medicamentos antihistamínicos.
+Evolución y comentarios:
+El paciente ha cumplido con el tratamiento antibiótico y ha mejorado significativamente de su cuadro. Se le ha realizado una serie de pruebas de imagen para descartar otras causas de dolor abdominal, pero todos los resultados han sido normales.
+Remitido por:
+El paciente ha sido remitido a la consulta de gastroenterología para seguir bajo seguimiento y realizar una serie de pruebas adicionales para determinar la causa subyacente del dolor abdominal.

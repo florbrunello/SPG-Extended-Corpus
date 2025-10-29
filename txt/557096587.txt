@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Álvaro Santamaria Miranda
+DNI: 33449079H
+Fecha de nacimiento: 03/09/1994
+Género: Hombre
+Domicilio: Calle de Amor de Dios 39, 4T
+Ciudad: Langreo, Islas Baleares
+Código postal: 07733
+Email: miranda@aol.com
+Teléfono fijo: +34 971 85 92 67
+Teléfono móvil: +34 660 57 14 97
+NHC: 2369130
+NASS: 678859038469
+Condición de riesgo: Trabajador Industrial
+Datos asistenciales.
+Médico: Dra. Rosa Iglesias Montero. NC 081132438. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/01/2016
+Centro de salud de ingreso: Complejo Hospitalario Universitario de Lugo
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 21 años de edad, que acude al servicio de urgencias con síntomas de dolor abdominal crónico y pérdida de peso durante los últimos tres meses. El paciente tiene antecedentes de una infección por Helicobacter pylori en el pasado, y actualmente está tomando medicamentos para controlar la enfermedad.
+La exploración física revela un abdomen dolorido y distendido, con tendencia a la diarrea. La temperatura corporal es de 37,5°C, y la frecuencia cardíaca es de 110 lpm. El paciente está consciente y orientado, pero presenta una apariencia general de mal estado de salud.
+Los resultados de los análisis de sangre muestran una anemia leve y una inflamación en el tracto gastrointestinal. La ecografía abdominal revela una enfermedad inflamatoria intestinal, con presencia de úlceras y adhesiones en el intestino delgado.
+El paciente es diagnosticado con enfermedad inflamatoria intestinal, y se le prescribe un tratamiento con medicamentos antiinflamatorios y antibióticos. Se le recomienda una dieta especial y se le realiza un seguimiento regular para controlar la evolución de la enfermedad.
+Antecedentes:
+El paciente tiene antecedentes de infección por Helicobacter pylori en el pasado, y actualmente está tomando medicamentos para controlar la enfermedad.
+Evolución y comentarios:
+El paciente presenta una evolución favorable al tratamiento, con disminución de los síntomas y mejora en el estado general. Se le realiza un seguimiento regular para controlar la evolución de la enfermedad.
+Remitido por:
+Dra. Rosa Iglesias Montero, Investigadora Clínica en Enfermedades Digestivas.

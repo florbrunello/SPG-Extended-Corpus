@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: María Elena Moya López
+DNI: 64442651D
+Fecha de nacimiento: 09/11/1958
+Género: F
+Domicilio: Calle del León 93, 6A
+Ciudad: Teruel, Álava, Pais Vasco
+Código postal: 01982
+Email: lopez@ciberisciii.es
+Teléfono fijo: +34 945 16 69 51
+Teléfono móvil: +34 745 51 16 25
+NHC: 2645536
+NASS: 144063284518
+Condición de riesgo: Microbiólogo
+Datos asistenciales.
+Médico: Dra. Victoria Macias Espinosa. NC 464152117. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/07/2020
+Episodio: 17389152
+Centro de salud: Centro de Salud Fuencarral
+Informe clínico del paciente:
+La paciente, una mujer de 61 años de edad de ascendencia asiática del sudeste, acudió al centro de salud con síntomas de dolor abdominal crónico y pérdida de peso. Según su nuera, la paciente había estado experimentando estos síntomas durante varias semanas, con una mayor intensidad en los últimos días. La paciente también informó de una leve fiebre y náuseas.
+La exploración física reveló un abdomen distendido y doloroso en la región epigástrica. La paciente estaba en buen estado de nutrición y hidratación, pero presentaba una ligera taquicardia y hipertensión. La exploración neurológica y la exploración urológica no revelaron ninguna anormalidad.
+Los análisis de laboratorio mostraron una elevación de la enzima hepática alanina aminotransferasa (ALT) y una disminución de la albúmina sérica. La orina fue normal.
+Con base en estos hallazgos, se realizó una ecografía abdominal que mostró una hinchazón en la región hepática y una posible obstrucción intestinal. Se solicitó una resonancia magnética (RM) para obtener más información sobre la causa de la obstrucción.
+El diagnóstico diferencial incluyó una posible enfermedad inflamatoria intestinal, una obstrucción intestinal mecánica o una enfermedad hepática subyacente.
+Se inició el tratamiento con medicamentos antiinflamatorios y se recomendó una dieta blanda y líquida. Se programó una cita para realizar una colonoscopia para evaluar la presencia de cualquier lesión en el intestino delgado.
+La paciente se encuentra actualmente en observación en el centro de salud, con un seguimiento regular de su condición y una evaluación continua de su tratamiento.
+Evolución y comentarios:
+La paciente ha estado bajo tratamiento durante varias semanas y ha presentado una mejoría moderada en sus síntomas. Sin embargo, todavía experimenta dolor abdominal y pérdida de peso. Se requiere una evaluación más detallada de su condición para determinar la causa subyacente de sus síntomas.
+Remitido por:
+Dra. Victoria Macias Espinosa, Residente de 3° año en Gastroenterología, Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).

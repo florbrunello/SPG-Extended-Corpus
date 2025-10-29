@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Pedro José Heredia Suárez
+DNI: 13494108P
+Fecha de nacimiento: 09/07/2011
+Género: Masculino
+Domicilio: Calle de la Cabeza del Rey Don Pedro 2
+Ciudad: Majadahonda, Jaén, Andalucía
+Código postal: 23389
+Email: bQaMkI61MiB3lFn@ciberehd.org
+Teléfono fijo: +34 953 50 17 42
+Teléfono móvil: +34 753 87 52 49
+NHC: 9204423
+NASS: 107392032216
+Condición de riesgo: Operador de Máquina
+Datos asistenciales.
+Médico: Dr. Álvaro Escudero Serra. NC 964895606. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Centro de salud: Centro de Salud Málaga Sur
+Fecha de ingreso:
+09/03/2025
+Centro de salud de ingreso:
+Centro de Salud Málaga Sur

@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Mariano León Moya
+DNI: 68052475Y
+Fecha de nacimiento: 07/06/1995
+Género: Varón
+Domicilio: Calle del Marqués de Urquijo 51
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52226
+Email: marianomoya@protonmail.com
+Teléfono fijo: +34 956 35 06 42
+FAX: +34 956 44 31 32
+NHC: 4035050
+Condición de riesgo: Trabajador de Mantenimiento
+Datos asistenciales.
+Médico: Dra. Almudena Parra Rivera. NC 339608598. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 07/09/2015
+Episodio: 33917524
+Hospital: Hospital Universitario Ramón y Cajal
+Matrícula del coche: 2420CBZ
+Modelo: Chrysler Pacifica
+VIN: VSS2C99Y38I511154
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 20 años de edad, con antecedentes de hipertensión arterial, que acude al servicio de urgencias con síntomas de dolor torácico agudo y dificultad para respirar. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 22 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En la exploración cardíaca se aprecia una frecuencia cardíaca acelerada y una presión arterial elevada. Los análisis de sangre muestran un aumento en la creatinina y una disminución en la función renal.
+Se solicitan pruebas complementarias, incluyendo una ecografía cardíaca y una resonancia magnética de la cabeza y el cuello. Los resultados de las pruebas revelan una coagulación sanguínea anormal y una lesión en la arteria coronaria. Se decide someter al paciente a una angiografía coronaria para evaluar la lesión.
+El paciente es sometido a una angiografía coronaria, que revela una lesión en la arteria coronaria principal. Se decide someter al paciente a una angioplastia coronaria para restaurar la circulación sanguínea. La angioplastia se realiza con éxito, y el paciente es sometido a una quimioterapia para prevenir la coagulación sanguínea.
+El paciente se encuentra estable en la unidad de cuidados intensivos, y se le sigue monitoreando de cerca. Se le prescribe un tratamiento con antiagregantes plaquetarios y un régimen de medicamentos para prevenir la coagulación sanguínea.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y se ha sometido a varias sesiones de terapia física para mejorar su condición cardiovascular.
+Evolución y comentarios:
+El paciente ha mostrado una buena respuesta al tratamiento y se encuentra estable en la unidad de cuidados intensivos. Se le seguirá monitoreando de cerca para evitar complicaciones.
+Remitido por:
+Se remite al paciente a la unidad de cardiología para seguir su seguimiento y tratamiento.

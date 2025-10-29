@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Inmaculada Otero Tomas
+DNI: 92693715N
+Fecha de nacimiento: 05/11/1992
+Género: M
+Domicilio: Calle de Áncora 31
+Ciudad: Socuéllamos, Cádiz, Andalucía
+Código postal: 11527
+Email: inmaculada_tomas@ciberer.es
+Teléfono fijo: +34 956 63 60 39
+Teléfono móvil: +34 756 09 31 08
+NHC: 2355476
+NASS: 244459166040
+Condición de riesgo: Enfermera
+Datos asistenciales.
+Médico: Dr. Isaac Miranda Beltran. NC 573612853. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/06/2001
+Centro de salud: Centro de Salud Málaga Sur
+Informe clínico del paciente:
+Paciente refugiado de 8 años de edad, acompañado de su padre, con antecedentes de haber sido víctima de un accidente de tráfico en el que resultó herido su padre, quien sufrió una lesión en la cabeza. El paciente fue trasladado al Servicio de Urgencias del Centro de Salud Málaga Sur, donde se le realizó una exploración física y se solicitaron análisis de sangre y radiografías.
+La exploración física reveló una lesión en la cabeza, con hematomas en la región frontal y temporal. El paciente se encontraba consciente y orientado, pero con signos de dolor y malestar. La exploración neurológica no detectó signos de lesión cerebral grave.
+Los análisis de sangre mostraron un aumento en los niveles de hemoglobina y plaquetas, lo que sugiere una posible hemorragia interna. Las radiografías de la cabeza no mostraron signos de fractura ósea.
+Con base en los hallazgos, se decidió realizar un tratamiento de soporte, incluyendo la administración de analgésicos y anticoagulantes. El paciente fue trasladado a la Unidad de Cuidados Intensivos (UCI) para recibir atención continua.
+Durante el ingreso, el paciente fue monitoreado de cerca y se realizaron análisis de sangre y radiografías adicionales para evaluar la evolución de la lesión. El paciente comenzó a mejorar después de unos días de ingreso, y se decidió su alta a casa con instrucciones para seguir un tratamiento de seguimiento.
+Antecedentes:
+El paciente tiene antecedentes de haber sido víctima de un accidente de tráfico en el que resultó herido su padre. El padre sufrió una lesión en la cabeza y fue trasladado al Servicio de Urgencias del Centro de Salud Málaga Sur.
+Evolución y comentarios:
+El paciente fue trasladado al Servicio de Urgencias del Centro de Salud Málaga Sur, donde se le realizó una exploración física y se solicitaron análisis de sangre y radiografías. La exploración física reveló una lesión en la cabeza, con hematomas en la región frontal y temporal. El paciente se encontraba consciente y orientado, pero con signos de dolor y malestar.
+Remitido por:
+El paciente fue remitido por su padre, quien se encontraba herido en el accidente de tráfico. El padre fue trasladado al Servicio de Urgencias del Centro de Salud Málaga Sur, donde se le realizó una exploración física y se solicitaron análisis de sangre y radiografías.

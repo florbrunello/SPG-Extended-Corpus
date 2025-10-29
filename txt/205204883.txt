@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Noelia Vargas Rivera
+DNI: 39349193B
+Fecha de nacimiento: 02/06/1954
+Género: M
+Domicilio: Calle del Barquillo 20, 10G
+Ciudad: Gijón, Alicante, Comunidad Valenciana
+Código postal: 03890
+Email: vargas-rivera485@us.es
+Teléfono fijo: +34 965 96 08 26
+FAX: +34 965 74 56 13
+NHC: 1663863
+NASS: 330441732132
+Datos asistenciales.
+Médico: Dr. Luis Miguel Soler Bermudez. NC 913009561. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/11/2023
+Hospital: Hospital Universitario Fundación Alcorcón
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 69 años de edad. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es FG253VOZ258. La paciente presenta una historia de salud estable, sin antecedentes de enfermedades graves. El examen físico revela una presión arterial normal y un estado general de buena salud. La paciente está tomando medicamentos para controlar la presión arterial y la glucemia.
+La exploración médica incluyó un análisis de sangre completo, que mostró valores normales para la función renal y la función hepática. La paciente también realizó una ecografía abdominal, que no reveló ninguna anomalía significativa.
+El tratamiento recomendado para la paciente es continuar tomando los medicamentos para controlar la presión arterial y la glucemia, y realizar revisiones regulares con el médico para monitorear su estado de salud. Se le aconsejó realizar un estilo de vida saludable, incluyendo una dieta equilibrada y ejercicio regular.
+Informe clínico del paciente:
+La paciente se encuentra en buen estado de salud y no presenta ninguna condición médica grave. Se le recomendó realizar revisiones regulares con el médico para monitorear su estado de salud y continuar tomando los medicamentos para controlar la presión arterial y la glucemia.

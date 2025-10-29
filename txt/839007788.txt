@@ -1,0 +1,18 @@
+Datos del paciente.
+Nombre: Martina Zamora García
+DNI: 35777377A
+Fecha de nacimiento: 14/03/1990
+Género: Femenino
+Domicilio: Calle de Áncora 36
+Ciudad: Santa Cruz de Tenerife, Las Palmas, Canarias
+Código postal: 35584
+Email: martinagarcia@h12o.es
+Teléfono fijo: +34 928 54 34 04
+Teléfono móvil: +34 628 87 90 14
+NHC: 5725125
+NASS: 865056415356
+Datos asistenciales.
+Médico: Dr. Jorge Vega Guerra. NC 716948734. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/12/2009
+Episodio: 12902898
+Hospital: Hospital Clínic Universitario San Cecilio

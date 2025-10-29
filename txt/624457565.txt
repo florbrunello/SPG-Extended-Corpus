@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Francisco Cortés Méndez
+DNI: 39711612L
+Fecha de nacimiento: 23/03/1993
+Género: Varón
+Domicilio: Calle de Santa Engracia 48, 4T
+Ciudad: Palencia, Burgos, Castilla y León
+Código postal: 09102
+Email: mendez@ciberned.es
+Teléfono fijo: +34 947 17 30 06
+Teléfono móvil: +34 647 56 52 29
+NHC: 0876737
+Condición de riesgo: Trabajador de Servicios de Limpieza
+Datos asistenciales.
+Médico: Dra. Noa Márquez Aguilar. NC 610060304. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 23/03/2008
+Episodio: 15957470
+Centro de salud: Centro de Salud Puente de Vallecas
+Matrícula del coche: 1122ULY
+Modelo: Honda Civic
+VIN: VSRXQQ66Q4O216017
+Informe clínico del paciente:
+Paciente de 15 años de edad, con antecedentes de asma, que acude al servicio de urgencias con síntomas de tos seca y dificultad para respirar. La exploración física revela taquipnea y estertores bilaterales. Los análisis de sangre muestran eosinofilia y elevación de la fosfatasa alcalina. El diagnóstico de bronquiolitis obliterante es sospechado y se solicitan pruebas de imagen para confirmarlo.
+Antecedentes:
+El paciente tiene antecedentes de asma y ha estado tomando medicamentos para controlar los síntomas.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos y se le está administrando oxígeno y medicamentos para controlar la inflamación.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien sospechó un episodio de bronquiolitis obliterante.

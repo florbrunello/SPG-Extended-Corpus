@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Julia Maldonado Rivas
+DNI: 27757422X
+Fecha de nacimiento: 04/06/1961
+Género: Femenino
+Domicilio: Calle de Segovia 95, 2I
+Ciudad: Logroño, Málaga, Andalucía
+Código postal: 29087
+Email: maldonado@uhu.es
+Teléfono fijo: +34 951 38 40 69
+Teléfono móvil: +34 651 52 11 09
+NHC: 7061568
+NASS: 059745517821
+Condición de riesgo: Granjero
+Datos asistenciales.
+Médico: Dra. Rosa Lorenzo Villar. NC 285954486. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/07/1968
+Episodio: 51858572
+Hospital: Hospital Universitario Río Hortega
+Informe clínico del paciente:
+Paciente no fumador de 7 años de edad, acompañado de su tía. Presenta una temperatura corporal de 37,5°C, pulso de 80 latidos por minuto y respiraciones de 20 por minuto. La exploración física revela un estado de ánimo estable, sin signos de dolor ni malestar. La exploración neurológica no revela signos de alteración en la conciencia, la coordinación ni la función motora. La exploración cardíaca y pulmonar es normal. La exploración abdominal no revela signos de dolor ni malestar.
+La historia clínica del paciente indica que ha presentado una infección respiratoria aguda en los últimos días, con síntomas de tos, fiebre y dificultad para respirar. El paciente ha recibido tratamiento con antibióticos y ha mostrado una respuesta favorable a la terapia.
+Se solicitan análisis de sangre para evaluar la función hepática y renal, así como una radiografía de tórax para evaluar la presencia de cualquier patología pulmonar. El paciente se encuentra en observación en la unidad de cuidados intensivos del hospital.
+Antecedentes:
+El paciente tiene una historia de alergia a ciertos alimentos, incluyendo leche y huevos. El paciente también tiene una historia de asma, que se controla con medicación inhalatoria.
+Evolución y comentarios:
+El paciente ha mostrado una respuesta favorable a la terapia con antibióticos y ha sido transferido a la unidad de cuidados generales del hospital. El paciente se encuentra en observación y se le solicitan análisis de sangre para evaluar la función hepática y renal.
+Remitido por:
+Dra. Rosa Lorenzo Villar, Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

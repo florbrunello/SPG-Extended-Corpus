@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: María Dolores Vila López
+DNI: 66688471V
+Fecha de nacimiento: 10/12/1945
+Género: F
+Domicilio: Calle de Bravo Murillo 9
+Ciudad: Ontinyent, Navarra, Navarra
+Código postal: 31786
+Email: lopez634@gmail.com
+Teléfono fijo: +34 948 15 55 64
+FAX: +34 948 58 48 42
+NHC: 4776009
+NASS: 534036870480
+Condición de riesgo: Operador de Equipos Mineros
+Datos asistenciales.
+Médico: Dr. Adrián Paredes Herrera. NC 180441888. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/08/1986
+Episodio: 88104481
+Hospital: Complejo Hospitalario Torrecárdenas
+Matrícula del coche: 8987JNO
+Modelo: Volkswagen Golf
+VIN: VSX0O41WUJX816633
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 40 años de edad, acompañado de su esposa, presenta un cuadro de disnea aguda con dolor torácico y fiebre, que comenzó hace 48 horas. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.000/mm3 (neutrófilos 80%); plaquetas 200.000/ mm3. VSG: 45 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 30 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,7 mEq/l; GOT 15 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan Hemocultivos: positivo para Streptococcus pneumoniae y Serologías específicas para Streptococcus pneumoniae: IgM positivo. Las pruebas de imagen solicitadas (Rx tórax, Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) no evidencian patología significativa.
+Con el diagnóstico de neumonía bacteriana se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) así como tratamiento antibiótico específico: Ceftriaxona 2 gramos intravenoso cada 12 horas (durante 7 días) y Azitromicina 500 mg vía oral cada 24 horas (durante 7 días). El paciente mejora significativamente de su cuadro tras 48 horas de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.

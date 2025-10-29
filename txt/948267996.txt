@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Silvia Rubio Muñoz
+DNI: 24947341T
+Fecha de nacimiento: 30/03/2017
+Género: Femenino
+Domicilio: Calle de la Cabeza del Rey Don Pedro 54
+Ciudad: Ibiza, Pontevedra, Galicia
+Código postal: 36994
+Email: silvia@hotmail.com
+Teléfono fijo: +34 986 65 39 39
+Teléfono móvil: +34 786 76 45 53
+NHC: 7773946
+NASS: 796945566293
+Condición de riesgo: Microbiólogo
+Datos asistenciales.
+Médico: Dr. Francisco José Benítez Giménez. NC 334420812. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 16/10/2018
+Episodio: 70962413
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Informe clínico del paciente:
+La paciente, de 1 año de edad, fue atendida por su padre, quien informó que la niña había estado presentando síntomas de infección respiratoria durante las últimas 48 horas. La paciente presentaba fiebre, tos y dificultad para respirar. La exploración física reveló temperatura de 38,5°C, frecuencia cardíaca de 120 latidos por minuto y frecuencia respiratoria de 40 respiraciones por minuto. La paciente estaba consciente y orientada, pero presentaba sudoración y estado de ánimo alterado.
+Se realizaron pruebas de laboratorio, incluyendo una muestra de orina y una radiografía de tórax, que no mostraron resultados anormales. La paciente fue tratada con antibióticos y se le administró oxígeno para ayudarla a respirar. Durante la evolución clínica, la paciente presentó una mejora gradual de sus síntomas, y se le permitió el alta hospitalaria después de 48 horas de tratamiento.
+La paciente fue seguida en la consulta externa y se le realizó un seguimiento regular para asegurarse de que no hubiera complicaciones. La paciente se recuperó completamente y no presentó síntomas de infección respiratoria en la siguiente visita.
+La evolución clínica de la paciente fue favorable, y se le recomendó a su padre que continuara con el tratamiento antibiótico durante las próximas 24 horas para asegurarse de que la infección se haya eliminado completamente. Se le también se le recomendó que la paciente se sometiera a una evaluación médica regular para asegurarse de que no hubiera complicaciones a largo plazo.
+Se le proporcionó al padre de la paciente una hoja de instrucciones para el tratamiento y cuidado de la niña en casa, y se le se le dio un número de teléfono para que pudiera contactar con el equipo de salud en caso de que surgieran problemas o inquietudes. La paciente se recuperó completamente y no presentó síntomas de infección respiratoria en la siguiente visita.
+Se le realizó una evaluación de la paciente en la consulta externa, y se le se le dio un resultado de "mejoría completa" en la evaluación de la infección respiratoria. La paciente se recuperó completamente y no presentó síntomas de infección respiratoria en la siguiente visita.

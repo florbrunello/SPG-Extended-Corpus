@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Ana López Ramírez
+DNI: 64592470Y
+Fecha de nacimiento: 25/01/1940
+Género: Mujer
+Domicilio: Calle Mayor 18
+Ciudad: Tarragona, Navarra, Navarra
+Código postal: 31178
+Email: ana.lopez.ramirez@ciberned.es
+Teléfono fijo: +34 948 58 33 10
+FAX: +34 948 56 61 44
+NHC: 6193176
+Condición de riesgo: Pintor de Construcción
+Datos asistenciales.
+Médico: Dr. Adolfo Abad Vargas. NC 199791373. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/01/2015
+Episodio: 03821479
+Hospital: Hospital Universitario Doctor Peset
+Informe clínico del paciente:
+Paciente discapacitada de 74 años de edad, acompañada de su marido, que acude al servicio de cardiología con una historia de dolores torácicos intermitentes durante los últimos 6 meses, sin antecedentes de enfermedades cardiovasculares previas. La exploración física revela una tensión arterial de 140/90 mmHg, con un ritmo cardíaco regular y sin soplos ni roces cardíacos. La electrocardiograma (ECG) muestra un patrón de estrés en el segmento ST del trazado de QRS, con un índice de actividad cardíaca elevado.
+Se solicitan pruebas complementarias, incluyendo una ecocardiograma transtorácico y una resonancia magnética cardíaca, que revelan una afección cardíaca isquémica en el infarto de miocardio anterior. El paciente es sometido a un tratamiento médico con nitroglicerina y beta-bloqueantes, y se le recomienda un seguimiento regular en el servicio de cardiología.
+Evolución y comentarios:
+El paciente se encuentra en un estado estable, con una evolución favorable después de la implementación del tratamiento médico. Se le realiza un seguimiento regular para monitorear la progresión de la enfermedad cardíaca y ajustar el tratamiento según sea necesario.
+Remitido por:
+Dr. Adolfo Abad Vargas
+Residente de 4° año en Cardiología
+Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV)
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España

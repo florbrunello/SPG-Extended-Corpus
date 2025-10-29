@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Blanca Martínez Pacheco
+DNI: 79445033C
+Fecha de nacimiento: 23/08/1973
+Género: Mujer
+Domicilio: Calle de Lope de Rueda 43
+Ciudad: Ourense, Galicia
+Código postal: 32004
+Email: blanca.martinez@uab.es
+Teléfono fijo: +34 933 00 33 22
+Teléfono móvil: +34 678 92 11 45
+NHC: 7635509
+NASS: 790094565203
+Condición de riesgo: Estudiante universitaria
+Datos asistenciales.
+Médico: Dra. Ana Belén Gómez García. NC 042901213. Médica de Familia. Centro de Salud Virgen de la Salud. Calle de la Paz, 12. 28012. Madrid. España.
+Fecha de ingreso: 10/03/2022
+Episodio: 42165491
+Hospital: Hospital Universitario La Paz
+Informe clínico del paciente:
+Paciente de 49 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que acude al Servicio de Urgencias con dolor torácico de 3 horas de evolución, irradiado a la espalda y empeorado con la inspiración. Antecedentes relevantes incluyen un infarto de miocardio en el año 2018 y una cirugía de bypass coronario en el año 2020.
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 22 lpm. Se encuentra consciente, orientado, con buena respiración y sin signos de shock. En el examen cardiovascular, se observa un ruido de murmullo en la región pulmonar izquierda. La exploración abdominal revela un bulto en la región lumbar derecha.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl.
+Con el diagnóstico de infarto de miocardio agudo con elevación del segmento ST en el ECG y un posible diagnóstico de neumotórax, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y oxígeno) así como tratamiento farmacológico con aspirina, atorvastatina y enoxaparina. El paciente se encuentra estabilizado y se le ha trasladado a la Unidad de Cuidados Intensivos para monitorización y tratamiento continuo.
+Evolución y comentarios:
+El paciente ha estado en la UCI durante 5 días, con una evolución estable y sin complicaciones. Se ha realizado un estudio de ecocardiografía que ha confirmado la presencia de un infarto de miocardio agudo con elevación del segmento ST. Se ha iniciado un tratamiento con beta-bloqueantes y nitratos para controlar la frecuencia cardíaca y la presión arterial.
+Remitido por:
+El paciente ha sido remitido a la Unidad de Cardiología para seguimiento y tratamiento continuo. Se le ha asignado un número de referencia para futuras consultas y seguimiento.

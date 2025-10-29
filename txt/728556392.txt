@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Esteban Medina Calderon
+DNI: 45728163T
+Fecha de nacimiento: 09/04/1954
+Género: Hombre
+Domicilio: Calle del Rollo 60
+Ciudad: Jerez de la Frontera, La Rioja, La Rioja
+Código postal: 26316
+Email: esteban.calderon@ciberisciii.es
+Teléfono fijo: +34 941 06 36 31
+Teléfono móvil: +34 641 23 81 26
+NHC: 2932306
+NASS: 987654321
+Condición de riesgo: Bombero
+Datos asistenciales.
+Médico: Dra. Josefina Hurtado Salazar. NC 902530998. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 11/05/2001
+Episodio: 39226331
+Centro de salud: Centro de Salud Latina
+Informe clínico del paciente:
+Paciente víctima de desastre de 47 años de edad, acompañado de su nuera, presenta una lesión de fractura de clavícula, hematomas en el área del hombro y dolor en la zona cervical. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin signos de shock. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Antecedentes:
+El paciente fue evacuado desde la escena del desastre en un vehículo de emergencia, donde se le administró oxígeno y se le realizó una primera evaluación médica.
+Evolución y comentarios:
+El paciente ha sido evaluado por un equipo de médicos y enfermeras, y se ha decidido su ingreso en la unidad de cuidados intensivos para una mayor supervisión y tratamiento.
+Remitido por:
+Dr. Juan Carlos Gómez García, Jefe de la Unidad de Emergencias del Centro de Salud Latina.

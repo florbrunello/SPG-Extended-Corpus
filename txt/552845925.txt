@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Víctor Manuel Rivero Flores
+DNI: 56605065H
+Fecha de nacimiento: 28/06/1936
+Género: V
+Domicilio: Calle de Eduardo Dato 22
+Ciudad: Béjar, León, Castilla y León
+Código postal: 24584
+Email: riveroflores@ioba.med.uva.es
+Teléfono fijo: +34 987 26 01 31
+Teléfono móvil: +34 787 26 11 84
+NHC: 9919438
+NASS: 208817886050
+Datos asistenciales.
+Médico: Dr. Raúl Moya Gómez. NC 721097702. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/03/1985
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Informe clínico del paciente:
+El paciente, Víctor Manuel Rivero Flores, es un hombre de 48 años de edad, que fue ingresado en el Centro de Salud Pozuelo de Alarcón el día 17 de marzo de 1985. El paciente tiene una discapacidad física significativa y es acompañado por su marido.
+La historia clínica del paciente es la siguiente: el paciente ha sido diagnosticado con una enfermedad crónica que afecta su sistema inmunológico. Ha tenido varias infecciones en el pasado, incluyendo una infección grave por una bacteria resistente a los antibióticos. En el momento del ingreso, el paciente presentaba síntomas de infección, incluyendo fiebre, dolor de cabeza y malestar general.
+La exploración física reveló: temperatura corporal de 38,5°C, frecuencia cardíaca de 120 latidos por minuto, presión arterial de 140/90 mmHg, y una exploración pulmonar normal. El paciente estaba consciente y orientado, pero presentaba signos de malestar y dolor.
+Se realizaron varias pruebas diagnósticas, incluyendo análisis de sangre, cultivo de orina y radiografías de tórax y abdomen. Los resultados de las pruebas mostraron una infección grave por una bacteria resistente a los antibióticos, que se estaba extendiendo a otros órganos del cuerpo.
+El tratamiento iniciado fue un antibiótico de amplio espectro, que se administró por vía intravenosa. El paciente también recibió un tratamiento de soporte, incluyendo fluidos y oxígeno. En las primeras 24 horas del tratamiento, el paciente mostró una mejora significativa en sus síntomas, pero en las siguientes 48 horas, su condición empeoró y se desarrollaron signos de insuficiencia renal y cardíaca.
+La evolución del paciente fue complicada y requirió la intervención de varios especialistas. El paciente fue sometido a un tratamiento de soporte intensivo, que incluyó la administración de fluidos y medicamentos para mejorar la función renal y cardíaca. A pesar de los esfuerzos del equipo médico, el paciente no mejoró y falleció el día 25 de marzo de 1985.
+La causa de la muerte del paciente fue la infección grave por una bacteria resistente a los antibióticos, que se extendió a otros órganos del cuerpo y causó insuficiencia renal y cardíaca.

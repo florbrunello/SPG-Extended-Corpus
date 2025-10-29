@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Rubén Márquez Camacho
+DNI: 92302765Q
+Fecha de nacimiento: 09/07/1952
+Género: M
+Domicilio: Calle de Menorca 45
+Ciudad: Teruel
+Código postal: 14965
+Email: ruben.camacho1035@gmail.com
+Teléfono fijo: +34 957 92 34 38
+FAX: +34 957 04 04 29
+NHC: 2831752
+NASS: 234567890123
+Condición de riesgo: Paciente con antecedentes de enfermedades cardiovasculares
+Datos asistenciales.
+Médico: Dra. Carolina Carmona Costa. NC 133281459. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/09/2008
+Episodio: 46605451
+Hospital: Complejo Hospitalario Torrecárdenas
+Informe clínico del paciente:
+Paciente de descendencia africana de 56 años de edad, acompañado de su madre, con antecedentes de enfermedades cardiovasculares y un historial de hipertensión arterial y colesterol elevado. El paciente se refirió a síntomas de dolor torácico y disnea en las últimas 48 horas, lo que llevó a su ingreso en el hospital.
+La exploración física revela: Tª 38,5 C; T.A: 140/90 mmHg; Fc: 80 lpm. El paciente se encuentra consciente, orientado, sudoroso, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. La auscultación cardíaca revela un ritmo cardíaco irregular, con soplos y roces en la zona del corazón. La auscultación pulmonar muestra una conservación del murmullo vesicular.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 60 mm 1ª hora. Coagulación: TQ 90%; TTPA 30,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 45 U/l; fosfatasa alcalina 150 U/l; calcio 9,5 mg/dl.
+Se solicitan pruebas de imagen (Ecografía cardíaca, TAC cardíaco, Ecocardiograma transtorácico) que revelan una cardiomiopatía dilatada con disfunción ventricular izquierda y una estenosis aórtica significativa. Con el diagnóstico de cardiomiopatía dilatada y estenosis aórtica, se instaura tratamiento médico (anticoagulantes, antihipertensivos, diuréticos) y se programan pruebas de imagen periódicas para monitorear la evolución del paciente.

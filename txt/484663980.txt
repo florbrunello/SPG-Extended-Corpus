@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Gregorio Pastor Benítez
+DNI: 22696215E
+Fecha de nacimiento: 11/02/1955
+Género: M
+Domicilio: Calle de Moratín 89
+Ciudad: Castellón de la Plana, Gerona, Cataluña
+Código postal: 17663
+Email: pastor_benitez@ub.edu
+Teléfono fijo: +34 972 33 33 93
+Teléfono móvil: +34 672 59 07 84
+NHC: 3917466
+NASS: 666053686808
+Condición de riesgo: Conductor de Camión
+Datos asistenciales.
+Médico: Dra. Noelia Soriano Fuentes. NC 502846387. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/08/2009
+Episodio: 57537439
+Hospital: Hospital Universitario Puerto Real
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 54 años de edad, que acude al servicio de urgencias con síntomas de mareo y confusión. La exploración física revela una temperatura de 38,5°C, frecuencia cardíaca de 110 bpm y presión arterial de 140/90 mmHg. El paciente presenta signos de intoxicación alcohólica, con olor a alcohol en la respiración y una puntada de olor a vino en la lengua.
+La historia clínica del paciente revela un consumo excesivo de alcohol durante los últimos meses, con un máximo de 8 vasos de vino al día. El paciente ha presentado antecedentes de episodios de desmayo y confusión en el pasado, pero nunca ha sido hospitalizado por estos síntomas.
+Los análisis de sangre muestran un nivel de alcohol en sangre de 200 mg/dl, lo que indica una intoxicación alcohólica moderada. El paciente también presenta un aumento en la creatinina sérica, lo que sugiere un posible daño renal.
+El tratamiento se centra en la estabilización del paciente y la reducción de la toxicidad alcohólica. El paciente recibe un tratamiento de rehidratación con líquidos y electrolitos, así como un tratamiento de soporte con medicamentos para controlar la fiebre y la frecuencia cardíaca.
+La evolución del paciente es favorable, con una reducción en los síntomas de intoxicación y una mejoría en la función renal. El paciente es estabilizado y se le recomienda un seguimiento en el servicio de psiquiatría para abordar el consumo excesivo de alcohol y prevenir futuros episodios de intoxicación.

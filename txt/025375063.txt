@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Omar Marti Montoya
+DNI: 99776476S
+Fecha de nacimiento: 13/04/1979
+Género: V
+Domicilio: Calle de Embajadores 91
+Ciudad: Lleida, La Coruña, Galicia
+Código postal: 15117
+Email: omarmartimontoya@ucm.es
+Teléfono fijo: +34 981 59 05 74
+Teléfono móvil: +34 681 59 22 74
+NHC: 9887514
+NASS: 556483648723
+Condición de riesgo: Indígena sudamericano
+Datos asistenciales.
+Médico: Dra. Remedios Flores Castillo. NC 630937888. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 11/07/1989
+Episodio: 33044365
+Centro de salud: Centro de Salud Carabanchel
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 10 años de edad, acompañado de su abuela, presenta síntomas de fatiga crónica y pérdida de peso en los últimos meses. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,8 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 10 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal) que no evidencian patología significativa. Se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se realiza una evaluación nutricional y de crecimiento para determinar la causa subyacente de la pérdida de peso y la fatiga crónica. El paciente muestra una respuesta favorable al tratamiento y se le indica una dieta equilibrada y una rutina de ejercicio regular para mejorar su estado de salud.

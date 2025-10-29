@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Blanca Vargas Domínguez
+DNI: 39638779G
+Fecha de nacimiento: 18/10/1974
+Género: Mujer
+Domicilio: Calle de Alcalá 57
+Ciudad: Ponferrada, Ciudad Real, Castilla-La Mancha
+Código postal: 13483
+Email: blanca.dominguez@aol.com
+Teléfono fijo: +34 926 51 24 61
+Teléfono móvil: +34 678 91 23 45
+NHC: 7851711
+NASS: 027025895765
+Condición de riesgo: Bombero
+Datos asistenciales.
+Médico: Dr. Mikel Durán Aguilar. NC 173066219. Cardiólogo de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 24/05/2012
+Centro de salud: Hospital Universitario de la Princesa
+Informe clínico del paciente:
+Paciente vegetariano de 37 años de edad, con antecedentes de hipertensión arterial, que refiere dolor torácico de tipo cardíaco en los últimos 48 horas. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca con murmullo sistólico, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+La evolución clínica del paciente ha sido marcada por un dolor torácico de tipo cardíaco, que ha llevado a la realización de una serie de pruebas diagnósticas. Los resultados de estas pruebas han mostrado una cardiopatía isquémica, con una reducción del flujo sanguíneo en la coronaria izquierda. El tratamiento recomendado para el paciente es la terapia antianginosa, que incluye la administración de medicamentos para aliviar el dolor y mejorar la circulación sanguínea.
+La ecografía cardíaca realizada en el paciente ha mostrado una reducción del diámetro de la arteria coronaria izquierda, lo que sugiere una estenosis significativa. La angiografía coronaria ha confirmado la presencia de una estenosis de 70% en la arteria coronaria izquierda. El tratamiento recomendado para el paciente es la angioplastia coronaria, que consiste en la introducción de una balón en la arteria coronaria izquierda para dilatar la estenosis y mejorar la circulación sanguínea.
+En resumen, el paciente presenta una cardiopatía isquémica, con una reducción del flujo sanguíneo en la coronaria izquierda. El tratamiento recomendado para el paciente es la terapia antianginosa y la angioplastia coronaria. El paciente debe ser seguido de cerca para asegurarse de que la enfermedad no se agrave y que el tratamiento sea efectivo.

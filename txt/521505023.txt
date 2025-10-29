@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Mercedes Calvo Jurado
+DNI: 74616840X
+Fecha de nacimiento: 03/10/2022
+Género: Mujer
+Domicilio: Calle de las Tres Cruces 68, 2W
+Ciudad: San Pedro del Pinatar, Cantabria, Cantabria
+Código postal: 39830
+Email: jurado@outlook.com
+Teléfono fijo: +34 942 65 36 13
+Teléfono móvil: +34 642 76 22 82
+NHC: 0561216
+Condición de riesgo: Ingeniero de Minas
+Datos asistenciales.
+Médico: Dra. María Carmen Morales Iglesias. NC 042296619. Investigadora Clínica en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/06/2023
+Episodio: 52387905
+Hospital: Hospital Regional Universitario de Málaga
+Informe clínico del paciente:
+Paciente de tez blanca de 8 meses de edad, acompañado de su hermana.
+Antecedentes:
+La paciente fue derivada desde el Servicio de Pediatría del Hospital de San Pedro del Pinatar con una historia de diarrea persistente y vómitos durante las últimas 48 horas. La madre informó que la paciente había estado bien hasta hace 3 días, cuando comenzó a presentar síntomas de gastroenteritis.
+Evolución y comentarios:
+La paciente se encuentra en buen estado general, con signos vitales normales. La exploración física revela: temperatura 37,2°C; frecuencia cardíaca 120/min; frecuencia respiratoria 40/min. La paciente está consciente y orientada, con buen estado de hidratación.
+Pruebas diagnósticas:
+Se han solicitado pruebas de laboratorio para determinar la causa subyacente de la gastroenteritis, incluyendo análisis de heces, sangre y orina. También se ha solicitado una radiografía de abdomen para evaluar la presencia de obstrucciones o otras complicaciones.
+Tratamiento:
+La paciente ha sido tratada con líquidos orales y antibióticos para prevenir la infección bacteriana. También se le ha administrado un régimen de antieméticos para controlar los vómitos.
+Pronóstico:
+La paciente se encuentra en buen estado general y se espera que recupere rápidamente de la gastroenteritis. Se le será seguida de cerca para asegurarse de que no haya complicaciones.
+Remitido por:
+El paciente fue remitido por el Servicio de Pediatría del Hospital de San Pedro del Pinatar.

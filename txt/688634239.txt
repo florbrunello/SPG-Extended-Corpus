@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Juan Manuel López Rivero
+DNI: 11393493Y
+Fecha de nacimiento: 22/02/1991
+Género: Hombre
+Domicilio: Calle de Bravo Murillo 98, 1F
+Ciudad: Majadahonda, Cáceres, Extremadura
+Código postal: 10844
+Email: juanmanuellopez_rivero@salud.madrid.org
+Teléfono fijo: +34 927 12 18 38
+Teléfono móvil: +34 727 47 17 33
+NHC: 3315656
+NASS: 574391438208
+Condición de riesgo: Granjero
+Datos asistenciales.
+Médico: Dra. Rosa Alarcon Lozano. NC 058544621. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/12/1994
+Episodio: 04533089
+Centro de salud: Centro de Salud Sevilla Norte
+Informe clínico del paciente:
+Paciente vegetariano de 3 años de edad, acompañado de su madre. Presenta una temperatura corporal de 37,5°C, pulso de 120 latidos por minuto y respiración de 24 respiraciones por minuto. La exploración física revela un estado general bueno, sin signos de dolor ni malestar.
+La historia clínica del paciente indica que ha estado recibiendo tratamiento para una infección respiratoria durante las últimas semanas. El paciente ha estado tomando medicamentos antibióticos y ha estado bajo observación en el hospital durante varios días.
+La evolución del paciente ha sido favorable, con una disminución de la fiebre y una mejoría general de su estado de salud. El paciente ha estado recibiendo cuidados intensivos y ha estado bajo vigilancia constante.
+La exploración de laboratorio ha revelado resultados normales para la sangre y la orina. El paciente ha estado recibiendo pruebas de imagen para evaluar la causa subyacente de su infección.
+El tratamiento del paciente ha sido dirigido por la Dra. Rosa Alarcon Lozano, quien ha estado trabajando en estrecha colaboración con el equipo de atención médica para garantizar la mejoría del paciente.
+Antecedentes:
+El paciente tiene una historia de alergia a ciertos medicamentos y alimentos. El paciente ha estado recibiendo tratamiento para una infección respiratoria durante las últimas semanas.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento para una infección respiratoria durante las últimas semanas. El paciente ha estado bajo observación en el hospital durante varios días y ha estado recibiendo cuidados intensivos.
+La evolución del paciente ha sido favorable, con una disminución de la fiebre y una mejoría general de su estado de salud. El paciente ha estado recibiendo pruebas de imagen para evaluar la causa subyacente de su infección.
+Remitido por:
+La Dra. Rosa Alarcon Lozano, Investigadora Clínica en Enfermedades Digestivas, Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).

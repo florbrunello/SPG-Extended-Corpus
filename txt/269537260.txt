@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Ismael Cortés Simon
+DNI: 29240673Z
+Fecha de nacimiento: 06/05/2018
+Género: M
+Domicilio: Calle de la Alameda 31
+Ciudad: Getafe, Cuenca, Castilla-La Mancha
+Código postal: 16284
+Email: ismael_simon@icloud.com
+Teléfono fijo: +34 969 83 15 82
+Teléfono móvil: +34 769 40 40 72
+NHC: 2913636
+NASS: 673172698156
+Condición de riesgo: Dentista
+Datos asistenciales.
+Médico: Dr. Pedro Acosta Zamora. NC 772348257. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/02/2024
+Hospital: Hospital Regional Universitario de Málaga
+Informe clínico del paciente:
+El paciente fue ingresado en la unidad de gastroenterología por presentar una serie de síntomas que incluyen diarrea crónica, pérdida de peso y falta de apetito. El paciente tiene una historia de consumo de alimentos no pasteurizados y ha viajado recientemente a un país en vías de desarrollo. La exploración física revela un estado general de malnutrición, con un peso inferior al esperado para su edad. Los análisis de sangre muestran una anemia moderada y un aumento en las enzimas hepáticas. Se solicitan pruebas adicionales para determinar la causa subyacente de los síntomas, incluyendo una biopsia intestinal y un análisis de heces para detectar la presencia de parásitos.
+La evolución del paciente ha sido estable, con una mejora en los síntomas después de la administración de antibióticos y un régimen de dieta especial. Se continua con la exploración diagnóstica para determinar la causa exacta de los síntomas y planificar el tratamiento adecuado.
+La exploración física revela:
+- Temperatura: 36,8°C
+- Presión arterial: 110/60 mmHg
+- Frecuencia cardíaca: 100 lpm
+- Estado general: malnutrición
+- Exploración abdominal: no se palpan adenopatías ni bocio
+- Exploración pulmonar: conservación del murmullo vesicular
+Los análisis de sangre muestran:
+- Hemograma: Hb 10,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%)
+- Enzimas hepáticas: ALT 120 U/l; AST 150 U/l
+- Análisis de heces: positivo para la presencia de parásitos
+Se solicitan pruebas adicionales para determinar la causa exacta de los síntomas y planificar el tratamiento adecuado.

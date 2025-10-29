@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Oliver Torres Conde
+DNI: 95895085N
+Fecha de nacimiento: 29/09/1929
+Género: Varón
+Domicilio: Calle de la Magdalena 85, 7G
+Ciudad: Úbeda, Asturias, Asturias
+Código postal: 33751
+Email: torres@ucm.es
+Teléfono fijo: +34 984 51 93 75
+Teléfono móvil: +34 784 63 13 56
+NHC: 3190168
+NASS: 95895085N
+Condición de riesgo: Electricista
+Datos asistenciales.
+Médico: Dr. Jon Pérez Soto. NC 858584876. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/11/1979
+Episodio: 51163929
+Hospital: Hospital Regional Universitario de Málaga
+Informe clínico del paciente:
+Paciente vegano de 50 años de edad, acompañado de su compañero de trabajo, presenta síntomas de dolor ocular y visión borrosa en el ojo derecho desde hace 3 días. La paciente informa que ha tenido un accidente en el trabajo, donde se le cayó un objeto pesado en la mano, lo que le causó un golpe en la cabeza y en el ojo derecho.
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.200/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 138 mEq/l; potasio 4,0 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de traumatismo ocular y posibles lesiones en el ojo derecho, se instaura tratamiento conservador (reposo, hielo en el ojo afectado y analgésicos) y se solicitan pruebas de imagen (ECG, TAC craneal y Ecografía ocular) para evaluar la gravedad de la lesión. El paciente se encuentra en observación en la unidad de cuidados intensivos del hospital.

@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Paloma Carrillo Rueda
+DNI: 74283059M
+Fecha de nacimiento: 13/11/1986
+Género: Femenino
+Domicilio: Calle de Argumosa 77, 6P
+Ciudad: Ciudad Real, Tarragona, Cataluña
+Código postal: 43351
+Email: carrillo1177@uhu.es
+Teléfono fijo: +34 977 40 61 54
+Teléfono móvil: +34 777 29 68 83
+NHC: 8261788
+NASS: 317403205192
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+Datos asistenciales.
+Médico: Dra. Esperanza Caballero De la Fuente. NC 089925327. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/03/2016
+Episodio: 19389691
+Hospital: Hospital Universitario Doctor Peset
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 29 años de edad, que se presenta con una historia previa de hipertensión arterial, controlada con medicación. La paciente refiere una evolución clínica de 3 días, caracterizada por dolor en la región epigástrica, con irradiación hacia la espalda y fiebre. La exploración física revela: temperatura 38,5°C; presión arterial 160/90 mmHg; frecuencia cardíaca 110 lpm; frecuencia respiratoria 22 lpm. La paciente se encuentra consciente y orientada, con buen estado de nutrición e hidratación. La exploración abdominal revela dolor en la región epigástrica, con irradiación hacia la espalda. La exploración cardiovascular no revela signos de insuficiencia cardíaca.
+Antecedentes:
+La paciente tiene una historia previa de hipertensión arterial, controlada con medicación. También tiene antecedentes de dolor abdominal en la región epigástrica, con irradiación hacia la espalda.
+Evolución y comentarios:
+La paciente se encuentra en una fase aguda de la enfermedad, con dolor en la región epigástrica y fiebre. La exploración física revela signos de infección y dolor abdominal. La paciente requiere un tratamiento antibiótico y analgésico para controlar el dolor y la fiebre.
+Remitido por:
+El médico de cabecera de la paciente ha remitido a la unidad de urgencias para evaluación y tratamiento.
+Fecha de alta: 02/04/2016

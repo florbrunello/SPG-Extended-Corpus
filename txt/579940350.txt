@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Gabriel Guzman Robles
+DNI: 90746377S
+Fecha de nacimiento: 26/02/1967
+Género: M
+Domicilio: Calle de Lavapiés 83, 5S
+Ciudad: Novelda, Vizcaya, Pais Vasco
+Código postal: 48653
+Email: guzmanrobles@imibic.org
+Teléfono fijo: +34 946 28 59 40
+Teléfono móvil: +34 646 91 73 58
+NHC: 2400048
+NASS: 468043486571
+Condición de riesgo: Microbiólogo
+Datos asistenciales.
+Médico: Dr. Mateo Maldonado Aranda. NC 975243939. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Cargo: Jefe de Sección de Enfermedades Digestivas
+Dirección: Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso: 22/08/2013
+Episodio: 67963291
+Hospital: Hospital Clínic Barcelona
+Informe clínico del paciente:
+El paciente, un hombre de 46 años de ascendencia asiática occidental, fue ingresado en el hospital con síntomas de dolor abdominal crónico y pérdida de peso. El paciente informó que había estado experimentando estos síntomas durante los últimos 6 meses, con un aumento en la intensidad en las últimas semanas. El dolor abdominal se localiza en la región epigástrica y se asocia con náuseas y vómitos.
+La exploración física revela un paciente en buen estado de nutrición, con una temperatura normal y una presión arterial dentro de la normalidad. El abdomen es suave y no se encuentran masas ni megalias. La exploración abdominal revela un aumento en la resistencia a la palpación en la región epigástrica.
+Los análisis de laboratorio muestran una anemia leve y un aumento en la creatinina sérica. La ecografía abdominal revela un aumento en el tamaño del bazo y una moderada hinchazón de la región epigástrica.
+Con base en estos hallazgos, se realizó una biopsia del bazo y se enviaron muestras de tejido para estudio histopatológico. Los resultados de la biopsia revelaron la presencia de células inflamatorias y una moderada hinchazón del tejido.
+Se realizó un tratamiento con antibióticos y se recomendó una dieta baja en grasas y proteínas. El paciente fue seguido de cerca y se realizaron análisis de laboratorio periódicos para monitorear la respuesta al tratamiento.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento durante las últimas semanas y ha experimentado una mejoría en los síntomas. El dolor abdominal ha disminuido y la pérdida de peso ha cesado. La exploración física y los análisis de laboratorio han mostrado una normalización de los parámetros.
+Sin embargo, se ha observado una persistencia de la inflamación en la región epigástrica y se ha sugerido una posible recaída. Se ha recomendado una revisión médica en un plazo de 6 meses para evaluar la respuesta al tratamiento y ajustar la terapia según sea necesario.
+Remitido por:
+El paciente ha sido remitido a su médico de cabecera para su seguimiento y atención en el futuro. Se ha proporcionado una copia del informe clínico y se ha recomendado que se realicen análisis de laboratorio periódicos para monitorear la respuesta al tratamiento.

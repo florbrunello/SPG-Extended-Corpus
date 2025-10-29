@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Sonia Silva Carmona
+DNI: 72996977Z
+Fecha de nacimiento: 15/04/1937
+Género: F
+Domicilio: Calle de la Luna 47
+Ciudad: Girona, Formentera, Islas Baleares
+Código postal: 07199
+Email: sonia@ual.es
+Teléfono fijo: +34 971 21 37 06
+FAX: +34 971 60 95 91
+NHC: 8792692
+NASS: 259879799941
+Condición de riesgo: Paciente con antecedentes de enfermedad cardíaca
+Datos asistenciales.
+Médico: Dr. Esteban Torres Robles. NC 867441530. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/02/1972
+Episodio: 15117030
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Antecedentes:
+- Historia de hipertensión arterial
+- Antecedentes de enfermedad cardíaca
+- Paciente con antecedentes de ansiedad y depresión
+Evolución y comentarios:
+- El paciente ha sido atendido en varias ocasiones por problemas relacionados con la ansiedad y la depresión.
+- Se le ha recetado tratamiento con medicamentos antidepresivos y ansiolíticos.
+Remitido por:
+- El paciente ha sido remitido por su médico de cabecera para una evaluación más exhaustiva de su condición.
+Fecha de ingreso: 15/07/2023
+Informe clínico del paciente:
+El paciente es un varón de 45 años de edad, de origen latinoamericano, que ha sido referido por su médico de cabecera por problemas de ansiedad y depresión. El paciente ha tenido una vida laboral activa, pero en los últimos años ha experimentado un declive en su rendimiento laboral debido a la ansiedad y la depresión. El paciente ha tenido antecedentes de enfermedad cardíaca y hipertensión arterial. El paciente ha sido tratado con medicamentos antidepresivos y ansiolíticos, pero no ha obtenido resultados satisfactorios. El paciente ha sido evaluado por un psiquiatra especialista en trastornos de ansiedad, quien ha recomendado un tratamiento más intensivo. El paciente ha sido ingresado en el hospital para una evaluación más exhaustiva de su condición y para recibir un tratamiento más efectivo. El paciente está recibiendo tratamiento con medicamentos antidepresivos y ansiolíticos, y también está recibiendo terapia de grupo para ayudarlo a manejar su ansiedad y depresión. El paciente está mostrando signos de mejora, pero todavía requiere un tratamiento más intensivo para lograr una recuperación completa.

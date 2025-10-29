@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Rebeca Redondo Espinosa
+DNI: 91746718V
+Fecha de nacimiento: 31/03/1994
+Género: Mujer
+Domicilio: Calle del Marqués de Urquijo 8
+Ciudad: Palencia, Málaga, Andalucía
+Código postal: 29199
+Email: redondo_espinosa@protonmail.com
+Teléfono fijo: +34 951 15 70 74
+Teléfono móvil: +34 651 46 32 86
+NHC: 3835670
+NASS: 467891234567
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dr. Pablo Guillen Aguilera. NC 383596067. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/11/2001
+Episodio: 01583532
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 7 años de edad, acompañado de su abuelo, con antecedentes de malnutrición y desnutrición crónica. El paciente presenta una temperatura corporal de 38,5°C, con dolor de cabeza y vómitos desde hace 3 días. La exploración física revela signos de deshidratación y debilidad muscular.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de cuidados intensivos y se inició tratamiento con líquidos y antibióticos. Se realizaron análisis de sangre para determinar la causa subyacente de la infección. El paciente ha mostrado una respuesta favorable al tratamiento y se espera una recuperación completa.
+Remitido por:
+El paciente fue remitido por el Servicio de Atención Primaria de Palencia, con un diagnóstico de infección respiratoria aguda.
+Antecedentes:
+El paciente tiene antecedentes de malnutrición y desnutrición crónica, lo que ha llevado a una debilidad muscular y un sistema inmunológico comprometido. El paciente también tiene antecedentes de episodios de infección respiratoria aguda en el pasado.
+Evolución y comentarios:
+El paciente ha mostrado una respuesta favorable al tratamiento y se espera una recuperación completa. Se realizarán análisis de sangre periódicos para determinar la causa subyacente de la infección y para monitorear la respuesta del paciente al tratamiento.
+Fecha de alta:
+El paciente se espera que sea dado de alta en las próximas 48 horas, siempre y cuando continúe mostrando una respuesta favorable al tratamiento.

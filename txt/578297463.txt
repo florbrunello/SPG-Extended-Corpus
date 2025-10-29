@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Almudena Cabrera Silva
+DNI: 27922421F
+Fecha de nacimiento: 11/02/2019
+Género: F
+Domicilio: Calle de Miguel Ángel 57
+Ciudad: San Fernando, Málaga, Andalucía
+Código postal: 29181
+Email: silva1594@uhu.es
+Teléfono fijo: +34 951 00 89 25
+FAX: +34 951 12 69 22
+NHC: 5584372
+NASS: 600756811417
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dr. Unai Castillo Conde. NC 764624338. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/03/2025
+Episodio: 95759639
+Centro de salud: Centro de Salud Delicias
+Informe clínico del paciente:
+La paciente Almudena Cabrera Silva, de 6 años de edad, fue ingresada en el Centro de Salud Delicias con una queja de dolor abdominal de 3 días de evolución. La paciente es vegetariana y no tiene antecedentes médicos relevantes. La exploración física revela: temperatura 37,5°C, frecuencia cardíaca 120/min, presión arterial 90/60 mmHg. La paciente se encuentra consciente y orientada, con buen estado de nutrición e hidratación. La exploración abdominal revela una masa en la región epigástrica, sin dolor a la palpación.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 60%); plaquetas 300.000/mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal) que revelan una masa en la región epigástrica, sin signos de obstrucción intestinal. Con el diagnóstico de una masa abdominal no especificada, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se realiza una biopsia de la masa para determinar su naturaleza.
+Evolución y comentarios:
+La paciente se encuentra en observación en la unidad de hospitalización, con seguimiento regular de su estado clínico. Se realizarán pruebas adicionales para determinar la naturaleza de la masa abdominal y planificar el tratamiento adecuado.
+Remitido por:
+Dr. Unai Castillo Conde
+Residente de 3° año en Gastroenterología
+Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

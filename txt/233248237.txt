@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Alfonso García Diez
+DNI: 75646888A
+Fecha de nacimiento: 14/02/2011
+Género: Varón
+Domicilio: Calle de Gobernador 18
+Ciudad: Bormujos, Ávila, Castilla y León
+Código postal: 05712
+Email: diez1946@protonmail.com
+Teléfono fijo: +34 920 54 69 01
+Teléfono móvil: +34 720 03 92 78
+NHC: 2280037
+NASS: 350694297816
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dr. Aarón Maldonado Del Rio. NC 258315185. Investigador Clínico en Enfermedades Digestivas.
+Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/12/2020
+Episodio: 52373392
+Centro de salud: Centro de Salud Puente de Vallecas
+Informe clínico del paciente:
+Paciente de tez blanca de 9 años de edad, acompañado de su abuela, presenta un cuadro de infección respiratoria aguda con síntomas de tos seca, fiebre y dolor de garganta. El paciente tiene una historia previa de asma y alergia a los polen de las plantas.
+Antecedentes:
+El paciente tiene una historia de asma desde los 5 años de edad, con episodios de broncoespasmo y dificultad para respirar. También tiene una alergia a los polen de las plantas, lo que lo lleva a presentar síntomas de picazón en los ojos y nariz durante la temporada de floración.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de cuidados intensivos del hospital después de presentar un cuadro de insuficiencia respiratoria aguda. Se le administró oxígeno suplementario y se le realizó una exploración física para evaluar la gravedad de su condición. Se detectaron signos de broncoespasmo y se le inició un tratamiento con broncodilatadores y corticosteroides.
+Remitido por:
+El paciente fue remitido por el servicio de urgencias del hospital después de presentar un cuadro de infección respiratoria aguda. Se le realizó una exploración física y se le realizaron análisis de sangre para evaluar la gravedad de su condición. Se detectaron signos de infección y se le inició un tratamiento con antibióticos y medicamentos para aliviar los síntomas.

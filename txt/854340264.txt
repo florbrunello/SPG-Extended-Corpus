@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Eric Salas Simon
+DNI: 63172436S
+Fecha de nacimiento: 09/05/1962
+Género: Hombre
+Domicilio: Calle de la Magdalena 46
+Ciudad: Onda, Orense, Galicia
+Código postal: 32312
+Email: simon@ciberned.es
+Teléfono fijo: +34 988 18 20 35
+Teléfono móvil: +34 688 95 72 52
+NHC: 5780294
+NASS: 144049300233
+Condición de riesgo: Farmacéutico
+Datos asistenciales.
+Médico: Dr. Guillermo Jiménez Herrera. NC 839304702. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/08/2017
+Centro de salud: Hospital Universitario de Crúces
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 55 años de edad, acompañado de su abuela, presenta una historia de ansiedad y depresión crónica, con episodios recurrentes de insomnio y pérdida de apetito. En su última visita, manifestó un aumento de la ansiedad y una disminución de la motivación para realizar actividades cotidianas.
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 9.500/mm3 (neutrófilos 60%); plaquetas 220.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal) para evaluar la posible presencia de patología subyacente. El paciente se encuentra en tratamiento con medicamentos antidepresivos y ansiolíticos, con buena respuesta en la disminución de los síntomas.
+Antecedentes:
+El paciente tiene una historia de ansiedad y depresión crónica, con episodios recurrentes de insomnio y pérdida de apetito. En su última visita, manifestó un aumento de la ansiedad y una disminución de la motivación para realizar actividades cotidianas.
+Evolución y comentarios:
+El paciente se encuentra en tratamiento con medicamentos antidepresivos y ansiolíticos, con buena respuesta en la disminución de los síntomas. Es importante seguir monitoreando su evolución y ajustar el tratamiento según sea necesario.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien lo ha estado tratando durante varios meses. El médico de cabecera ha informado que el paciente ha mostrado una buena respuesta al tratamiento y que no ha presentado ningún síntoma nuevo o preocupante.

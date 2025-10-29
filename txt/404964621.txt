@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Moisés Nieto Acosta
+DNI: 32362040M
+Fecha de nacimiento: 28/09/1960
+Género: M
+Domicilio: Calle de Lope de Vega 35
+Ciudad: Avilés, Salamanca, Castilla y León
+Código postal: 37805
+Email: moises_nieto_acosta@ub.edu
+Teléfono fijo: +34 923 04 29 38
+Teléfono móvil: +34 723 31 80 79
+NHC: 7546264
+NASS: 4632480987561
+Condición de riesgo: Fumador
+Datos asistenciales.
+Médico: Dra. Inés Hernández Rivero. NC 860748236. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/05/1984
+Episodio: 08555389
+Hospital: Hospital de la Santa Creu i Sant Pau
+Informe clínico del paciente:
+Paciente fumador de 23 años de edad, acompañado de su abuela, que refiere una lesión en el ojo izquierdo tras un accidente en un taller de mecánica. Presenta dolor y visión borrosa en el ojo afectado. La exploración física revela: Tª 36,8 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración oftalmológica se aprecia una hinchazón en el globo ocular izquierdo, con pérdida de la acuidad visual. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 55%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l. Orina: sedimento normal.
+Antecedentes:
+El paciente tiene antecedentes de accidentes en el trabajo, incluyendo una fractura de clavícula en el año 2018. No tiene antecedentes de enfermedades oculares previas.
+Evolución y comentarios:
+El paciente fue estabilizado en el hospital y se le realizó una exploración oftalmológica más detallada, que confirmó la presencia de una lesión en el ojo izquierdo. Se le inició tratamiento con analgésicos y antiinflamatorios, y se le recomendó reposo y evitación de actividades que puedan empeorar la lesión.
+Remitido por:
+El paciente fue remitido por su abuela, quien lo acompañó al hospital.

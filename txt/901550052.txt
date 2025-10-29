@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Matilde Vázquez Vila
+DNI: 59336718F
+Fecha de nacimiento: 13/09/1969
+Género: Mujer
+Domicilio: Calle de Juan Bravo 39
+Ciudad: Jaca, Salamanca, Castilla y León
+Código postal: 37044
+Email: matilde@ioba.med.uva.es
+Teléfono fijo: +34 923 39 15 18
+Teléfono móvil: +34 723 88 98 45
+NHC: 4327579
+Condición de riesgo: Operador de Maquinaria Pesada
+Datos asistenciales.
+Médico: Dra. María Belén Parra Miguel. NC 774983487. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/09/1969
+Episodio: 31366851
+Centro de salud: Centro de Salud Barajas
+Informe clínico del paciente:
+Paciente de 53 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, refiere dolores torácicos irradiados a la espalda durante las últimas 48 horas, acompañado de un aumento de la frecuencia cardíaca y disnea en reposo. La exploración física revela: Tª 38,5 C; T.A: 140/90 mmHg; Fc: 120 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.000/mm3 (neutrófilos 80%); plaquetas 250.000/ mm3. VSG: 60 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 180 mg/dl; urea 35 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento con leucocitos y hemoglobina en presencia de infección urinaria.
+Durante el ingreso se solicitan Hemocultivos: positivo para Staphylococcus aureus y Serologías específicas para Staphylococcus aureus: positivas. Las pruebas de imagen solicitadas (Rx tórax, Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) no evidencian patología significativa. Con el diagnóstico de infección urinaria por Staphylococcus aureus se instaura tratamiento antibiótico específico: Cefalexina 250 mg vía oral cada 6 horas (durante 10 días) y Metronidazol 500 mg vía oral cada 8 horas (durante 5 días). El paciente mejora significativamente de su cuadro tras 3 días de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico.

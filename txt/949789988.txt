@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Amparo Merino Bernal
+DNI: 93290369T
+Fecha de nacimiento: 12/02/1975
+Género: F
+Domicilio: Calle de Áncora 40
+Ciudad: Almería, Castellón, Comunidad Valenciana
+Código postal: 12563
+Email: amparo-merinobernal@icloud.com
+Teléfono fijo: +34 964 84 29 78
+Teléfono móvil: +34 764 50 23 74
+NHC: 5327041
+NASS: 429967772356
+Condición de riesgo: Químico
+Datos asistenciales.
+Médico: Dr. Nicolás Lara Quintana. NC 228305251. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 03/05/1994
+Episodio: 99479617
+Centro de salud: Centro de Salud Chamartín
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 19 años de edad, acompañado de su suegra, que acude al servicio de urgencias con un cuadro de dolor abdominal crónico de 6 meses de evolución, con exacerbaciones intermitentes. El paciente denuncia un aumento de peso de 10 kg en los últimos 3 meses, sin cambios en su estilo de vida. La exploración física revela un paciente en buen estado de nutrición, con una temperatura de 36,8°C, tensión arterial de 120/80 mmHg y frecuencia cardíaca de 70 lpm. Se encuentra consciente, orientado y sin signos de dolor.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial, controlada con medicación, y una historia de obesidad mórbida en su madre. El paciente también denuncia un cuadro de fatiga crónica, con dificultades para realizar actividades físicas.
+Evolución y comentarios:
+El paciente fue sometido a una exploración física y analítica, que incluyó análisis de sangre y radiografías de tórax y abdomen. Los resultados mostraron un aumento de la glucemia en ayunas, con un valor de 180 mg/dl, y un aumento de la presión arterial, con un valor de 140/90 mmHg. La radiografía de tórax mostró un aumento de la densidad pulmonar, sin signos de enfermedad pulmonar obstructiva crónica. La radiografía de abdomen mostró un aumento de la densidad renal, sin signos de enfermedad renal crónica.
+Remitido por:
+El paciente fue remitido al servicio de endocrinología para una evaluación más detallada de su condición. El médico responsable del paciente es el Dr. Nicolás Lara Quintana, endocrinólogo especialista en diabetes, del Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC).

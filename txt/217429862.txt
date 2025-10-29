@@ -1,0 +1,20 @@
+Datos del paciente.
+Nombre: Vanessa Méndez Flores
+DNI: 72312658Z
+Fecha de nacimiento: 20/10/1978
+Género: F
+Domicilio: Calle de Jesús y María 53
+Ciudad: Alcoy, Santa Cruz de Tenerife, Canarias
+Código postal: 38389
+Email: vanessa_mendez.flores1532@uhu.es
+Teléfono fijo: +34 922 60 96 70
+Teléfono móvil: +34 722 42 33 71
+NHC: 8939060
+Datos asistenciales.
+Médico: Dra. Mercedes Miguel González. NC 067822140. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/09/2007
+Hospital: Hospital Universitario de Crúces
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 28 años de edad, con antecedentes de migraña resistentes a tratamiento, se presentó con dolores de cabeza intensos y frecuencia cardíaca alterada. La exploración física reveló: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectaron signos de hipertensión arterial. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 22,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitaron pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) que no evidencian patología significativa. Con el diagnóstico de hipertensión arterial se instaura tratamiento sintomático (reposo, elevación de la cabeza y reducción de la ingesta de sal) así como tratamiento farmacológico: Enalapril 5 mg vía oral cada 24 horas (durante 6 semanas). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento.

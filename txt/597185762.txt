@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Adam Blanco Guzman
+DNI: 76036725J
+Fecha de nacimiento: 18/07/1941
+Género: Hombre
+Domicilio: Calle de Embajadores 63
+Ciudad: Castellón de la Plana, Vizcaya, Pais Vasco
+Código postal: 48394
+Email: blanco.guzman1867@hotmail.com
+Teléfono fijo: +34 946 49 34 70
+Teléfono móvil: +34 746 97 84 22
+NHC: 9928716
+NASS: 949853681759
+Condición de riesgo: Técnico de Radiología
+Datos asistenciales.
+Médico: Dra. Mercedes Prieto Cabrera. NC 976855769. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/07/1988
+Hospital: Hospital Clínic Universitario San Cecilio
+Informe clínico del paciente:
+Paciente de ascendencia australiana de 46 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que se presentó en el servicio de urgencias con síntomas de dolor torácico y disnea. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En la exploración cardíaca se aprecia un ruido de soplo cardíaco en la región de la base del corazón. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3; plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecocardiograma transtorácico y Angiografía coronaria) que revelan una enfermedad coronaria significativa con estenosis de 70% en la arteria descendente anterior. Se instaura tratamiento médico con aspirina, atorvastatina y nitroglicerina, y se programa una angioplastia coronaria para el día siguiente. El paciente se encuentra estable y sin complicaciones en el momento de la escritura de este informe.

@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Aarón Arroyo Fuentes
+DNI: 24881291Y
+Fecha de nacimiento: 01/01/2005
+Género: Varón
+Domicilio: Calle de la Primavera 81
+Ciudad: Jaca, Las Palmas, Canarias
+Código postal: 35840
+Email: aaron-arroyo145@salud.madrid.org
+Teléfono fijo: +34 928 16 16 43
+Teléfono móvil: +34 728 92 38 17
+NHC: 9533311
+Datos asistenciales.
+Médico: Dra. Elisa Casado Manzano. NC 377634303. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/01/2019
+Hospital: Hospital Universitari de Bellvitge
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 14 años de edad, acompañado de su abuelo, que refiere una historia de dolores abdominales crónicos y pérdida de apetito durante las últimas semanas. El paciente tiene una historia de alergia a la leche de vaca y ha sido tratado con un régimen de dieta estricta. En la exploración física, se encuentra con una temperatura de 37,5°C, pulso de 80 latidos por minuto y respiración de 18 respiraciones por minuto. El abdomen está en tensión y doloroso en la región epigástrica.
+Antecedentes:
+El paciente tiene una historia de asma y alergia a la leche de vaca desde la infancia. Ha sido tratado con un régimen de dieta estricta y ha tenido episodios de asma agudo en varias ocasiones.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de pediatría por dolores abdominales crónicos y pérdida de apetito durante las últimas semanas. La exploración física y los análisis de laboratorio han revelado una inflamación del intestino delgado y una posible infección por un germen bacteriano. El paciente está recibiendo tratamiento con antibióticos y un régimen de dieta estricta.
+Remitido por:
+El paciente ha sido remitido por el médico de cabecera del Hospital Universitari de Bellvitge.

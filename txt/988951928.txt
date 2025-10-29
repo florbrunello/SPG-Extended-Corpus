@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Carlota Robles Rivera
+DNI: 11905245P
+Fecha de nacimiento: 05/10/2012
+Género: F
+Domicilio: Calle de Piamonte 3
+Ciudad: Torrelodones, Sevilla, Andalucía
+Código postal: 41727
+Email: carlota.robles@imibic.org
+Teléfono fijo: +34 954 59 99 15
+Teléfono móvil: +34 754 14 33 61
+NHC: 0662313
+Condición de riesgo: Albañil
+Datos asistenciales.
+Médico: Dr. Jonathan Salas Salas. NC 412288762. Investigador Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/05/2022
+Episodio: 25795548
+Centro de salud: Centro de Salud Alhaurín de la Torre
+Informe clínico del paciente:
+Paciente de tez blanca de 9 años de edad, acompañado de su padre, refiere dolor en el abdomen inferior izquierdo desde ayer por la noche, que empeora con la tos y la respiración profunda. Antecedentes personales de sobredosis de medicamentos en el pasado, por lo que se le administra un tratamiento de desintoxicación. En la exploración física se observa una temperatura de 38,5°C, frecuencia cardíaca de 120 latidos por minuto y frecuencia respiratoria de 30 respiraciones por minuto. Se encuentra consciente y orientado, pero con signos de dolor en el abdomen. Los análisis de sangre muestran una elevación de la creatinina y una disminución de la hemoglobina. Se solicitan estudios de imagen para evaluar la causa del dolor abdominal y la posible presencia de complicaciones renales.
+Evolución y comentarios:
+El paciente se encuentra estable en la unidad de cuidados intensivos, con monitorización continua de la función renal y la condición clínica general. Se le administra un tratamiento de soporte para la función renal y se le prescribe un antibiótico para prevenir infecciones. Se realizarán revisiones periódicas para evaluar la evolución del paciente y ajustar el tratamiento según sea necesario.
+Remitido por:
+Dr. Jonathan Salas Salas
+Investigador Principal en Parkinson
+Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

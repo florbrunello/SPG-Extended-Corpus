@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Ramón Ramos Mateos
+DNI: 57659374F
+Fecha de nacimiento: 20/03/1980
+Género: M
+Domicilio: Calle de las Letras 75
+Ciudad: Écija, Málaga, Andalucía
+Código postal: 29025
+Email: ramonmateos198@hotmail.com
+Teléfono fijo: +34 951 79 90 66
+FAX: +34 951 54 98 33
+NHC: 0445270
+NASS: 636882476219
+Condición de riesgo: Empleado de una empresa de tecnología
+Datos asistenciales.
+Médico: Dr. Luis Miguel Salazar Maldonado. NC 274340788. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 20/10/2015
+Episodio: 40927472
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 7520IYQ
+Modelo: Chevrolet Silverado
+VIN: VSIDF4SMGGL151801
+Fecha de ingreso:
+20/10/2015
+Centro de salud de ingreso:
+Centro de Salud Moratalaz
+Informe clínico del paciente:
+Paciente de tez blanca de 35 años de edad, acompañado de su vecina, que refiere una serie de síntomas que comenzaron hace aproximadamente 2 semanas, caracterizados por dolor de cabeza intenso, fiebre alta y sensibilidad a la luz. El paciente también ha experimentado una pérdida significativa de peso en el mismo período. La exploración física revela signos de inflamación en la región occipital y una temperatura corporal elevada. Los datos analíticos muestran un resultado anormal en la prueba de orina, con presencia de proteínas y sangre en la muestra. Se solicitan pruebas adicionales para determinar la causa subyacente de los síntomas, incluyendo una resonancia magnética cerebral y una biopsia de la piel en la región afectada. El paciente es hospitalizado para recibir tratamiento y seguimiento.
+Antecedentes:
+El paciente tiene un antecedente de epilepsia controlada con medicación, pero no ha experimentado convulsiones en los últimos 5 años. El paciente también tiene un antecedente de accidente cerebrovascular en la familia, específicamente en su abuelo paterno.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos, donde se le está administrando tratamiento para controlar la fiebre y la inflamación. Los resultados de las pruebas adicionales se están esperando para determinar la causa subyacente de los síntomas. El paciente está bajo vigilancia constante por parte del personal médico y de enfermería.
+Remitido por:
+Dr. Luis Miguel Salazar Maldonado.

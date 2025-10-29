@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Juan Miguel Gómez González
+DNI: 64804836J
+Fecha de nacimiento: 08/04/1962
+Género: Hombre
+Domicilio: Calle de Atocha 58
+Ciudad: Aranda de Duero, León, Castilla y León
+Código postal: 24587
+Email: juanmiguel_gonzalez@gmail.com
+Teléfono fijo: +34 987 61 05 44
+Teléfono móvil: +34 787 95 76 86
+NHC: 7675671
+NASS: 796145935172
+Condición de riesgo: Pintor de Construcción
+Datos asistenciales.
+Médico: Dr. Víctor Manuel López Crespo. NC 455976563. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/08/1963
+Episodio: 57382960
+Centro de salud: Centro de Salud Arganzuela
+Informe clínico del paciente:
+Paciente de ascendencia árabe de un año de edad, acompañado de su abuela. Presenta una temperatura corporal de 37,5°C, sin signos de fiebre ni escalofríos. La exploración física revela un estado general bueno, sin signos de malestar ni dolor. La exploración neurológica es normal, sin signos de alteración en la conciencia, la orientación ni la coordinación.
+Antecedentes:
+El paciente tiene un antecedente de alergia a la leche de vaca, por lo que se le ha sustituido por leche de soja en su dieta. No tiene antecedentes de enfermedades crónicas ni de tratamiento médico actual.
+Evolución y comentarios:
+El paciente ha estado en observación durante 24 horas, sin presentar signos de complicación ni deterioro. Se le ha realizado un análisis de sangre, que muestra resultados normales. Se le ha prescrito un tratamiento de mantenimiento con antibióticos, por medida de precaución.
+Remitido por:
+Se le ha remitido al paciente a su domicilio, con instrucciones de seguir el tratamiento prescrito y realizar una revisión en 7 días. Se le ha proporcionado información sobre la importancia de la higiene y la prevención de infecciones.

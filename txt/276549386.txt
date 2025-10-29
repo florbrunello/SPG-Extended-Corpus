@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: María Belén Maldonado Vicente
+DNI: 51431635R
+Fecha de nacimiento: 29/12/1934
+Género: M
+Domicilio: Calle de Segovia 63, 5Z
+Ciudad: Zamora, Lugo, Galicia
+Código postal: 27170
+Email: maldonado@uhu.es
+Teléfono fijo: +34 982 08 86 75
+FAX: +34 982 19 30 94
+NHC: 4357096
+NASS: 394224222421
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dr. Rafael Macias Jurado. NC 364787825. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/07/1955
+Episodio: 99886293
+Hospital: Hospital Universitario de Basurto
+Matrícula del coche: 8432ITM
+Modelo: Mercedes-Benz C-Class
+VIN: VSSP71RRU5L197280
+Informe clínico del paciente:
+Paciente de tez blanca de 20 años de edad, acompañado de su suegro, que refiere dolores de cabeza recidivantes y mareos desde la noche anterior. Se encuentra en buen estado general, con temperatura normal y sin signos de infección. La exploración física revela presión arterial normal y ritmo cardíaco regular. El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, tratadas con medicación orals.
+La evolución clínica ha sido de deterioro progresivo, con aumento de la frecuencia y gravedad de los dolores de cabeza y mareos. El paciente también refiere pérdida de apetito y peso en los últimos meses.
+Los datos analíticos muestran los siguientes resultados: hemograma normal, bioquímica con niveles elevados de glucosa y triglicéridos, y orina con presencia de proteínas y glucosa.
+Se solicitan pruebas de imagen, incluyendo una resonancia magnética cerebral y una ecografía abdominal, que no revelan patología significativa.
+Con el diagnóstico de migraña crónica y diabetes mellitus tipo 2, se instaura tratamiento sintomático y medicación orals para controlar la hipertensión arterial y la diabetes.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos, con monitorización continua de su estado clínico y tratamiento adecuado.
+Remitido por:
+Dr. Rafael Macias Jurado, Cardiólogo Especialista en Electrofisiología, Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV).

@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Lourdes Calvo Salazar
+DNI: 13373257E
+Fecha de nacimiento: 02/02/1989
+Género: Femenino
+Domicilio: Calle de Santa Engracia 23
+Ciudad: Torrejón de Ardoz, Palencia, Castilla y León
+Código postal: 34724
+Email: calvo-salazar@yahoo.com
+Teléfono fijo: +34 979 32 35 35
+Teléfono móvil: +34 679 49 83 25
+NHC: 6865149
+NASS: 541913463049
+Condición de riesgo: Sin información disponible
+Datos asistenciales.
+Médico: Dra. Alicia Merino Roldan. NC 388469637. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Cargo: Residente de 4° año en Medicina Interna
+Dirección: Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso:
+27/07/2019
+Episodio: 34719899
+Centro de salud de ingreso:
+Centro de Salud Alcorcón
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 30 años de edad, acompañado de su padre. Presenta una temperatura de 38,5°C y una frecuencia cardíaca de 110 latidos por minuto. Se encuentra consciente y orientado, pero con signos de ansiedad y sudoración.
+La exploración física revela una presión arterial de 120/80 mmHg y una frecuencia respiratoria de 20 respiraciones por minuto. No se palpan adenopatías ni bocio, y la vena yugular no está ingurgitada. La auscultación cardíaca es normal, sin soplos ni roces. La auscultación pulmonar es también normal, con conservación del murmullo vesicular.
+La exploración abdominal revela un abdomen blando y depresible, sin masas ni megalias. La exploración neurológica no muestra signos meníngeos ni datos de focalidad. Las extremidades no presentan varices ni edemas.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 200.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 100 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal y TAC craneal) para evaluar la causa de la fiebre y la ansiedad del paciente.

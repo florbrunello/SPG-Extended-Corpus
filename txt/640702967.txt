@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Antonio Cortés Avila
+DNI: 43124076L
+Fecha de nacimiento: 04/11/1977
+Género: Varón
+Domicilio: Calle de Leganitos 61, 10A
+Ciudad: Elche, Vizcaya, Pais Vasco
+Código postal: 48223
+Email: antonio@gmail.com
+Teléfono fijo: +34 946 55 30 85
+Teléfono móvil: +34 746 25 36 72
+NHC: 4443649
+Datos asistenciales.
+Médico: Dr. Pau Pérez Mateos. NC 000577307. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/08/2014
+Episodio: 30223028
+Hospital: Hospital Universitario Central de Asturias
+Informe clínico del paciente:
+Paciente de tez blanca de 36 años de edad, acompañado de su prima, presenta síntomas de ansiedad y estrés crónico. La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 7.500/mm3 (neutrófilos 55%); plaquetas 180.000/ mm3. VSG: 10 mm 1ª hora. Coagulación: TQ 90%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 138 mEq/l; potasio 4,2 mEq/l; GOT 18 U/l; GPT 22 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (TAC craneal, Ecografía abdominal) para evaluar la posible causa de los síntomas. El paciente se encuentra bajo tratamiento con antidepresivos y ansiolíticos para controlar la ansiedad y el estrés.
+Antecedentes:
+El paciente tiene antecedentes de depresión mayor en el pasado, pero ha estado en remisión durante los últimos 5 años. Ha sido tratado con terapia cognitivo-conductual y medicación antidepresiva.
+Evolución y comentarios:
+El paciente ha estado bajo seguimiento durante las últimas semanas y ha mostrado una respuesta favorable al tratamiento. Sin embargo, se requiere un seguimiento más estrecho para asegurarse de que los síntomas no se vuelvan a presentar.
+Remitido por:
+El paciente ha sido remitido a su médico de cabecera para seguir su tratamiento y controlar sus síntomas. Se le recomienda seguir tomando los medicamentos prescritos y realizar una revisión en el hospital en 6 semanas.

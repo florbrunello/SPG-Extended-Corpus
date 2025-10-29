@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Milagros Santos Blanco
+DNI: 88345411L
+Fecha de nacimiento: 07/12/1987
+Género: Mujer
+Domicilio: Calle del Marqués de Urquijo 66, 9D
+Ciudad: Novelda, Albacete, Castilla-La Mancha
+Código postal: 02361
+Email: santos.blanco@udc.es
+Teléfono fijo: +34 967 39 32 51
+Teléfono móvil: +34 767 81 52 94
+NHC: 8131538
+NASS: 808804397637
+Condición de riesgo: Dentista
+Datos asistenciales.
+Médico: Dra. María Isabel Valero Sanz. NC 627734135. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/02/2023
+Centro de salud: Centro de Salud Málaga Norte
+Informe clínico del paciente:
+La paciente, de 35 años, se refirió a un cuadro de ansiedad generalizada que comenzó hace 6 meses, con síntomas de insomnio, dificultad para concentrarse y problemas de relación interpersonal. La paciente ha tenido un historial de depresión en el pasado, pero no ha recibido tratamiento en los últimos 5 años. La paciente ha estado tomando medicamentos de venta libre para el estrés y la ansiedad, pero no ha notado mejoría en sus síntomas.
+La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 90 lpm. La paciente se encuentra consciente, orientada, sin sudoración ni taquicardia. La exploración neurológica no revela signos de alteración.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 22,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl.
+Se solicitaron pruebas de imagen (TAC craneal y Ecografía abdominal) que no revelaron patología significativa.
+Con el diagnóstico de trastorno de ansiedad generalizada, se instauró tratamiento con medicamentos específicos (fluoxetina 20 mg vía oral cada 24 horas) y terapia cognitivo-conductual. La paciente ha mostrado una buena respuesta al tratamiento y se le ha recomendado seguir con la terapia y el tratamiento medicamentoso durante un período de 6 meses.
+La paciente ha sido remitida al centro de salud para seguimiento y ajuste del tratamiento.
+Evolución y comentarios:
+La paciente ha mostrado una buena respuesta al tratamiento y se le ha recomendado seguir con la terapia y el tratamiento medicamentoso durante un período de 6 meses.
+Remitido por:
+Dra. María Isabel Valero Sanz.

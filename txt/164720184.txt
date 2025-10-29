@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: María Antonia Casas Mateo
+DNI: 47149759N
+Fecha de nacimiento: 11/07/1927
+Género: F
+Domicilio: Calle del Marqués de Cubas 13
+Ciudad: Onda, Castellón, Comunidad Valenciana
+Código postal: 12957
+Email: mariaantonia.casas@salud.madrid.org
+Teléfono fijo: +34 964 94 51 95
+Teléfono móvil: +34 664 62 04 65
+NHC: 6156516
+Condición de riesgo: Minero
+Datos asistenciales.
+Médico: Dra. María Inmaculada Del Rio Varela. NC 605569325. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/01/1978
+Episodio: 73305374
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Informe clínico del paciente:
+Paciente fumador de 50 años de edad, con antecedentes de enfermedad pulmonar obstructiva crónica (EPOC) y hipertensión arterial, que acude al servicio de urgencias con síntomas de dolor torácico agudo y dificultad para respirar. La exploración física revela: temperatura 37,5°C; frecuencia cardíaca 120/min; frecuencia respiratoria 30/min; presión arterial 180/100 mmHg. Se encuentra consciente y orientado, pero con signos de estrés respiratorio y dolor torácico. Se solicitan pruebas de imagen (RX de tórax y ecografía cardíaca) que muestran un infarto de miocardio en el segmento inferior derecho. Se instaura tratamiento con aspirina, nitroglicerina y beta-bloqueantes, y se traslada al servicio de cardiología para seguimiento y tratamiento adicional.
+Antecedentes:
+El paciente tiene antecedentes de EPOC y hipertensión arterial, y ha sido fumador durante más de 20 años. Ha tenido episodios de dolor torácico agudo en el pasado, pero nunca ha sido diagnosticado con enfermedad cardíaca. La enfermedad pulmonar obstructiva crónica se diagnostica a partir de una exploración pulmonar que muestra una reducción de la capacidad vital forzada (CVF) de 60%.
+Evolución y comentarios:
+El paciente es trasladado al servicio de cardiología, donde se le realiza una exploración cardíaca detallada y se solicitan pruebas de imagen adicionales (ecocardiograma y angiografía coronaria) para evaluar la extensión del infarto de miocardio. Se le prescribe un tratamiento con aspirina, nitroglicerina y beta-bloqueantes, y se le recomienda un cambio de estilo de vida, incluyendo la cesación del fumar y una dieta saludable. El paciente se encuentra estable y sin signos de complicaciones, pero se le recomienda una vigilancia estrecha en los próximos días.
+Remitido por:
+El paciente es remitido al servicio de cardiología para seguimiento y tratamiento adicional. Se le asigna un número de episodio (73305374) y se le proporciona un folleto con información sobre la enfermedad cardíaca y el tratamiento recomendado. El paciente es informado de que se le realizarán pruebas de imagen adicionales en los próximos días y se le recomienda una vigilancia estrecha en los próximos días.

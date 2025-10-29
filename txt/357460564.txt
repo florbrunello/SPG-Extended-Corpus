@@ -1,0 +1,41 @@
+Datos del paciente.
+Nombre: Eugenio Sierra Ruiz
+DNI: 29497162F
+Fecha de nacimiento: 18/01/1941
+Género: V
+Domicilio: Calle de las Huertas 57, 7G
+Ciudad: Jaén, Región de Murcia, Región de Murcia
+Código postal: 30385
+Email: aoJhX1654@ciberned.es
+Teléfono fijo: +34 968 56 69 34
+Teléfono móvil: +34 768 46 23 36
+NHC: 0455525
+NASS: 797252876011
+Condición de riesgo: Trabajador de Mantenimiento
+Datos asistenciales.
+Médico: Dr. Christian Cano Núñez. NC 890267392. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/10/1981
+Episodio: 09933578
+Centro de salud: Centro de Salud San Sebastián de los Reyes
+Antecedentes:
+El paciente es un hombre de 40 años de edad, que acude a la consulta con una queja de dolor abdominal crónico. El paciente tiene una historia de antecedentes familiares de enfermedades hepáticas y digestivas.
+Evolución y comentarios:
+El paciente se encuentra en buen estado de salud general, sin signos de enfermedad crónica. El paciente tiene una presión arterial de 120/80 mmHg y una frecuencia cardíaca de 70 latidos por minuto.
+Informe clínico del paciente:
+El paciente acude a la consulta con una queja de dolor abdominal crónico. El paciente describe el dolor como un dolor agudo en el epigastrio, que se irradia a la espalda y a la región lumbar. El paciente también describe una sensación de malestar en el estómago después de comer. El paciente tiene una historia de antecedentes familiares de enfermedades hepáticas y digestivas.
+La exploración física revela:
+- Presión arterial: 120/80 mmHg
+- Frecuencia cardíaca: 70 latidos por minuto
+- Temperatura corporal: 36,5°C
+- Peso corporal: 70 kg
+- Altura corporal: 170 cm
+Se realizan los siguientes análisis:
+- Hemograma: Hb 14,5 g/dl; leucocitos 7.500/mm3; plaquetas 250.000/mm3
+- Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 15 U/l; GGT 30 U/l; fosfatasa alcalina 100 U/l; calcio 9,5 mg/dl
+- Orina: sedimento normal
+El paciente se somete a una exploración digestiva con una endoscopia, que revela:
+- Una úlcera péptica en el duodeno
+- Una inflamación de la mucosa gástrica
+El paciente se somete a un tratamiento con medicamentos antiácidos y antihistamínicos, y se le recomienda una dieta baja en grasas y ácidos. El paciente se somete a una revisión en 2 semanas, y se le solicita que regrese a la consulta en caso de que los síntomas persistan o empeoren.
+Remitido por:
+El paciente se remite a la consulta de gastroenterología del hospital para una evaluación más exhaustiva de su condición.

@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Antonia Trujillo Herrero
+DNI: 78363930D
+Fecha de nacimiento: 20/09/1988
+Género: Mujer
+Domicilio: Calle de la Reina 8
+Ciudad: Plasencia, Jaén, Andalucía
+Código postal: 23159
+Email: antonia793@uca.es
+Teléfono fijo: +34 953 91 32 49
+Teléfono móvil: +34 753 16 27 62
+NHC: 1893523
+NASS: 586281413414
+Condición de riesgo: Paramédico
+Datos asistenciales.
+Médico: Dra. Clara Manzano Cuesta. NC 572648352. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 06/10/2002
+Hospital: Hospital Universitario Central de Asturias
+Informe clínico del paciente:
+Paciente de tez blanca de 14 años de edad, acompañado de su hermano, que presenta un cuadro de dolor ocular agudo en el ojo derecho, con fotofobia y lagrimeo. La exploración física revela una visión borrosa en el ojo afectado, con un reflejo pupilar anormal. Los análisis de sangre muestran un aumento de la proteína C-reactiva y un leve aumento de la glóbulina E.
+La ecografía ocular revela un aumento de la presión intraocular en el ojo derecho, con un signo de edema retiniano. La tomografía computarizada de la cabeza no muestra ninguna patología significativa.
+Con el diagnóstico de glaucoma agudo, se instaura tratamiento con medicamentos antiinflamatorios y anti-glaucomatosos. El paciente se encuentra estabilizado y se le indica una revisión en 24 horas para evaluar la evolución del cuadro.
+Antecedentes:
+El paciente tiene antecedentes de alergia a la penicilina y ha sido sometido a una cirugía de cataratas en el ojo izquierdo a los 10 años de edad.
+Evolución y comentarios:
+El paciente se encuentra estable y se le indica una revisión en 24 horas para evaluar la evolución del cuadro. Se le prescribe un tratamiento con medicamentos antiinflamatorios y anti-glaucomatosos.
+Remitido por:
+Se reenvía a la especialidad de Oftalmología para una evaluación más detallada y un tratamiento más específico.

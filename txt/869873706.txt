@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Francisco Javier Garrido Espinosa
+DNI: 55259502R
+Fecha de nacimiento: 11/08/1972
+Género: Hombre
+Domicilio: Calle de Preciados 72
+Ciudad: Navalcarnero
+Código postal: 12278
+Email: franciscojavier@ciberned.es
+Teléfono fijo: +34 964 10 44 29
+Teléfono móvil: +34 664 30 28 42
+NHC: 4590508
+NASS: 468043486571
+Condición de riesgo: Granjero
+Datos asistenciales.
+Médico: Dr. Rodrigo Otero Esteban. NC 635897860
+Cargo: Residente de 4° año en Endocrinología
+Instituto: Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)
+Dirección: Avenida Menéndez Pidal, s/n. 14004. Córdoba. España
+Fecha de ingreso: 22/11/2022
+Episodio: 36558576
+Centro de salud: Centro de Salud Getafe
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 50 años de edad, acompañado de su tía. Presenta un cuadro de diabetes mellitus tipo 2 con hiperglucemia crónica, tratado con metformina y pioglitazona. En el último mes ha experimentado un aumento en la frecuencia de episodios de hipoglucemia nocturna, que han requerido asistencia médica en dos ocasiones. La exploración física revela: Tª 36,8 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En la exploración neurológica se aprecian signos de hipoglucemia, como confusión y disminución de la conciencia. Los datos analíticos muestran los siguientes resultados: Glucosa 40 mg/dl; HbA1c 8,5%. Se solicitan pruebas de imagen para evaluar la función pancreática, incluyendo una resonancia magnética de la cabeza del páncreas.
+Antecedentes:
+El paciente tiene un antecedente de diabetes mellitus tipo 1 en su hermana, que fue diagnosticada a los 25 años de edad. También tiene un antecedente de obesidad mórbida, con un índice de masa corporal (IMC) de 35 kg/m².
+Evolución y comentarios:
+El paciente ha sido tratado con insulina glargina y aspart en dosis de 20 y 10 unidades, respectivamente, con una frecuencia de administración de 6 horas. La evolución ha sido favorable, con una disminución en la frecuencia de episodios de hipoglucemia nocturna. Sin embargo, se requiere una ajuste en la dosis de insulina para controlar la glucemia.
+Remitido por:
+El paciente ha sido remitido a la Unidad de Diabetes del Hospital Universitario de Córdoba para una evaluación más exhaustiva y un ajuste en el tratamiento.

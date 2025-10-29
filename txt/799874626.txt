@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Manuela Diez Rueda
+DNI: 67411500H
+Fecha de nacimiento: 05/10/1967
+Género: Femenino
+Domicilio: Calle del León 87
+Ciudad: Motril, Burgos, Castilla y León
+Código postal: 09622
+Email: manueladiez@protonmail.com
+Teléfono fijo: +34 947 28 56 74
+Teléfono móvil: +34 747 06 71 98
+NHC: 6489070
+NASS: 618536564341
+Condición de riesgo: Femenino de edad avanzada
+Datos asistenciales.
+Médico: Dr. Mikel Ibáñez Vázquez. NC 684995246. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 31/01/1991
+Episodio: 22292447
+Centro de salud: Centro de Salud Delicias
+Cargo del médico: Jefe de Sección de Gastroenterología
+Fecha de ingreso:
+31/01/1991
+Centro de salud de ingreso:
+Centro de Salud Delicias
+Informe clínico del paciente:
+La paciente, de 54 años de edad, fue ingresada en el hospital con síntomas de dolor abdominal crónico y pérdida de peso. La paciente tiene antecedentes de enfermedad coronaria y hipertensión arterial. La exploración física revela un abdomen distendido, con dolor en la región epigástrica. Los análisis de laboratorio muestran una elevación de la enzima alanina aminotransferasa (ALT) en sangre. La paciente se encuentra estable y se le ha iniciado tratamiento con medicamentos para aliviar el dolor y reducir la inflamación.
+Antecedentes:
+La paciente tiene un historial de enfermedad coronaria y hipertensión arterial, lo que la pone en alto riesgo de desarrollar complicaciones cardiovasculares. La paciente también tiene un historial de consumo de alcohol, lo que puede estar relacionado con su enfermedad actual.
+Evolución y comentarios:
+La paciente ha estado recibiendo tratamiento en el hospital durante la última semana. La paciente ha mostrado una mejoría en sus síntomas, pero todavía requiere seguimiento estrecho para asegurarse de que no haya complicaciones.
+Remitido por:
+El paciente ha sido remitido a su médico de cabecera para seguir su tratamiento y realizar controles regulares. Se le ha recomendado que siga una dieta equilibrada y evite el consumo de alcohol.

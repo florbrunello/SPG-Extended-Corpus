@@ -1,0 +1,43 @@
+Datos del paciente.
+Nombre: Sebastián Espinosa Flores
+DNI: 75812855W
+Fecha de nacimiento: 29/04/1969
+Género: Hombre
+Domicilio: Calle de Arenal 3
+Ciudad: Ciudad autónoma de Melilla, Melilla
+Código postal: 51940
+Email: sebastian.espinosa-flores@ioba.med.uva.es
+Teléfono fijo: +34 951 17 35 28
+Teléfono móvil: +34 651 62 85 28
+NHC: 8846957
+NASS: 797769606499
+Condición de riesgo: Trabajador Industrial
+Datos asistenciales.
+Médico: Dra. Carla Román Marti. NC 694260634. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Cargo: Investigadora Principal
+Dirección: Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/03/2008
+Hospital: Complejo Asistencial Universitario de León
+Informe clínico del paciente:
+Paciente no fumador de 38 años de edad, acompañado de su madre, que acude al servicio de urgencias con síntomas de dolor abdominal crónico y pérdida de peso significativa en las últimas semanas. El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación.
+Exploración física:
+- Tª: 36,5°C
+- TA: 120/80 mmHg
+- FC: 90 lpm
+- Conscientemente alterado, orientado, con sudoración y temperatura normal
+- Auscultación cardíaca sin anormalidades
+- Auscultación pulmonar normal
+- Abdomen: dolor en el hemicolo superior derecho, con signos de irritación y megalia
+Exploración complementaria:
+- Hemograma: Hb 13,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%)
+- Bioquímica: glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l
+- Imagenología: exploración abdominal con ecografía revela un aumento de la velocidad de flujo en la vena porta y un aumento del índice de resistencia vascular en el hígado
+Diagnóstico:
+- Enfermedad hepática crónica, tipo C, con compromiso de la función hepática y de la circulación portal
+Tratamiento:
+- Reposo absoluto
+- Antibióticos de amplio espectro
+- Medicación para controlar la función hepática y la circulación portal
+- Seguimiento estrecho en el servicio de gastroenterología
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de cuidados intensivos para estabilizar su estado clínico. Después de 48 horas de tratamiento, el paciente mostró una mejoría significativa en su estado clínico, con disminución de la temperatura y de la sudoración. El paciente fue trasladado a la unidad de gastroenterología para continuar su tratamiento y seguimiento.

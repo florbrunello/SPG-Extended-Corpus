@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Ahmed Esteban Álvarez
+DNI: 64883545Q
+Fecha de nacimiento: 01/02/1945
+Género: Hombre
+Domicilio: Calle de Juan Bravo 88
+Ciudad: Almería, Región de Murcia, Región de Murcia
+Código postal: 30984
+Email: ahmed-alvarez@ciberned.es
+Teléfono fijo: +34 968 15 01 49
+Teléfono móvil: +34 668 46 66 90
+NHC: 3990070
+NASS: 904381563954
+Condición de riesgo: Operador de Equipos Mineros
+Datos asistenciales.
+Médico: Dra. Luisa Lara Del Rio. NC 399796430. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Hospital: Hospital Clínic Universitario San Cecilio
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 80 años de edad, acompañado de su hija, que refiere sentirse ansioso y preocupado por su salud en general. Presenta un historial de hipertensión arterial y diabetes mellitus tipo 2, tratadas con medicación oral. En la exploración física, se encuentra con buena aparición y estado de nutrición, sin signos de enfermedad aguda. La presión arterial es de 160/90 mmHg y la frecuencia cardíaca es de 80 lpm. El paciente se queja de insomnio y dificultad para conciliar el sueño.
+Antecedentes:
+El paciente tiene un historial de depresión mayor en el pasado, tratada con terapia cognitivo-conductual y medicación. En la actualidad, no presenta síntomas de depresión y se encuentra bien adaptado a su entorno.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento con un antidepresivo selectivo inhibidor de la recaptación de serotonina (SSRI) durante las últimas 6 semanas, con buena respuesta y reducción de síntomas de ansiedad y depresión. Se le ha recomendado continuar con el tratamiento y realizar seguimiento regular con su médico de cabecera.
+Remitido por:
+Dra. Luisa Lara Del Rio, Residente de 3° año en Psiquiatría, Hospital Clínic Universitario San Cecilio.

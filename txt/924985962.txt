@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Carmen Herrero Giménez
+DNI: 35217769P
+Fecha de nacimiento: 02/04/1995
+Género: F
+Domicilio: Calle de Génova 17
+Ciudad: Onda, Santa Cruz de Tenerife, Canarias
+Código postal: 38531
+Email: carmen-herrerogimenez@isciii.es
+Teléfono fijo: +34 922 16 91 07
+Teléfono móvil: +34 722 30 03 94
+NHC: 4885945
+NASS: 416217339812
+Condición de riesgo: Repartidor
+Datos asistenciales.
+Médico: Dra. Sandra Durán Cruz. NC 935795080. Cardióloga de Unidad de Cuidados Intensivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 27/09/2007
+Episodio: 41726908
+Centro de salud: Centro de Salud Barajas
+Matrícula del coche: 2295HKW
+Modelo: Chrysler Pacifica
+VIN: VSXS4NUVUXH483591
+Informe clínico del paciente:
+Paciente usuario de drogas de 12 años de edad, acompañado de su hermana, presenta un cuadro de intoxicación aguda por sustancias psicoactivas. La exploración física revela: Tª 38,5 C; T.A: 110/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.200/mm3 (neutrófilos 80%); plaquetas 220.000/mm3. VSG: 40 mm 1ª hora. Coagulación: TQ 85%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,7 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Rx tórax, Ecografía abdominal, TAC craneal) para evaluar posibles complicaciones. El paciente es estabilizado con tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se le administra un tratamiento de desintoxicación con carbón activado y Naloxona.
+Antecedentes:
+El paciente tiene antecedentes de uso de drogas desde los 10 años de edad. Ha sido atendido en varias ocasiones por intoxicaciones agudas y ha sido tratado en la unidad de cuidados intensivos en dos ocasiones anteriores.
+Evolución y comentarios:
+El paciente ha mostrado una buena respuesta al tratamiento de desintoxicación y se encuentra estable en la unidad. Se le han realizado pruebas de imagen que no han evidenciado complicaciones. Se le seguirá tratando en la unidad de cuidados intensivos hasta que se asegure su estabilidad y se pueda trasladar a la unidad de psiquiatría para su evaluación y tratamiento.
+Remitido por:
+El paciente ha sido remitido por el Centro de Salud Barajas, donde fue atendido en la unidad de emergencias.

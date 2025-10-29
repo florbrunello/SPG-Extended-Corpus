@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Noelia Menendez Palacios
+DNI: 51833107P
+Fecha de nacimiento: 08/07/1941
+Género: F
+Domicilio: Calle de la Libertad 52
+Ciudad: León, Soria, Castilla y León
+Código postal: 42249
+Email: noelia.palacios@yahoo.com
+Teléfono fijo: +34 975 85 20 78
+Teléfono móvil: +34 775 65 49 36
+NHC: 2535716
+NASS: 137493900288
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dra. Lara Guillen Salazar. NC 955738227. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/01/1981
+Episodio: 15760719
+Hospital: Hospital Clínic San Carlos
+Matrícula del coche: 8351HKU
+Modelo: Kia Sorento
+VIN: VSKQFOS2UFA605590
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 39 años de edad, acompañado de su madre. Presenta una historia de hipertensión arterial desde los 30 años, con tratamiento con enalapril 10 mg diario y amlodipino 5 mg diario. En la exploración física, se encuentra con una presión arterial de 140/90 mmHg, sin otros hallazgos relevantes. Los análisis de sangre muestran un colesterol total de 220 mg/dl y triglicéridos de 180 mg/dl.
+Se solicitan pruebas adicionales, incluyendo una ecografía de hígado y una resonancia magnética de cerebro, que no evidencian patología significativa. Con el diagnóstico de hipertensión arterial, se instaura tratamiento sintomático (reducción de sal en la dieta y aumento de la actividad física) y tratamiento farmacológico (aumento de la dosis de enalapril a 20 mg diario y adición de un bloqueador de los receptores de angiotensina II).
+El paciente se encuentra estable y se decide su alta a su domicilio, donde continuará con el tratamiento y se le solicita realizar seguimiento con su médico de cabecera.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial desde los 30 años y ha estado en tratamiento con enalapril y amlodipino. También tiene antecedentes de sobrepeso y obesidad, con un índice de masa corporal (IMC) de 30.
+Evolución y comentarios:
+El paciente se encuentra estable y se decide su alta a su domicilio. Se le solicita realizar seguimiento con su médico de cabecera y se le recomienda realizar cambios en su estilo de vida para mejorar su salud.
+Remitido por:
+Dra. Lara Guillen Salazar, Investigadora Clínica en Enfermedades Digestivas, Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).

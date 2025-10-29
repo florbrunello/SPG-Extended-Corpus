@@ -1,0 +1,37 @@
+Datos del paciente.
+Nombre: Luis Vila Moreno
+DNI: 92140837P
+Fecha de nacimiento: 15/11/1956
+Género: Hombre
+Domicilio: Calle de Ibiza 76
+Ciudad: Getafe, Asturias, Asturias
+Código postal: 33470
+Email: moreno@us.es
+Teléfono fijo: +34 984 12 17 21
+Teléfono móvil: +34 784 68 45 23
+NHC: 8727143
+NASS: 760365730924
+Condición de riesgo: Carpintero
+Datos asistenciales.
+Médico: Dr. Juan Antonio Márquez Núñez. NC 731105091. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso:
+01/03/1957
+Centro de salud de ingreso:
+Complejo Hospitalario Universitario de Cartagena
+Informe clínico del paciente:
+Paciente no fumador de 3 meses de edad, acompañado de su madre, con antecedentes de salud inestables debido a su corta edad. El paciente presenta una condición de salud crítica que requiere atención inmediata y continua.
+La exploración física revela:
+Tª 36,5 C; T.A: 120/80 mmHg; Fc: 60 lpm. El paciente se encuentra inconsciente y con signos de deshidratación.
+En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos.
+Auscultación cardíaca rítmica, sin soplos, roces ni extratonos.
+Auscultación pulmonar con conservación del murmullo vesicular.
+Abdomen blando, depresible, sin masas ni megalias.
+En la exploración neurológica se detectan signos meníngeos y datos de focalidad.
+Los datos analíticos muestran los siguientes resultados:
+Hemograma: Hb 15,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3.
+VSG: 30 mm 1ª hora.
+Coagulación: TQ 90%; TTPA 25,5 seg.
+Bioquímica: Glucosa 90 mg/dl; urea 25 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 130 U/l; calcio 8,5 mg/dl.
+Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas diagnósticas, incluyendo Hemocultivos y Serologías específicas, que aún no han sido realizadas.
+Con el diagnóstico de una condición médica crítica, se instaura tratamiento sintomático y terapia intensiva para estabilizar la situación del paciente. El pronóstico es reservado y requiere una atención continuada y especializada.

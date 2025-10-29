@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: José Miguel Arias Jiménez
+DNI: 45454108J
+Fecha de nacimiento: 26/12/1927
+Género: Varón
+Domicilio: Calle de la Paz 73
+Ciudad: Benidorm, La Coruña, Galicia
+Código postal: 15164
+Email: josemiguel.arias.jimenez@hotmail.com
+Teléfono fijo: +34 981 75 09 56
+Teléfono móvil: +34 781 42 82 76
+NHC: 0428605
+Condición de riesgo: Técnico de Radiología
+Datos asistenciales.
+Médico: Dra. Raquel Santos Rico. NC 691570170. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/03/1933
+Episodio: 79312672
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 5 años de edad, acompañado de su abuela.
+Antecedentes:
+El paciente presenta antecedentes de hipertensión arterial, diabetes mellitus tipo 2 y enfermedad cardiovascular. También ha tenido episodios de dolor de cabeza y mareos en el pasado.
+Evolución y comentarios:
+El paciente se presentó en la consulta con síntomas de dolor de cabeza y mareos. Después de realizar una exploración física y algunas pruebas de laboratorio, se diagnosticó una infección por virus de la gripe. Se inició tratamiento con antibióticos y se le aconsejó reposo y hidratación.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien había observado un aumento en la frecuencia de los síntomas.
+Fecha de ingreso: 01/03/1933
+Centro de salud de ingreso: Complejo Hospitalario Universitario de Cartagena

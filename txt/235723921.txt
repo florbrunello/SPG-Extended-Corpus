@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: María Belén Heredia Vega
+DNI: 43556396P
+Fecha de nacimiento: 31/12/1931
+Género: Femenino
+Domicilio: Calle del Amparo 51
+Ciudad: Jaén, Navarra, Navarra
+Código postal: 31376
+Email: Rbi3ySyA@imibic.org
+Teléfono fijo: +34 948 01 74 98
+Teléfono móvil: +34 748 68 09 10
+NHC: 2124665
+NASS: 085892494072
+Condición de riesgo: Trabajador de Mantenimiento
+Datos asistenciales.
+Médico: Dra. Silvia Casado Durán. NC 277210753. Investigadora Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 26/02/2005
+Episodio: 37301400
+Centro de salud: Centro de Salud Conde de Casal
+Informe clínico del paciente:
+Paciente de tez blanca de 73 años de edad, acompañado de su esposa, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que refiere una semana de cefaleas y vómitos recurrentes. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni fiebre, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de meningeo, con rigidez de cuello y fotofobia. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación oral.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de cuidados intensivos por cefaleas y vómitos recurrentes. Se realizaron pruebas de imagen (Ecografía craneal, TAC craneal) que mostraron un hematoma subdural izquierdo. Se instauró tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se realizó una exploración quirúrgica para evacuar el hematoma.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien se quejaba de cefaleas y vómitos recurrentes en el paciente.

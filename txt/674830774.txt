@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Emilio Cruz Márquez
+DNI: 70987230F
+Fecha de nacimiento: 30/04/1954
+Género: Hombre
+Domicilio: Calle de Lope de Vega 100, 4A
+Ciudad: Ermua, Ibiza, Islas Baleares
+Código postal: 07893
+Email: emilio-cruz_marquez1861@outlook.com
+Teléfono fijo: +34 971 46 60 30
+Teléfono móvil: +34 771 27 73 95
+NHC: 8045983
+NASS: 660160835764
+Condición de riesgo: Paciente con antecedentes de enfermedades hepáticas
+Datos asistenciales.
+Médico: Dr. Pedro José Muñoz López. NC 854017271. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/12/2023
+Episodio: 70862538
+Centro de salud: Centro de Salud Málaga Norte
+Informe clínico del paciente:
+El paciente fue evaluado en el Servicio de Gastroenterología con una historia de episodios recurrentes de ictericia y dolor abdominal. El examen físico reveló hepatomegalia y una exploración abdominal mostró un hígado de 18 cm de diámetro. Los análisis de sangre mostraron un aumento de la bilirrubina total y directa, así como un aumento de la enzima alanina aminotransferasa (ALT). Se realizaron estudios de imagen que mostraron un hígado cirrótico con un nódulo hepático de 5 cm de diámetro. Se solicitó una biopsia hepática que mostró una cirrosis hepática con metaplasia de células falciformes. El paciente fue diagnosticado con cirrosis hepática en estadio avanzado y se le indicó tratamiento con un inhibidor de la enzima convertidora de angiotensina (ECA) y un medicamento para reducir la presión portal. El paciente fue dado de alta con instrucciones para seguir un seguimiento regular con su médico de cabecera y realizar pruebas de función hepática cada 6 meses.
+Antecedentes:
+El paciente tiene una historia de consumo excesivo de alcohol durante varios años, lo que podría haber contribuido a la cirrosis hepática. También tiene una historia de obesidad y hipertensión arterial.
+Evolución y comentarios:
+El paciente ha estado bien durante el período de seguimiento y no ha presentado síntomas de complicaciones hepáticas. Sin embargo, es importante que siga con el tratamiento y el seguimiento regular para prevenir la progresión de la enfermedad.
+Remitido por:
+El paciente fue remitido por su médico de cabecera con una solicitud de evaluación y tratamiento para la cirrosis hepática.

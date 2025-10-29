@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Ismael Serra Rivero
+DNI: 74129852R
+Fecha de nacimiento: 27/12/1989
+Género: Varón
+Domicilio: Calle de los Embajadores 16, 4R
+Ciudad: Fuenlabrada, Huelva, Andalucía
+Código postal: 21282
+Email: serra@icloud.com
+Teléfono fijo: +34 959 69 33 94
+Teléfono móvil: +34 659 47 20 96
+NHC: 7978823
+Datos asistenciales.
+Médico: Dra. Silvia Miguel Guzman. NC 372530525. Endocrinóloga Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 14/06/2021
+Centro de salud: Centro de Salud Málaga Norte
+Matrícula del coche: 3726YBH
+Modelo: Honda CR-V
+VIN: VSAWPH8JRJH075154
+Informe clínico del paciente:
+Paciente no fumador de 31 años de edad, acompañado de su hijo, que refiere dolor abdominal crónico de 6 meses de evolución, con episodios de diarrea y estreñimiento intermitentes. El paciente tiene una historia de obesidad desde la infancia y ha sido tratado con dieta y ejercicio sin resultados significativos. En el momento del ingreso, el paciente presentaba una temperatura de 37,5°C, pulso de 90 bpm y presión arterial de 120/80 mmHg. La exploración física reveló un abdomen distendido, con una masa abdominal palpable en la región epigástrica.
+La exploración complementaria incluyó análisis de sangre, que mostraron un nivel de glucosa en sangre de 140 mg/dl, con un nivel de insulina de 20 μU/ml. El paciente también presentaba un nivel de colesterol total de 220 mg/dl, con un nivel de triglicéridos de 150 mg/dl.
+El diagnóstico de la condición del paciente fue diabetes tipo 2, con obesidad como factor de riesgo. El tratamiento recomendado fue una dieta hipocalórica y hipoglucémica, con un objetivo de pérdida de peso de 5-10% del peso corporal en los primeros 3 meses. También se recomendó la iniciación de tratamiento con metformina para controlar la glucosa en sangre.
+La evolución del paciente en el hospital fue favorable, con una reducción significativa de la glucosa en sangre y una mejoría en los síntomas abdominales. El paciente fue dado de alta con instrucciones para seguir la dieta y el tratamiento recomendado, y se programó una revisión en el consultorio en 1 mes.

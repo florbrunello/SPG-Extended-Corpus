@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Carlota Martínez Esteban
+DNI: 95423597R
+Fecha de nacimiento: 13/02/1932
+Género: Mujer
+Domicilio: Calle de Segovia 93
+Ciudad: Bormujos, Zaragoza, Aragón
+Código postal: 50565
+Email: carlota-esteban1171@ciberned.es
+Teléfono fijo: +34 976 87 85 13
+Teléfono móvil: +34 776 27 66 95
+NHC: 1162829
+NASS: 293686502214
+Condición de riesgo: Electricista
+Datos asistenciales.
+Médico: Dra. Diana Castillo Sierra. NC 340243682. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 05/05/1973
+Episodio: 88848341
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 2140NVS
+Modelo: Honda Civic
+VIN: VSGVBHXMLFZ742548
+Informe clínico del paciente:
+Paciente de 41 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, se presenta con síntomas de dolor ocular y visión borrosa en el ojo derecho. La exploración física revela: presión intraocular de 22 mmHg en el ojo derecho y 18 mmHg en el ojo izquierdo; pupila dilatada en el ojo derecho y reactividad normal en el ojo izquierdo; campo visual reducido en el ojo derecho. Se solicitan estudios de imagenología, incluyendo tomografía de coherencia óptica (OCT) y resonancia magnética (RM) para evaluar la presencia de cualquier lesión ocular.
+La evolución clínica del paciente es la siguiente: al día siguiente de la admisión, el paciente se encuentra con una mejoría en la visión borrosa en el ojo derecho, aunque sigue presentando dolor ocular. Se inicia tratamiento con medicamentos antiinflamatorios y analgésicos para controlar los síntomas. Se solicitan pruebas de laboratorio para evaluar la función renal y hepática del paciente.
+En la exploración física del día siguiente, se observa una mejoría en la presión intraocular en el ojo derecho, aunque sigue siendo elevada. Se solicitan pruebas de imagenología adicionales para evaluar la presencia de cualquier lesión ocular subyacente. El paciente se encuentra estable y se continúa con el tratamiento.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento intensivo y monitorización cercana. El equipo médico está trabajando estrechamente con el paciente y su familia para asegurarse de que reciba el tratamiento adecuado y se recupere lo antes posible.
+Remitido por:
+Dra. Diana Castillo Sierra, Residente de 3° año en Oftalmología, Instituto Universitario de Oftalmobiología Aplicada (IOBA).

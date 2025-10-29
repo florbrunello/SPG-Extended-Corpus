@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Olga Ramírez Vila
+DNI: 59290135E
+Fecha de nacimiento: 16/12/1963
+Género: Mujer
+Domicilio: Calle de Arenal 8, 9H
+Ciudad: Eibar, Orense, Galicia
+Código postal: 32788
+Email: olga@uca.es
+Teléfono fijo: +34 988 35 22 25
+Teléfono móvil: +34 788 61 62 98
+NHC: 2487518
+NASS: 231236831364
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dr. Roberto Andres Otero. NC 251729795. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 10/01/2017
+Episodio: 47740998
+Centro de salud: Centro de Salud Puente de Vallecas
+Informe clínico del paciente:
+Paciente testigo de Jehová de 53 años de edad, acompañado de su compañero, que refiere dolor abdominal crónico de localización difusa, con picos de intensidad variable durante los últimos 6 meses. El paciente ha tenido varios episodios de vómitos y diarrea, con pérdida de peso significativa en el último mes.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. La exploración abdominal revela dolor difuso en el hígado y la región epigástrica, con ausencia de signos de obstrucción intestinal.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 9.500/mm3 (neutrófilos 60%); plaquetas 180.000/ mm3. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal, TAC abdominal) que no evidencian patología significativa, excepto la presencia de un pequeño absceso en la región epigástrica.
+Con el diagnóstico de dolor abdominal crónico de causa desconocida se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se realiza un seguimiento estrecho del paciente para descartar otras causas de la sintomatología.

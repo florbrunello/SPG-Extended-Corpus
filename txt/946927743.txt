@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Moisés Hidalgo Vicente
+DNI: 66965330W
+Fecha de nacimiento: 22/03/1961
+Género: Varón
+Domicilio: Calle de Sagasta 48
+Ciudad: Alcobendas, Formentera, Islas Baleares
+Código postal: 07658
+Email: moises@ciberisciii.es
+Teléfono fijo: +34 971 15 54 14
+Teléfono móvil: +34 771 95 00 56
+NHC: 0642538
+NASS: 468043486571
+Condición de riesgo: Soldado
+Datos asistenciales.
+Médico: Dr. Santiago Roldan Arroyo. NC 664323484. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/10/2000
+Centro de salud: Centro de Salud Delicias
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 39 años de edad, acompañado de su hermana, con antecedentes de hipertensión arterial y dislipemia. Presenta un cuadro de insuficiencia renal crónica en estadio 3, con niveles de creatinina de 2,5 mg/dl y urea de 120 mg/dl. La exploración física revela un paciente con apariencia general de mal estado de salud, con edema periférico y ausencia de pulsos en las extremidades inferiores. La presión arterial es de 180/100 mmHg.
+La evolución clínica ha sido marcada por episodios recurrentes de dolor abdominal y fiebre, que se han asociado con la presencia de bacterias resistentes a la penicilina en la orina. Se han realizado varias pruebas diagnósticas, incluyendo hemocultivos y serologías, que han demostrado la presencia de una infección por Escherichia coli resistentes a la penicilina.
+El tratamiento ha consistido en la administración de antibióticos de amplio espectro, incluyendo ceftriaxona y gentamicina, así como la realización de dialisis para eliminar los productos de desecho del metabolismo renal. El paciente ha mostrado una respuesta favorable al tratamiento, con una reducción significativa de la creatinina y la urea en la sangre.
+La pronóstico es reservado, debido a la gravedad de la insuficiencia renal crónica y la presencia de infecciones recurrentes. Es importante realizar un seguimiento estrecho del paciente para evitar complicaciones y mejorar la calidad de vida.
+Evolución y comentarios:
+El paciente ha estado en el hospital durante 14 días, durante los cuales ha recibido tratamiento intensivo para controlar la infección y la insuficiencia renal crónica. La evolución ha sido generalmente favorable, aunque se han producido algunos episodios de dolor abdominal y fiebre. Se ha realizado una serie de pruebas diagnósticas para determinar la causa subyacente de la infección y la insuficiencia renal crónica.
+Remitido por:
+El paciente ha sido remitido a la unidad de nefrología para continuar con el tratamiento y el seguimiento. Se le ha recomendado realizar un seguimiento estrecho para evitar complicaciones y mejorar la calidad de vida.

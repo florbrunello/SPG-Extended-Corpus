@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: José Ignacio Prieto Ferrer
+DNI: 64022332S
+Fecha de nacimiento: 03/01/2020
+Género: Hombre
+Domicilio: Calle del Doctor Piga 97, 3N
+Ciudad: Pamplona, Soria, Castilla y León
+Código postal: 42195
+Email: joseignacio-prieto.ferrer@ciberer.es
+Teléfono fijo: +34 975 60 35 31
+Teléfono móvil: +34 675 03 67 68
+NHC: 3088225
+NASS: 817379341342
+Condición de riesgo: Operador de Maquinaria Agrícola
+Datos asistenciales.
+Médico: Dra. Catalina Ruiz Serrano. NC 989535253. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/10/2021
+Episodio: 76151481
+Hospital: Hospital Universitario Río Hortega
+Informe clínico del paciente:
+Paciente de un año de edad, acompañado de su tío, presenta una temperatura corporal de 38,5°C, frecuencia cardíaca de 120 bpm y respiración de 40 rpm. Se encuentra consciente y orientado, pero presenta signos de malestar general. La exploración física revela una zona de erupción cutánea en la región del pañal, con un tamaño de aproximadamente 5 cm de diámetro.
+La evolución clínica del paciente ha sido de 48 horas, con una progresión gradual de los síntomas. El paciente ha presentado fiebre, vómitos y diarrea, con una frecuencia de 5 veces al día. La exploración física ha revelado signos de deshidratación, con una reducción de la producción de orina y una concentración de la orina.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 45 mm 1ª hora. Coagulación: TQ 80%; TTPA 22,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+El diagnóstico de la condición médica del paciente es una infección gastrointestinal, probablemente causada por un virus. El tratamiento se ha iniciado con antibióticos y antivirales, y se está realizando una monitorización estrecha del paciente para evaluar la progresión de la enfermedad.
+La evolución clínica del paciente se seguirá de cerca, y se realizarán ajustes en el tratamiento según sea necesario. Se recomienda una revisión en 24 horas para evaluar la respuesta al tratamiento y ajustar la dosis de medicamentos según sea necesario.

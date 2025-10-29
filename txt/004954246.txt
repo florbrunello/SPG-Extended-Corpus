@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Alejandro Mendoza Galvez
+DNI: 61787147Q
+Fecha de nacimiento: 04/12/1958
+Género: Hombre
+Domicilio: Calle de la Luna 65
+Ciudad: Palma, Ibiza, Islas Baleares
+Código postal: 07533
+Email: alejandro@ciberned.es
+Teléfono fijo: +34 971 59 71 11
+Teléfono móvil: +34 671 86 66 04
+NHC: 8587216
+NASS: 368106130992
+Condición de riesgo: Soldador
+Edad: 7 años
+Datos asistenciales.
+Médico: Dr. Omar Guerrero Maldonado. NC 298972407. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/09/1993
+Episodio: 07261286
+Centro de salud: Centro de Salud Aranjuez
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 7 años de edad, acompañado de su abuela.

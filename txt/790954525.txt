@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Germán Vicente Vila
+DNI: 29673536V
+Fecha de nacimiento: 19/01/1961
+Género: Varón
+Domicilio: Calle de las Tres Cruces 71, 10Q
+Ciudad: Málaga, Almería, Andalucía
+Código postal: 04759
+Email: german_vicente894@uca.es
+Teléfono fijo: +34 950 89 13 48
+Teléfono móvil: +34 750 95 55 90
+NHC: 4509703
+NASS: 29673536V
+Condición de riesgo: Paciente con antecedentes de hipertensión arterial
+Datos asistenciales.
+Médico: Dra. Francisca Gil Gallardo. NC 615872500. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Cargo: Jefa de Sección de Psiquiatría del Complejo Hospitalario Universitario de A Coruña
+Dirección: Complejo Hospitalario Universitario de A Coruña, 15006 A Coruña, España
+Fecha de ingreso:
+03/07/2024
+Centro de salud de ingreso:
+Complejo Hospitalario Universitario de A Coruña
+Informe clínico del paciente:
+Paciente vegano de 63 años de edad, con antecedentes de hipertensión arterial, que se refirió a la consulta con síntomas de ansiedad y estrés. El paciente informó que ha estado experimentando un aumento en la frecuencia y la intensidad de sus síntomas en los últimos meses, lo que ha afectado su calidad de vida y su capacidad para realizar actividades diarias. El paciente también informó que ha estado tomando medicamentos para controlar su hipertensión, pero que no ha experimentado ningún cambio en su condición.
+La exploración física reveló una tensión arterial de 140/90 mmHg, con un pulso de 80 latidos por minuto. El paciente estaba consciente y orientado, pero presentaba signos de ansiedad y estrés, como sudoración y taquicardia.
+Se solicitaron análisis de sangre para evaluar la función renal y la función hepática, así como un electrocardiograma para evaluar la función cardíaca. Los resultados de los análisis de sangre mostraron una función renal normal, pero una función hepática ligeramente alterada. El electrocardiograma mostró una frecuencia cardíaca normal.
+El paciente fue diagnosticado con ansiedad generalizada y se le prescribió tratamiento con medicamentos antipsicóticos y ansiolíticos. Se le recomendó también realizar terapia cognitivo-conductual para ayudarlo a manejar sus síntomas de ansiedad y estrés.
+Antecedentes:
+El paciente tiene un antecedente de hipertensión arterial, que se ha estado controlando con medicamentos. También tiene un antecedente de ansiedad generalizada, que ha sido tratado con medicamentos y terapia.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento durante las últimas semanas y ha experimentado una mejoría en sus síntomas de ansiedad y estrés. Sin embargo, todavía presenta signos de ansiedad y estrés, y se le recomienda continuar con el tratamiento y la terapia.
+Remitido por:
+Dra. Francisca Gil Gallardo, Psiquiatra Especialista en Trastornos de Ansiedad, Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM).

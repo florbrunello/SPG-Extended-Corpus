@@ -1,0 +1,45 @@
+Datos del paciente.
+Nombre: Miriam Salas Pascual
+DNI: 92058055A
+Fecha de nacimiento: 12/10/2007
+Género: F
+Domicilio: Calle de Covarrubias 27
+Ciudad: Hellín, Almería, Andalucía
+Código postal: 04906
+Email: miriam_pascual@uca.es
+Teléfono fijo: +34 950 64 25 21
+Teléfono móvil: +34 650 30 64 30
+NHC: 4186613
+NASS: 403436517607
+Condición de riesgo: Trabajador de Minería
+Datos asistenciales.
+Médico: Dr. Samuel Hidalgo Aparicio. NC 167533492. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/06/2011
+Episodio: 89303381
+Hospital: Hospital Universitario de Cabueñes
+Matrícula del coche: 4336TJB
+Modelo: Mercedes-Benz C-Class
+VIN: VSZP776JWCE799419
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 3 años de edad, acompañado de su madre. Presenta un cuadro de fiebre alta y vómitos durante las últimas 24 horas, con picos de temperatura de hasta 40°C. La madre informa que el paciente ha estado con síntomas respiratorios leves durante la semana pasada.
+La exploración física revela:
+Temperatura: 40,5°C
+Pulso: 120 bpm
+Respiración: 30 rpm
+Presión arterial: 80/50 mmHg
+Estado general: Desorientado y con signos de deshidratación
+Los resultados de las pruebas de laboratorio muestran:
+Hemograma: Leucocitos 15.000/mm³ (neutrófilos 80%)
+Físico-químico: Glucosa 120 mg/dl, Urea 30 mg/dl, Creatinina 1,2 mg/dl
+Orina: Sedimento con leucocitos y bacterias
+Se solicitan pruebas de imagen para evaluar la causa subyacente de los síntomas, incluyendo una radiografía de tórax y una ecografía abdominal.
+Con base en la información recopilada, se considera un diagnóstico de neumonía bacteriana y se inicia tratamiento con antibióticos intravenosos. El paciente es ingresado en la unidad de cuidados intensivos para monitorizar su estado y proporcionar soporte vital adecuado.
+Antecedentes:
+La madre informa que el paciente ha estado con síntomas respiratorios leves durante la semana pasada.
+El paciente ha recibido todas las vacunas recomendadas para su edad.
+Evolución y comentarios:
+El paciente ha mejorado ligeramente después de la administración de antibióticos.
+Se requiere seguimiento estrecho para evaluar la respuesta al tratamiento y ajustar el plan de cuidados según sea necesario.
+Remitido por:
+Dr. Samuel Hidalgo Aparicio, Cardiólogo Especialista en Electrofisiología.
+Hospital Universitario de Cabueñes.

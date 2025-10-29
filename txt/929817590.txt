@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: María Pilar Benítez Galan
+DNI: 16398291G
+Fecha de nacimiento: 10/02/2000
+Género: Femenino
+Domicilio: Calle de Bailén 35
+Ciudad: Málaga, Zaragoza, Aragón
+Código postal: 50462
+Email: mariapilar_benitez@outlook.com
+Teléfono fijo: +34 976 54 63 91
+Teléfono móvil: +34 676 51 59 37
+NHC: 4404288
+NASS: 150760203918
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dra. Carlota Crespo Santos. NC 947011493. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/10/2002
+Episodio: 34373996
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Informe clínico del paciente:
+La paciente presenta una condición clínica caracterizada por una edad de 2 años y una tez blanca. Se encuentra acompañada por su madre en el momento del ingreso.
+Antecedentes:
+La paciente no presenta antecedentes médicos relevantes en su historial clínico.
+Evolución y comentarios:
+La paciente se encuentra estable y sin síntomas graves en el momento del ingreso. Se requiere una evaluación más exhaustiva para determinar la causa subyacente de su condición clínica.
+Remitido por:
+La paciente ha sido remitida por su médico de cabecera para una evaluación más detallada de su condición clínica.
+Exploración física:
+La exploración física revela una paciente consciente, orientada y sin signos de alarma vital. La temperatura corporal es normal y la frecuencia cardíaca es de 120 latidos por minuto. La presión arterial es de 80/50 mmHg. La exploración neurológica no revela signos de alteración.
+Pruebas diagnósticas:
+Se han solicitado pruebas diagnósticas para determinar la causa subyacente de la condición clínica de la paciente, incluyendo análisis de sangre, radiografías y ecografías.
+Tratamiento:
+Se está considerando un tratamiento conservador para la paciente, incluyendo medicamentos para aliviar los síntomas y una evaluación más detallada para determinar la causa subyacente de su condición clínica.
+Pronóstico:
+El pronóstico de la paciente es bueno, ya que se encuentra estable y sin síntomas graves en el momento del ingreso. Sin embargo, se requiere una evaluación más exhaustiva para determinar la causa subyacente de su condición clínica y establecer un plan de tratamiento adecuado.

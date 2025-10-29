@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Roberto Marcos Tomas
+DNI: 94155889F
+Fecha de nacimiento: 21/12/1935
+Género: Hombre
+Domicilio: Calle de San Bernardo 33
+Ciudad: Jaca, Huelva, Andalucía
+Código postal: 21211
+Email: roberto1856@ciberehd.org
+Teléfono fijo: +34 959 82 56 11
+Teléfono móvil: +34 659 61 02 55
+NHC: 5089841
+NASS: 690777425616
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dr. Francisco José Caballero Ramírez. NC 513381648. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/11/2013
+Episodio: 41390335
+Centro de salud: Centro de Salud Vicálvaro
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 77 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Fue ingresado en el servicio de cardiología con un episodio de dolor torácico agudo, que se caracterizó por un dolor intenso y opresivo en el pecho, irradiado a la mandíbula y el hombro izquierdo. El dolor comenzó de repente y se mantuvo durante varios minutos.
+La exploración física reveló un paciente en buen estado general, con una frecuencia cardíaca de 120 latidos por minuto y una presión arterial de 180/100 mmHg. El examen de la piel mostró una erupción cutánea en el brazo izquierdo, que se caracterizó por una serie de vesículas pequeñas y dolorosas.
+Los análisis de sangre mostraron un aumento de la creatinina sérica y una disminución de la función renal. El electrocardiograma (ECG) mostró una alteración en la forma de las ondas P y QRS, que se caracterizó por una prolongación de la duración de la onda QRS.
+Con base en estos hallazgos, se realizó un diagnóstico de miocardio infartado, con una afectación del ventrículo izquierdo. Se inició el tratamiento con aspirina, clopidogrel y heparina, y se realizó una angiografía coronaria para evaluar la presencia de estenosis coronarias.
+La angiografía coronaria mostró una estenosis significativa en la arteria descendente anterior, que se caracterizó por una reducción del diámetro de la arteria de más del 50%. Se decidió realizar una angioplastia coronaria con colocación de una stent para restaurar la función coronaria.
+El paciente se encuentra actualmente en el servicio de cardiología, en observación, y se espera que se recupere completamente del episodio de miocardio infartado.

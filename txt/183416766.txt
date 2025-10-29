@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Agustín Vidal Zamora
+DNI: 69795567C
+Fecha de nacimiento: 15/09/1973
+Género: Masculino
+Domicilio: Calle de San Bernardo 61
+Ciudad: Getafe, León, Castilla y León
+Código postal: 24803
+Email: zamora@protonmail.com
+Teléfono fijo: +34 987 23 22 51
+FAX: +34 987 26 69 80
+NHC: 4985019
+NASS: 263487654321
+Condición de riesgo: Paciente en tratamiento oncológico
+Datos asistenciales.
+Médico: Dr. Mateo Macias Blazquez. NC 234184436. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/03/1996
+Episodio: 05020615
+Hospital: Hospital Universitario 12 de Octubre
+Informe clínico del paciente:
+Paciente vegano de 22 años de edad, acompañado de su hija, con antecedentes de enfermedad oncológica en tratamiento. Presenta un cuadro de fatiga crónica y pérdida de apetito, con una evolución clínica de 6 meses. La exploración física revela: Tª 36,8 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 7.500/mm3 (neutrófilos 60%); plaquetas 200.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Antecedentes:
+El paciente tiene un antecedente de enfermedad oncológica en tratamiento, con un historial de quimioterapia y radioterapia. Presenta una evolución clínica de 6 meses, con un cuadro de fatiga crónica y pérdida de apetito.
+Evolución y comentarios:
+El paciente ha presentado una evolución clínica estable, con un control regular de su enfermedad oncológica. Se le ha realizado un seguimiento regular de su estado de salud, con análisis de sangre y exploración física.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, con un diagnóstico de enfermedad oncológica en tratamiento. Se le ha realizado un seguimiento regular de su estado de salud, con análisis de sangre y exploración física.

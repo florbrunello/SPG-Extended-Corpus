@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Josefa Lozano Gil
+DNI: 31740181C
+Fecha de nacimiento: 09/03/2012
+Género: Femenino
+Domicilio: Calle del Espíritu Santo 17
+Ciudad: Lugo, Teruel, Aragón
+Código postal: 44569
+Email: lozano@ucm.es
+Teléfono fijo: +34 978 77 78 26
+Teléfono móvil: +34 778 05 96 51
+NHC: 3435075
+NASS: 190633504513
+Condición de riesgo: Operador de Maquinaria Pesada
+Datos asistenciales.
+Médico: Dr. José Luis Cuesta Ramos. NC 850320132. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 27/11/2016
+Hospital: Hospital Universitario de Crúces
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 4 años de edad, acompañado de su hermana. Presenta un cuadro de enfermedad renal crónica en estadio 2, con niveles de creatinina en sangre de 1,2 mg/dl y proteinuria leve. Tiene antecedentes de episodios recurrentes de infección urinaria en la infancia, por lo que se le ha recetado antibióticos profilácticos.
+La exploración física revela: Tª 37,5 C; T.A: 120/70 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin signos de dolor o malestar. En cabeza y cuello no se palpan adenopatías ni bocio. En la exploración abdominal se aprecia un tamaño normal de la vejiga y no se detectan signos de infección urinaria activa.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 300.000/mm3. VSG: 0,8 mg/dl. Coagulación: TQ 95%; TTPA 28,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 15 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: proteinuria leve.
+Se solicitan pruebas de imagen (Ecografía renal y abdominal) que no evidencian patología significativa. Se decide continuar con el tratamiento antibiótico profiláctico y realizar revisiones periódicas para monitorizar la enfermedad renal.
+Antecedentes:
+- Episodios recurrentes de infección urinaria en la infancia.
+- Antecedentes familiares de enfermedad renal crónica.
+Evolución y comentarios:
+- El paciente ha mostrado una buena respuesta al tratamiento antibiótico profiláctico.
+- Se recomienda realizar revisiones periódicas para monitorizar la enfermedad renal.
+Remitido por:
+- Dr. José Luis Cuesta Ramos, Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC).

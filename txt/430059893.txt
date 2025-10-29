@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Samuel Sanz Galan
+DNI: 55382182E
+Fecha de nacimiento: 03/07/2001
+Género: Hombre
+Domicilio: Calle de Ríos Rosas 32
+Ciudad: Torrejón de Ardoz, Soria, Castilla y León
+Código postal: 42331
+Email: samuel.galan@ciberned.es
+Teléfono fijo: +34 975 71 02 20
+Teléfono móvil: +34 675 00 57 04
+NHC: 3127834
+NASS: 957088503042
+Condición de riesgo: Técnico de Radiología
+Datos asistenciales.
+Médico: Dra. María Luz González Mora. NC 301230471. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/05/2020
+Centro de salud: Centro de Salud Tetuán
+Matrícula del coche: 7068MTL
+Modelo: Jeep Wrangler
+VIN: VSDOGEYIKKX726567
+Informe clínico del paciente:
+Paciente de ascendencia asiática occidental de 18 años de edad, acompañado de su abuela. Presenta una historia previa de convulsiones parciales y trastornos del sueño. En el momento del ingreso, se encuentra con una temperatura corporal de 37,5°C, sin síntomas de infección respiratoria. La exploración física revela una tensión arterial de 120/80 mmHg, frecuencia cardíaca de 70 latidos por minuto y una exploración neurológica sin alteraciones significativas.
+Los resultados de las pruebas diagnósticas incluyen un electroencefalograma (EEG) sin alteraciones, un escaneo de resonancia magnética (RM) de la cabeza sin lesiones significativas y un análisis de sangre normal. El paciente ha sido tratado con medicamentos antiepilépticos y ha mostrado una respuesta favorable a la terapia.
+La evolución del paciente ha sido estable, con una reducción significativa de la frecuencia de las convulsiones. El paciente ha sido informado sobre la importancia de la adherencia al tratamiento y ha sido programado para una revisión en la clínica en un plazo de 6 meses.
+Antecedentes:
+El paciente tiene una historia de convulsiones parciales desde la infancia, que han sido controladas con medicamentos antiepilépticos. En el pasado, ha presentado trastornos del sueño, incluyendo insomnio y somnolencia excesiva.
+Evolución y comentarios:
+El paciente ha mostrado una respuesta favorable al tratamiento con medicamentos antiepilépticos. La reducción de la frecuencia de las convulsiones ha sido significativa, y el paciente ha estado sin síntomas durante la mayor parte del período de observación.
+Remitido por:
+El paciente ha sido remitido a la consulta de neurología para una revisión en un plazo de 6 meses. Se le ha informado sobre la importancia de la adherencia al tratamiento y se le ha proporcionado una receta para la recarga de medicamentos.

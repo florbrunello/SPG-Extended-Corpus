@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: José Ramón Varela Rey
+DNI: 81351104N
+Fecha de nacimiento: 11/05/1970
+Género: Hombre
+Domicilio: Calle de Villalar 94
+Ciudad: Xàtiva
+Provincia: Huesca
+Código postal: 22721
+Email: joseramon.varela.rey@yahoo.com
+Teléfono fijo: +34 974 14 29 84
+Teléfono móvil: +34 774 24 10 93
+NHC: 8789055
+NASS: 186904932883
+Condición de riesgo: Empleado en sector privado
+Datos asistenciales.
+Médico: Dr. Martín Andres Guerrero
+NC: 632288904
+Cargo: Residente de 2° año en Pediatría
+Institución: Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+Dirección: Avenida Monforte de Lemos 3-5
+Ciudad: Madrid
+Código postal: 28029
+País: España
+Fecha de ingreso: 16/05/1995
+Episodio: 67096685
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de 25 años de edad, acompañado de su compañera de trabajo, presenta una enfermedad crónica de origen desconocido, con síntomas que incluyen dolor en la región lumbar, fatiga crónica y pérdida de peso. La exploración física revela una temperatura corporal normal, pulso regular y sin signos de infección. Los resultados de las pruebas de laboratorio muestran un aumento en los niveles de proteínas en la orina y una disminución en los niveles de glóbulos rojos. Se solicitan pruebas adicionales para determinar la causa subyacente de los síntomas.
+Antecedentes:
+El paciente tiene antecedentes de viajes internacionales a países del Caribe y América del Sur, donde se expuso a condiciones ambientales y climáticas extremas. También tiene un historial de consumo de medicamentos recetados para tratar la depresión y la ansiedad.
+Evolución y comentarios:
+El paciente ha estado bajo tratamiento con medicamentos recetados durante varios meses, pero no ha experimentado mejoría significativa en sus síntomas. Se ha solicitado una segunda opinión de un especialista en enfermedades raras para determinar la causa subyacente de los síntomas y desarrollar un plan de tratamiento adecuado.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado un deterioro en su estado de salud y ha solicitado una evaluación más exhaustiva.

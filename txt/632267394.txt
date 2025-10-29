@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Mónica Flores Pacheco
+DNI: 96608137H
+Fecha de nacimiento: 28/01/1990
+Género: Mujer
+Domicilio: Calle de Atocha 68, 1V
+Ciudad: Vigo, Alicante, Comunidad Valenciana
+Código postal: 03412
+Email: pacheco@gmail.com
+Teléfono fijo: +34 965 29 07 77
+Teléfono móvil: +34 765 14 53 69
+NHC: 7508405
+NASS: 025005151922
+Condición de riesgo: Ama de casa
+Datos asistenciales.
+Médico: Dr. Tomás Santos López. NC 707593008. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/07/2010
+Episodio: 52814061
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 1380UNU
+Modelo: Chrysler Pacifica
+VIN: VSOE8PUBRAL982751
+Informe clínico del paciente:
+Paciente de tez blanca de 20 años de edad, acompañado de su hijo, que presenta un cuadro de dolor abdominal crónico con episodios recurrentes de diarrea y vómitos. La exploración física revela un abdomen distendido, con dolor a la palpación en la región epigástrica. Los análisis de sangre muestran una elevación de la creatinina y una disminución de la glóbulina sérica. Se solicitan pruebas de imagen para evaluar la presencia de una obstrucción intestinal.
+Antecedentes:
+El paciente tiene antecedentes de una operación quirúrgica en la infancia para corregir una hernia umbilical. También ha tenido episodios de dolor abdominal en el pasado, pero nunca se ha diagnosticado una condición médica específica.
+Evolución y comentarios:
+El paciente ha estado bajo tratamiento con medicamentos antiinflamatorios y antidiarreicos, pero no ha respondido de manera satisfactoria. Se considera la posibilidad de una enfermedad inflamatoria intestinal, como la enfermedad de Crohn o la colitis ulcerosa.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado un deterioro en su estado de salud en los últimos meses. Se solicita una evaluación más exhaustiva para determinar la causa subyacente de sus síntomas.

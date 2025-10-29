@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Mercedes Rico Acosta
+DNI: 29899424E
+Fecha de nacimiento: 06/01/1972
+Género: Femenino
+Domicilio: Calle de las Yeserías 76, 7K
+Ciudad: San Pedro del Pinatar, Ibiza, Islas Baleares
+Código postal: 07110
+Email: mercedes-acosta@gmail.com
+Teléfono fijo: +34 971 12 79 55
+Teléfono móvil: +34 671 26 75 65
+NHC: 9936105
+NASS: 233773981514
+Condición de riesgo: Limpiador
+Datos asistenciales.
+Médico: Dra. Susana Bernal Palacios. NC 125859519. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/07/1995
+Episodio: 26464917
+Centro de salud: Centro de Salud Valdemoro
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 23 años de edad, con antecedentes de ansiedad generalizada y depresión mayor, que se presenta en el servicio con síntomas de agorafobia y pánico. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 180.000/mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de ansiedad generalizada y depresión mayor, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación testicular) así como tratamiento psicológico: terapia cognitivo-conductual y terapia de aceptación y compromiso. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde continúa con la terapia psicológica.

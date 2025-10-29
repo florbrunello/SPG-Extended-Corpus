@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Sergi Román Escobar
+DNI: 80129853S
+Fecha de nacimiento: 15/09/1943
+Género: Hombre
+Domicilio: Calle de Santa Ana 12
+Ciudad: Zamora, Salamanca, Castilla y León
+Código postal: 37293
+Email: sergi-roman@ciberisciii.es
+Teléfono fijo: +34 923 48 17 97
+Teléfono móvil: +34 623 52 12 05
+NHC: 7447608
+NASS: 814792540742
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dra. Lorena Hurtado Parra. NC 498476123. Residente de 2° año en Pediatría.
+Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/04/1996
+Fecha de ingreso:
+28/04/1996
+Centro de salud de ingreso:
+Hospital Universitario Fundació Jiménez Díaz
+Informe clínico del paciente:
+Paciente testigo de Jehová de 52 años de edad, acompañado de su yerno, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Presenta dolor de cabeza y mareos desde hace 3 días, con pérdida de apetito y fatiga. La exploración física revela hipertensión arterial (160/100 mmHg), taquicardia (120 latidos/minuto), y signos de deshidratación. Se solicitan análisis de sangre y orina para determinar la causa subyacente de sus síntomas.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, tratados con medicamentos orales. Ha sido sometido a un programa de dieta y ejercicio para controlar su condición.
+Evolución y comentarios:
+El paciente ha estado bajo tratamiento con medicamentos orales para controlar su hipertensión arterial y diabetes mellitus tipo 2. Sin embargo, en los últimos días ha presentado dolor de cabeza y mareos, con pérdida de apetito y fatiga. Se ha solicitado una exploración física y análisis de sangre y orina para determinar la causa subyacente de sus síntomas.
+Remitido por:
+Dra. Lorena Hurtado Parra, Residente de 2° año en Pediatría, Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER).

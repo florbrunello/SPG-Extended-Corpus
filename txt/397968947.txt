@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Leo Conde Mateos
+DNI: 55738867T
+Fecha de nacimiento: 06/07/1966
+Género: Varón
+Domicilio: Calle de Áncora 29, 3K
+Ciudad: Burgos, Huesca, Aragón
+Código postal: 22874
+Email: leo-mateos1160@hotmail.com
+Teléfono fijo: +34 974 33 71 52
+Teléfono móvil: +34 774 52 70 59
+NHC: 9207648
+NASS: 083951819746
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dr. Manuel Jesús Guzman Molina. NC 841343963. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/08/1993
+Episodio: 93801022
+Centro de salud: Centro de Salud Villaverde
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 27 años de edad, acompañado de su hija, presenta síntomas de dolor en el pecho de intensidad variable durante las últimas 48 horas, sin antecedentes de patologías cardíacas previas. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En cabeza y cuello no se palpan adenopatías ni bocio. Auscultación cardíaca con murmullo vesicular normal. Auscultación pulmonar sin ronquidos ni soplos. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial leve, controlada con medicación, y tiene una historia familiar de enfermedad cardiovascular en su padre, fallecido a los 55 años por infarto de miocardio.
+Evolución y comentarios:
+El paciente fue ingresado en la unidad de cuidados intensivos para monitorización cardíaca y tratamiento de la hipertensión arterial. Se le administró oxígeno suplementario y se le realizó una ecocardiografía para evaluar la función cardíaca. Los resultados de la ecocardiografía mostraron una función cardíaca normal.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien notificó la aparición de síntomas de dolor en el pecho y la presencia de hipertensión arterial leve.
+Diagnóstico:
+Diagnóstico: provisional de dolor en el pecho de causa desconocida, con hipertensión arterial leve y antecedentes familiares de enfermedad cardiovascular.
+Tratamiento:
+Se le administró tratamiento con nitroglicerina para aliviar el dolor en el pecho y se le recetó un medicamento para controlar la hipertensión arterial. Se le realizó una ecocardiografía para evaluar la función cardíaca y se le recomendó un seguimiento en la unidad de cuidados intensivos.

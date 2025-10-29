@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Elena Martín Cortés
+DNI: 93490778X
+Fecha de nacimiento: 26/10/1944
+Género: Femenino
+Domicilio: Calle de Valverde 59, 6W
+Ciudad: Xirivella, Málaga, Andalucía
+Código postal: 29829
+Email: KBFihfmA539@uca.es
+Teléfono fijo: +34 951 63 31 86
+FAX: +34 951 01 17 78
+NHC: 3313637
+NASS: 226018659881
+Condición de riesgo: Paciente con antecedentes familiares de enfermedades raras
+Datos asistenciales.
+Médico: Dra. Noemí Aguilar Menendez. NC 336742481. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Cargo: Especialista en Genética Médica
+Dirección: Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso:
+27/05/1964
+Centro de salud de ingreso:
+Hospital Universitario Fundació Jiménez Díaz
+Informe clínico del paciente:
+Paciente de 78 años de edad, con antecedentes de hipertensión arterial y enfermedad cardiovascular, que se presenta con síntomas de dolor torácico agudo y dificultad para respirar. La exploración física revela taquicardia, hipertensión arterial y roncus respiratorios. Los análisis de sangre muestran elevación de la creatinina y la urea. Se solicitan pruebas de imagen, incluyendo una ecografía cardíaca y una radiografía de tórax, que revelan un infarto de miocardio y una neumonía. Se instaura tratamiento con analgésicos, antiinflamatorios y antibióticos, y se realiza una aspiración de líquido pleural. El paciente se encuentra estable y se le prescribe un seguimiento en el servicio de cardiología.
+Antecedentes:
+El paciente tiene un antecedente de infarto de miocardio en el año 2010 y una enfermedad cardiovascular en curso.
+Evolución y comentarios:
+El paciente se encuentra en una evolución estable y se le prescribe un seguimiento en el servicio de cardiología. Se le recomienda una dieta baja en sodio y una actividad física regular.
+Remitido por:
+Dra. Noemí Aguilar Menendez. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER).

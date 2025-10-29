@@ -1,0 +1,44 @@
+Datos del paciente.
+Nombre: Tamara Aguilera Montoya
+DNI: 18621797P
+Fecha de nacimiento: 18/04/2016
+Género: Mujer
+Domicilio: Calle de la Cabeza 61, 6I
+Ciudad: Socuéllamos, Madrid, Madrid
+Código postal: 28558
+Email: tamara.aguilera@ciberehd.org
+Teléfono fijo: +34 913 32 67 80
+Teléfono móvil: +34 717 65 46 83
+NHC: 1443721
+NASS: 133525641120
+Condición de riesgo: Limpiador
+Datos asistenciales.
+Médico: Dra. Anna Acosta Millan. NC 230581808. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 05/09/2016
+Episodio: 20749193
+Centro de salud: Centro de Salud Móstoles
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 4 meses de edad, acompañado de su madre.
+Antecedentes:
+La paciente presenta antecedentes de salud normal, sin ninguna condición médica preexistente.
+Evolución y comentarios:
+La paciente fue ingresada en el hospital debido a una infección respiratoria aguda. La exploración física revela temperatura de 38,5°C, frecuencia cardíaca de 160 bpm y frecuencia respiratoria de 40 cts/min. La paciente se encuentra consciente y orientada, pero presenta signos de malestar.
+Exploración física:
+La exploración física revela:
+Temperatura de 38,5°C
+Frecuencia cardíaca de 160 bpm
+Frecuencia respiratoria de 40 cts/min
+Conscientemente y orientada
+Signos de malestar
+Pruebas diagnósticas:
+Se han realizado las siguientes pruebas diagnósticas:
+Hemograma: Leucocitos 15.000/mm3 (neutrófilos 80%)
+VSG: 10 mm 1ª hora
+Coagulación: TQ 90%
+Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl
+Tratamiento:
+Se ha iniciado tratamiento con antibióticos y antipiréticos. La paciente se encuentra en observación en la unidad de cuidados intensivos.
+Pronóstico:
+El pronóstico es bueno, pero la paciente requiere seguimiento estrecho para evitar complicaciones.
+Remitido por:
+Dra. Anna Acosta Millan, Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).

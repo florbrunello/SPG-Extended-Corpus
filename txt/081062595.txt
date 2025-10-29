@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Gema Andres Gil
+DNI: 88832445M
+Fecha de nacimiento: 12/10/1925
+Género: M
+Domicilio: Calle de Preciados 45
+Ciudad: Torrelodones, Madrid, Madrid
+Código postal: 28169
+Email: gemagil1591@uhu.es
+Teléfono fijo: +34 913 04 08 16
+Teléfono móvil: +34 614 08 16 30
+NHC: 9286919
+NASS: 561069424116
+Condición de riesgo: Operador de Equipos Mineros
+Datos asistenciales.
+Médico: Dr. Ángel Ramírez Simon. NC 674684015. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 28/08/1966
+Episodio: 59907957
+Centro de salud: Centro de Salud Alcorcón
+Informe clínico del paciente:
+Paciente musulman de 40 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que acude al servicio de urgencias con síntomas de dolor abdominal agudo y vómitos. La exploración física revela: temperatura 37,5°C; frecuencia cardíaca 120 bpm; presión arterial 180/100 mmHg; y glucemia 250 mg/dl. Se solicitan pruebas de imagen (ecografía abdominal y radiografía de tórax) que no evidencian patología significativa. El paciente es estabilizado con tratamiento médico y se le prescribe un régimen de dieta y ejercicio para controlar su diabetes y hipertensión.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controlados con medicación y dieta. También tiene un antecedente de episodio de dolor abdominal agudo en el pasado, que se resolvió con tratamiento conservador.
+Evolución y comentarios:
+El paciente se encuentra estable después de la estabilización con tratamiento médico. Se le prescribe un régimen de dieta y ejercicio para controlar su diabetes y hipertensión. Se le realizará una revisión en el servicio de endocrinología en las próximas 48 horas para ajustar su tratamiento y controlar su condición.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien lo atendió en el servicio de urgencias del Centro de Salud Alcorcón.

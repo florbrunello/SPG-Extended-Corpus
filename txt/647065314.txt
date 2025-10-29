@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Adam Vicente Acosta
+DNI: 43005770W
+Fecha de nacimiento: 24/03/1976
+Género: Masculino
+Domicilio: Calle de la Luna 43
+Ciudad: Alcoy, Almería, Andalucía
+Código postal: 04525
+Email: adam-vicente@ioba.med.uva.es
+Teléfono fijo: +34 950 10 11 65
+Teléfono móvil: +34 650 85 52 79
+NHC: 2456344
+NASS: 693781393877
+Condición de riesgo: Inspector de Seguridad Minera
+Datos asistenciales.
+Médico: Dra. María Carmen Cabrera Soto. NC 109107247. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/08/2022
+Episodio: 01633306
+Hospital: Hospital Universitario Marqués de Valdecilla
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 46 años de edad, acompañado de su hermana. Presenta una historia de ansiedad generalizada que ha sido difícil de controlar con los tratamientos anteriores. Ha experimentado síntomas de ansiedad intensa, como palpitaciones, sudoración y dificultad para respirar, durante períodos prolongados. La exploración física revela una presión arterial elevada y un ritmo cardíaco acelerado. Los análisis de sangre muestran niveles altos de cortisol y epinefrina. Se ha solicitado una evaluación psicológica y una exploración de la posible relación entre la ansiedad y la condición de riesgo como Inspector de Seguridad Minera.
+Antecedentes:
+El paciente tiene una historia de ansiedad generalizada que ha sido difícil de controlar con los tratamientos anteriores. Ha experimentado síntomas de ansiedad intensa, como palpitaciones, sudoración y dificultad para respirar, durante períodos prolongados.
+Evolución y comentarios:
+El paciente ha sido tratado con medicamentos antianxiety y ha recibido terapia de apoyo. Sin embargo, los síntomas de ansiedad persisten y se han agravado en los últimos meses. Se ha solicitado una evaluación psicológica y una exploración de la posible relación entre la ansiedad y la condición de riesgo como Inspector de Seguridad Minera.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado un empeoramiento de los síntomas de ansiedad en los últimos meses. Se ha solicitado una evaluación psicológica y una exploración de la posible relación entre la ansiedad y la condición de riesgo como Inspector de Seguridad Minera.

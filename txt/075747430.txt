@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Clara Soto Ferrer
+DNI: 56185062H
+Fecha de nacimiento: 10/12/1975
+Género: F
+Domicilio: Calle de la Luna 55
+Ciudad: Santander, Granada, Andalucía
+Código postal: 18939
+Email: clara-soto1765@uca.es
+Teléfono fijo: +34 958 88 24 20
+Teléfono móvil: +34 658 90 60 43
+NHC: 2190784
+NASS: 728559860263
+Condición de riesgo: Conductor de Camión
+Datos asistenciales.
+Médico: Dra. Laia Segura Paredes. NC 937127912. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/02/1992
+Episodio: 21246782
+Centro de salud: Centro de Salud Málaga Oeste
+Matrícula del coche: 4982EAA
+Modelo: Toyota RAV4
+VIN: VSVKX1P0GRP335462
+Informe clínico del paciente:
+Paciente de tez blanca de 47 años de edad, acompañado de su madre. Se presenta con un cuadro de dolor lumbar crónico y fatiga generalizada. La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni fiebre. En cabeza y cuello no se palpan adenopatías ni bocio. Auscultación cardíaca rítmica, sin soplos ni roces. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 7.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 10 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal. Se solicitan estudios de imágenes (Rx lumbar y Ecografía abdominal) que no evidencian patología significativa. Con el diagnóstico de dolor lumbar crónico se instaura tratamiento sintomático (reposo, fisioterapia y medicación antiinflamatoria). El paciente mejora significativamente de su cuadro tras una semana de tratamiento.

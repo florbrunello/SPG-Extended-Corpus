@@ -1,0 +1,36 @@
+Datos del paciente.
+Nombre: María Pilar Montoya Sanz
+DNI: 43451652Y
+Fecha de nacimiento: 08/01/1991
+Género: Mujer
+Domicilio: Calle del Prado 56
+Ciudad: Elche, Córdoba, Andalucía
+Código postal: 14271
+Email: mariapilarmontoya@hotmail.com
+Teléfono fijo: +34 957 92 55 78
+Teléfono móvil: +34 757 64 39 98
+NHC: 3642620
+NASS: 501257145148
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dra. Adriana Rivero Silva. NC 332917345. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/02/2025
+Episodio: 19005512
+Centro de salud: Centro de Salud Delicias
+Informe clínico del paciente:
+Paciente de 34 años de edad, con antecedentes de salud desconocidos, se presenta en la consulta con su hija. No se observan signos de enfermedad o lesión aparente. Se registra una sesión de firma biométrica, el código obtenido para revisarla es ID349WNG773. Se solicita realizar un estudio de genética médica para determinar la predisposición a enfermedades genéticas. Se le recomienda realizar una serie de pruebas y análisis para determinar la salud genética del paciente.
+Exploración física:
+La exploración física revela que el paciente se encuentra en buen estado de salud general, con un peso y talla dentro de los límites normales. No se observan signos de enfermedad o lesión aparente en la exploración física.
+Pruebas diagnósticas:
+Se solicitan una serie de pruebas y análisis para determinar la salud genética del paciente, incluyendo:
+Análisis de ADN
+Pruebas de genética médica
+Estudio de la historia familiar
+Tratamiento: y pronóstico.
+No se requiere tratamiento específico en este momento. El pronóstico es bueno, ya que el paciente se encuentra en buen estado de salud general. Se le recomienda realizar una serie de pruebas y análisis para determinar la salud genética del paciente y tomar medidas preventivas para evitar enfermedades genéticas en el futuro.
+Antecedentes:
+No se tienen antecedentes de salud del paciente.
+Evolución y comentarios:
+El paciente se encuentra en buen estado de salud general y no se observan signos de enfermedad o lesión aparente. Se solicita realizar un estudio de genética médica para determinar la predisposición a enfermedades genéticas.
+Remitido por:
+Se remite al paciente a la unidad de genética médica para realizar un estudio de genética médica y determinar la salud genética del paciente.

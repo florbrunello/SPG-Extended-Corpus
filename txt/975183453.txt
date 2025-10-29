@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Lidia Avila Mateo
+DNI: 65003623B
+Fecha de nacimiento: 23/12/1961
+Género: Mujer
+Domicilio: Calle de los Embajadores 99
+Ciudad: Castellón de la Plana, Salamanca, Castilla y León
+Código postal: 37987
+Email: lidia_avila_mateo@salud.madrid.org
+Teléfono fijo: +34 923 00 73 08
+Teléfono móvil: +34 623 70 52 51
+NHC: 3471273
+NASS: 398774872084
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dr. Jon Izquierdo Trujillo. NC 714927639. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/06/1984
+Centro de salud: Centro de Salud Parla
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 22 años de edad, con antecedentes de migraña recurrente y sensibilidad a los cambios de temperatura. Presenta una evolución clínica de 6 meses con frecuentes episodios de cefalea, acompañados de náuseas y vómitos. La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 15 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de migraña frecuente y sensibilidad a los cambios de temperatura, se instaura tratamiento sintomático (analgésicos, antieméticos y reposo) y tratamiento preventivo (propranolol 40 mg vía oral cada 8 horas). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio con seguimiento en consultas.

@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: Irene Salas Cano
+DNI: 37758383L
+Fecha de nacimiento: 01/02/1972
+Género: F
+Domicilio: Calle del Sacramento 32
+Ciudad: San Sebastián, Barcelona, Cataluña
+Código postal: 08342
+Email: cano1432@uca.es
+Teléfono fijo: +34 930 88 28 48
+Teléfono móvil: +34 736 18 57 23
+NHC: 3894048
+NASS: 506265357882
+Condición de riesgo: Paciente con antecedentes de alergia a ciertos alimentos
+Datos asistenciales.
+Médico: Dra. Carlota Varela Avila. NC 362448037. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 04/06/2021
+Episodio: 30622846
+Hospital: Complejo Hospitalario Universitario de Santiago
+Matrícula del coche: 9022PLO
+Modelo: Honda CR-V
+VIN: VSBU123BJWC520201
+Fecha de ingreso:
+04/06/2021
+Centro de salud de ingreso:
+Complejo Hospitalario Universitario de Santiago
+Informe clínico del paciente:
+Paciente vegetariano de 49 años de edad, acompañado de su hijo, con antecedentes de alergia a ciertos alimentos. Presenta una lesión en la mano derecha, resultado de un accidente en el hogar. La exploración física revela una herida superficial con hemorragia moderada. Se solicitan pruebas de laboratorio para evaluar la posible infección. El tratamiento consiste en la limpieza y el vendaje de la herida, así como la administración de antibióticos y analgésicos.
+La evolución del paciente es favorable, con una reducción significativa de la inflamación y la hemorragia. En la exploración física de control, se observa una cicatrización adecuada de la herida. El paciente es dado de alta con instrucciones para el cuidado de la herida y la seguimiento en el consultorio.
+Antecedentes:
+El paciente tiene antecedentes de alergia a ciertos alimentos, lo que requiere una atención especial en la dieta y la ingesta de medicamentos. También tiene antecedentes de lesiones en el hogar, lo que sugiere una mayor vulnerabilidad a accidentes.
+Evolución y comentarios:
+La evolución del paciente es favorable, con una reducción significativa de la inflamación y la hemorragia. El tratamiento ha sido efectivo en la cicatrización de la herida.
+Remitido por:
+Dra. Carlota Varela Avila, Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.

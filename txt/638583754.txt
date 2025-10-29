@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Diego Plaza Esteban
+DNI: 23776990G
+Fecha de nacimiento: 28/02/1953
+Género: Hombre
+Domicilio: Calle de la Ribera 32
+Ciudad: Ferrol, Lérida, Cataluña
+Código postal: 25798
+Email: plaza639@gmail.com
+Teléfono fijo: +34 973 32 47 81
+Teléfono móvil: +34 773 83 93 36
+NHC: 9207980
+NASS: 887850916449
+Condición de riesgo: Usuario de drogas
+Datos asistenciales.
+Médico: Dr. Hugo Fuentes León. NC 894498282. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/07/2024
+Centro de salud: Centro de Salud Málaga Oeste
+Informe clínico del paciente:
+El paciente, un hombre de 61 años, fue ingresado en el centro de salud con una historia de uso de drogas. Presenta una condición clínica compleja, con antecedentes de infecciones recurrentes y problemas de salud relacionados con el uso de drogas. A continuación, se detalla la evolución clínica del paciente.
+La exploración física revela signos de malnutrición y desnutrición, con una temperatura corporal de 37,5°C y una frecuencia cardíaca de 90 latidos por minuto. El paciente está consciente y orientado, pero presenta signos de ansiedad y estrés.
+Los resultados de las pruebas analíticas muestran anemia (Hb 10,5 g/dl) y elevación de las enzimas hepáticas (GOT 120 U/l y GPT 150 U/l). El paciente también presenta una infección urinaria, con una orina con presencia de sangre y pus.
+El tratamiento se ha iniciado con antibióticos y medicamentos para controlar la infección urinaria. Se han solicitado pruebas adicionales, como una ecografía abdominal y un análisis de sangre para evaluar la función hepática y renal.
+La evolución clínica del paciente es incierta, debido a la complejidad de su condición clínica y la historia de uso de drogas. Es importante seguir monitorizando su estado de salud y ajustar el tratamiento según sea necesario.
+Antecedentes:
+El paciente tiene una historia de uso de drogas desde la edad de 20 años, con períodos de abstinencia y períodos de consumo intenso. Ha presentado infecciones recurrentes, incluyendo infecciones urinarias y pulmonares. También ha presentado problemas de salud relacionados con el uso de drogas, como anemia y problemas hepáticos.
+Evolución y comentarios:
+El paciente ha estado en tratamiento con medicamentos para controlar la infección urinaria y la anemia. Se han solicitado pruebas adicionales para evaluar la función hepática y renal. La evolución clínica del paciente es incierta, debido a la complejidad de su condición clínica y la historia de uso de drogas.
+Remitido por:
+El paciente ha sido remitido al servicio de Enfermedades Infecciosas para continuar con el tratamiento y la evaluación de su condición clínica. Se le ha recomendado que siga con el tratamiento antibiótico y que se someta a pruebas adicionales para evaluar la función hepática y renal.

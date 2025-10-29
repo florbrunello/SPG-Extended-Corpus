@@ -1,0 +1,43 @@
+Datos del paciente.
+Nombre: Rodrigo Calvo Palacios
+DNI: 37759861W
+Fecha de nacimiento: 18/01/1958
+Género: Hombre
+Domicilio: Calle del Doctor Esquerdo 8
+Ciudad: Palencia, Álava, Pais Vasco
+Código postal: 01809
+Email: calvopalacios@ciberned.es
+Teléfono fijo: +34 945 76 26 18
+FAX: +34 945 94 99 70
+NHC: 2390177
+NASS: 999256485712
+Condición de riesgo: Ingeniero de Minas
+Datos asistenciales.
+Médico: Dra. Ana Belén García Trujillo. NC 639290495. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/01/2024
+Episodio: 75376675
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 2957LTL
+Modelo: Mercedes-Benz C-Class
+VIN: VSGD90BRQGH595679
+Informe clínico del paciente:
+Paciente vegano de 63 años de edad, con antecedentes de hipertensión arterial y enfermedad cardiovascular, que acude al Servicio de Urgencias con síntomas de dolor torácico agudo y dificultad para respirar. La exploración física revela taquicardia, hipertensión arterial y roncus respiratorios. Se solicitan pruebas de imagen y análisis de sangre para determinar la causa subyacente de los síntomas.
+La exploración física revela:
+- Tª 38,5 C
+- T.A: 140/90 mmHg
+- Fc: 22 lpm
+- Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación
+- En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular
+- Auscultación cardíaca rítmica, sin soplos, roces ni extratonos
+- Auscultación pulmonar con conservación del murmullo vesicular
+- Abdomen blando, depresible, sin masas ni megalias
+- En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad
+- Extremidades sin varices ni edemas
+- Pulsos periféricos presentes y simétricos
+Los datos analíticos muestran los siguientes resultados:
+- Hemograma: Hb 14,2 g/dl; leucocitos 12.500/mm3 (neutrófilos 70%); plaquetas 250.000/mm3
+- VSG: 30 mm 1ª hora
+- Coagulación: TQ 90%; TTPA 20,5 seg
+- Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,1 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl
+- Orina: sedimento normal
+Se solicitan pruebas de imagen (Ecografía cardíaca, TAC torácico) y análisis de sangre (enzimas cardíacas, troponina) para determinar la causa subyacente de los síntomas.

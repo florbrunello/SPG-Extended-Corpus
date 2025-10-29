@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Álvaro Pérez Maldonado
+DNI: 13972104H
+Fecha de nacimiento: 11/04/1940
+Género: M
+Domicilio: Calle del Oso 30, 9Y
+Ciudad: Pamplona, Cádiz, Andalucía
+Código postal: 11046
+Email: maldonado1853@salud.madrid.org
+Teléfono fijo: +34 956 98 53 37
+FAX: +34 956 50 42 64
+NHC: 5854132
+NASS: 999189511341
+Condición de riesgo: Minero
+Datos asistenciales.
+Médico: Dra. María Victoria Pacheco Heredia. NC 556664537. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/11/1974
+Episodio: 03784482
+Hospital: Hospital GaldaKao - Usansolo
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 34 años de edad, acompañado de su amiga, que presenta un cuadro de dolor en la región lumbar de intensidad moderada, que se ha intensificado en las últimas 24 horas. El paciente informa que ha estado realizando actividades físicas de intensidad moderada durante las últimas semanas, lo que podría estar relacionado con la aparición del dolor.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la región lumbar se aprecia una zona de hiperestesia en la región lumbosacra, sin signos de deformidad o alteración de la marcha.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 10.200/mm3 (neutrófilos 65%); plaquetas 250.000/mm3. VSG: 15 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía lumbar) para evaluar la posible causa del dolor. El resultado de la ecografía muestra una hernia de disco L4-L5 con impingement sobre la raíz nerviosa.
+Con el diagnóstico de hernia de disco lumbar se instaura tratamiento conservador (reposo, fisioterapia y medicación antiinflamatoria) y se programa una cita para una posible cirugía si el tratamiento no da resultados.
+Evolución y comentarios:
+El paciente se encuentra estable y sin signos de complicación. Se le ha proporcionado información sobre la importancia de seguir el tratamiento y la necesidad de seguir con la fisioterapia para mejorar la función y la movilidad de la región lumbar.
+Remitido por:
+Se le ha remitido al paciente a la consulta de fisioterapia para seguir con el tratamiento y la rehabilitación de la región lumbar. Se le ha proporcionado información sobre la importancia de seguir el tratamiento y la necesidad de seguir con la fisioterapia para mejorar la función y la movilidad de la región lumbar.

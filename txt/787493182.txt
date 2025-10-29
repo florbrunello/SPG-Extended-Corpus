@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Celia Jiménez Roca
+DNI: 30923770V
+Fecha de nacimiento: 27/11/1989
+Género: F
+Domicilio: Calle de Velázquez 79, 2Z
+Ciudad: Langreo, Toledo, Castilla-La Mancha
+Código postal: 45208
+Email: celiaroca@ciberer.es
+Teléfono fijo: +34 925 87 77 57
+Teléfono móvil: +34 625 20 54 89
+NHC: 8817113
+NASS: 575585124311
+Condición de riesgo: Trabajador de Minería
+Datos asistenciales.
+Médico: Dra. Sonia Conde Izquierdo. NC 914486925. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/08/2008
+Episodio: 48852206
+Centro de salud: Centro de Salud Conde de Casal
+Informe clínico del paciente:
+Paciente de ascendencia centroasiática de 18 años de edad, acompañado de su suegra. Presenta un cuadro de visión borrosa en el ojo derecho desde hace 3 días, con fotofobia y dolor ocular. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni signos de infección. En la exploración oftalmológica se aprecia una úlcera corneal en el ojo derecho, con descarga purulenta y edema conjuntival.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 50%); plaquetas 200.000/ mm3. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía ocular y Tomografía computarizada de la cabeza) que no evidencian patología significativa. Con el diagnóstico de úlcera corneal se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación ocular) así como tratamiento antibiótico específico: Cefalexina 500 mg vía oral cada 6 horas (durante 7 días). El paciente mejora significativamente de su cuadro tras 3 días de tratamiento, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento antibiótico.
+Antecedentes:
+La paciente tiene antecedentes de alergia a penicilina.
+Evolución y comentarios:
+El paciente se mantiene estable y sin complicaciones durante el período de alta.
+Remitido por:
+Se remitió al paciente a su domicilio con instrucciones de seguimiento en el Servicio de Oftalmología del Centro de Salud Conde de Casal.

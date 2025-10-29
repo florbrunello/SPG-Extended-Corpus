@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Asier Ortiz Navarro
+DNI: 57608529S
+Fecha de nacimiento: 28/05/1954
+Género: Hombre
+Domicilio: Calle de Tribulete 97
+Ciudad: Avilés
+Código postal: 46438
+Email: ortiz-navarro1774@uhu.es
+Teléfono fijo: +34 960 50 10 59
+Teléfono móvil: +34 760 49 42 53
+NHC: 0825223
+NASS: 083909335600
+Condición de riesgo: No especificada
+Datos asistenciales.
+Médico: Dr. Rubén Benito Mendoza
+NC: 755123563
+Especialidad: Neurólogo Especialista en Alzheimer
+Instituto: Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)
+Dirección: Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso: 19/03/1995
+Episodio: 49730022
+Centro de salud: Centro de Salud Coslada
+Informe clínico del paciente:
+Paciente no fumador de 40 años de edad, que acude al servicio de urgencias con un cuadro de confusión y disminución de la conciencia. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de disminución de la conciencia, con dificultad para mantener la postura erecta y disminución de la refleja de Babinski.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,8 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,2 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 100 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de disminución de la conciencia de causa desconocida, se instaura tratamiento de soporte (reposo, hidratación y oxígeno) y se solicitan pruebas de imagen (TAC craneal, Ecocardiograma transtorácico y Ecografía abdominal) para determinar la causa subyacente. El paciente se encuentra en observación en la unidad de cuidados intensivos.

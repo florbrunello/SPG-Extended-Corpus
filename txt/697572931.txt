@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Lidia Diez Contreras
+DNI: 99180966K
+Fecha de nacimiento: 08/04/1947
+Género: Mujer
+Domicilio: Calle del Espíritu Santo 15
+Ciudad: Úbeda, Cantabria, Cantabria
+Código postal: 39120
+Email: lidia.diez@uhu.es
+Teléfono fijo: +34 942 03 05 84
+Teléfono móvil: +34 742 68 12 06
+NHC: 7998987
+Condición de riesgo: Conserje
+Datos asistenciales.
+Médico: Dra. Natalia Franco Cortés. NC 793389064. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/06/2023
+Episodio: 24192791
+Centro de salud: Centro de Salud Sevilla Norte
+Matrícula del coche: 9191QDC
+Modelo: Kia Sorento
+VIN: VSNXARXDVXK909846
+Informe clínico del paciente:
+Paciente vegano de 76 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Se presenta con síntomas de dolor abdominal crónico y pérdida de peso durante los últimos 6 meses. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni signos de dolor. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 70%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal, Ecocardiograma transtorácico) que no evidencian patología significativa. Con el diagnóstico de enfermedad inflamatoria intestinal se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación testicular) así como tratamiento farmacológico específico: Aminas saliciladas 500 mg vía oral cada 6 horas (durante 2 semanas) y Metilprednisolona 20 mg vía oral cada 12 horas (durante 1 semana). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde completará la pauta de tratamiento farmacológico.

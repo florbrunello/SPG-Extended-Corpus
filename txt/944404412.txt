@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Aurora Romero Calderon
+DNI: 62560371A
+Fecha de nacimiento: 06/07/1970
+Género: F
+Domicilio: Calle de Bravo Murillo 50
+Ciudad: Zamora, Navarra, Navarra
+Código postal: 31837
+Email: romero.calderon@gmail.com
+Teléfono fijo: +34 948 61 52 06
+FAX: +34 948 23 28 07
+NHC: 5821545
+NASS: 62560371A
+Condición de riesgo: Consumidor de alcohol
+Datos asistenciales.
+Médico: Dr. Joaquín Ríos Aparicio. NC 892652926. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/01/1991
+Centro de salud: Hospital Universitario de Gran Canaria Dr. Negrín
+Matrícula del coche: 1742QDS
+Modelo: Toyota RAV4
+VIN: VST77587KVE251216
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 51 años de edad, acompañado de su abuelo. Presenta una evolución clínica de 6 meses con un consumo moderado de alcohol, sin antecedentes de abuso o dependencia. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin signos de intoxicación o abstinencia. En la exploración neurológica no se detectan signos de alteración del estado de ánimo o del nivel de conciencia. La función hepática y renal se encuentra dentro de los límites normales.
+La evolución clínica se ha caracterizado por una progresión gradual de la enfermedad, con un aumento en la frecuencia y la intensidad de los episodios de consumo de alcohol. El paciente ha presentado episodios de ansiedad y depresión, sin signos de deterioro cognitivo o de alteración de la personalidad.
+Se ha solicitado una exploración más exhaustiva para determinar la causa subyacente de la enfermedad y para establecer un diagnóstico preciso. Se han realizado análisis de sangre y orina, así como una exploración física y neurológica detallada. Los resultados de estos análisis no han revelado signos de alteración en la función hepática o renal, ni en la función cognitiva o de la personalidad.
+El tratamiento se ha centrado en la reducción del consumo de alcohol y en la prevención de episodios de abstinencia. Se ha recomendado al paciente que busque apoyo en un grupo de apoyo para personas con problemas de abuso de sustancias y que se someta a una evaluación psicológica para determinar la causa subyacente de la enfermedad.
+Antecedentes:
+El paciente tiene antecedentes de consumo de alcohol desde los 15 años de edad, sin signos de abuso o dependencia. Ha presentado episodios de ansiedad y depresión en varias ocasiones, sin signos de deterioro cognitivo o de alteración de la personalidad.
+Evolución y comentarios:
+La evolución clínica se ha caracterizado por una progresión gradual de la enfermedad, con un aumento en la frecuencia y la intensidad de los episodios de consumo de alcohol. El paciente ha presentado episodios de ansiedad y depresión, sin signos de deterioro cognitivo o de alteración de la personalidad.
+Remitido por:
+El paciente ha sido remitido a un especialista en psiquiatría para una evaluación más exhaustiva y para establecer un diagnóstico preciso. Se ha recomendado al paciente que busque apoyo en un grupo de apoyo para personas con problemas de abuso de sustancias y que se someta a una evaluación psicológica para determinar la causa subyacente de la enfermedad.

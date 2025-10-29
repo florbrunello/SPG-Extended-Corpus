@@ -1,0 +1,36 @@
+Datos del paciente.
+Nombre: José Miguel Casas Gallardo
+DNI: 20651268M
+Fecha de nacimiento: 06/05/2021
+Género: M
+Domicilio: Calle de Bravo Murillo 70
+Ciudad: Alcázar de San Juan, Zamora, Castilla y León
+Código postal: 49341
+Email: casas_gallardo1124@gmail.com
+Teléfono fijo: +34 980 93 18 04
+FAX: +34 980 54 86 57
+NHC: 7064209
+NASS: 441988478095
+Condición de riesgo: Enfermera
+Datos asistenciales.
+Médico: Dra. María Isabel Moya Domínguez. NC 784443005. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/08/2023
+Episodio: 00592523
+Hospital: Hospital Universitario Doctor Peset
+Informe clínico del paciente:
+El paciente es un niño de 2 años de edad, que se presenta con síntomas de infección respiratoria aguda, acompañado de su hermano. Según la madre, el paciente ha tenido fiebre y tos durante los últimos 3 días, y ha estado con dificultades para respirar. El paciente tiene una temperatura de 38,5°C y presenta signos de infección respiratoria aguda, como tos y dificultad para respirar. Se han realizado pruebas de laboratorio y se ha solicitado una radiografía de tórax para evaluar la presencia de infección pulmonar.
+La exploración física revela:
+- Tª 38,5°C
+- T.A: 105/65 mmHg
+- Fc: 90 lpm
+- El paciente se encuentra consciente, orientado y con buena respuesta a la estímulo.
+- Auscultación cardíaca rítmica, sin soplos ni roces.
+- Auscultación pulmonar con conservación del murmullo vesicular.
+- Abdomen blando y depresible.
+- Extremidades sin varices ni edemas.
+Los datos analíticos muestran:
+- Hemograma: Hb 12,5 g/dl; leucocitos 18.000/mm3 (neutrófilos 70%).
+- VSG: 40 mm 1ª hora.
+- Coagulación: TQ 90%; TTPA 25,8 seg.
+- Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 136 mEq/l; potasio 3,5 mEq/l.
+Se ha iniciado el tratamiento con antibióticos y se está monitorizando la evolución del paciente.

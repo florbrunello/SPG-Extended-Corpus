@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: José Javier Mendoza Maldonado
+DNI: 87563519N
+Fecha de nacimiento: 26/07/1950
+Género: M
+Domicilio: Calle de Gobernador 3
+Ciudad: Socuéllamos, Guadalajara, Castilla-La Mancha
+Código postal: 19182
+Email: josejaviermendoza-maldonado@ub.edu
+Teléfono fijo: +34 949 58 78 84
+FAX: +34 949 00 15 90
+NHC: 4189699
+NASS: 760724186881
+Condición de riesgo: Fabricante
+Datos asistenciales.
+Médico: Dra. Purificación Benítez Silva. NC 809823292. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 24/07/2022
+Episodio: 90482733
+Hospital: Hospital Universitario Fundación Alcorcón
+Antecedentes:
+- Paciente no fumador
+- Acompañado de su abuela
+Evolución y comentarios:
+- Paciente en buen estado de salud
+- No presenta síntomas ni signos de enfermedad
+Remitido por:
+- Dr. Juan Carlos García García, Médico de Familia
+Informe clínico del paciente:
+Paciente no fumador de 3 años de edad, acompañado de su abuela. Se le realizó un examen médico completo, y no se detectaron síntomas ni signos de enfermedad. Se le dio un alta médica y se le recomendó seguir con su rutina normal.

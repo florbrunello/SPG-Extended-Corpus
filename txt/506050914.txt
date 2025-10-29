@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Eva Castillo Rico
+DNI: 78467456N
+Fecha de nacimiento: 22/04/2002
+Género: Femenino
+Domicilio: Calle de las Infantas 71
+Ciudad: Santa Cruz de Tenerife, Ciudad Real, Castilla-La Mancha
+Código postal: 13311
+Email: QCY0BKQo4u@ioba.med.uva.es
+Teléfono fijo: +34 926 08 28 71
+Teléfono móvil: +34 726 44 52 29
+NHC: 7997999
+NASS: 78467456N
+Condición de riesgo: Estudiante universitaria
+Datos asistenciales.
+Médico: Dr. Bruno Hurtado Carrillo. NC 188839464. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/07/2018
+Episodio: 73035580
+Hospital: Hospital Universitario de Cabueñes
+Antecedentes:
+El paciente tiene antecedentes de hipersensibilidad a los productos lácteos, lo que ha llevado a una dieta vegetariana desde los 10 años de edad.
+Evolución y comentarios:
+El paciente ha estado experimentando síntomas de ansiedad y depresión desde hace unos meses, lo que ha afectado su capacidad para realizar actividades cotidianas.
+Remitido por:
+Se remitió al paciente desde el Servicio de Psicología del Hospital Universitario de Cabueñes.
+Informe clínico del paciente:
+El paciente, de 16 años de edad, se presenta con síntomas de ansiedad y depresión. El paciente ha estado experimentando problemas de sueño, pérdida de apetito y cambios en su estado de ánimo. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Se solicitan análisis de sangre para determinar los niveles de serotonina y otros neurotransmisores. El tratamiento se centrará en la terapia cognitivo-conductual y la medicación antidepresiva. Se programará una revisión en 1 semana para evaluar la evolución del paciente.

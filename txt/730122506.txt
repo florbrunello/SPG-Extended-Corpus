@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Juan Ramón Miranda Bernal
+DNI: 70867584F
+Fecha de nacimiento: 28/12/1999
+Género: Hombre
+Domicilio: Calle de Santa Ana 15
+Ciudad: Jaén, Barcelona, Cataluña
+Código postal: 08711
+Email: Ojb48xH@udc.es
+Teléfono fijo: +34 936 49 12 72
+FAX: +34 932 82 41 78
+NHC: 9328012
+NASS: 639843554964
+Condición de riesgo: Ama de casa
+Datos asistenciales.
+Médico: Dr. Agustín Pacheco Lozano. NC 504626613. Especialista en Enfermedades Infecciosas. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/05/2015
+Episodio: 46434978
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Matrícula del coche: 9916AXG
+Modelo: Mercedes-Benz C-Class
+VIN: VSAGUJTCS9D661976
+Informe clínico del paciente:
+Paciente vegano de 15 años de edad, acompañado de su hermano, que acude al servicio de urgencias con síntomas de gastroenteritis aguda. La exploración física revela temperatura de 38,5°C, frecuencia cardíaca de 120 bpm y presión arterial de 120/80 mmHg. El paciente se encuentra consciente y orientado, pero presenta signos de diarrea y vómitos.
+Evolución y comentarios:
+Durante el ingreso, se solicitan análisis de sangre y orina para determinar la causa subyacente de la gastroenteritis. Los resultados muestran una elevación de la creatinina y una disminución de la glóbulos rojos. Se realiza una ecografía abdominal para evaluar la presencia de cualquier obstrucción o inflamación. Los resultados de la ecografía no muestran ninguna anomalía significativa.
+Tratamiento:
+Se instaura un tratamiento sintomático con antitérmicos y antiinflamatorios para controlar los síntomas de la gastroenteritis. También se prescribe un tratamiento antibiótico para prevenir la infección por bacterias. El paciente se encuentra en observación en la unidad de cuidados intensivos para monitorear su evolución y ajustar el tratamiento según sea necesario.
+Remitido por:
+El paciente es remitido al servicio de gastroenterología para una evaluación más detallada y un seguimiento de su tratamiento.

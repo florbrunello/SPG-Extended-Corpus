@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Catalina García Galan
+DNI: 63680079W
+Fecha de nacimiento: 23/12/1931
+Género: Mujer
+Domicilio: Calle de Atocha 53
+Ciudad: Majadahonda, Navarra, Navarra
+Código postal: 31717
+Email: catalina.garcia-galan923@imibic.org
+Teléfono fijo: +34 948 33 78 69
+Teléfono móvil: +34 748 03 42 60
+NHC: 7209799
+Condición de riesgo: Inspector de Seguridad Minera
+Datos asistenciales.
+Médico: Dr. Santiago Cabrera Montes. NC 784688752. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 08/04/1971
+Episodio: 53607644
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Matrícula del coche: 3851XHD
+Modelo: Toyota Corolla
+VIN: VSZB6QUH7GO274143
+Informe clínico del paciente:
+La paciente se presenta con una historia de hipertensión arterial controlada con medicación, aunque con episodios de hipertensión resistente a tratamiento. En la exploración física, se observa una tensión arterial de 180/100 mmHg, con un índice de masa corporal (IMC) de 30 kg/m². La paciente denota una grasa corporal aumentada, con un perímetro de cintura de 105 cm y un perímetro de caderas de 120 cm. La exploración neurológica y cardiovascular no revela anormalidades significativas.
+Se solicitan análisis de sangre para evaluar la función renal y la presión arterial, así como una ecografía abdominal para evaluar la función hepática y renal. Los resultados de los análisis de sangre muestran una función renal normal, aunque con un nivel elevado de triglicéridos y colesterol. La ecografía abdominal revela un hígado de tamaño normal, sin signos de cirrosis o insuficiencia hepática.
+En base a los resultados, se decide iniciar un tratamiento con medicación antihipertensiva y un plan de dieta y ejercicio para reducir el IMC y mejorar la función cardiovascular. Se programa una revisión en 6 semanas para evaluar el progreso de la paciente.
+Evolución y comentarios:
+La paciente se muestra cooperativa y comprometida con el tratamiento. Se le proporciona información y apoyo para que pueda llevar un estilo de vida saludable y reducir el riesgo de complicaciones cardiovasculares.
+Remitido por:
+Dr. Santiago Cabrera Montes
+Endocrinólogo Especialista en Diabetes
+Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC)
+Avenida Menéndez Pidal, s/n. 14004. Córdoba. España

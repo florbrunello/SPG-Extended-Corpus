@@ -1,0 +1,38 @@
+Datos del paciente.
+Nombre: Ana Belén Blazquez Avila
+DNI: 47035716A
+Fecha de nacimiento: 10/06/1958
+Género: Femenino
+Domicilio: Calle de Alcalá 37, 10S
+Ciudad: Torrejón de Ardoz, Guipúzcoa, Pais Vasco
+Código postal: 20009
+Email: anabelen_blazquez-avila@ual.es
+Teléfono fijo: +34 943 23 81 30
+Teléfono móvil: +34 743 45 18 58
+NHC: 1307284
+NASS: 468043486571
+Condición de riesgo: Científico de Investigación
+Datos asistenciales.
+Médico: Dr. Diego Salazar Ruiz. NC 989169741. Gastroenterólogo Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/03/1959
+Episodio: 06897462
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 3738DYS
+Modelo: Tesla Model 3
+VIN: VSJKATURBSZ112461
+Domicilio del médico: Calle de la Reina 10, 28008 Madrid, España
+Cargo del médico: Jefe del Servicio de Gastroenterología
+Fecha de ingreso: 12/03/1959
+Centro de salud de ingreso: Centro de Salud Centro
+Informe clínico del paciente:
+Paciente transeúnte de 9 meses de edad, acompañado de su abuela. Se presenta con una temperatura corporal de 37,5°C, sin signos de dolor ni inestabilidad. El paciente tiene una historia de alergia a ciertos alimentos y ha presentado episodios de diarrea en el pasado.
+La exploración física revela un peso de 8 kg y una talla de 75 cm. El paciente está consciente y orientado, con buen estado de nutrición e hidratación. No se detectan signos de dolor ni inestabilidad en la exploración física.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 138 mEq/l; potasio 3,8 mEq/l; GOT 10 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas diagnósticas, incluyendo una radiografía de tórax y una ecografía abdominal. Los resultados de estas pruebas no evidencian patología significativa.
+Con base en la exploración física y los resultados de las pruebas diagnósticas, se establece un diagnóstico de gastroenteritis viral leve. Se instaura tratamiento sintomático, incluyendo antitérmicos y antiinflamatorios, así como medidas de hidratación y reposo. El paciente mejora significativamente en las primeras 24 horas de ingreso y se decide su alta a domicilio.
+Antecedentes:
+El paciente tiene una historia de alergia a ciertos alimentos y ha presentado episodios de diarrea en el pasado.
+Evolución y comentarios:
+El paciente se encuentra en buen estado de salud después de la enfermedad. Se recomienda seguir una dieta equilibrada y evitar alimentos que puedan desencadenar episodios de diarrea.
+Remitido por:
+El paciente fue remitido por su abuela, quien se encuentra al tanto de su estado de salud y está dispuesta a proporcionar información adicional si es necesario.

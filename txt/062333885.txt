@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Pol Parra Arias
+DNI: 61166326B
+Fecha de nacimiento: 03/02/1975
+Género: Hombre
+Domicilio: Calle de O'Donnell 63, 1Y
+Ciudad: Alcoy, Valladolid, Castilla y León
+Código postal: 47624
+Email: pol-arias@aol.com
+Teléfono fijo: +34 983 32 70 63
+FAX: +34 983 86 28 68
+NHC: 9949327
+NASS: 422942487051
+Condición de riesgo: Operador de Máquina
+Datos asistenciales.
+Médico: Dr. Albert Jurado Prieto. NC 728144220. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/12/1990
+Episodio: 74996528
+Centro de salud: Centro de Salud Benalmádena
+Informe clínico del paciente:
+Paciente de ascendencia indígena centroamericana de 15 años de edad, acompañado de su padre. Presenta un cuadro de ansiedad generalizada con síntomas de hipervigilancia, dificultad para conciliar el sueño y problemas de concentración. El paciente relata haber experimentado un evento traumático en su infancia que podría estar relacionado con su actual estado emocional.
+Antecedentes:
+El paciente tiene antecedentes de problemas de conducta en la escuela y ha sido sometido a terapia de conducta en el pasado. Su padre reporta que el paciente ha estado experimentando cambios en su comportamiento y estado de ánimo en los últimos meses.
+Evolución y comentarios:
+El paciente ha sido evaluado por un equipo multidisciplinario y se ha determinado que necesita un tratamiento intensivo para abordar sus síntomas de ansiedad. Se ha iniciado un plan de tratamiento que incluye terapia cognitivo-conductual y medicación.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha reportado que el paciente ha estado experimentando problemas de salud mental en los últimos meses.
+Fecha de alta:
+El paciente ha sido dado de alta del hospital después de completar un período de observación y tratamiento. Se le ha proporcionado información y recursos para que pueda continuar con su tratamiento en el futuro.

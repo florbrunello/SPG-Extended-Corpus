@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Ahmed Macias Jiménez
+DNI: 28067380C
+Fecha de nacimiento: 01/03/1942
+Género: Hombre
+Domicilio: Calle de Eduardo Dato 51
+Ciudad: Jaca, Ibiza, Islas Baleares
+Código postal: 07847
+Email: macias@ciberehd.org
+Teléfono fijo: +34 971 88 81 69
+Teléfono móvil: +34 771 05 79 59
+NHC: 1963684
+NASS: 739345763604
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dra. Andrea Martínez Pastor. NC 537316574. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/02/2002
+Episodio: 98044560
+Centro de salud: Centro de Salud Sevilla Norte
+Informe clínico del paciente:
+Paciente de descendencia africana de 59 años de edad, acompañado de su tía, que refiere dolores en la región lumbar y debilidad muscular en las piernas durante los últimos 6 meses. La evolución clínica ha sido gradual, sin períodos de remisión significativos. El paciente ha notado dificultad para caminar largas distancias y ha requerido el uso de un bastón para mantener el equilibrio.
+La exploración física revela: Tª 36,8 C; T.A: 120/80 mmHg; Fc: 80 lpm. El paciente se encuentra consciente, orientado, sin sudoración excesiva ni taquicardia. En la exploración neurológica se aprecian signos de debilidad muscular en las piernas, con ausencia de reflejos en los tobillos. La exploración de la región lumbar no revela signos de dolor o hinchazón.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 7.500/mm3 (neutrófilos 50%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 15 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de enfermedad de Parkinson, se instaura tratamiento sintomático (antiparkinsonianos, reposo y ejercicio físico regular) y tratamiento farmacológico (levodopa con carbidopa). El paciente muestra mejoría significativa en la movilidad y la función muscular después de 6 semanas de tratamiento.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación.
+Evolución y comentarios:
+El paciente sigue en tratamiento y muestra mejoría significativa en la calidad de vida. Es importante seguir monitoreando la evolución clínica y realizar ajustes en el tratamiento según sea necesario.
+Remitido por:
+Dra. Andrea Martínez Pastor, Residente de 2° año en Pediatría, Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER).

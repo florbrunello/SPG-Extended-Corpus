@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Manuel Jesús Escudero Rivero
+DNI: 16970780T
+Fecha de nacimiento: 04/03/2020
+Género: Masculino
+Domicilio: Calle del Fúcar 48
+Ciudad: Jaén, Vizcaya, Pais Vasco
+Código postal: 48592
+Email: escudero.rivero@ub.edu
+Teléfono fijo: +34 946 56 32 36
+FAX: +34 946 46 47 68
+NHC: 1960195
+NASS: 467823481492
+Condición de riesgo: Técnico de Radiología
+Datos asistenciales.
+Médico: Dr. Leo Sáez Robles. NC 655312885. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 27/03/2021
+Episodio: 13492216
+Centro de salud: Centro de Salud Fuengirola
+Matrícula del coche: 2777DIJ
+Modelo: Mercedes-Benz C-Class
+VIN: VSNT0EOLAAG691753
+Informe clínico del paciente:
+Paciente de tez blanca de un año de edad, acompañado de su tía. 
+Antecedentes:
+El paciente fue referido por su pediatra debido a una posible infección respiratoria. El paciente ha estado con fiebre y tos durante los últimos tres días.
+Evolución y comentarios:
+Al llegar al hospital, el paciente presentaba una temperatura de 38,5°C y una tos seca. La exploración física reveló una respiración superficial y rápida. Se realizaron análisis de sangre para determinar la causa de la infección.
+Remitido por:
+Se remitió al paciente a la unidad de pediatría para seguimiento y tratamiento.

@@ -1,0 +1,37 @@
+Datos del paciente.
+Nombre: Ignacio Cano Jurado
+DNI: 77010608F
+Fecha de nacimiento: 11/06/1966
+Género: Varón
+Domicilio: Calle del Rollo 13
+Ciudad: Lorca
+Provincia: Murcia
+Código postal: 25502
+Email: cano1278@uca.es
+Teléfono fijo: +34 973 51 14 49
+Teléfono móvil: +34 673 15 64 68
+NHC: 2245447
+NASS: 613814007559
+Condición de riesgo: Repartidor
+Datos asistenciales.
+Médico: Dr. Xavier Moreno Caballero
+NC: 881780459
+Cargo: Residente de 5° año en Neurología
+Institución: Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)
+Dirección: Avenida Monforte de Lemos 3-5
+Ciudad: Madrid
+Código postal: 28029
+País: España
+Fecha de ingreso:
+18/10/2012
+Centro de salud de ingreso:
+Hospital Universitario Virgen del Rocío
+Informe clínico del paciente:
+Paciente de ascendencia árabe de 46 años de edad, con antecedentes de sobrepeso y hipertensión, que acude al hospital con síntomas de cefalea y vómitos durante las últimas 48 horas. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni signos de dolor. En la exploración neurológica se detectan signos de alteración del estado de ánimo, con irritabilidad y ansiedad. Los resultados de los análisis de sangre muestran: Hemograma: Hb 14,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 15 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Rx tórax, Ecografía abdominal, TAC craneal) para evaluar la causa de los síntomas. Los resultados de las pruebas muestran una lesión en el lóbulo temporal derecho, con posible edema y hemorragia. Con el diagnóstico de hemorragia cerebral, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y tratamiento médico (anticoagulantes y antiplaquetarios). El paciente se encuentra en observación en la unidad de cuidados intensivos.
+Antecedentes:
+El paciente tiene antecedentes de sobrepeso y hipertensión, con tratamiento médico en curso. También tiene antecedentes de tabaquismo y consumo de alcohol en exceso.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos, con tratamiento médico en curso. La evolución es estable, con signos de mejora en los síntomas. Se realizarán revisiones periódicas para evaluar la progresión de la enfermedad.
+Remitido por:
+Dr. Xavier Moreno Caballero, Residente de 5° año en Neurología, Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED).

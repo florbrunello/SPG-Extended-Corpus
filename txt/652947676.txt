@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Aitor García Pereira
+DNI: 93474320C
+Fecha de nacimiento: 13/04/1979
+Género: Masculino
+Domicilio: Calle de Santa Isabel 29
+Ciudad: Langreo, Valladolid, Castilla y León
+Código postal: 47084
+Email: garcia_pereira@uhu.es
+Teléfono fijo: +34 983 35 68 86
+Teléfono móvil: +34 783 38 67 90
+NHC: 8104420
+NASS: 506721243107
+Condición de riesgo: No especificada
+Datos asistenciales.
+Médico: Dra. María Esther Maldonado Núñez. NC 175583630. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/03/2003
+Episodio: 39759106
+Centro de salud: Centro de Salud Parla
+Matrícula del coche: 1026USA
+Modelo: Mercedes-Benz C-Class
+VIN: VSAB6KA0W9U457432
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 23 años de edad, acompañado de su tía. Se registró una sesión de escaneo retiniano, el código obtenido para revisarla es LW779VZP635.
+La exploración física revela: el paciente se encuentra consciente, orientado, sin signos de dolor ni malestar. No se palpan adenopatías ni bocio. La auscultación cardíaca es rítmica y sin soplos. La auscultación pulmonar es normal. El abdomen es blando y depresible. La exploración neurológica no muestra signos de meníngeos ni focalidad. Las extremidades están sin varices ni edemas.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC craneal) que no evidencian patología significativa.
+Con base en la exploración y los resultados analíticos, se considera que el paciente no presenta signos de enfermedad grave. Se le recomienda realizar una revisión médica en un plazo de 6 meses para evaluar su estado de salud.
+Antecedentes:
+No se registran antecedentes médicos relevantes.
+Evolución y comentarios:
+No se registran comentarios adicionales.
+Remitido por:
+No se especifica remitido por.

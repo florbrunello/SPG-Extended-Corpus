@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: José Ramón Vicente Salazar
+DNI: 91686845J
+Fecha de nacimiento: 17/02/1953
+Género: Hombre
+Domicilio: Calle de la Reina 49, 7T
+Ciudad: Pamplona, Sevilla, Andalucía
+Código postal: 41165
+Email: joseramon.salazar@udc.es
+Teléfono fijo: +34 954 57 66 18
+Teléfono móvil: +34 654 43 19 25
+NHC: 5782796
+NASS: 661459126610
+Condición de riesgo: Trabajador de Minería
+Datos asistenciales.
+Médico: Dr. Fernando Benítez Ferrer. NC 720346537. Residente de 5° año en Neurología. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 03/04/2004
+Centro de salud: Centro de Salud Delicias
+Informante: Abuela del paciente
+Informe clínico del paciente:
+Paciente de 51 años de edad, fumador, que acude a consulta con síntomas de... (falta de información para completar el informe clínico)

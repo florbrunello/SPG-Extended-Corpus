@@ -1,0 +1,24 @@
+Datos del paciente.
+Nombre: Juan Carlos Rivero Guerra
+DNI: 66377870P
+Fecha de nacimiento: 20/04/1926
+Género: Masculino
+Domicilio: Calle de Áncora 22
+Ciudad: Plasencia, La Rioja, La Rioja
+Código postal: 26583
+Email: juancarlos@hotmail.com
+Teléfono fijo: +34 941 63 74 38
+Teléfono móvil: +34 741 62 16 09
+NHC: 2019538
+NASS: 966739967889
+Condición de riesgo: Trabajador de Servicios de Limpieza
+Datos asistenciales.
+Médico: Dr. Aarón Mora Ortega. NC 522124633. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/11/2015
+Centro de salud: Centro de Salud Arganda del Rey
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 89 años de edad, acompañado de su hermana, presenta un cuadro clínico caracterizado por una disnea leve a moderada durante las últimas semanas, con un aumento progresivo de la frecuencia cardíaca y una disminución en la capacidad de realizar actividades físicas sin fatiga.
+La exploración física revela: Tª 36,8 C; T.A: 140/90 mmHg; Fc: 110 lpm. Se encuentra consciente, orientado, sin sudoración ni signos de inestabilidad. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca con murmuro de insuficiencia mitral y un soplo en la región pulmonar. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 180.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 85%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 137 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan ECG y Ecocardiograma transtorácico, que muestran una disfunción ventricular izquierda y una insuficiencia mitral severa. Se diagnostica una insuficiencia cardíaca congestiva en estadio III.
+Se instaura tratamiento sintomático (diuréticos, antiagregantes plaquetarios, reposo y elevación de las piernas) así como tratamiento farmacológico (ACE-inhibidor y diurético). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio con seguimiento en la consulta externa.

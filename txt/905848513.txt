@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: María Dolores Conde Rubio
+DNI: 48211597D
+Fecha de nacimiento: 17/06/1973
+Género: Mujer
+Domicilio: Calle Mayor 74
+Ciudad: Móstoles
+Código postal: 48519
+Email: maria.doloresconde@hotmail.com
+Teléfono fijo: +34 946 34 09 19
+Teléfono móvil: +34 646 63 40 95
+NHC: 4122925
+NASS: 468043486571
+Condición de riesgo: Mujer embarazada
+Datos asistenciales.
+Médico: Dra. Elena García López. NC 097900390. Especialista en Ginecología y Obstetricia. Hospital Universitario de la Princesa. Calle de Gregorio Marañón 27-31. 28006. Madrid. España.
+Fecha de ingreso: 22/03/2023
+Centro de salud: Centro de Salud de Móstoles
+Informe clínico del paciente:
+Paciente de 29 años de edad, embarazada de 32 semanas, con antecedentes de hipertensión arterial gestacional y antecedentes familiares de diabetes mellitus tipo 2. La paciente refiere dolor abdominal crónico desde la semana 20 de embarazo, con intensidad variable y localización en la región epigástrica. La paciente también refiere sensación de pesadez en las piernas desde la semana 25 de embarazo.
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 11,5 g/dl; leucocitos 9.500/mm3 (neutrófilos 60%); plaquetas 180.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 25 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía obstétrica) que muestran un feto con un peso aparente de 1700 gramos y un índice de crecimiento intrauterino normal. La paciente es remitida al servicio de Obstetricia para seguimiento y preparación para el parto.
+Evolución y comentarios:
+La paciente se encuentra en una evolución estable y sin complicaciones. Se le ha recomendado seguir con el seguimiento en el servicio de Obstetricia y realizar pruebas de imagen regulares para monitorear el crecimiento del feto.
+Remitido por:
+El paciente ha sido remitido al servicio de Obstetricia para seguimiento y preparación para el parto. Se le ha recomendado seguir con las pruebas de imagen regulares y realizar un seguimiento estrecho en el servicio de Obstetricia.

@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Noemí Conde Moreno
+DNI: 12357137L
+Fecha de nacimiento: 12/09/1929
+Género: F
+Domicilio: Calle de Hortaleza 22
+Ciudad: Onda, Huelva, Andalucía
+Código postal: 21182
+Email: noemi_conde_moreno@protonmail.com
+Teléfono fijo: +34 959 68 45 63
+Teléfono móvil: +34 759 60 80 65
+NHC: 5556520
+NASS: 843789375515
+Condición de riesgo: Mayor de 75 años
+Datos asistenciales.
+Médico: Dr. Miguel Ángel Macias Calderon. NC 612749958. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 18/11/2007
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Informe clínico del paciente:
+Paciente de descendencia africana de 78 años de edad, acompañado de su pareja. Presenta una historia de presión arterial elevada y diabetes mellitus tipo 2, controlada con medicación oral. En la exploración física, se observa una visión borrosa en la distancia y en el entorno cercano, con dificultad para leer y reconocer objetos. La exploración oftalmológica revela una degeneración macular relacionada con la edad, con una pérdida de visión central significativa.
+Se realizó una sesión de escaneo retiniano, el código obtenido para revisarla es WY341IXC574. Los resultados de la exploración retiniana muestran una degeneración macular relacionada con la edad, con una pérdida de visión central significativa. El paciente también presenta una retinopatía diabética en estadio 3, con hemorragias y exudados en la zona macular.
+El tratamiento recomendado para el paciente es la administración de medicación para controlar la presión arterial y la diabetes mellitus tipo 2, así como la realización de un seguimiento oftalmológico regular para monitorear la degeneración macular relacionada con la edad y la retinopatía diabética.
+Antecedentes:
+El paciente tiene una historia de presión arterial elevada y diabetes mellitus tipo 2, controlada con medicación oral. También presenta una historia de fumador activo durante 20 años, con una exposición a tabaco significativa.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento para controlar la presión arterial y la diabetes mellitus tipo 2 durante los últimos 5 años. Sin embargo, la degeneración macular relacionada con la edad y la retinopatía diabética han progresado significativamente, lo que ha afectado su visión central.
+Remitido por:
+El paciente ha sido remitido a la consulta de oftalmología para un seguimiento regular y para la realización de pruebas adicionales para evaluar la progresión de la degeneración macular relacionada con la edad y la retinopatía diabética.

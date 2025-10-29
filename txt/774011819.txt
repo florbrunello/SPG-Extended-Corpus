@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Emma Mateos Gutiérrez
+DNI: 52672477Q
+Fecha de nacimiento: 12/12/1976
+Género: Mujer
+Domicilio: Calle del Sombrerete 10
+Ciudad: Vitoria, Málaga, Andalucía
+Código postal: 29193
+Email: mateos_gutierrez@isciii.es
+Teléfono fijo: +34 951 03 93 70
+Teléfono móvil: +34 751 61 99 87
+NHC: 5490597
+NASS: 981771919666
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dr. Gonzalo Castaño Jurado. NC 057583420. Investigador Clínico en Enfermedades Digestivas.
+Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/12/1977
+Episodio: 89338767
+Hospital: Complejo Hospitalario La Mancha Centro
+Fecha de ingreso: y Centro de salud de ingreso
+Fecha de ingreso: 02/12/1977
+Centro de salud de ingreso: Complejo Hospitalario La Mancha Centro
+Informe clínico del paciente:
+Paciente de ascendencia asiática de 11 meses de edad, acompañado de su padre. Se registró una sesión de huella dactilar, el código obtenido para revisarla es OR701IDG372. Se registró una sesión de reconocimiento facial, el código obtenido para revisarla es JC753RUC987.
+Antecedentes:
+No hay antecedentes disponibles.
+Evolución y comentarios:
+No hay evolución ni comentarios disponibles.
+Remitido por:
+No hay remitido por disponible.

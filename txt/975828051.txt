@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: David Giménez Rivas
+DNI: 91842494K
+Fecha de nacimiento: 18/05/1981
+Género: Varón
+Domicilio: Calle del Olivar 87
+Ciudad: San Pedro del Pinatar, Alicante, Comunidad Valenciana
+Código postal: 03882
+Email: david-rivas240@uhu.es
+Teléfono fijo: +34 965 79 47 73
+Teléfono móvil: +34 665 21 17 42
+NHC: 7560035
+Datos asistenciales.
+Médico: Dr. Ignacio Herrera Izquierdo. NC 560673233. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 31/10/1991
+Episodio: 99650052
+Hospital: Complejo Hospitalario Universitario de Lugo
+Informe clínico del paciente:
+Paciente de ascendencia indígena americana de 10 años de edad, acompañado de su abuelo, que refiere una pérdida gradual de visión en ambos ojos durante las últimas semanas. La exploración física revela una reducción significativa de la agudeza visual, con una visión bilateral de 20/200. La exploración oftalmológica muestra signos de retinopatía diabética en ambos ojos, con hemorragias retinianas y exudados en el fondo de ojo. Se solicitan pruebas complementarias, incluyendo un estudio de retinografía y una evaluación de la función visual.
+Antecedentes:
+El paciente tiene un antecedente de diabetes mellitus tipo 1 desde la edad de 5 años, con un control inadecuado de la glucemia en las últimas semanas. El paciente también tiene un antecedente de hipertensión arterial sistémica, tratada con medicación.
+Evolución y comentarios:
+El paciente se encuentra en una condición estable, con una reducción significativa de la agudeza visual. Se requiere un tratamiento intensivo para controlar la diabetes y la hipertensión, así como un seguimiento estrecho para evaluar la progresión de la retinopatía diabética.
+Remitido por:
+Se remite al paciente al Servicio de Oftalmología para un seguimiento y tratamiento intensivo. Se requiere una evaluación regular de la función visual y la progresión de la retinopatía diabética.

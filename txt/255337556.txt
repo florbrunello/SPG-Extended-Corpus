@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Gabriel Durán Macias
+DNI: 48363802T
+Fecha de nacimiento: 17/06/1957
+Género: Varón
+Domicilio: Calle de la Libertad 75, 1A
+Ciudad: Alcorcón, Mallorca, Islas Baleares
+Código postal: 07346
+Email: gabriel-macias@aol.com
+Teléfono fijo: +34 971 48 50 81
+Teléfono móvil: +34 671 10 66 10
+NHC: 1406879
+NASS: 067888539336
+Condición de riesgo: Trabajador de Servicios de Limpieza
+Datos asistenciales.
+Médico: Dr. Alfredo Acosta Suárez. NC 669548085. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/10/2001
+Episodio: 87952920
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Informe clínico del paciente:
+Paciente vegano de 44 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que acude al servicio de urgencias con dolor abdominal agudo en el epigastrio y vómitos. La exploración física revela: temperatura 36,5°C; frecuencia cardíaca 120/min; frecuencia respiratoria 24/min; presión arterial 180/100 mmHg. El paciente se encuentra consciente y orientado, pero con signos de distress.
+La exploración abdominal revela dolor en el epigastrio, con tendencia a irradiarse hacia la espalda. La exploración de la cavidad oral no revela lesiones ni erosiones. La exploración de los ganglios linfáticos no revela adenopatías.
+Los análisis de sangre muestran: hemoglobina 12,5 g/dl; hematocrito 38%; leucocitos 18.000/mm³ (neutrófilos 80%); plaquetas 300.000/mm³. El análisis de orina revela: pH 6,5; glucosa 250 mg/dl; proteínas 1,5 g/dl.
+Con el diagnóstico de pancreatitis aguda, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cabeza de la cama) así como tratamiento farmacológico (corticosteroides y analgésicos).
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que se han estado tratando con medicación oral.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos, con seguimiento regular de su estado clínico y análisis de sangre. Se le ha solicitado una ecografía abdominal para evaluar la gravedad de la pancreatitis.
+Remitido por:
+El paciente fue remitido por el servicio de urgencias del Hospital Universitario Nuestra Señora de Candelaria.

@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Ana María Aguilar Bueno
+DNI: 43170913M
+Fecha de nacimiento: 24/02/1943
+Género: Mujer
+Domicilio: Calle de Fortuny 23, 6R
+Ciudad: Segovia, Región de Murcia, Región de Murcia
+Código postal: 30750
+Email: anamaria-aguilar-bueno627@ciberned.es
+Teléfono fijo: +34 968 96 91 15
+Teléfono móvil: +34 768 97 37 93
+NHC: 2120610
+NASS: 234964303759
+Condición de riesgo: Técnico de Radiología
+Datos asistenciales.
+Médico: Dra. Mercedes Ferrer Zamora. NC 883471089. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 22/06/2006
+Episodio: 92572731
+Hospital: Hospital Universitario de Basurto
+Informe clínico del paciente:
+La paciente fue ingresada en la unidad de Endocrinología por un cuadro de hipertensión arterial resistente al tratamiento con medicación oral. Se presenta con una edad de 63 años, con antecedentes de hipertensión arterial desde los 40 años, tratamiento con metoprolol y enalapril sin respuesta adecuada. En el momento del ingreso, la paciente presentaba una presión arterial de 180/100 mmHg, con una frecuencia cardíaca de 80 latidos por minuto y una temperatura corporal de 36,8°C. La exploración física reveló un estado general bueno, sin signos de insuficiencia cardíaca o renal. La paciente presentaba un índice de masa corporal (IMC) de 28 kg/m², con un perímetro de cintura de 102 cm y un perímetro de caderas de 120 cm. El análisis de sangre reveló un nivel de glucosa en ayuno de 120 mg/dl, con un nivel de colesterol total de 220 mg/dl y un nivel de triglicéridos de 150 mg/dl. La paciente fue sometida a una exploración cardíaca con ecocardiografía, que no reveló signos de insuficiencia cardíaca o daño miocárdico. Se solicitó un estudio de resistencia a la insulina, que se realizó con un nivel de insulina basal de 10 μU/ml y un nivel de insulina postprandial de 50 μU/ml. La paciente fue diagnosticada con resistencia a la insulina y se inició tratamiento con metformina 500 mg dos veces al día. La paciente fue seguida de cerca en la unidad de Endocrinología y se realizó un seguimiento de la presión arterial y la glucosa en ayuno. La paciente presentó una respuesta favorable al tratamiento, con una disminución de la presión arterial y una normalización de la glucosa en ayuno. La paciente fue dada de alta del hospital en buen estado general, con instrucciones para seguir el tratamiento con metformina y realizar controles periódicos en la unidad de Endocrinología.

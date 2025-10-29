@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Esperanza Gallardo Alarcon
+DNI: 78343474T
+Fecha de nacimiento: 26/06/1976
+Género: Mujer
+Domicilio: Calle del Gobernador 75
+Ciudad: Novelda, Ávila, Castilla y León
+Código postal: 05692
+Email: esperanza-gallardo@imibic.org
+Teléfono fijo: +34 920 14 05 05
+Teléfono móvil: +34 720 03 79 26
+NHC: 4312593
+NASS: 797720770042
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dr. Albert Román Giménez. NC 817346416. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/12/1997
+Episodio: 51951487
+Centro de salud: Centro de Salud Málaga Sur
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 21 años de edad, acompañado de su padre. Presenta un cuadro de fiebre alta de 39,5°C, con dolor de cabeza y musculares. Se encuentra en un estado de alerta, pero con signos de agotamiento.
+Antecedentes:
+El paciente tiene antecedentes de malaria en su infancia, y ha sido tratado con medicamentos antimaláricos en varias ocasiones. También tiene antecedentes de infecciones respiratorias frecuentes.
+Evolución y comentarios:
+El paciente ha estado en una zona endémica de malaria en la región amazónica durante los últimos 6 meses. Ha estado tomando medicamentos antimaláricos preventivos, pero ha presentado síntomas de infección en las últimas 48 horas. Se ha realizado una prueba de diagnóstico de malaria, que ha resultado positiva.
+Remitido por:
+El paciente ha sido remitido por el Servicio de Urgencias del Centro de Salud Málaga Sur, donde se le diagnosticó la infección.
+Informe clínico detallado:
+La exploración física revela: Tª 39,5°C; T.A: 110/70 mmHg; Fc: 120 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 18.000/mm3 (neutrófilos 80%); plaquetas 250.000/ mm3. VSG: 45 mm 1ª hora. Coagulación: TQ 90%; TTPA 28 seg. Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se ha solicitado una prueba de diagnóstico de malaria, que ha resultado positiva. Se ha iniciado tratamiento con medicamentos antimaláricos, y se está monitoreando la evolución del paciente.

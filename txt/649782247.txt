@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Milagros Domínguez Herrera
+DNI: 43241407G
+Fecha de nacimiento: 15/05/1964
+Género: M
+Domicilio: Calle de Velázquez 93, 1C
+Ciudad: Ciudad Real, Burgos, Castilla y León
+Código postal: 09317
+Email: herrera@udc.es
+Teléfono fijo: +34 947 47 07 63
+Teléfono móvil: +34 647 47 86 33
+NHC: 3301096
+NASS: 486385491196
+Condición de riesgo: Operador de Equipos Mineros
+Datos asistenciales.
+Médico: Dra. Rebeca Pastor Arroyo. NC 479182987. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/03/2002
+Episodio: 18087997
+Centro de salud: Centro de Salud Majadahonda
+Informe clínico del paciente:
+Paciente de tez blanca de 37 años de edad, que acude al Servicio de Urgencias con síntomas de dolor abdominal crónico y pérdida de peso significativa en los últimos meses. Antecedentes relevantes incluyen una cirugía abdominal previa por apendicitis. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En el abdomen se aprecian signos de irritación y dolor en la región epigástrica, con ausencia de masas ni megalias. La exploración neurológica y cardiovascular no muestra anormalidades significativas.
+Se solicitan análisis de sangre, incluyendo hemograma, bioquímica y enzimas hepáticas, así como una ecografía abdominal para evaluar la causa subyacente del dolor abdominal y la pérdida de peso. Los resultados iniciales muestran alteraciones en los niveles de enzimas hepáticas y una imagen ecográfica que sugiere la presencia de una lesión hepática no específica. Se decide realizar una biopsia hepática para obtener una muestra de tejido para análisis histopatológico.
+La biopsia hepática revela la presencia de cirrosis hepática en etapa avanzada, lo que explica los síntomas y signos clínicos del paciente. Se decide iniciar el paciente en un programa de tratamiento para la cirrosis hepática, incluyendo medicación para controlar la inflamación y el dolor, así como una dieta y estilo de vida modificados para evitar la progresión de la enfermedad.
+La evolución del paciente es monitorizada de cerca, y se realizan revisiones periódicas para ajustar el tratamiento y evaluar la respuesta del paciente. Se recomienda al paciente seguir un seguimiento regular con el equipo de atención médica para asegurarse de que la enfermedad no progrese y para realizar cualquier ajuste necesario en el tratamiento.
+Evolución y comentarios:
+El paciente ha seguido un tratamiento intensivo para la cirrosis hepática, incluyendo medicación y cambios en la dieta y estilo de vida. La evolución del paciente ha sido favorable, con una disminución significativa de los síntomas y signos clínicos. La función hepática ha mejorado ligeramente, y la lesión hepática no específica ha disminuido en tamaño. Se continúa con el tratamiento y el seguimiento regular para asegurarse de que la enfermedad no progrese.
+Remitido por:
+Se remite al paciente a su centro de salud habitual para continuar con el tratamiento y el seguimiento regular. Se recomienda al paciente seguir un estilo de vida saludable y evitar cualquier actividad que pueda agotar el hígado. Se le aconseja también seguir una dieta equilibrada y rica en nutrientes para mantener la función hepática óptima.

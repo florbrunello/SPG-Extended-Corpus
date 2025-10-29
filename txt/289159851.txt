@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Iñigo Pérez Benítez
+DNI: 49607783A
+Fecha de nacimiento: 15/11/2010
+Género: Masculino
+Domicilio: Calle del Prado 92
+Ciudad: Castellón de la Plana, Zaragoza, Aragón
+Código postal: 50535
+Email: inigo.perez1615@ub.edu
+Teléfono fijo: +34 976 45 31 68
+Teléfono móvil: +34 676 68 49 45
+NHC: 5804036
+Condición de riesgo: Limpiador
+Datos asistenciales.
+Médico: Dra. Luisa Domínguez Franco. NC 690303241. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/2015
+Hospital: Complejo Hospitalario Torrecárdenas
+Informe clínico del paciente:
+Paciente vegano de 4 años de edad, acompañado de su hermana, con antecedentes de convulsiones febriles en la infancia. La exploración física revela: Tª 37,5 C; T.A: 110/65 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración excesiva, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.200/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 10 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas de imagen (Ecografía cerebral, TAC craneal) que no evidencian patología significativa. Con el diagnóstico de hipotiroidismo subclínico se instaura tratamiento con levo-tiroido oral. El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio.
+Antecedentes:
+El paciente tiene antecedentes de convulsiones febriles en la infancia, que se han mantenido bajo control con tratamiento con carbamazepina.
+Evolución y comentarios:
+El paciente ha mostrado una evolución favorable al tratamiento, sin complicaciones ni recaídas.
+Remitido por:
+Dra. Luisa Domínguez Franco. Neuróloga Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

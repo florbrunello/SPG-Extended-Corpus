@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Andrea Jurado Escudero
+DNI: 88589331R
+Fecha de nacimiento: 07/08/1966
+Género: Mujer
+Domicilio: Calle de Lavapiés 47
+Ciudad: Vitoria, Málaga, Andalucía
+Código postal: 29088
+Email: andrea.juradoescudero@yahoo.com
+Teléfono fijo: +34 951 60 46 94
+Teléfono móvil: +34 651 36 48 91
+NHC: 8832054
+Datos asistenciales.
+Médico: Dr. Bruno Morales Gutiérrez. NC 284988211. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/04/1984
+Centro de salud: Centro de Salud Tetuán
+Informe clínico del paciente:
+Paciente de tez blanca de 57 años de edad, acompañado de su marido.
+Antecedentes:
+La paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación.
+Evolución y comentarios:
+La paciente fue internada con síntomas de dolor abdominal y vómitos. La exploración física reveló un abdomen distendido y doloroso, con signos de peritonitis. Se realizaron pruebas de imagen y análisis de sangre, que mostraron una inflamación intestinal aguda.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien sospechaba una infección intestinal.
+Tratamiento: y pronóstico:
+Se inició tratamiento con antibióticos y antiinflamatorios, y se realizó una exploración quirúrgica para drenar la infección. La paciente está en proceso de recuperación y se espera una buena evolución.
+Exploración física:
+La exploración física reveló un abdomen distendido y doloroso, con signos de peritonitis. La paciente estaba febril y tenía signos de shock.
+Pruebas diagnósticas:
+Se realizaron pruebas de imagen (Ecografía abdominal y TAC) y análisis de sangre (Hemograma y bioquímica), que mostraron una inflamación intestinal aguda y una infección sistémica.
+Tratamiento:
+Se inició tratamiento con antibióticos (Ceftriaxona y Metronidazol) y antiinflamatorios (Ibuprofeno). Se realizó una exploración quirúrgica para drenar la infección.
+Pronóstico:
+La paciente está en proceso de recuperación y se espera una buena evolución. Se le realizarán seguimientos regulares para controlar la evolución de la infección y la respuesta al tratamiento.

@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Ismael Sáez Varela
+DNI: 74952430F
+Fecha de nacimiento: 02/08/2007
+Género: V
+Domicilio: Calle de Santa Isabel 28
+Ciudad: Eibar, Ávila, Castilla y León
+Código postal: 05747
+Email: ismael.saez1633@us.es
+Teléfono fijo: +34 920 36 36 79
+Teléfono móvil: +34 620 03 44 05
+NHC: 9551728
+NASS: 920473268484
+Condición de riesgo: Operador de Equipos Mineros
+Datos asistenciales.
+Médico: Dra. Rosario Arias Tomas. NC 062390705. Investigadora Clínica en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/09/2016
+Episodio: 48208249
+Centro de salud: Centro de Salud Tetuán
+Informe clínico del paciente:
+Paciente usuario de drogas de 9 años de edad, acompañado de su abuela. El paciente ha presentado signos de deterioro físico y mental en las últimas semanas, incluyendo pérdida de peso, cansancio y cambios en el comportamiento. Se requiere un seguimiento estrecho y tratamiento para abordar los problemas relacionados con el consumo de drogas y la salud general del paciente.

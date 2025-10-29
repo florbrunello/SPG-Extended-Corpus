@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Gonzalo Caballero Carrillo
+DNI: 88396571G
+Fecha de nacimiento: 22/01/1932
+Género: Masculino
+Domicilio: Calle de Ferraz 92
+Ciudad: Móstoles, Toledo, Castilla-La Mancha
+Código postal: 45139
+Email: caballero_carrillo@us.es
+Teléfono fijo: +34 925 53 29 60
+Teléfono móvil: +34 725 03 32 78
+NHC: 1029294
+NASS: 055361267814
+Condición de riesgo: Operador de Maquinaria Agrícola
+Datos asistenciales.
+Médico: Dr. Rubén Alonso Rubio. NC 809669086. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/06/1951
+Episodio: 10814985
+Hospital: Hospital Universitario Central de Asturias
+Informe clínico del paciente:
+Paciente vegano de 19 años de edad, acompañado de su tío, que refiere una serie de síntomas que comenzaron hace aproximadamente 2 semanas. El paciente describe dolores en el abdomen, particularmente en la región epigástrica, acompañados de náuseas y vómitos. También refiere una pérdida de peso significativa en el último mes, de aproximadamente 10 kg.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia una masa en la región epigástrica, no pulsátil, con límites bien definidos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 300.000/ mm3. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l.
+Con el diagnóstico de pancreatitis aguda se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación abdominal) así como tratamiento médico (antibióticos y suero fisiológico). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio con seguimiento ambulatorio.
+Antecedentes:
+El paciente tiene antecedentes de alergia a ciertos alimentos, incluyendo gluten y lácteos. También tiene antecedentes de episodios de dolor abdominal en el pasado, pero sin diagnóstico establecido.
+Evolución y comentarios:
+El paciente ha sido sometido a una serie de pruebas diagnósticas, incluyendo ecografía abdominal, que han confirmado el diagnóstico de pancreatitis aguda. El paciente ha sido tratado con éxito y se espera una recuperación completa.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notificado los síntomas y antecedentes del paciente. El paciente ha sido evaluado y tratado en el Hospital Universitario Central de Asturias.

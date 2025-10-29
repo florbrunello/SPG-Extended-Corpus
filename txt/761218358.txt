@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Ana María Pardo García
+DNI: 53129515K
+Fecha de nacimiento: 09/07/2017
+Género: M
+Domicilio: Calle del Rollo 99
+Ciudad: Cuenca, Santa Cruz de Tenerife, Canarias
+Código postal: 38646
+Email: garcia62@imibic.org
+Teléfono fijo: +34 922 09 37 64
+Teléfono móvil: +34 622 75 77 35
+NHC: 3845390
+NASS: 816355158466
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dra. Marta Marín Román. NC 397898362. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/05/2019
+Hospital: Hospital Universitario Marqués de Valdecilla
+Médico: Dr. Carlos García López. NC 654321987. Pediatra Especialista en Cardiología Infantil. Hospital Universitario La Paz. Paseo de la Castellana 261. 28046. Madrid. España.
+Informe clínico del paciente:
+Paciente de descendencia africana de un año de edad, acompañado de su tía, con antecedentes de hipertensión materna durante el embarazo. La exploración física revela: Tª 37,5 C; T.A: 110/70 mmHg; Fc: 120 lpm. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Antecedentes:
+El paciente nació a término, con un peso de 2,8 kg y una longitud de 48 cm. La madre tuvo una hipertensión materna durante el embarazo, que se controló con medicación. El parto fue normal y el paciente no presentó ningún problema en la primera semana de vida.
+Evolución y comentarios:
+Durante la estancia en el hospital, el paciente se mantuvo estable y sin complicaciones. Se le realizaron pruebas de laboratorio y de imagen para evaluar su estado de salud. Los resultados mostraron una función renal normal y una cardiopatía no significativa.
+Remitido por:
+Dra. Marta Marín Román. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV).

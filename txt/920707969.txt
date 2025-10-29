@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Alejandra Carmona Santana
+DNI: 16992485Q
+Fecha de nacimiento: 18/02/1977
+Género: Mujer
+Domicilio: Calle del Oso 77
+Ciudad: Alcalá de Henares, Córdoba, Andalucía
+Código postal: 14330
+Email: alejandra-santana786@ual.es
+Teléfono fijo: +34 957 18 49 10
+Teléfono móvil: +34 757 75 99 61
+NHC: 0373142
+NASS: 983003994583
+Condición de riesgo: Trabajador Agrícola
+Datos asistenciales.
+Médico: Dra. María Esther Moya Rubio. NC 881426651. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/06/2023
+Episodio: 60660480
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Informe clínico del paciente:
+La paciente, una mujer de 46 años, fue derivada a nuestro servicio por sus síntomas de dolor abdominal y fiebre. La paciente tiene una historia de diabetes tipo 2 y hipertensión, y ha estado tomando medicamentos para controlar estos trastornos.
+La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. La paciente se encuentra consciente, orientada, sudorosa, eupneica, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.000/mm3 (neutrófilos 80%); plaquetas 250.000/mm3. VSG: 40 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 180 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas diagnósticas, incluyendo una ecografía abdominal y un análisis de orina. La ecografía abdominal revela un aumento del tamaño del bazo, con una masa en la región superior izquierda. El análisis de orina muestra una presencia de proteínas y hemoglobina en la orina.
+Con el diagnóstico de pancreatitis aguda y diabetes mellitus tipo 2, se instaura tratamiento sintomático (antitérmicos, antiinfl

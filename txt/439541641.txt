@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: Jordi Casas Valero
+DNI: 37851433B
+Fecha de nacimiento: 17/09/2020
+Género: Hombre
+Domicilio: Calle de Embajadores 51, 5G
+Ciudad: Lugo, Sevilla, Andalucía
+Código postal: 41636
+Email: jordi_casasvalero1197@ciberer.es
+Teléfono fijo: +34 954 97 39 78
+Teléfono móvil: +34 754 64 22 97
+NHC: 2617444
+NASS: 588082091600
+Condición de riesgo: Víctima de desastre
+Datos asistenciales.
+Médico: Dra. Luisa Torres Cano. NC 374111573. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 30/06/2024
+Episodio: 34517898
+Centro de salud: Centro de Salud Delicias
+Fecha de ingreso: 30/06/2024
+Centro de salud de ingreso: Centro de Salud Delicias
+Informe clínico del paciente:
+Paciente víctima de desastre de 3 años de edad, acompañado de su madre. Se realizó un expediente con URL http://example-medical.edu//34171781Y.
+Antecedentes:
+- Historia previa de exposición a sustancias tóxicas.
+- Fue trasladado a la unidad de cuidados intensivos para monitoreo y tratamiento.
+Evolución y comentarios:
+- El paciente ha mostrado signos de mejoría en los últimos días, pero sigue requiriendo atención médica especializada.
+- Se han realizado pruebas adicionales para determinar la gravedad de la exposición y el daño causado.
+Remitido por:
+- Se le remitió a un especialista en toxicología para una evaluación más detallada y tratamiento adecuado.

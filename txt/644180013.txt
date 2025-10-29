@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Marina González Trujillo
+DNI: 85822367Y
+Fecha de nacimiento: 08/06/1965
+Género: Mujer
+Domicilio: Calle de las Huertas 81, 9H
+Ciudad: Teruel, Castilla y León
+Código postal: 24956
+Email: marina.gonzalez.trujillo2013@imibic.org
+Teléfono fijo: +34 987 32 09 07
+Teléfono móvil: +34 787 51 31 78
+NHC: 9870448
+NASS: 105468731253
+Condición de riesgo: Granjero
+Datos asistenciales.
+Médico: Dr. David Santana Andres. NC 731795254. Residente de 3° año en Gastroenterología.
+Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 27/03/2008
+Hospital: Hospital Clínic San Carlos
+Informe clínico del paciente:
+Paciente de 42 años de edad, de descendencia africana, que acude al servicio de urgencias con síntomas de dolor abdominal crónico y pérdida de peso en los últimos 6 meses. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se palpa una masa en el hígado de aproximadamente 5 cm de diámetro, sin dolor a la palpación. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 55%); plaquetas 180.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,8 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía hepática, TAC abdominal) que muestran un tumor hepático de aproximadamente 5 cm de diámetro, sin signos de metástasis. El diagnóstico de tumor hepático primario se establece y se instaura tratamiento con cirugía hepática. El paciente se somete a una resección hepática parcial y se le prescribe un tratamiento adyuvante con quimioterapia.
+Evolución y comentarios:
+El paciente se somete a una serie de revisiones postoperatorias y se le prescribe un tratamiento de seguimiento con quimioterapia. El paciente muestra una buena respuesta al tratamiento y se le diagnostica una buena prognosis.
+Remitido por:
+El paciente fue remitido por el Dr. David Santana Andres, Residente de 3° año en Gastroenterología, del Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).

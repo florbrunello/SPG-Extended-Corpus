@@ -1,0 +1,40 @@
+Datos del paciente.
+Nombre: Fernando Vicente Heredia
+DNI: 82061987B
+Fecha de nacimiento: 31/08/1930
+Género: Varón
+Domicilio: Calle de Hortaleza 2
+Ciudad: Torrejón de Ardoz, Albacete, Castilla-La Mancha
+Código postal: 02540
+Email: heredia@ciberehd.org
+Teléfono fijo: +34 967 11 84 90
+Teléfono móvil: +34 767 43 98 22
+NHC: 3206590
+NASS: 731122485859
+Condición de riesgo: Paciente con antecedentes de enfermedades crónicas
+Datos asistenciales.
+Médico: Dra. Matilde Miranda Fernández. NC 369948541. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/04/1993
+Episodio: 23338664
+Hospital: Hospital Universitari de Bellvitge
+Antecedentes:
+El paciente tiene antecedentes de enfermedades crónicas, incluyendo hipertensión arterial y diabetes mellitus tipo 2. Ha tenido varios episodios de insuficiencia cardíaca y ha sido sometido a varias intervenciones quirúrgicas para tratar sus problemas de salud.
+Evolución y comentarios:
+El paciente ha estado bajo tratamiento con medicamentos para controlar sus enfermedades crónicas. Sin embargo, ha presentado recientemente un aumento en la frecuencia de episodios de insuficiencia cardíaca, lo que ha llevado a un aumento en la necesidad de hospitalización.
+Informe clínico del paciente:
+El paciente es un varón de 62 años de edad, vegano, con antecedentes de enfermedades crónicas. Ha presentado un aumento en la frecuencia de episodios de insuficiencia cardíaca y ha sido sometido a varias intervenciones quirúrgicas para tratar sus problemas de salud. El paciente ha estado bajo tratamiento con medicamentos para controlar sus enfermedades crónicas, pero ha sido necesario aumentar la dosis de algunos de ellos para controlar los episodios de insuficiencia cardíaca.
+La exploración física revela:
+- Tª 37,5 C
+- TA 120/80 mmHg
+- FC 90 lpm
+- El paciente se encuentra consciente y orientado, pero presenta signos de insuficiencia cardíaca, incluyendo disnea y edema en las piernas.
+Los datos analíticos muestran:
+- Hemograma: Hb 12,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 60%)
+- VSG: 20 mm 1ª hora
+- Coagulación: TQ 80%; TTPA 25,8 seg
+- Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl
+- Orina: sedimento normal
+Se han solicitado pruebas de imagen, incluyendo una ecografía cardíaca y una resonancia magnética cardíaca, para evaluar la función cardíaca del paciente y buscar posibles causas de la insuficiencia cardíaca.
+Con el diagnóstico de insuficiencia cardíaca crónica, se ha iniciado un tratamiento con medicamentos para controlar los síntomas y prevenir la progresión de la enfermedad. El paciente ha sido sometido a un programa de rehabilitación cardíaca para mejorar su función cardíaca y reducir la frecuencia de episodios de insuficiencia cardíaca.
+Remitido por:
+Dra. Matilde Miranda Fernández. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: David Exposito Serra
+DNI: 18252205A
+Fecha de nacimiento: 16/06/1952
+Género: Varón
+Domicilio: Calle de Génova 8
+Ciudad: Langreo, Asturias
+Código postal: 33900
+Email: davidexpositoserra@udc.es
+Teléfono fijo: +34 985 26 34 56
+Teléfono móvil: +34 676 54 23 91
+NHC: 8314150
+NASS: 852566557466
+Condición de riesgo: Minero
+Datos asistenciales.
+Médico: Dr. Francisco José Quintana Aguilera. NC 978605374. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 22157272
+Centro de salud: Centro de Salud Getafe
+Informe clínico del paciente:
+Paciente judío de 72 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que acude al servicio de urgencias con dolor torácico de intensidad moderada y duración de 2 horas, sin antecedentes de antecedentes cardíacos previos. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En la exploración cardíaca se aprecia un latido cardíaco regular, sin soplos ni roces. La electrocardiograma (ECG) muestra un patrón de QRS anormal, con alteraciones en la onda P y QRS. Los análisis de sangre muestran: hemoglobina 14,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/mm3. Se solicitan pruebas de imagen, incluyendo una ecografía cardíaca y una angiografía coronaria, que revelan una estenosis significativa de la arteria coronaria derecha. Se instaura tratamiento médico con aspirina y clopidogrel, y se programa una angioplastia coronaria para la mañana siguiente. El paciente se encuentra estable y sin complicaciones a la espera del procedimiento.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controladas con medicación. También tiene antecedentes de accidente cerebrovascular en el pasado, sin secuelas.
+Evolución y comentarios:
+El paciente se encuentra estable y sin complicaciones a la espera del procedimiento de angioplastia coronaria. Se le ha informado sobre el riesgo y beneficio del procedimiento y se le ha explicado la importancia de la adherencia al tratamiento médico.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha informado sobre la evolución de la enfermedad y ha solicitado la atención especializada en el servicio de cardiología.

@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Eric Luque Aguilera
+DNI: 93379873B
+Fecha de nacimiento: 19/01/1999
+Género: M
+Domicilio: Calle de Mesón de Paredes 72, 2Q
+Ciudad: Getafe, Córdoba, Andalucía
+Código postal: 14261
+Email: eric_luque@ciberehd.org
+Teléfono fijo: +34 957 92 12 68
+Teléfono móvil: +34 757 50 29 37
+NHC: 3618894
+NASS: 47622754X
+Condición de riesgo: Soldado
+Datos asistenciales.
+Médico: Dra. Adriana Gómez Roca. NC 859054603. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 26/04/2003
+Episodio: 31543612
+Hospital: Hospital Universitario Nuestra Señora de Candelaria
+Matrícula del coche: 6046KDR
+Modelo: Jeep Wrangler
+VIN: VSKPZ0FM9BN792538
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 4 años de edad, acompañado de su tío. Presenta una condición clínica caracterizada por una serie de síntomas y signos que requieren una evaluación detallada. La exploración física revela: temperatura corporal normal, pulso regular, frecuencia cardíaca dentro de los límites normales, y presión arterial dentro de los parámetros esperados. La exploración neurológica muestra una función cognitiva normal, sin signos de alteración en la conciencia, la orientación, ni en la función motora.
+Se han realizado una serie de pruebas diagnósticas, incluyendo análisis de sangre, que muestran resultados dentro de los límites normales. La ecografía abdominal no muestra ninguna patología significativa. La radiografía de tórax no muestra signos de enfermedad pulmonar. La resonancia magnética cerebral no muestra signos de alteración en la estructura cerebral.
+El tratamiento recomendado es una observación cuidadosa y una evaluación continua de la condición clínica del paciente. Se recomienda una serie de pruebas adicionales para determinar la causa subyacente de los síntomas presentados por el paciente. El paciente y su tío han sido informados de los resultados de las pruebas y del tratamiento recomendado.

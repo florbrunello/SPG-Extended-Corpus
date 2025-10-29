@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Valentín Beltran Padilla
+DNI: 17199268Y
+Fecha de nacimiento: 14/08/1996
+Género: M
+Domicilio: Calle Gran Vía 13, 8D
+Ciudad: Tarragona, Sevilla, Andalucía
+Código postal: 41865
+Email: valentin.beltran-padilla520@ioba.med.uva.es
+Teléfono fijo: +34 954 52 92 04
+Teléfono móvil: +34 754 34 04 48
+NHC: 9951096
+NASS: 755065481723
+Condición de riesgo: Trabajador de Laboratorio
+Datos asistenciales.
+Médico: Dr. Josep Carmona Román. NC 165971978. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/09/2023
+Episodio: 79365274
+Centro de salud: Centro de Salud Coslada
+Informe clínico del paciente:
+Paciente exfumador de 27 años de edad, con antecedentes de consumo de cannabis y alcohol en la adolescencia. Presenta una evolución clínica de 6 meses con síntomas de ansiedad generalizada, dificultad para conciliar el sueño y aumento de la frecuencia cardíaca. En la exploración física, se observa una tensión arterial de 120/80 mmHg, frecuencia cardíaca de 100 lpm y temperatura corporal de 36,5°C. El paciente se encuentra consciente y orientado, con buen estado de nutrición e hidratación. Se solicitan análisis de sangre para evaluar la función hepática y renal, así como una ecografía abdominal para evaluar la función hepática.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento con sertralina 50 mg/día durante 4 semanas, con una respuesta parcial a los síntomas de ansiedad. Se decide aumentar la dosis a 100 mg/día y agregar un antidepresivo no estimulante para mejorar la calidad del sueño. Se programan sesiones de terapia cognitivo-conductual para abordar los patrones de pensamiento y comportamiento que contribuyen a la ansiedad.
+Remitido por:
+Se reenvía al paciente al Servicio de Psiquiatría para seguimiento y ajuste del tratamiento. Se solicita una cita para una revisión en 2 semanas.

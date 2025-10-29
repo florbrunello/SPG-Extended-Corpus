@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Adam Molina Calderon
+DNI: 46699568T
+Fecha de nacimiento: 25/06/1926
+Género: Varón
+Domicilio: Calle del Gobernador 94, 1Y
+Ciudad: Melilla, Huesca, Guipúzcoa, País Vasco
+Código postal: 20198
+Email: adammolinacalderon@icloud.com
+Teléfono fijo: +34 943 03 84 54
+Teléfono móvil: +34 643 19 16 26
+NHC: 7925343
+NASS: 46699568T
+Condición de riesgo: Exfumador
+Datos asistenciales.
+Médico: Dr. Esteban Andres Santiago. NC 704660312. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/1971
+Episodio: 49820763
+Centro de salud: Centro de Salud Málaga Sur
+Informe clínico del paciente:
+Paciente exfumador de 44 años de edad, con antecedentes de ansiedad y depresión moderada, que se presentó en el Servicio de Urgencias con síntomas de dolor de cabeza y mareos. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni dificultad para respirar. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos ni roces. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de ansiedad y depresión, pero sin datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+La evolución clínica ha sido estable, sin complicaciones ni necesidad de tratamiento intensivo. El paciente ha sido tratado con medicación para la ansiedad y la depresión, y se le ha recomendado seguir un programa de rehabilitación para exfumadores. El pronóstico es bueno, con expectativa de recuperación completa.
+Antecedentes:
+El paciente tiene un historial de ansiedad y depresión moderada, con episodios de dolor de cabeza y mareos en los últimos meses. Ha estado tomando medicación para la ansiedad y la depresión, pero no ha respondido de manera satisfactoria.
+Evolución y comentarios:
+El paciente ha sido tratado con medicación para la ansiedad y la depresión, y se le ha recomendado seguir un programa de rehabilitación para exfumadores. La evolución clínica ha sido estable, sin complicaciones ni necesidad de tratamiento intensivo.
+Remitido por:
+El paciente ha sido remitido a su domicilio con seguimiento médico regular. Se le ha recomendado seguir un programa de rehabilitación para exfumadores y continuar tomando medicación para la ansiedad y la depresión.

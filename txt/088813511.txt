@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Emilio Castillo Gómez
+DNI: 23381626X
+Fecha de nacimiento: 04/03/1958
+Género: Hombre
+Domicilio: Calle de las Tres Cruces 50
+Ciudad: Socuéllamos, Cádiz, Andalucía
+Código postal: 11104
+Email: castillo_gomez@ciberer.es
+Teléfono fijo: +34 956 86 80 59
+Teléfono móvil: +34 756 12 27 46
+NHC: 5382575
+NASS: 541832102166
+Condición de riesgo: Comunidades vulnerables
+Datos asistenciales.
+Médico: Dra. Rocío Martín Hernández. NC 674158355
+Especialidad: Genética Médica
+Institución: Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER)
+Dirección: Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso: 21/11/2001
+Fecha de ingreso: y centro de salud
+Fecha de ingreso: 21/11/2001
+Hospital: Complejo Asistencial Universitario de León
+Informe clínico del paciente:
+Paciente de comunidades vulnerables de 43 años de edad, acompañado de su marido, con antecedentes de exposición a sustancias químicas peligrosas en su lugar de trabajo. Presenta síntomas de envenenamiento crónico, incluyendo dolor abdominal, fatiga y problemas de memoria. La exploración física revela signos de daño hepático y renal, así como alteraciones en la función nerviosa. Se solicitan pruebas de laboratorio y exploraciones de imagen para confirmar el diagnóstico y evaluar la gravedad de la situación.
+La evolución clínica es grave, con signos de intoxicación aguda en las primeras horas de ingreso. Se inicia tratamiento con carboximetrilcetanasa y se monitoriza de cerca la función hepática y renal. Se requiere una evaluación exhaustiva de la exposición a sustancias químicas y se debe considerar la posibilidad de un daño irreversible a los órganos.
+La condición del paciente es crítica y requiere un seguimiento estrecho en la unidad de cuidados intensivos. Se deben realizar pruebas de laboratorio y exploraciones de imagen para evaluar la gravedad de la situación y determinar la mejor estrategia de tratamiento.

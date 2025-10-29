@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Encarnación Galán Santos
+DNI: 99079498Y
+Fecha de nacimiento: 07/02/2009
+Género: Mujer
+Domicilio: Calle de Bailén 8
+Ciudad: Navalcarnero
+Provincia: Madrid
+Código postal: 45520
+Email: santos1107@ual.es
+Teléfono fijo: +34 915 59 36 33
+Teléfono móvil: +34 660 11 22 79
+NHC: 8986842
+NASS: 022153253208
+Condición de riesgo: Estudiante de Educación Secundaria
+Datos asistenciales.
+Médico: Dr. Francisco Manuel Pardo Carmona
+N.C.: 569098428
+Cargo: Gastroenterólogo Especialista en Enfermedades Hepáticas
+Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd)
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso: 27/03/2023
+Centro de salud: Centro de Salud Sevilla Este
+Informe clínico del paciente:
+Paciente de tez blanca de 14 años de edad, acompañado de su abuela, que refiere dolores abdominales de localización variable en el último mes, con episodios de vómitos y diarrea. La paciente tiene una historia previa de gastroenteritis viral, pero en la última semana ha presentado un cuadro de mal absorción de nutrientes, con pérdida de peso y debilidad general.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni fiebre, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 10.200/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 20 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Durante el ingreso se solicitan pruebas de imagen (Ecografía abdominal y TAC abdominal) que no evidencian patología significativa. Con el diagnóstico de gastroenteritis viral aguda se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de la cama) y tratamiento de rehidratación oral.
+Evolución y comentarios:
+El paciente ha estado en observación en la unidad de cuidados intensivos durante 3 días, sin presentar complicaciones ni signos de deterioro clínico. La paciente ha mejorado significativamente de su cuadro, con reducción de los síntomas gastrointestinales y recuperación de la función digestiva. Se ha decidido el alta a su domicilio, donde continuará el tratamiento de rehidratación oral y se realizarán revisiones sucesivas en consultas para controlar la evolución.
+Remitido por:
+Dr. Francisco Manuel Pardo Carmona
+Gastroenterólogo Especialista en Enfermed

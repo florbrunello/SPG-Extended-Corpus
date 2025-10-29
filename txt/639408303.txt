@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Eva María Delgado Molina
+DNI: 72804603N
+Fecha de nacimiento: 20/06/1935
+Género: F
+Domicilio: Calle del Oso 71
+Ciudad: Linares, Huesca, Aragón
+Código postal: 22185
+Email: evamariadelgado@ciberisciii.es
+Teléfono fijo: +34 974 00 51 84
+Teléfono móvil: +34 774 47 24 53
+NHC: 7605862
+Condición de riesgo: Trabajador de Mantenimiento
+Datos asistenciales.
+Médico: Dra. Anna Luna Díaz. NC 482987960. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 28/07/1968
+Episodio: 65142039
+Hospital: Hospital Clínic Universitario San Cecilio
+Informe clínico del paciente:
+Paciente judío de 33 años de edad, con antecedentes de hipertensión arterial y sobrepeso, se presenta con quejas de visión borrosa en la distancia y en el campo visual periférico. La exploración física revela: presión arterial 140/90 mmHg; peso 80 kg; altura 1,65 m. La exploración oftalmológica muestra: acuidad visual 20/40 en el ojo derecho y 20/60 en el ojo izquierdo. La exploración de la retina muestra: edema macular en el ojo izquierdo.
+Se solicitan pruebas de imagen para evaluar la condición de la retina, incluyendo una tomografía de coherencia óptica (OCT) y una angiografía fluoresceiniana (FA). Los resultados de las pruebas muestran: edema macular bilateral con infiltración de fluido en la retina.
+Se diagnostica enfermedad de la retina secundaria a hipertensión arterial y sobrepeso. Se recomienda tratamiento con medicamentos para controlar la presión arterial y reducir el peso del paciente. Se sugiere también una dieta equilibrada y una actividad física regular para mejorar la salud general del paciente.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos del hospital. Se le están administrando medicamentos para controlar la presión arterial y reducir el peso. La evolución del paciente es estable, pero se requiere una atención cercana para evitar complicaciones.
+Remitido por:
+Dra. Anna Luna Díaz
+Residente de 3° año en Oftalmología
+Instituto Universitario de Oftalmobiología Aplicada (IOBA)
+Avenida Ramón y Cajal, 7. 47011. Valladolid. España.

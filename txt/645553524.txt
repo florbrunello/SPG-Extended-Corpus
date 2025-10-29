@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Jesús Avila Velasco
+DNI: 89257628X
+Fecha de nacimiento: 25/08/1971
+Género: Masculino
+Domicilio: Calle de San Millán 33, 7S
+Ciudad: Alcalá de Henares, Madrid, Comunidad de Madrid
+Código postal: 28803
+Email: jesusavila.velasco@udc.es
+Teléfono fijo: +34 977 46 96 82
+Teléfono móvil: +34 677 75 05 72
+NHC: 8997439
+NASS: 489275628X
+Condición de riesgo: Paciente con antecedentes de hipertensión
+Datos asistenciales.
+Médico: Dr. Pedro Aparicio Merino. NC 801107528. Neurólogo Especialista en Alzheimer. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 06/01/2015
+Centro de salud: Centro de Salud Alcalá de Henares
+Informe clínico del paciente:
+El paciente es un varón de 43 años de edad, con antecedentes de hipertensión, que acude al servicio de urgencias con síntomas de dolor de cabeza y confusión. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. El paciente se encuentra consciente, orientado, con buen estado de nutrición e hidratación. La exploración neurológica muestra signos de disminución de la conciencia, con dificultad para responder a preguntas y seguir órdenes. Se solicitan pruebas de imagen (TAC craneal) y análisis de sangre (hemograma, bioquímica) para evaluar la causa de los síntomas.
+La TAC craneal muestra una lesión cerebral en la región frontal, y los análisis de sangre revelan un aumento de la creatinina y una disminución de la glucosa en la sangre. Con base en estos resultados, se establece el diagnóstico de accidente cerebrovascular (ACV) isquémico en la región frontal. Se inicia el tratamiento con trombolíticos y se le prescribe al paciente una terapia de rehabilitación para ayudarlo a recuperar la función cerebral perdida.
+En las siguientes semanas, el paciente muestra una mejora gradual en su estado de conciencia y en la función cerebral. Se le realiza una serie de pruebas neuropsicológicas para evaluar la función cognitiva y la memoria, y se observa una recuperación significativa en estas áreas. El paciente es dado de alta del hospital y se le prescribe una terapia de rehabilitación continua para ayudarlo a mantener la función cerebral recuperada.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión y tabaquismo. Ha tenido varios episodios de dolor de cabeza y confusión en los últimos meses, que se han vuelto más frecuentes y graves en las últimas semanas.
+Evolución y comentarios:
+El paciente ha mostrado una buena respuesta al tratamiento y ha logrado una recuperación significativa en su estado de conciencia y función cerebral. Sin embargo, es importante seguir monitorizando su estado y realizar pruebas periódicas para asegurarse de que no haya complicaciones a largo plazo.
+Remitido por:
+El paciente ha sido remitido al servicio de neurología para seguir su tratamiento y realizar pruebas periódicas para evaluar su progreso.

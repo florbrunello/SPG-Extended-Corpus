@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Mariano Miguel Castaño
+DNI: 35363483V
+Fecha de nacimiento: 03/06/2009
+Género: Varón
+Domicilio: Calle de la Luna 38
+Ciudad: Zamora, Lugo, Galicia
+Código postal: 27845
+Email: mariano-castano@salud.madrid.org
+Teléfono fijo: +34 982 41 81 47
+Teléfono móvil: +34 782 67 75 57
+NHC: 7193368
+Datos asistenciales.
+Médico: Dra. Esther Alonso Padilla. NC 277482918. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 13/12/2012
+Centro de salud: Hospital Universitario 12 de Octubre
+Informes clínicos del paciente:
+Antecedentes:
+El paciente tiene antecedentes de episodios recurrentes de infecciones respiratorias y digestivas, así como de problemas de alergia a ciertos alimentos.
+Evolución y comentarios:
+El paciente fue ingresado en el hospital debido a un episodio de diarrea severa y vómitos. Después de una serie de pruebas y análisis, se determinó que el paciente tenía una infección por un virus norovirus. El paciente recibió tratamiento con antibióticos y se le administraron fluidos intravenosos para reponer la pérdida de líquidos.
+Informe clínico del paciente:
+El paciente es un niño de 3 años de edad, de ascendencia sudamericana, que fue ingresado en el hospital debido a un episodio de diarrea severa y vómitos. El paciente tiene antecedentes de episodios recurrentes de infecciones respiratorias y digestivas, así como de problemas de alergia a ciertos alimentos. Después de una serie de pruebas y análisis, se determinó que el paciente tenía una infección por un virus norovirus. El paciente recibió tratamiento con antibióticos y se le administraron fluidos intravenosos para reponer la pérdida de líquidos. El paciente ha estado mejorando gradualmente y se espera que se recupere completamente en un plazo de unos días.
+Remitido por:
+El paciente fue remitido al hospital por su padre, quien se encuentra preocupado por la salud del niño debido a su historia de episodios recurrentes de infecciones y problemas de alergia.

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Bruno Macias Vega
+DNI: 56672335J
+Fecha de nacimiento: 18/12/1937
+Género: M
+Domicilio: Calle de Juan Bravo 26, 1E
+Ciudad: Ciudad Real, Málaga, Andalucía
+Código postal: 29919
+Email: macias@uca.es
+Teléfono fijo: +34 951 83 06 82
+Teléfono móvil: +34 651 79 27 90
+NHC: 9126930
+NASS: 216358630512
+Condición de riesgo: Conductor de Camión
+Datos asistenciales.
+Médico: Dra. Sofía Vera Flores. NC 779833152. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 02/05/2013
+Episodio: 09603671
+Centro de salud: Centro de Salud Málaga Sur
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 75 años de edad, acompañado de su pareja, que acude al Servicio de Urgencias con dolor en el pecho de características anginosas, que se inicia con un episodio de ansiedad y se intensifica con la actividad física. El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, tratados con medicación oral. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia, con buen estado de nutrición e hidratación. En la exploración cardíaca se aprecia una onda QRS desviada a la derecha, con una amplitud de 0,2 mV en el V2. El electrocardiograma muestra un infarto de miocardio en evolución, con una alteración de la curva de onda ST en el segmento ST de 2,5 mm en el V2. Se solicitan pruebas de imagen para confirmar el diagnóstico, incluyendo una ecocardiografía y una angiografía coronaria. El paciente es estabilizado con oxígeno y nitratos, y se le administra un tratamiento antiagregante plaquetario.
+Evolución y comentarios:
+El paciente es ingresado en la Unidad de Cuidados Intensivos Cardiológicos, donde se le realiza una angiografía coronaria que confirma la presencia de una estenosis significativa en la arteria coronaria derecha. Se le realiza una angioplastia coronaria con colocación de una stent, que se ajusta adecuadamente. El paciente es estabilizado y se le administra un tratamiento antiagregante plaquetario y un tratamiento para la hipertensión arterial y la diabetes mellitus tipo 2. La evolución del paciente es favorable, y se le permite la movilidad en la cama. El paciente es revisado regularmente por el equipo de cuidados intensivos, y se le realiza un seguimiento de la función cardíaca y de la presión arterial.
+Remitido por:
+Dra. Sofía Vera Flores. NC 779833152. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

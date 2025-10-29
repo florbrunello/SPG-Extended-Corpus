@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: José Carlos Moreno Montoya
+DNI: 78257715P
+Fecha de nacimiento: 22/12/1988
+Género: Varón
+Domicilio: Calle de Santa Ana 78, 4Q
+Ciudad: San Vicente del Raspeig, Santa Cruz de Tenerife, Canarias
+Código postal: 38521
+Email: josecarlos-moreno_montoya@icloud.com
+Teléfono fijo: +34 922 42 45 88
+Teléfono móvil: +34 722 30 39 79
+NHC: 7340935
+NASS: 941618160094
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dr. Francisco Miguel Carrasco. NC 150245218. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 27/10/2019
+Centro de salud: Centro de Salud Conde de Casal
+Informe clínico del paciente:
+Paciente de ascendencia del medio oriente de 30 años de edad, acompañado de su padre, que se presenta con una lesión en el ojo derecho, con dolor y visión borrosa en el último día. El paciente informa que se golpeó accidentalmente con un objeto pesado mientras trabajaba en su hogar.
+La exploración física revela: Tª 36,8 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin dolor, con buen estado de nutrición e hidratación. En la exploración ocular se aprecia una lesión en el ojo derecho, con hemorragia subconjuntival y edema del globo ocular.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 7.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 10 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l.
+Con el diagnóstico de lesión ocular traumática se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación ocular) y se realiza una exploración más detallada del ojo afectado para determinar la gravedad de la lesión.
+Antecedentes:
+El paciente no tiene antecedentes médicos relevantes.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos, con un seguimiento cercano de su estado clínico. Se realizarán pruebas complementarias para determinar la gravedad de la lesión ocular y se tomarán medidas para prevenir complicaciones.
+Remitido por:
+El paciente fue remitido por el Servicio de Urgencias del Centro de Salud Conde de Casal.

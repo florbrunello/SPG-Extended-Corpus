@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Bruno Vera Santamaria
+DNI: 52738758B
+Fecha de nacimiento: 10/04/1932
+Género: Hombre
+Domicilio: Calle del Doctor Esquerdo 35, 5M
+Ciudad: Guadix, Barcelona, Cataluña
+Código postal: 08211
+Email: qQQ0xoi1TjlZi00117@ciberehd.org
+Teléfono fijo: +34 936 19 49 23
+Teléfono móvil: +34 735 89 94 73
+NHC: 9592671
+NASS: 828713097547
+Condición de riesgo: Bombero
+Datos asistenciales.
+Médico: Dr. Pol Cabrera Alonso. NC 288929861. Residente de 4° año en Endocrinología. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 06/08/1989
+Episodio: 98874470
+Centro de salud: Centro de Salud Alcorcón
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 57 años de edad, acompañado de su vecino, presenta un cuadro clínico caracterizado por dolores abdominales crónicos, pérdida de peso significativa y fatiga generalizada durante los últimos seis meses. La exploración física revela un abdomen distensible, con una masa palpable en la región ilioecales derecha, sin dolor a la palpación.
+Los datos analíticos muestran un hemograma normal, con una función renal levemente alterada, con una creatinina de 1,2 mg/dl. La bioquímica muestra un aumento de la fosfatasa alcalina de 120 U/l y una glucosa de 140 mg/dl.
+Se solicitan pruebas de imagen para evaluar la masa palpable en la región ilioecales derecha, incluyendo una ecografía abdominal y una tomografía computarizada. Las pruebas de imagen muestran una masa de 5 cm de diámetro en la región ilioecales derecha, con características de un tumor benigno.
+Con el diagnóstico de un tumor benigno en la región ilioecales derecha, se instaura un tratamiento conservador, incluyendo un seguimiento regular y un programa de fisioterapia para mejorar la función intestinal y la calidad de vida del paciente.
+Antecedentes:
+El paciente tiene un antecedente de un accidente cerebrovascular en el año 2010, con una recuperación parcial de la función motora.
+Evolución y comentarios:
+El paciente ha mostrado una buena respuesta al tratamiento conservador, con una mejora significativa en la función intestinal y la calidad de vida. Se recomienda un seguimiento regular para evaluar la evolución del tumor y la respuesta al tratamiento.
+Remitido por:
+Dr. Pol Cabrera Alonso, Residente de 4° año en Endocrinología, Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC).

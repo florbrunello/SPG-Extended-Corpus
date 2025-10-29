@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: Carmen Carrasco Castillo
+DNI: 61699446Z
+Fecha de nacimiento: 15/07/1997
+Género: Mujer
+Domicilio: Calle de la Alameda 30
+Ciudad: Móstoles, Segovia, Castilla y León
+Código postal: 40634
+Email: castillo@protonmail.com
+Teléfono fijo: +34 921 97 21 74
+Teléfono móvil: +34 721 66 33 48
+NHC: 9592272
+NASS: 791197783206
+Condición de riesgo: No especificada
+Datos asistenciales.
+Médico: Dra. María Cristina Arroyo García. NC 892591079. Gastroenteróloga Especialista en Enfermedades Hepáticas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/04/2003
+Episodio: 42257888
+Hospital: Complejo Asistencial Universitario Salamanca
+Informe clínico del paciente:
+Paciente de ascendencia asiática oriental de 5 años de edad, acompañado de su abuela. Presenta una temperatura corporal de 37,5°C, y una presión arterial de 90/60 mmHg. La exploración física revela una apariencia general saludable, sin signos de infección o enfermedad crónica. El paciente es consciente, orientado y coopera con la exploración.
+La historia clínica del paciente no revela antecedentes de enfermedades crónicas o infecciones recientes. El paciente ha estado tomando medicamentos para la prevención de enfermedades respiratorias, según la guía de vacunación del Ministerio de Sanidad.
+Se solicitan análisis de sangre para determinar los niveles de inmunoglobulinas y la función hepática. También se solicita una radiografía de tórax para evaluar la presencia de cualquier patología pulmonar.
+El tratamiento se basará en la evaluación de los resultados de los análisis y la radiografía de tórax. Se considerará la posibilidad de una infección viral o una enfermedad autoinmune.
+Antecedentes:
+No se tienen antecedentes médicos relevantes.
+Evolución y comentarios:
+El paciente se encuentra estable y sin signos de infección o enfermedad crónica. Se le han solicitado análisis de sangre y una radiografía de tórax para evaluar la presencia de cualquier patología.
+Remitido por:
+No se ha remitido a ningún especialista.
+Fecha de alta:
+No se ha establecido una fecha de alta.

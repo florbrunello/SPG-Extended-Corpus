@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Juan Miguel Velasco Velasco
+DNI: 65959659Y
+Fecha de nacimiento: 01/09/1940
+Género: M
+Domicilio: Calle de Gobernador 6
+Ciudad: Xàtiva, Valladolid, Castilla y León
+Código postal: 47423
+Email: juanmiguel-velasco@aol.com
+Teléfono fijo: +34 983 53 26 76
+Teléfono móvil: +34 683 38 11 76
+NHC: 0495397
+Datos asistenciales.
+Médico: Dr. Héctor Gallego Silva. NC 702384240. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 17/01/1976
+Episodio: 40947832
+Centro de salud: Centro de Salud Chamartín
+Informe clínico del paciente:
+Paciente de descendencia africana de 35 años de edad, acompañado de su prima, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Presenta una evolución clínica de 2 semanas con síntomas de cefalea intensa, fotofobia y visión borrosa en el ojo derecho.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, sin sudoración ni fiebre. En la exploración oftalmológica se observa una reducción de la acuidad visual en el ojo derecho, con presencia de un halo y un halo de luz alrededor de las luces.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 4,0 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 130 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de glaucoma agudo se instaura tratamiento sintomático (descarga ocular, analgésicos y antiinflamatorios) así como tratamiento médico: betametasona 4 mg vía oral cada 6 horas (durante 3 días) y timolol 0,5% gotas oftálmicas cada 2 horas (durante 5 días). El paciente mejora significativamente de su cuadro tras 3 días de ingreso, decidiéndose el alta a su domicilio con seguimiento en consulta de oftalmología.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controlados con medicación.
+Evolución y comentarios:
+El paciente ha evolucionado de manera favorable con el tratamiento instituido. Se le ha recetado tratamiento para controlar la presión intraocular y reducir la inflamación.
+Remitido por:
+El paciente ha sido remitido a la consulta de oftalmología para un seguimiento regular y control de la presión intraocular.

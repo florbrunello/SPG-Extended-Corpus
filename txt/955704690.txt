@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Héctor Reyes Marcos
+DNI: 23635538W
+Fecha de nacimiento: 08/08/1999
+Género: Hombre
+Domicilio: Calle Serrano 69
+Ciudad: Denia, Valladolid, Castilla y León
+Código postal: 47535
+Email: hector-reyes@uhu.es
+Teléfono fijo: +34 983 54 84 61
+Teléfono móvil: +34 783 90 42 74
+NHC: 2910772
+NASS: 909834854638
+Condición de riesgo: Trabajador de la Construcción
+Datos asistenciales.
+Médico: Dr. Alfonso Gómez Muñoz. NC 560606668. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 08/11/2000
+Episodio: 98887972
+Centro de salud: Centro de Salud Benalmádena
+Matrícula del coche: 6945LHV
+Modelo: Chevrolet Silverado
+VIN: VSRRJQ4HX6B923485
+Informe clínico del paciente:
+Paciente de ascendencia norteamericana de un año de edad, acompañado de su abuela, que refiere dolores abdominales recientes y vómitos repetidos durante las últimas 48 horas. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 60 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l. Orina: sedimento normal.
+Se solicitan pruebas diagnósticas, incluyendo una ecografía abdominal y una resonancia magnética para evaluar la causa de los síntomas. El diagnóstico de un proceso inflamatorio en el abdomen se confirma mediante la ecografía, que muestra un aumento de la actividad inflamatoria en el intestino delgado. Se instaura tratamiento sintomático y antibiótico específico para tratar la infección. El paciente mejora significativamente de su cuadro tras 48 horas de tratamiento, y se decide la alta a su domicilio para continuar el tratamiento en un entorno seguro.

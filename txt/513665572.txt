@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Manuel Jesús Rico Lozano
+DNI: 54126855N
+Fecha de nacimiento: 30/12/1988
+Género: Masculino
+Domicilio: Calle de Atocha 66
+Ciudad: Elche, Navarra, Navarra
+Código postal: 31706
+Email: manueljesusrico@ual.es
+Teléfono fijo: +34 948 46 21 70
+Teléfono móvil: +34 648 10 07 92
+NHC: 1042981
+NASS: 640918844538
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+Datos asistenciales.
+Médico: Dr. Andrés Campos Escudero. NC 826820483. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/02/1997
+Episodio: 81923641
+Centro de salud: Centro de Salud Torrejón de Ardoz
+Informe clínico del paciente:
+El paciente es un niño de 8 años de edad, de ascendencia nórdica o escandinava, que se presenta con una serie de síntomas que incluyen dolor de cabeza, mareos y visión borrosa en ambos ojos. La madre del paciente informa que estos síntomas han empeorado en las últimas 24 horas.
+La exploración física revela que el paciente tiene una temperatura de 37,5°C, pulso de 100 bpm y respiración de 20 rpm. La presión arterial es de 120/80 mmHg. La exploración visual revela que el paciente tiene una visión borrosa en ambos ojos, con una agudeza visual de 20/40 en cada ojo.
+Los análisis de sangre muestran que el paciente tiene un conteo de leucocitos de 12.000/mm3, con un incremento en el recuento de neutrófilos. El análisis de orina es normal.
+La ecografía ocular revela que el paciente tiene una inflamación en ambos ojos, con un incremento en la presión intraocular. La tomografía computarizada de la cabeza no muestra ninguna anormalidad.
+Con base en estos hallazgos, el diagnóstico es de uveítis bilateral aguda. Se inicia el tratamiento con esteroides y antiinflamatorios, y se programa una revisión en 24 horas para evaluar la respuesta al tratamiento.
+Evolución y comentarios:
+El paciente se encuentra en observación en la unidad de cuidados intensivos, con un estado de alerta y sin signos de inestabilidad. Se le está administrando un tratamiento de soporte con oxígeno y fluidos.
+Remitido por:
+El paciente fue remitido por el Servicio de Urgencias del Hospital de Torrejón de Ardoz, donde se le atendió inicialmente. Se le realizó una evaluación completa y se le dio el alta para ser remitido a la unidad de oftalmología para un tratamiento más especializado.

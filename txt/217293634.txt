@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Sergi Guerrero Castro
+DNI: 48021758N
+Fecha de nacimiento: 28/06/1992
+Género: Hombre
+Domicilio: Calle de Mesón de Paredes 78
+Ciudad: Jerez de la Frontera, Lugo, Galicia
+Código postal: 27514
+Email: AG2XjJ9zgS4Tsw@us.es
+Teléfono fijo: +34 982 15 97 23
+Teléfono móvil: +34 782 12 92 56
+NHC: 9956584
+NASS: 48021758N
+Condición de riesgo: Carpintero
+Datos asistenciales.
+Médico: Dra. Valeria Roldan Simon. NC 887559649. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 15/09/2003
+Episodio: 89931582
+Hospital: Hospital Universitario de Basurto
+Informe clínico del paciente:
+Paciente de tez blanca de 11 años de edad, acompañado de su padre, con antecedentes de alergia a los insecticidas y exposición a partículas finas en su trabajo como carpintero. Presenta una lesión en la mano derecha, con dolor y hinchazón en la zona afectada. La exploración física revela una lesión de tercer grado en la mano derecha, con pérdida de sensibilidad y movilidad en la zona afectada.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.200/mm3 (neutrófilos 80%); plaquetas 250.000/mm3. VSG: 45 mm 1ª hora. Coagulación: TQ 90%; TTPA 28,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 30 mg/dl; creatinina 1,0 mg/dl; sodio 137 mEq/l; potasio 3,7 mEq/l; GOT 12 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía de la mano) que muestran una lesión de tercer grado en la mano derecha, con pérdida de sensibilidad y movilidad en la zona afectada. Con el diagnóstico de lesión de tercer grado en la mano derecha, se instaura tratamiento quirúrgico y rehabilitación para restaurar la función y la movilidad en la zona afectada. El paciente se encuentra en proceso de recuperación y se le sigue de cerca para evitar complicaciones.

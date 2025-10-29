@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Isaac Roca Sáez
+DNI: 81099461N
+Fecha de nacimiento: 15/03/1936
+Género: V
+Domicilio: Calle del Espíritu Santo 81
+Ciudad: Bormujos, Tarragona, Cataluña
+Código postal: 43169
+Email: isaac-roca@uhu.es
+Teléfono fijo: +34 977 63 20 22
+Teléfono móvil: +34 677 46 24 22
+NHC: 2057513
+NASS: 468043486571
+Condición de riesgo: Granjero
+Datos asistenciales.
+Médico: Dr. Andrés Palacios Delgado. NC 276756877. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/03/1995
+Centro de salud de ingreso: Hospital General de Villalba
+Informe clínico del paciente:
+Paciente víctima de desastre de 59 años de edad, con lesiones múltiples y graves, tras ser evacuado de un área afectada por un terremoto. Presenta fractura de clavícula, fractura de brazo y lesiones en la cabeza y torso. El paciente está en estado crítico y requiere atención inmediata en la unidad de cuidados intensivos.
+Antecedentes:
+El paciente no tiene antecedentes médicos relevantes.
+Evolución y comentarios:
+El paciente ha sido sometido a un examen físico y se han realizado pruebas de imagen para evaluar la gravedad de las lesiones. Se espera que el paciente sea sometido a una cirugía de emergencia para estabilizar las fracturas y tratar las lesiones.
+Remitido por:
+El paciente ha sido remitido por el Servicio de Emergencias del Hospital General de Villalba.

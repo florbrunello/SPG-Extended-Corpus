@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Ricardo Mendoza Simon
+DNI: 88478353K
+Fecha de nacimiento: 26/11/1965
+Género: Masculino
+Domicilio: Calle de los Jardines 58
+Ciudad: Elche, Sevilla, Andalucía
+Código postal: 41897
+Email: ricardo_mendoza@icloud.com
+Teléfono fijo: +34 954 05 27 71
+FAX: +34 954 36 45 14
+NHC: 6055689
+NASS: 973922950955
+Datos asistenciales.
+Médico: Dr. Germán Escobar Redondo. NC 436393321. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/03/2017
+Centro de salud: Centro de Salud Málaga Norte
+Informe clínico del paciente:
+El paciente, un hombre de 51 años, fue ingresado en el hospital con síntomas de dolor abdominal crónico y pérdida de peso. La exploración física reveló un abdomen blando y depresible, sin masas ni megalias. La exploración neurológica no mostró signos meníngeos ni datos de focalidad. Los análisis de sangre mostraron una hiperbilirrubinemia leve y una elevación de la enzima hepática alanina aminotransferasa (ALT).
+Se solicitó una exploración de imagen para evaluar la posible causa de los síntomas del paciente. La ecografía abdominal mostró un hígado de tamaño normal con una leve hiperecogenicidad en la zona de la corteza hepática. La exploración de la vía biliar no mostró obstrucciones ni dilataciones.
+Con el diagnóstico de hepatitis crónica leve, se instauró un tratamiento con medicamentos antiinflamatorios y hepatoprotectores. El paciente fue seguido de cerca y se realizaron análisis de sangre periódicos para evaluar la respuesta al tratamiento.
+La evolución del paciente fue favorable, con una disminución de los síntomas y una mejora en los análisis de sangre. El paciente fue dado de alta del hospital y se le recomendó seguir un régimen de vida saludable y evitar el consumo de alcohol y medicamentos hepatotóxicos.

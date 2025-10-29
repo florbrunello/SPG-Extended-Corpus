@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Julio Serra Roca
+DNI: 18977484T
+Fecha de nacimiento: 01/03/1933
+Género: Varón
+Domicilio: Calle de San Ildefonso 10, 6U
+Ciudad: Lugo, Mallorca, Islas Baleares
+Código postal: 07077
+Email: roca824@us.es
+Teléfono fijo: +34 971 34 16 16
+Teléfono móvil: +34 671 64 34 04
+NHC: 3483261
+NASS: 609422373748
+Condición de riesgo: Soldado
+Datos asistenciales.
+Médico: Dra. Tamara Rodríguez Marcos. NC 823919033. Investigadora Principal en Parkinson. Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/05/2015
+Episodio: 68676292
+Centro de salud: Centro de Salud Sevilla Norte
+Informe clínico del paciente:
+Paciente de tez blanca de 82 años de edad, acompañado de su hijo, que refiere dolores de cabeza y mareos desde la noche anterior. La exploración física revela: Tª 37,2 C; T.A: 140/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica se detectan signos de hipertensión arterial y posible sequedad bucal.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 1,1 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Rx tórax, Ecografía abdominal, TAC craneal) que no evidencian patología significativa. Se diagnostica hipertensión arterial y se instaura tratamiento sintomático (reposo, elevación de piernas, antihipertensivos orales) y se le prescribe un seguimiento en la clínica para controlar su presión arterial. El paciente se encuentra estable y se le permite el alta a su domicilio con recomendaciones de seguimiento médico regular.

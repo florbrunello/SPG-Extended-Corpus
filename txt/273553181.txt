@@ -1,0 +1,31 @@
+Datos del paciente.
+Nombre: César Campos Conde
+DNI: 93187868X
+Fecha de nacimiento: 16/08/1999
+Género: Hombre
+Domicilio: Calle de las Tres Cruces 38, 1M
+Ciudad: Motril, Teruel, Aragón
+Código postal: 44348
+Email: campos798@imibic.org
+Teléfono fijo: +34 978 29 12 55
+Teléfono móvil: +34 778 04 89 31
+NHC: 7999520
+NASS: 93187868X
+Condición de riesgo: Trabajador de Residuos Sólidos
+Datos asistenciales.
+Médico: Dra. María Sierra Millan. NC 372496062. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Cargo: Jefa de Sección de Genética Médica
+Dirección: Avenida Monforte de Lemos 3-5, 28029 Madrid, España
+Fecha de ingreso: 16/05/2023
+Episodio: 64350176
+Hospital: Hospital Universitario de Cabueñes
+Informe clínico del paciente:
+Paciente de descendencia africana de 23 años de edad, con antecedentes de exposición a sustancias químicas en el trabajo como trabajador de residuos sólidos. Presenta síntomas de intoxicación aguda, con dolores abdominales, vómitos y diarrea. La exploración física revela signos de irritación en la piel y los ojos, así como una temperatura corporal elevada. Los análisis de sangre muestran alteraciones en los niveles de enzimas hepáticas y renales.
+La evolución clínica ha sido marcada por una progresión gradual de los síntomas, con una mayor intensidad de los dolores abdominales y una mayor frecuencia de vómitos y diarrea. La exploración física ha revelado una mayor irritación en la piel y los ojos, así como una mayor temperatura corporal. Los análisis de sangre han mostrado una mayor alteración en los niveles de enzimas hepáticas y renales.
+Se ha solicitado una serie de pruebas diagnósticas, incluyendo análisis de sangre, orina y heces, así como una exploración física detallada. Los resultados de estas pruebas han sido inconsistentes, con algunos indicando una intoxicación aguda y otros sugiriendo una condición subyacente.
+En base a la información recopilada, se ha establecido un diagnóstico de intoxicación aguda por sustancias químicas. El tratamiento ha consistido en la administración de medicamentos para aliviar los síntomas y en la realización de una serie de pruebas para determinar la causa subyacente de la intoxicación.
+La evolución clínica del paciente ha sido favorable, con una mejoría gradual de los síntomas y una disminución de la irritación en la piel y los ojos. Sin embargo, la condición del paciente sigue siendo grave y requiere un seguimiento cercano para determinar la causa subyacente de la intoxicación y para prevenir complicaciones.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos para recibir tratamiento y seguimiento. La evolución clínica ha sido favorable, con una mejoría gradual de los síntomas. Sin embargo, la condición del paciente sigue siendo grave y requiere un seguimiento cercano.
+Remitido por:
+Dra. María Sierra Millan, Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

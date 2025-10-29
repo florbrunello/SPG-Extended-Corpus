@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Héctor Velasco Márquez
+DNI: 29760288J
+Fecha de nacimiento: 03/02/1934
+Género: M
+Domicilio: Calle de Áncora 8
+Ciudad: Getafe, Madrid, Madrid
+Código postal: 28595
+Email: marquez937@icloud.com
+Teléfono fijo: +34 911 87 81 85
+FAX: +34 916 99 53 46
+NHC: 3323545
+NASS: 305025629221
+Condición de riesgo: Repartidor
+Datos asistenciales.
+Médico: Dra. Susana Pereira Guzman. NC 013696516. Cardióloga Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/05/1998
+Episodio: 38076690
+Centro de salud: Centro de Salud Arganda del Rey
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 64 años de edad, acompañado de su esposa. Se registró una sesión de huella dactilar, el código obtenido para revisarla es IF361WSE120.
+El paciente presenta una serie de síntomas relacionados con el consumo de alcohol, incluyendo mareos, vértigo y confusión. También ha presentado problemas de memoria y concentración. En la exploración física, se observa una serie de signos de abstinencia, como sudoración, temblores y aumento de la frecuencia cardíaca.
+Se solicitan pruebas de laboratorio para evaluar la función hepática y la presencia de signos de intoxicación etílica. También se realiza una exploración física detallada para evaluar la presencia de signos de abstinencia y otros problemas de salud relacionados con el consumo de alcohol.
+El tratamiento incluye la administración de medicamentos para controlar los síntomas de abstinencia y la reducción de la ingesta de alcohol. También se recomienda una terapia de grupo para apoyar al paciente en su proceso de recuperación.
+La evolución del paciente es complicada debido a su condición de salud y su historial de consumo de alcohol. Es importante que el paciente siga con el tratamiento y la terapia de grupo para mejorar su condición de salud y reducir el riesgo de complicaciones en el futuro.

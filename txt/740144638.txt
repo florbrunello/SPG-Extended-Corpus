@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Joan Salazar Montes
+DNI: 45672076X
+Fecha de nacimiento: 08/03/1948
+Género: Varón
+Domicilio: Calle del Rollo 82, 1S
+Ciudad: Liria, Sevilla, Andalucía
+Código postal: 41415
+Email: joan@udc.es
+Teléfono fijo: +34 954 55 69 64
+Teléfono móvil: +34 754 21 38 08
+NHC: 0537744
+NASS: 709291308886
+Condición de riesgo: Operador de Máquina
+Datos asistenciales.
+Médico: Dr. Francisco José Rodríguez Varela. NC 740849411. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 20/09/1971
+Episodio: 59228142
+Centro de salud: Centro de Salud Delicias
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 23 años de edad, con antecedentes de episodios de abstinencia y reintegración a la bebida. Presenta síntomas de ansiedad y depresión, con alteraciones en el estado de ánimo y pensamientos autodestructivos. La exploración física revela signos de desnutrición y alteraciones en la función hepática. Los datos analíticos muestran elevaciones en los niveles de AST y ALT, así como un aumento en la bilirrubina indirecta.
+La evolución clínica ha sido marcada por episodios de crisis de abstinencia, con síntomas de ansiedad, temblores y sudoración. La exploración neurológica ha revelado signos de alteraciones en la función cognitiva, con dificultades para la concentración y la memoria. La ecografía hepática ha mostrado signos de cirrosis hepática en etapa temprana.
+El tratamiento ha consistido en la administración de medicamentos para la abstinencia, así como la implementación de un programa de rehabilitación para el consumo de alcohol. El paciente ha mostrado una buena respuesta al tratamiento, con una reducción en la frecuencia y la gravedad de los episodios de abstinencia.
+Evolución y comentarios:
+El paciente ha sido seguido de cerca en las consultas posteriores, con una reducción significativa en la frecuencia y la gravedad de los episodios de abstinencia. La función hepática ha mejorado significativamente, con una reducción en los niveles de AST y ALT. El paciente ha mostrado una mayor estabilidad emocional, con una reducción en la frecuencia de crisis de ansiedad y depresión.
+Remitido por:
+El paciente ha sido remitido a la consulta de seguimiento para continuar con el tratamiento y la rehabilitación. Se le ha recomendado un seguimiento regular para monitorear la evolución clínica y la respuesta al tratamiento.

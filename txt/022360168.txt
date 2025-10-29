@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Margarita Aguilar Mateo
+DNI: 70225091L
+Fecha de nacimiento: 13/07/2005
+Género: Femenino
+Domicilio: Calle de la Fe 67, 7N
+Ciudad: Puertollano, Cádiz, Andalucía
+Código postal: 11659
+Email: margarita.aguilar@uca.es
+Teléfono fijo: +34 956 18 25 72
+Teléfono móvil: +34 656 03 33 96
+NHC: 0237449
+NASS: 247267488122
+Condición de riesgo: Estudiante universitaria
+Datos asistenciales.
+Médico: Dr. Miguel Sáez Andres. NC 057073843. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 11/04/2023
+Centro de salud: Centro de Salud Leganés
+Informe clínico del paciente:
+Paciente musulmana de 17 años de edad, acompañada de su conviviente, que acude al servicio de pediatría con antecedentes de una sesión de escaneo retiniano realizada recientemente. La paciente presenta una visión normal en ambos ojos y no ha experimentado ningún síntoma o dolor en los ojos. La exploración física revela una tensión arterial de 100/60 mmHg y una frecuencia cardíaca de 70 latidos por minuto. La paciente se encuentra consciente y orientada, sin ninguna señal de dolor o malestar.
+La exploración oftalmológica revela una visión normal en ambos ojos, sin ninguna anormalidad en la retina. Se solicita una revisión de la sesión de escaneo retiniano para evaluar cualquier posible anormalidad.
+Antecedentes:
+La paciente no tiene antecedentes médicos relevantes y no toma ningún medicamento. La paciente es una estudiante universitaria que estudia en la Universidad de Cádiz.
+Evolución y comentarios:
+La paciente se encuentra estable y sin ningún síntoma o dolor. Se le solicita una revisión en un plazo de 6 meses para evaluar cualquier posible anormalidad en la retina.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien se encontraba en la sala de urgencias del Centro de Salud Leganés.

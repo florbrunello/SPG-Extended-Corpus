@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Santiago Quintana Montero
+DNI: 49364377Y
+Fecha de nacimiento: 06/02/1986
+Género: Varón
+Domicilio: Calle de San Ildefonso 87, 9V
+Ciudad: Totana, Mallorca, Islas Baleares
+Código postal: 07031
+Email: 4V7Iix@hotmail.com
+Teléfono fijo: +34 971 11 29 05
+Teléfono móvil: +34 771 91 89 38
+NHC: 4018695
+NASS: 763985754183
+Condición de riesgo: Paciente pediátrico
+Datos asistenciales.
+Médico: Dr. Asier Conde Ramos. NC 389097768. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/08/1993
+Episodio: 24485443
+Hospital: Hospital General de Villalba
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 7 años de edad, acompañado de su madre. Se registró una consulta virtual desde la dirección IP (en red interna) 192.168.95.250, con dirección MAC D8:93:AD:49:9B:49. El paciente presenta una temperatura corporal de 37,5°C, sin síntomas de infección respiratoria. La exploración física revela un estado general bueno, con buena nutrición y hidratación. La exploración neurológica no muestra signos de alteración.
+Antecedentes:
+El paciente tiene una historia de alergia a los alimentos, específicamente a la leche de vaca. Ha tenido episodios de urticaria en el pasado después de consumir productos lácteos.
+Evolución y comentarios:
+El paciente ha estado bien durante los últimos días, sin síntomas de infección. Se le ha recomendado seguir una dieta libre de lácteos para evitar reacciones alérgicas.
+Remitido por:
+El paciente ha sido remitido por su pediatra de cabecera, quien ha solicitado una evaluación más detallada de su condición alérgica.
+Fecha de ingreso: 01/08/1993
+Centro de salud de ingreso: Hospital General de Villalba

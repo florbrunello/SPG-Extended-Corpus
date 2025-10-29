@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: María Luz Conde Carrillo
+DNI: 88099852P
+Fecha de nacimiento: 06/03/1973
+Género: Mujer
+Domicilio: Calle de Santa Ana 9, 10N
+Ciudad: Ciudad autónoma de Ceuta, Ceuta, 
+Código postal: 52630
+Email: IulYmW0Z3lZExK4@ciberisciii.es
+Teléfono fijo: +34 956 66 28 82
+FAX: +34 956 41 06 84
+NHC: 3418229
+NASS: 266167109904
+Condición de riesgo: Sin especificar
+Datos asistenciales.
+Médico: Dr. Marcos Blanco Marti. NC 050179597. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 12/08/1999
+Hospital: Hospital Universitario Marqués de Valdecilla
+Cargo del médico: Investigador Clínico en Síndromes Raros
+Dirección del hospital: Avenida de Valdecilla s/n, 39008 Santander, Cantabria, España
+Fecha de ingreso:
+12/08/1999
+Centro de salud de ingreso:
+Hospital Universitario Marqués de Valdecilla
+Informe clínico del paciente:
+Paciente de ascendencia caribeña de 26 años de edad, con antecedentes de problemas respiratorios crónicos. Se presenta con síntomas de dolor abdominal y fiebre alta. La exploración física revela: temperatura 38,5°C; frecuencia cardíaca 120 bpm; presión arterial 140/90 mmHg. Se encuentra consciente y orientado, pero con signos de dolor y malestar. Se solicitan análisis de sangre y radiografías para determinar la causa subyacente de los síntomas.
+Antecedentes:
+La paciente tiene antecedentes de asma y bronquitis crónica. Ha sido tratada con medicamentos para controlar los síntomas, pero ha presentado recientemente un aumento en la frecuencia y gravedad de los ataques.
+Evolución y comentarios:
+La paciente ha estado en observación durante las últimas 24 horas, y se han realizado análisis de sangre y radiografías. Los resultados indican la presencia de una infección bacteriana en la zona abdominal. Se está tratando con antibióticos y se está monitoreando su evolución.
+Remitido por:
+Dr. Marcos Blanco Marti, Investigador Clínico en Síndromes Raros.

@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: María Rosario Gómez Molina
+DNI: 37664039K
+Fecha de nacimiento: 03/05/1960
+Género: F
+Domicilio: Calle de las Letras 78
+Ciudad: San Sebastián, Palencia, Castilla y León
+Código postal: 34745
+Email: mariarosario_gomez.molina1138@imibic.org
+Teléfono fijo: +34 979 45 42 55
+Teléfono móvil: +34 779 00 19 51
+NHC: 3850769
+NASS: 473477488614
+Condición de riesgo: Cirujano
+Datos asistenciales.
+Médico: Dr. Albert Avila Palacios. NC 508286995. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 19/05/1977
+Hospital: Complejo Hospitalario Universitario de Cartagena
+Matrícula del coche: 3659UKI
+Modelo: Tesla Model 3
+VIN: VSLUUJTOK4Y967293
+Fecha de ingreso:
+19/05/1977
+Centro de salud de ingreso:
+Complejo Hospitalario Universitario de Cartagena

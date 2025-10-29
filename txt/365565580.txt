@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Jaime Varela Otero
+DNI: 59917038Z
+Fecha de nacimiento: 30/07/1946
+Género: Varón
+Domicilio: Calle de Alberto Aguilera 1
+Ciudad: Toledo, Formentera, Islas Baleares
+Código postal: 07734
+Email: jaime_varela@ub.edu
+Teléfono fijo: +34 971 17 66 83
+FAX: +34 971 71 10 44
+NHC: 1120656
+NASS: 332863130010
+Condición de riesgo: Plomero
+Datos asistenciales.
+Médico: Dr. Izan Valero Morales. NC 233994090. Investigador Principal en Optometría Clínica. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 28/07/2002
+Episodio: 81582461
+Hospital: Hospital Universitario Marqués de Valdecilla
+Matrícula del coche: 7488EOL
+Modelo: Tesla Model 3
+VIN: VSKJA04NLXT969922
+Informe clínico del paciente:
+Paciente de descendencia africana de 55 años de edad, acompañado de su compañero, con antecedentes de problemas respiratorios crónicos. Presenta síntomas de dolor en el pecho y dificultad para respirar durante las últimas 24 horas. La exploración física revela taquicardia, hipertensión y signos de insuficiencia respiratoria. Los análisis de sangre muestran elevaciones en los niveles de enzimas cardíacas y signos de inflamación en la sangre. Se solicitan pruebas de imagen para evaluar la función cardíaca y detectar cualquier lesión en el corazón o pulmones. El paciente es ingresado en la unidad de cuidados intensivos para recibir tratamiento y monitoreo continuo.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Ha tenido problemas respiratorios crónicos durante los últimos años, incluyendo asma y bronquitis crónica. Ha sido fumador activo durante más de 20 años y ha tenido exposición a contaminantes ambientales.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento para sus problemas respiratorios y cardíacos durante varios años. Sin embargo, en las últimas semanas ha experimentado un empeoramiento de sus síntomas, lo que ha llevado a su ingreso en la unidad de cuidados intensivos. Se está evaluando la posibilidad de realizar una cirugía para mejorar la función cardíaca del paciente.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha informado sobre la situación clínica del paciente y ha solicitado la evaluación y tratamiento en la unidad de cuidados intensivos.

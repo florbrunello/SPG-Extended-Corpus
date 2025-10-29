@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Jordi Bravo Casas
+DNI: 76651187F
+Fecha de nacimiento: 08/05/1987
+Género: H
+Domicilio: Calle de la Fe 70
+Ciudad: Lorca, Ibiza, Islas Baleares
+Código postal: 07659
+Email: jordibravocasas@salud.madrid.org
+Teléfono fijo: +34 971 44 86 35
+FAX: +34 971 52 63 31
+NHC: 5573901
+Datos asistenciales.
+Médico: Dra. Marta Fernández Cortés. NC 982835487. Psiquiatra Especialista en Trastornos de Ansiedad. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 24/07/2013
+Hospital: Complejo Hospitalario Universitario de Santiago
+Informe clínico del paciente:
+Paciente vegano de 26 años de edad. Se registró una sesión de escaneo del iris, el código obtenido para revisarla es IW715DQP711.
+Fecha de ingreso:
+24/07/2013
+Centro de salud de ingreso:
+Complejo Hospitalario Universitario de Santiago

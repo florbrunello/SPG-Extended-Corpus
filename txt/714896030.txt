@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Gabriel Jiménez Del Rio
+DNI: 76037367B
+Fecha de nacimiento: 08/05/2001
+Género: Hombre
+Domicilio: Calle de Juan Bravo 33
+Ciudad: Avilés, Zaragoza, Aragón
+Código postal: 50991
+Email: ftTDo5zL9lP@ciberned.es
+Teléfono fijo: +34 976 96 84 56
+Teléfono móvil: +34 676 71 89 72
+NHC: 5947193
+NASS: 990621096333
+Condición de riesgo: Químico
+Datos asistenciales.
+Médico: Dr. Eric Merino Aguilera. NC 243357145. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 26/12/2020
+Hospital: Complejo Hospitalario Universitario de Santiago
+Informe clínico del paciente:
+Paciente exfumador de 19 años de edad, acompañado de su compañero de trabajo, con antecedentes de exposición a sustancias químicas en su lugar de trabajo. Presenta síntomas de irritación en los ojos y la piel, así como problemas respiratorios. La exploración física revela: Tª 37,2 C; T.A: 120/80 mmHg; Fc: 20 lpm. Se encuentra consciente, orientado, sin sudoración, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 22,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 12 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 9,2 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de irritación química de la piel y los ojos, se instaura tratamiento sintomático (antihistamínicos, antiinflamatorios, reposo y protección de la piel y los ojos) así como tratamiento de apoyo (hidratación, oxígeno suplementario). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio con seguimiento en consultas sucesivas.
+Antecedentes:
+El paciente tiene antecedentes de exposición a sustancias químicas en su lugar de trabajo, lo que ha llevado a la irritación de la piel y los ojos. También tiene antecedentes de problemas respiratorios en el pasado.
+Evolución y comentarios:
+El paciente ha mejorado significativamente de su cuadro tras la aplicación del tratamiento sintomático y de apoyo. Se ha establecido un seguimiento en consultas sucesivas para controlar la evolución del paciente.
+Remitido por:
+El paciente fue remitido por su compañero de trabajo, quien se encontraba en el lugar de trabajo en el momento de la exposición a las sustancias químicas.

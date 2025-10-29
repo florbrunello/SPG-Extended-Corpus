@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Aitor Mateos Domínguez
+DNI: 82153024Z
+Fecha de nacimiento: 25/04/1943
+Género: Hombre
+Domicilio: Calle de San Bernardo 14, 5B
+Ciudad: Eibar, Formentera, Islas Baleares
+Código postal: 07027
+Email: aitordominguez@us.es
+Teléfono fijo: +34 971 06 10 99
+Teléfono móvil: +34 771 88 64 21
+NHC: 1958861
+NASS: 085636893699
+Condición de riesgo: Fabricante
+Datos asistenciales.
+Médico: Dra. Lourdes Guerrero Jurado. NC 004322879. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 09/03/2025
+Episodio: 09316095
+Centro de salud: Centro de Salud Barajas
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 81 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que se presenta en la consulta con queja de dificultad para recordar nombres y fechas, así como dificultad para aprender nuevas tareas. La exploración física revela presión arterial 160/90 mmHg, frecuencia cardíaca 80 lpm, temperatura 36,5 C, y una exploración neurológica normal.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, controlados con medicación.
+Evolución y comentarios:
+El paciente ha presentado una evolución estable desde su ingreso, con una mejoría moderada en sus síntomas de memoria y aprendizaje.
+Remitido por:
+Dra. Lourdes Guerrero Jurado.
+Fecha de alta: 12/03/2025

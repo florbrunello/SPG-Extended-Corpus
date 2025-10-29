@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Catalina Benito Suárez
+DNI: 38924386Z
+Fecha de nacimiento: 01/03/2010
+Género: M
+Domicilio: Calle de la Libertad 16
+Ciudad: Pamplona, Córdoba, Andalucía
+Código postal: 14203
+Email: suarez@ucm.es
+Teléfono fijo: +34 957 92 85 42
+Teléfono móvil: +34 757 92 10 14
+NHC: 4539996
+NASS: 021045942390
+Condición de riesgo: Técnico de Cuidados Auxiliares de Enfermería
+Datos asistenciales.
+Médico: Dr. Gonzalo Bravo Montes. NC 284746877. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 04/12/2024
+Episodio: 73319130
+Hospital: Complejo Hospitalario Universitario de Santiago
+Informe clínico del paciente:
+Paciente de tez blanca de 14 años de edad, acompañado de su abuela. Se realizó un expediente con URL http://example-biotech.com//58989623R.

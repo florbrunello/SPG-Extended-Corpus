@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Ramón Santana Reyes
+DNI: 39987299M
+Fecha de nacimiento: 21/10/1981
+Género: Masculino
+Domicilio: Calle de Narváez 67
+Ciudad: Burgos, Salamanca, Castilla y León
+Código postal: 37831
+Email: ramonreyes@outlook.com
+Teléfono fijo: +34 923 62 53 45
+Teléfono móvil: +34 623 25 08 02
+NHC: 7430505
+NASS: 389047982310
+Condición de riesgo: Electricista
+Datos asistenciales.
+Médico: Dra. Elvira Núñez Roldan. NC 740427200. Neuróloga Investigadora en Trastornos Cognitivos. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Cargo: Investigadora
+Dirección: Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso:
+Fecha de ingreso: 25/11/2024
+Episodio: 37968557
+Centro de salud de ingreso:
+Centro de salud: Centro de Salud Aluche
+Informe clínico del paciente:
+Paciente vegetariano de 43 años de edad, con antecedentes de hipertensión arterial y dislipemia, sin antecedentes de enfermedades cerebrovasculares. Se quejó de dolores de cabeza intensos y frecuentes en la región occipital, acompañados de mareos y vértigos. La exploración física reveló una tensión arterial elevada y un electrocardiograma anormal.
+La evolución clínica fue marcada por una progresión de los síntomas, con aumento de la frecuencia y gravedad de los dolores de cabeza. Se realizaron pruebas de imagen, incluyendo una resonancia magnética cerebral, que reveló una lesión en el lóbulo occipital derecho.
+El tratamiento se centró en la reducción de la tensión arterial y la administración de analgésicos para controlar los dolores de cabeza. Se realizó una derivación de la tensión arterial y se recomendó una dieta baja en sodio y grasas.
+La evolución del paciente ha sido favorable, con reducción de la frecuencia y gravedad de los dolores de cabeza. Se realizaron revisiones periódicas para monitorear la evolución del paciente y ajustar el tratamiento según sea necesario.
+Antecedentes:
+El paciente tiene un antecedente de accidente cerebrovascular en el año 2015, que le dejó con una lesión en el lóbulo frontal izquierdo. Ha estado bajo tratamiento con anticoagulantes y antiagregantes plaquetarios desde entonces.
+Evolución y comentarios:
+El paciente ha estado bajo tratamiento durante seis meses, con una reducción significativa de la frecuencia y gravedad de los dolores de cabeza. Se ha observado una mejora en la función cognitiva y una disminución de la frecuencia de los mareos y vértigos.
+Remitido por:
+Se remitió al paciente a su médico de cabecera para continuar con el tratamiento y realizar revisiones periódicas. Se le recomendó una dieta saludable y una actividad física regular para mejorar su calidad de vida.

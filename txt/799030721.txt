@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Rubén Soler Gutiérrez
+DNI: 42297271H
+Fecha de nacimiento: 23/09/1929
+Género: M
+Domicilio: Calle del Doctor Esquerdo 20, 1W
+Ciudad: Salamanca, Ibiza, Islas Baleares
+Código postal: 07053
+Email: soler.gutierrez@hotmail.com
+Teléfono fijo: +34 971 44 84 46
+Teléfono móvil: +34 771 58 42 39
+NHC: 6164939
+NASS: 530631884965
+Condición de riesgo: Jubilado
+Datos asistenciales.
+Médico: Dr. Víctor Villanueva Martín. NC 153579592. Investigador Clínico en Insuficiencia Cardíaca. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 17/08/2022
+Centro de salud: Centro de Salud Pozuelo de Alarcón
+Informe clínico del paciente:
+Paciente de ascendencia nórdica o escandinava de 92 años de edad, acompañado de su nuera, que acude a la consulta por un control de rutina. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 60 lpm. Se encuentra consciente, orientado, sin sudoración ni signos de estrés. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 7.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 25 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Rx tórax y Ecografía abdominal) que no evidencian patología significativa. El paciente se le recomienda realizar un seguimiento de rutina en 6 meses.
+Antecedentes:
+El paciente tiene una historia de hipertensión arterial controlada con medicación, así como una historia de diabetes mellitus tipo 2 controlada con dieta y medicación. No tiene antecedentes de enfermedades cardíacas ni pulmonares significativas.
+Evolución y comentarios:
+El paciente se encuentra estable y sin signos de complicaciones. Se le recuerda la importancia de seguir con la medicación y la dieta recomendada para controlar la hipertensión y la diabetes.
+Remitido por:
+No se requiere remisión por parte del paciente.

@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Bruno Cabrera Varela
+DNI: 95544654D
+Fecha de nacimiento: 15/11/1939
+Género: Varón
+Domicilio: Calle de San Millán 28, 6E
+Ciudad: Jerez de la Frontera, Menorca, Islas Baleares
+Código postal: 07797
+Email: bruno@imibic.org
+Teléfono fijo: +34 971 08 70 33
+Teléfono móvil: +34 671 97 61 19
+NHC: 0439119
+NASS: 197103902415
+Condición de riesgo: Científico de Investigación
+Datos asistenciales.
+Médico: Dr. Juan Robles Gil. NC 838973667. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 13/02/2000
+Episodio: 31903333
+Hospital: Hospital Universitario Príncipe de Asturias
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 60 años de edad, acompañado de su marido, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Se refirió a la consulta con quecha de dolor en el pecho de 2 días de evolución, sin irradiación a los brazos o hombros. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni taquicardia. En cabeza y cuello no se palpan adenopatías ni bocio. Auscultación cardíaca con soplos de tricúspide y murmillo de mitral. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 10.200/mm3 (neutrófilos 70%); plaquetas 200.000/mm3. Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l. Orina: sedimento normal. Se solicitan pruebas de imagen (Rx tórax y Ecocardiograma transtorácico) que no evidencian patología significativa. Se diagnostica angina de pecho estable y se instaura tratamiento sintomático (nitratos, betabloqueantes y antiagregantes plaquetarios) y tratamiento farmacológico (aspirina y estatinas). El paciente mejora significativamente de su cuadro tras un tratamiento de 2 semanas, decidiéndose el alta a su domicilio.

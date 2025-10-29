@@ -1,0 +1,29 @@
+Datos del paciente.
+Nombre: Araceli Mendoza Marti
+DNI: 83159155X
+Fecha de nacimiento: 15/10/1947
+Género: Femenino
+Domicilio: Calle de Ríos Rosas 14
+Ciudad: Torrelodones, Ciudad Real, Castilla-La Mancha
+Código postal: 13282
+Email: marti@ciberned.es
+Teléfono fijo: +34 926 36 20 95
+Teléfono móvil: +34 626 34 00 15
+NHC: 7132361
+NASS: 593927206099
+Condición de riesgo: Conductor de Camión
+Datos asistenciales.
+Médico: Dr. Nicolás Márquez Campos. NC 786345306. Residente de 3° año en Oftalmología. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 24/11/1992
+Centro de salud: Centro de Salud Móstoles
+Informe clínico del paciente:
+La paciente fumadora de 45 años de edad, con antecedentes de hipertensión arterial y sobrepeso, acudió a la consulta con quejas de visión borrosa en ambos ojos y dolor ocular. La exploración física reveló presión intraocular de 25 mmHg en ambos ojos y una visión de 20/40 en el ojo derecho y 20/50 en el ojo izquierdo. Se solicitó una exploración oftalmológica complementaria, incluyendo un escaneo de la retina y una evaluación de la función visual.
+Los resultados de la exploración oftalmológica mostraron un glaucoma primario de ángulo abierto en ambos ojos, con un aumento de la presión intraocular en el ojo derecho. Se recomendó un tratamiento con gotas anti-glaucomatosas y un seguimiento regular para monitorizar la evolución del glaucoma.
+La paciente también presentaba signos de estrés visual, con una disminución de la visión en el ojo izquierdo debido a una miopía refractiva. Se recomendó un tratamiento con lentes de contacto para corregir la miopía y mejorar la visión en el ojo izquierdo.
+En resumen, la paciente requiere un tratamiento integral para el glaucoma y la miopía refractiva, con un seguimiento regular para monitorizar la evolución del glaucoma y ajustar el tratamiento según sea necesario.
+Antecedentes:
+La paciente tiene antecedentes de hipertensión arterial y sobrepeso, lo que puede estar relacionado con la aparición del glaucoma primario de ángulo abierto.
+Evolución y comentarios:
+La paciente ha estado cumpliendo con el tratamiento y ha mostrado una mejora en la visión en el ojo izquierdo después de la colocación de lentes de contacto. Sin embargo, es importante seguir monitorizando la evolución del glaucoma y ajustar el tratamiento según sea necesario.
+Remitido por:
+El paciente ha sido remitido a la consulta de oftalmología para un seguimiento regular y ajuste del tratamiento.

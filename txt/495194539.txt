@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Sandra Escobar Jurado
+DNI: 29126023L
+Fecha de nacimiento: 15/03/1956
+Género: F
+Domicilio: Calle de Don Ramón de la Cruz 49
+Ciudad: Toledo, Ibiza, Islas Baleares
+Código postal: 07491
+Email: sandra_jurado351@h12o.es
+Teléfono fijo: +34 971 26 63 03
+Teléfono móvil: +34 671 00 16 03
+NHC: 2163012
+Condición de riesgo: Repartidor
+Datos asistenciales.
+Médico: Dr. Pedro José Acosta Domínguez. NC 799795576. Investigador Clínico en Síndromes Raros. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 14/10/2016
+Episodio: 50447538
+Hospital: Hospital Clínic Barcelona
+Informe clínico del paciente:
+La paciente, Sandra Escobar Jurado, de 60 años de edad, fue derivada al Servicio de Urgencias del Hospital Clínic Barcelona con síntomas de dolor abdominal crónico y pérdida de peso significativa en los últimos meses. La paciente es vegetariana desde hace más de 20 años y no consume productos lácteos ni huevos.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. La paciente se encuentra consciente, orientada, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. La auscultación cardíaca es rítmica, sin soplos, roces ni extratonos. La auscultación pulmonar conserva el murmullo vesicular. El abdomen es blando, depresible, sin masas ni megalias.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. Bioquímica: Glucosa 90 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 15 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal y TAC craneal) que no evidencian patología significativa. Se realiza una biopsia de hígado que muestra una enfermedad hepática crónica no alcohólica.
+Con el diagnóstico de enfermedad hepática crónica no alcohólica se instaura tratamiento sintomático (reposo, dieta balanceada y medicación para controlar los síntomas) y tratamiento específico con medicamentos antivirales.
+Antecedentes:
+La paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2, tratadas con medicación oral.
+Evolución y comentarios:
+La paciente ha mostrado una buena respuesta al tratamiento y su condición se ha estabilizado. Se le ha recomendado seguir una dieta balanceada y realizar ejercicios físicos regulares para mejorar su salud en general.
+Remitido por:
+Dr. Pedro José Acosta Domínguez.

@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Mohammed Castillo Calderon
+DNI: 83239112L
+Fecha de nacimiento: 13/09/1983
+Género: Hombre
+Domicilio: Calle de Bravo Murillo 28
+Ciudad: Albacete, Cantabria, Cantabria
+Código postal: 39808
+Email: castillo_calderon576@ioba.med.uva.es
+Teléfono fijo: +34 942 72 47 74
+Teléfono móvil: +34 642 96 49 48
+NHC: 8230779
+NASS: 742741790803
+Condición de riesgo: Farmacéutico
+Datos asistenciales.
+Médico: Dra. Olga Velasco Guerra. NC 589475355. Residente de 2° año en Pediatría. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 29/08/2013
+Centro de salud: Centro de Salud Sevilla Oeste
+Informe clínico del paciente:
+Paciente vegano de 29 años de edad, con antecedentes de hipersensibilidad a los alimentos lácteos y gluten, que acude al servicio de urgencias con síntomas de dolor abdominal crónico y diarrea. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 10.500/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 20 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de enteritis crónica se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y dieta estricta) así como tratamiento farmacológico: Mesalazina 1,5 g vía oral cada 6 horas (durante 2 semanas) y Colestiramina 4 g vía oral cada 12 horas (durante 1 semana). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio donde continúa con la dieta estricta y el tratamiento farmacológico.
+Antecedentes:
+El paciente tiene antecedentes de hipersensibilidad a los alimentos lácteos y gluten, lo que ha llevado a una dieta estricta vegana desde hace varios años. También tiene antecedentes de dolor abdominal crónico y diarrea, que se han vuelto más frecuentes en los últimos meses.
+Evolución y comentarios:
+El paciente ha estado en tratamiento con Mesalazina y Colestiramina durante 2 semanas, lo que ha llevado a una mejoría significativa de su cuadro. Se ha decidido mantener la dieta estricta vegana y el tratamiento farmacológico para evitar recaídas.
+Remitido por:
+El paciente ha sido remitido a

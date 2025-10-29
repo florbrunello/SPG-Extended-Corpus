@@ -1,0 +1,35 @@
+Datos del paciente.
+Nombre: Jon Domínguez Cano
+DNI: 59841900V
+Fecha de nacimiento: 23/07/1967
+Género: Hombre
+Domicilio: Calle de Tribulete 29, 10B
+Ciudad: Castellón de la Plana, Castilla y León
+Código postal: 09823
+Email: jon.dominguez-cano@ioba.med.uva.es
+Teléfono fijo: +34 947 68 57 68
+FAX: +34 947 58 93 03
+NHC: 7849375
+Condición de riesgo: Trabajador Agrícola
+Datos asistenciales.
+Médico: Dr. Juan Pedro Aguilera Paredes
+NC: 961493260
+Cargo: Residente de 5° año en Urología
+Instituto: Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12)
+Dirección: Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 21/09/2022
+Episodio: 61124625
+Centro de salud: Centro de Salud Moratalaz
+Matrícula del coche: 4952YKU
+Modelo: Kia Sorento
+VIN: VSMHJPF5MJG140378
+Informe clínico del paciente:
+Paciente de 45 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, acude al Servicio de Urgencias con síntomas de dolor abdominal agudo y vómitos. La exploración física revela: Tª 38,5 C; T.A: 140/90 mmHg; Fc: 120 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen distendido, con dolor en el epigastrio y rechazo de la palpa.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,2 g/dl; leucocitos 17.500/mm3 (neutrófilos 85%); plaquetas 250.000/ mm3. VSG: 60 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 180 mg/dl; urea 30 mg/dl; creatinina 1,1 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 35 U/l; fosfatasa alcalina 130 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas de imagen (Ecografía abdominal, TAC abdominal) que revelan un quiste hepático de 5 cm de diámetro. Se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se realiza una exploración quirúrgica para la extracción del quiste. El paciente se encuentra estable y se le prescribe un seguimiento ambulatorio.
+Antecedentes:
+El paciente tiene antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Ha tenido episodios de dolor abdominal agudo en el pasado, pero nunca ha requerido hospitalización.
+Evolución y comentarios:
+El paciente se encuentra estable después de la exploración quirúrgica. Se le prescribe un seguimiento ambulatorio para controlar la evolución del quiste hepático.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien sospechaba una infección gastrointestinal.

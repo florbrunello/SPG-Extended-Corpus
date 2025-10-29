@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Ignacio Núñez Rivas
+DNI: 40595922W
+Fecha de nacimiento: 04/02/1973
+Género: Varón
+Domicilio: Calle de Alberto Aguilera 6
+Ciudad: Yecla, Jaén, Andalucía
+Código postal: 23758
+Email: ignacionunez-rivas@uca.es
+Teléfono fijo: +34 953 80 48 14
+Teléfono móvil: +34 653 86 21 93
+NHC: 5926213
+NASS: 280743715274
+Condición de riesgo: Conserje
+Datos asistenciales.
+Médico: Dra. Sonia Mendoza Velasco. NC 106314378. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/09/2008
+Hospital: Complejo Hospitalario Universitario de A Coruña
+Informe clínico del paciente:
+Paciente de ascendencia africana del norte de 35 años de edad, que se presenta con síntomas de dolor abdominal crónico y pérdida de peso en los últimos 6 meses. La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, con dolor en la región epigástrica y ausencia de masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 180.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,0 mg/dl; sodio 140 mEq/l; potasio 4,0 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 150 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Con el diagnóstico de enfermedad inflamatoria intestinal se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación abdominal) así como tratamiento farmacológico específico: Mesalazina 500 mg vía oral cada 8 horas (durante 6 semanas) y Budesonida 9 mg vía oral cada 24 horas (durante 3 semanas). El paciente mejora significativamente de su cuadro tras 2 semanas de tratamiento, decidiéndose el alta a su domicilio donde completó la pauta de tratamiento farmacológico. En revisiones sucesivas en consultas se constató la completa remisión del cuadro.
+Antecedentes:
+El paciente tiene antecedentes de episodios de diarrea y dolor abdominal en los últimos 5 años, sin embargo, nunca ha sido tratado de manera inadecuada. La paciente tiene una historia familiar de enfermedades inflamatorias intestinales.
+Evolución y comentarios:
+El paciente ha seguido el tratamiento farmacológico de manera adecuada y ha mostrado una buena respuesta clínica. Se le ha recomendado seguir un estilo de vida saludable, incluyendo una dieta equilibrada y un ejercicio regular.
+Remitido por:
+Dra. Sonia Mendoza Velasco, Investigadora Clín

@@ -1,0 +1,23 @@
+Datos del paciente.
+Nombre: Matilde Espinosa Blanco
+DNI: 11610141V
+Fecha de nacimiento: 08/11/1948
+Género: Mujer
+Domicilio: Calle de la Virgen de los Peligros 96
+Ciudad: Ciudad Real, León, Castilla y León
+Código postal: 24688
+Email: espinosa@yahoo.com
+Teléfono fijo: +34 987 22 37 93
+Teléfono móvil: +34 687 39 22 68
+NHC: 5180999
+NASS: 408178651150
+Datos asistenciales.
+Médico: Dr. Juan Ramón Mesa Trujillo. NC 068822310. Investigador Clínico en Epidemiología. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/10/1986
+Centro de salud: Centro de Salud Sevilla Este
+Informe clínico del paciente:
+La paciente, una mujer de 37 años de edad, de ascendencia norteamericana, fue atendida en el Servicio de Urgencias del Centro de Salud Sevilla Este por presentar síntomas de dolor abdominal agudo y vómitos. La paciente informó que había estado experimentando dolor abdominal durante las últimas 24 horas, que se había intensificado en las últimas 6 horas, y que había vomitado varias veces.
+La exploración física reveló: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. La paciente se encuentra consciente, orientada, sudorosa, eupneica, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia dolor en el cuadrante superior derecho, sin masa ni megalia.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 15.000/mm3 (neutrófilos 80%); plaquetas 250.000/ mm3. VSG: 50 mm 1ª hora. Coagulación: TQ 90%; TTPA 30 seg. Bioquímica: Glucosa 120 mg/dl; urea 35 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l.
+Se solicitaron pruebas de imagen (Ecografía abdominal) que revelaron una apendicitis aguda. Se instauró tratamiento sintomático (antitérmicos, antiinflamatorios, reposo) y se programó una laparoscopia para la remoción de la apendice.
+La paciente se encuentra en observación en la unidad de cuidados intensivos, donde se le está proporcionando tratamiento y seguimiento adecuados.

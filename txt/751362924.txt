@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Jaime Ibáñez Herrera
+DNI: 64235475V
+Fecha de nacimiento: 21/01/1983
+Género: Varón
+Domicilio: Calle de los Relatores 20
+Ciudad: Tarragona, Badajoz, Extremadura
+Código postal: 06248
+Email: herrera@ciberned.es
+Teléfono fijo: +34 924 06 49 55
+FAX: +34 924 40 90 66
+NHC: 5790024
+Condición de riesgo: Farmacéutico
+Datos asistenciales.
+Médico: Dr. Alberto Castaño Guerra. NC 805772201. Residente de 3° año en Psiquiatría. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 18/01/2024
+Hospital: Hospital Universitario La Paz
+Antecedentes:
+El paciente refiere una historia de ansiedad y depresión desde su infancia, con episodios recurrentes de ataques de pánico y pensamientos de muerte. Ha intentado varios tratamientos, incluyendo terapia cognitivo-conductual y medicación, sin lograr un control adecuado de sus síntomas.
+Evolución y comentarios:
+El paciente ha estado en la unidad de psiquiatría durante 5 días, durante los cuales ha recibido tratamiento con antidepresivos y ansiolíticos. Su estado ha mejorado significativamente, con una reducción en la frecuencia y gravedad de los ataques de pánico. Sin embargo, sigue experimentando pensamientos de muerte y ansiedad.
+Informe clínico del paciente:
+Paciente migrante de 40 años de edad, acompañado de su amiga, que refiere una historia de ansiedad y depresión desde su infancia. Ha estado en la unidad de psiquiatría durante 5 días, recibiendo tratamiento con antidepresivos y ansiolíticos. Su estado ha mejorado significativamente, pero sigue experimentando pensamientos de muerte y ansiedad. Se recomienda continuar el tratamiento con medicación y terapia, y seguir monitorizando su estado.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado un empeoramiento en su estado de ánimo y una mayor frecuencia de ataques de pánico. Se ha solicitado una evaluación psiquiátrica para determinar el mejor curso de tratamiento.

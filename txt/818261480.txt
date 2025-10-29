@@ -1,0 +1,36 @@
+Datos del paciente.
+Nombre: Iker Castaño Bravo
+DNI: 69933677S
+Fecha de nacimiento: 08/07/1941
+Género: M
+Domicilio: Calle de Piamonte 4, 1H
+Ciudad: Avilés, Palencia, Castilla y León
+Código postal: 34825
+Email: RXqb8mqOC51261@ciberer.es
+Teléfono fijo: +34 979 84 96 79
+Teléfono móvil: +34 779 67 20 89
+NHC: 3306320
+NASS: 993211738458
+Condición de riesgo: Médico
+Datos asistenciales.
+Médico: Dr. Francisco José Camacho Molina. NC 743511621. Especialista en Genética Médica. Instituto de Investigación Biomédica en Red de Enfermedades Raras (CIBERER). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 16/09/1957
+Episodio: 07736258
+Hospital: Complejo Hospitalario La Mancha Centro
+Matrícula del coche: 7071SOH
+Modelo: Toyota Corolla
+VIN: VSNBAY924XZ536621
+Informe clínico del paciente:
+Paciente de ascendencia indígena sudamericana de 16 años de edad, con antecedentes familiares de enfermedades genéticas. Presenta un cuadro clínico caracterizado por una serie de síntomas que incluyen dolores articulares, debilidad muscular y fatiga crónica. La exploración física revela signos de hipotensión, taquicardia y taquipnea. Los resultados de las pruebas diagnósticas muestran alteraciones en los niveles de creatinina y urea en la sangre, así como una disminución en la función renal.
+Se ha solicitado una serie de pruebas complementarias para confirmar el diagnóstico, incluyendo una biopsia renal y una exploración genética. El paciente está recibiendo tratamiento sintomático para aliviar los síntomas y se está evaluando la posibilidad de un tratamiento más agresivo para tratar la enfermedad subyacente.
+La evolución clínica del paciente es estable, pero se requiere un seguimiento estrecho para monitorizar la progresión de la enfermedad y ajustar el tratamiento según sea necesario.
+Evolución y comentarios:
+El paciente ha estado recibiendo tratamiento durante las últimas semanas y ha mostrado una respuesta favorable a la terapia. Los síntomas han disminuido y la función renal ha mejorado ligeramente. Sin embargo, se requiere un seguimiento continuo para asegurarse de que la enfermedad no se esté progresando.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado una serie de síntomas que sugieren una enfermedad genética subyacente. El paciente ha sido referido al Servicio de Genética Médica para una evaluación más exhaustiva y un diagnóstico definitivo.
+Antecedentes:
+El paciente tiene antecedentes familiares de enfermedades genéticas, incluyendo una tía que sufrió de una enfermedad renal crónica y un primo que fue diagnosticado con una condición similar. El paciente también ha informado de haber experimentado síntomas similares en el pasado, pero no ha sido diagnosticado con anterioridad.
+Fecha de ingreso:
+La fecha de ingreso del paciente es el 16/09/1957.
+Centro de salud de ingreso:
+El centro de salud de ingreso del paciente es el Complejo Hospitalario La Mancha Centro.

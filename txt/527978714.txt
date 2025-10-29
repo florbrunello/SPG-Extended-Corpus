@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Lorenzo Pardo Méndez
+DNI: 65391849C
+Fecha de nacimiento: 11/02/1933
+Género: Hombre
+Domicilio: Calle de Preciados 94, 2T
+Ciudad: Huelva, Sevilla, Andalucía
+Código postal: 41612
+Email: lorenzo-pardo@uhu.es
+Teléfono fijo: +34 954 54 63 16
+Teléfono móvil: +34 754 12 03 78
+NHC: 1388996
+NASS: 468043486571
+Condición de riesgo: Discapacitado
+Datos asistenciales.
+Médico: Dra. Eva Gil Cortés. NC 639483564
+Cargo: Investigadora Principal en Parkinson
+Instituto: Instituto de Investigación Biomédica en Red de Enfermedades Neurodegenerativas (CIBERNED)
+Dirección: Avenida Monforte de Lemos 3-5. 28029. Madrid. España
+Fecha de ingreso: 01/10/2021
+Episodio: 66469927
+Centro de salud: Centro de Salud Sevilla Sur
+Informe clínico del paciente:
+Paciente discapacitado de 88 años de edad, acompañado de su padre, presenta una historia clínica compleja con múltiples comorbilidades. El paciente ha sido ingresado en la unidad de neurología con síntomas de demencia, parkinsonismo y trastornos del movimiento. La exploración física revela una presencia de rigidez y bradicinesia en los miembros inferiores, con una velocidad de marcha reducida. El paciente también presenta una disminución significativa en la capacidad de realizar actividades cotidianas.
+La evolución clínica ha sido marcada por una progresión gradual de los síntomas, con una mayor dificultad para realizar tareas básicas. El paciente ha requerido asistencia para la alimentación, la higiene personal y la movilidad. La exploración neurológica ha revelado una presencia de signos de degeneración cerebral, con una disminución en la función cognitiva y una pérdida de la coordinación motora.
+Los resultados de las pruebas diagnósticas han confirmado la presencia de enfermedad de Alzheimer y parkinsonismo. El paciente ha sido tratado con medicamentos para controlar los síntomas, pero su evolución ha sido marcada por una progresión gradual de la enfermedad.
+En la actualidad, el paciente se encuentra en una etapa avanzada de la enfermedad, con una dependencia significativa para realizar actividades cotidianas. Se requiere un seguimiento estrecho para controlar los síntomas y ajustar el tratamiento según sea necesario.
+Antecedentes:
+El paciente tiene una historia de hipertensión arterial, diabetes mellitus tipo 2 y enfermedad cardiovascular. Ha sido tratado con medicamentos para controlar estos trastornos, pero ha presentado una progresión gradual de la enfermedad.
+Evolución y comentarios:
+El paciente ha presentado una evolución clínica compleja con múltiples comorbilidades. La enfermedad de Alzheimer y el parkinsonismo han progresado significativamente, lo que ha requerido un ajuste constante del tratamiento. Se requiere un seguimiento estrecho para controlar los síntomas y ajustar el tratamiento según sea necesario.
+Remitido por:
+El paciente ha sido remitido por su médico de cabecera, quien ha notado una progresión significativa en la enfermedad. El paciente se encuentra en una etapa avanzada de la enfermedad y requiere un seguimiento estrecho para controlar los síntomas y ajustar el tratamiento según sea necesario.

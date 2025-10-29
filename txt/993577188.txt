@@ -1,0 +1,28 @@
+Datos del paciente.
+Nombre: Concepción Sánchez Arias
+DNI: 63635019E
+Fecha de nacimiento: 03/02/1949
+Género: Femenino
+Domicilio: Calle del Nuncio 16
+Ciudad: Guadix, Castellón, Comunidad Valenciana
+Código postal: 12646
+Email: concepcion.sanchez.arias1330@aol.com
+Teléfono fijo: +34 964 68 03 70
+Teléfono móvil: +34 664 54 58 16
+NHC: 2353890
+NASS: 300045530855
+Condición de riesgo: Paciente con antecedentes familiares de enfermedades cardiovasculares
+Datos asistenciales.
+Médico: Dr. Ricardo Pacheco Rey. NC 158928507. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/02/1962
+Episodio: 21493589
+Centro de salud: Centro de Salud Barajas
+Informe clínico del paciente:
+Paciente de 73 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2, que refiere un cuadro de dolor abdominal crónico de 6 meses de evolución, con exacerbaciones en los últimos 3 meses. El dolor se localiza en el epigastrio y se asocia con náuseas y vómitos. El paciente también refiere una pérdida de peso de 5 kg en los últimos 3 meses.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 90 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia un aumento de la resistencia en la región epigástrica, sin dolor a la palpación.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3; plaquetas 250.000/mm3. Bioquímica: Glucosa 150 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 4,5 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l. Orina: sedimento normal.
+Con el diagnóstico de enfermedad de la vesícula biliar se instaura tratamiento sintomático (antitérmicos, antiinflamatorios) así como tratamiento médico específico: Ursodiol 500 mg vía oral tres veces al día (durante 6 semanas). El paciente mejora significativamente de su cuadro tras una semana de tratamiento, decidiéndose el alta a su domicilio.
+Evolución y comentarios:
+El paciente fue seguido en consultas sucesivas y se constató la completa remisión del cuadro. Se realizó una ecografía abdominal que confirmó el diagnóstico de enfermedad de la vesícula biliar.
+Remitido por:
+Dr. Ricardo Pacheco Rey. NC 158928507. Investigador Clínico en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.

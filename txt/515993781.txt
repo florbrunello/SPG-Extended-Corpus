@@ -1,0 +1,32 @@
+Datos del paciente.
+Nombre: María Mercedes Ortega Calvo
+DNI: 23050129N
+Fecha de nacimiento: 27/07/1960
+Género: F
+Domicilio: Calle del Espíritu Santo 62, 6S
+Ciudad: Burgos, Álava, Pais Vasco
+Código postal: 01378
+Email: mariamercedes@protonmail.com
+Teléfono fijo: +34 945 69 00 19
+Teléfono móvil: +34 645 02 69 58
+NHC: 8371858
+NASS: 23050129N
+Condición de riesgo: Paciente de alto riesgo
+Datos asistenciales.
+Médico: Dr. Andrés Casas Trujillo. NC 645628558. Residente de 4° año en Cardiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 22/05/2002
+Episodio: 03919708
+Centro de salud: Centro de Salud Alcalá de Henares
+Fecha de ingreso:
+Fecha de ingreso: 22/05/2002
+Episodio: 03919708
+Centro de salud de ingreso:
+Centro de salud: Centro de Salud Alcalá de Henares
+Informe clínico del paciente:
+Paciente de ascendencia sudamericana de 41 años de edad, con antecedentes de hipertensión arterial y sobrepeso. Presenta un cuadro de dolor torácico irradiado al hombro izquierdo, con una duración de 2 horas. La exploración física revela una tensión arterial de 160/100 mmHg, con un pulso de 120 latidos por minuto. Se encuentra consciente, orientado, pero con un estado de ansiedad. El electrocardiograma (ECG) muestra una alteración en la onda QRS, con una desviación de 1 mm en el segmento ST. Se solicitan análisis de sangre para determinar los niveles de creatina quinasa (CK) y troponina. 
+Antecedentes:
+La paciente tiene antecedentes de hipertensión arterial y sobrepeso, con un índice de masa corporal (IMC) de 30. También tiene antecedentes de diabetes mellitus tipo 2, controlada con medicación oral.
+Evolución y comentarios:
+La paciente se encuentra en una condición estable, con una tensión arterial controlada y sin signos de insuficiencia cardíaca. El tratamiento se enfoca en la reducción de la tensión arterial y el control de la diabetes mellitus.
+Remitido por:
+Se le remite al paciente al servicio de cardiología para una evaluación más detallada y un plan de tratamiento personalizado.

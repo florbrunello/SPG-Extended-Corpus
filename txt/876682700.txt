@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Iñigo Salas Escobar
+DNI: 97746584B
+Fecha de nacimiento: 26/02/1990
+Género: Hombre
+Domicilio: Calle de la Fe 85
+Ciudad: Fuenlabrada, Gerona, Cataluña
+Código postal: 17588
+Email: salas-escobar@imibic.org
+Teléfono fijo: +34 972 96 66 31
+Teléfono móvil: +34 672 22 06 86
+NHC: 1182930
+NASS: 498914918497
+Condición de riesgo: Trabajador de Sanitización
+Datos asistenciales.
+Médico: Dr. Enrique Vila Villar. NC 218427771. Investigador Clínico en Medicina Interna. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 19/04/2007
+Centro de salud: Centro de Salud Málaga Sur
+Informe clínico del paciente:
+Paciente de descendencia africana de 17 años de edad, con antecedentes de enfermedades respiratorias crónicas, fue ingresado en el Servicio de Urgencias por presentar síntomas de tos y dificultad para respirar. La exploración física reveló fiebre alta, taquipnea y estertores en ambos pulmones. Se solicitó radiografía de tórax, que mostró una imagen de consolidación pulmonar en el lóbulo superior derecho.
+La evolución clínica del paciente fue rápida, con una gran producción de esputo y dificultad para respirar, lo que llevó a la instalación de un ventilador mecánico para mantener la oxigenación adecuada. Se realizaron pruebas de laboratorio, incluyendo hemograma, bioquímica y cultivo de esputo, que mostraron una infección por Klebsiella pneumoniae.
+El tratamiento se centró en la administración de antibióticos específicos para la infección, así como la ventilación mecánica para mantener la oxigenación adecuada. El paciente recibió oxígeno suplementario y se le administraron analgésicos para aliviar el dolor y la incomodidad.
+La evolución del paciente fue favorable, con una mejora significativa en los síntomas y la capacidad respiratoria. El paciente fue extubado y se le permitió caminar y realizar actividades físicas para mejorar la función pulmonar. Se le realizó un seguimiento estrecho para detectar cualquier complicación o recaída.
+Evolución y comentarios:
+El paciente fue dado de alta después de 10 días de ingreso, con una mejora significativa en la capacidad respiratoria y la calidad de vida. Se le recomendó seguir un tratamiento de rehabilitación para mejorar la función pulmonar y prevenir recaídas en el futuro.
+Remitido por:
+El paciente fue remitido a su médico de cabecera para un seguimiento estrecho y para que se le realicen pruebas de rutina para detectar cualquier complicación o recaída. Se le recomendó que se mantenga en reposo y evite actividades físicas intensas durante un período de tiempo para permitir la recuperación completa de los pulmones.

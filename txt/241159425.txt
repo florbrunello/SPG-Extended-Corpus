@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Álex Vila Luque
+DNI: 51126190L
+Fecha de nacimiento: 28/06/1973
+Género: Masculino
+Domicilio: Calle de Fortuny 51
+Ciudad: Toledo, Guadalajara, Castilla-La Mancha
+Código postal: 19139
+Email: vila@h12o.es
+Teléfono fijo: +34 949 64 94 23
+FAX: +34 949 77 01 44
+NHC: 7656047
+NASS: 425532539938
+Condición de riesgo: Conserje
+Datos asistenciales.
+Médico: Dr. Pau Parra Aguilera. NC 854149596. Endocrinólogo Especialista en Diabetes. Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC). Avenida Menéndez Pidal, s/n. 14004. Córdoba. España.
+Fecha de ingreso: 14/10/2009
+Episodio: 62348275
+Hospital: Hospital Universitario La Paz
+Informe clínico del paciente:
+Paciente de ascendencia europea oriental de 36 años de edad, con antecedentes de sobrepeso y hipertensión arterial, que refiere dolores en la región lumbar durante las últimas semanas. Presenta una temperatura de 37,5°C, presión arterial de 140/90 mmHg y frecuencia cardíaca de 80 latidos por minuto. La exploración física revela una postura corporal incorrecta, con hiperlordosis lumbar y dolor al movimiento de la columna vertebral.
+Antecedentes:
+El paciente tiene antecedentes de sobrepeso desde la edad de 20 años, con un índice de masa corporal (IMC) de 28 kg/m². En el año 2005, fue diagnosticado con hipertensión arterial y se inició tratamiento con medicación antihipertensiva. En el año 2007, presentó un episodio de dolor en la región lumbar, que se atribuyó a una lesión muscular.
+Evolución y comentarios:
+Durante su estancia en el hospital, el paciente recibió tratamiento con analgésicos y se le recomendó una terapia física para mejorar su postura corporal y reducir el dolor en la región lumbar. Se le realizó una ecografía de la columna vertebral, que no mostró ninguna anomalía significativa. El paciente se mostró satisfecho con el tratamiento recibido y se le dio un alta con instrucciones para seguir el tratamiento en casa.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, quien se encontraba de vacaciones en el momento de la consulta.

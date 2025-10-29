@@ -1,0 +1,22 @@
+Datos del paciente.
+Nombre: Noelia Mateos Ferrer
+DNI: 93357358J
+Fecha de nacimiento: 03/02/1931
+Género: F
+Domicilio: Calle del Espíritu Santo 33, 2K
+Ciudad: Albacete, Granada, Andalucía
+Código postal: 18949
+Email: mateos@gmail.com
+Teléfono fijo: +34 958 26 87 28
+Teléfono móvil: +34 758 56 65 01
+NHC: 2258839
+Condición de riesgo: Paramédico
+Datos asistenciales.
+Médico: Dr. Ricardo Zamora Contreras. NC 203904717. Residente de 5° año en Urología. Instituto de Investigación Sanitaria del Hospital 12 de Octubre (Imas12). Avenida de Córdoba, s/n. 28041. Madrid. España.
+Fecha de ingreso: 13/07/2006
+Centro de salud de ingreso: Hospital Universitario Severo Ochoa
+Informe clínico del paciente:
+Paciente vegano de 75 años de edad, acompañado de su marido. Presenta antecedentes de hipertensión arterial, diabetes mellitus tipo 2 y enfermedad cardiovascular. Se le realizó un estudio de exploración para valorar la presencia de complicaciones ocomorbilidades asociadas con sus condiciones subyacentes.
+La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin signos de dolor o malestar. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, sin masas ni megalias. En la exploración neurológica no se detectan signos meníngeos ni datos de focalidad. Extremidades sin varices ni edemas. Pulsos periféricos presentes y simétricos.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 200.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 95%; TTPA 25,8 seg. Bioquímica: Glucosa 120 mg/dl; urea 20 mg/dl; creatinina 0,8 mg/dl; sodio 135 mEq/l; potasio 3,5 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 30 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl. Orina: sedimento normal.
+Se decidió el alta del paciente con recomendaciones de seguimiento regular para valorar la evolución de sus condiciones subyacentes y ajustar el tratamiento según sea necesario.

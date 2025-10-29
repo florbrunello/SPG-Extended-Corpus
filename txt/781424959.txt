@@ -1,0 +1,30 @@
+Datos del paciente.
+Nombre: Lara Heredia Rubio
+DNI: 94087329X
+Fecha de nacimiento: 18/11/1949
+Género: F
+Domicilio: Calle del Rollo 79
+Ciudad: Guadix, Teruel, Aragón
+Código postal: 44287
+Email: lara.heredia-rubio@protonmail.com
+Teléfono fijo: +34 978 12 64 87
+Teléfono móvil: +34 678 18 06 62
+NHC: 4069146
+NASS: 932298415797
+Condición de riesgo: No especificada
+Datos asistenciales.
+Médico: Dr. Albert Diez Mora. NC 806880457. Residente de 3° año en Gastroenterología. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 01/06/1966
+Hospital: Hospital Universitario Río Hortega
+Informe clínico del paciente:
+Paciente no fumador de 16 años de edad, que acude al servicio de urgencias con síntomas de...
+(La descripción de los síntomas y la evolución clínica del paciente es necesaria para completar el informe. Sin embargo, puedo intentar generar un ejemplo de cómo podría ser el informe completo):
+Informe clínico del paciente:
+Paciente no fumador de 16 años de edad, que acude al servicio de urgencias con síntomas de dolor abdominal crónico y pérdida de peso en los últimos meses. La exploración física revela: temperatura 37,5°C; presión arterial 120/80 mmHg; frecuencia cardíaca 80 lpm. Se encuentra consciente, orientado, sin dolor y con buen estado de nutrición e hidratación. En la exploración abdominal se aprecia una masa abdominal palpable en la región epigástrica.
+Los datos analíticos muestran los siguientes resultados: hemograma normal; bioquímica: glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,5 mEq/l. Se solicitan pruebas de imagen (ecografía abdominal) que revelan una masa abdominal en la región epigástrica con características de un tumor.
+Con el diagnóstico de tumor abdominal, se instaura tratamiento quirúrgico y se refiere al paciente al servicio de oncología para seguir su seguimiento y tratamiento.
+Evolución y comentarios:
+El paciente se somete a una cirugía abdominal y se le diagnostica un tumor de células gastrointestinales. Se le comienza un tratamiento con quimioterapia y radioterapia para tratar de controlar la enfermedad. El paciente se encuentra en una evolución estable y sigue siendo seguido por el servicio de oncología.
+Remitido por:
+Se remite al paciente al servicio de oncología para seguir su seguimiento y tratamiento.
+Es importante destacar que este es solo un ejemplo y que el informe clínico real puede variar dependiendo de la información proporcionada y de la evolución clínica del paciente.

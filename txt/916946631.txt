@@ -1,0 +1,34 @@
+Datos del paciente.
+Nombre: Adolfo Rivas Miranda
+DNI: 12371790K
+Fecha de nacimiento: 04/12/1930
+Género: Varón
+Domicilio: Calle del Doctor Esquerdo 36
+Ciudad: Burgos
+Código postal: 50194
+Email: adolfo@h12o.es
+Teléfono fijo: +34 976 92 86 89
+Teléfono móvil: +34 676 53 51 91
+NHC: 1114695
+Condición de riesgo: Trabajador de Sanitización
+Datos asistenciales.
+Médico: Dra. Ana Isabel Gracia Aranda. NC 524284575. Oftalmóloga Especialista en Retina y Vítreo.
+Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 21/04/2010
+Episodio: 42600945
+Hospital: Hospital Universitario Rey Juan Carlos de Mostoles
+Matrícula del coche: 7518RJM
+Modelo: BMW 3 Series
+VIN: VSSJH9RVYVR579168
+Informe clínico del paciente:
+Paciente de tez blanca de 79 años de edad, acompañado de su hija, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Se refirió a la consulta con quejas de visión borrosa en ambos ojos durante las últimas semanas.
+La exploración física revela: Tª 36,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sin sudoración ni signos de estrés. En la exploración oftalmológica se observa un reflejo pupilar normal en ambos ojos, pero con una visión borrosa en ambos ojos.
+Se solicitan análisis de sangre para determinar la glóbulos rojos, glóbulos blancos y plaquetas, así como un escaneo retiniano para evaluar la retina y la vítreo. El resultado del escaneo retiniano se obtuvo con el código BR500QXS297.
+Se diagnostica una catarata bilateral y se decide la realización de una cirugía de catarata en ambos ojos. Se informa al paciente y a su hija sobre el procedimiento y los riesgos asociados.
+Evolución y comentarios:
+El paciente fue sometido a la cirugía de catarata en ambos ojos con éxito. Posteriormente, se realizó un seguimiento para evaluar la recuperación del paciente y ajustar el tratamiento según sea necesario.
+Remitido por:
+Dra. Ana Isabel Gracia Aranda
+Oftalmóloga Especialista en Retina y Vítreo
+Instituto Universitario de Oftalmobiología Aplicada (IOBA)
+Avenida Ramón y Cajal, 7. 47011. Valladolid. España

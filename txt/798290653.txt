@@ -1,0 +1,33 @@
+Datos del paciente.
+Nombre: Ángela Rodríguez Galvez
+DNI: 91006584T
+Fecha de nacimiento: 04/01/1979
+Género: F
+Domicilio: Calle de las Letras 48, 1X
+Ciudad: Majadahonda, Albacete, Castilla-La Mancha
+Código postal: 02882
+Email: angela@udc.es
+Teléfono fijo: +34 967 02 12 29
+Teléfono móvil: +34 767 98 02 33
+NHC: 5654232
+Condición de riesgo: Trabajador de Residuos Sólidos
+Datos asistenciales.
+Médico: Dr. Mariano Cruz Parra. NC 642911422. Investigador Clínico en Enfermedades Digestivas.
+Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd).
+Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 28/08/1997
+Episodio: 66238651
+Centro de salud: Centro de Salud Centro
+Matrícula del coche: 7316FHA
+Modelo: Kia Sorento
+VIN: VSJNG6JV83I927569
+Informe clínico del paciente:
+Paciente vegano de 18 años de edad, acompañado de su madre, que refiere dolores abdominales crónicos y diarrea recurrente durante las últimas semanas. La paciente tiene una historia de alergia a varios alimentos, incluyendo leche y huevos. La exploración física revela: temperatura 36,8°C; tensión arterial 120/80 mmHg; frecuencia cardíaca 80 lpm. La paciente se encuentra consciente, orientada, sin signos de dolor ni inquietud. En la exploración abdominal, se palpa una masa en el quicio derecho, no adherida a la piel, con zonas de fluctuación y doloroso a la palpación.
+Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 13,5 g/dl; leucocitos 9.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3. VSG: 25 mm 1ª hora. Coagulación: TQ 95%; TTPA 20,5 seg. Bioquímica: Glucosa 90 mg/dl; urea 15 mg/dl; creatinina 0,8 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Se solicitan pruebas diagnósticas, incluyendo una ecografía abdominal y una colonoscopia, que revelan un tumor de colon en el quicio derecho, con metástasis a la ropa intestinal. Se instaura tratamiento quirúrgico, incluyendo una colectomía y una resección de la ropa intestinal afectada. La paciente se encuentra estable y se le prescribe un seguimiento regular para monitorear el progreso de la enfermedad.
+Antecedentes:
+La paciente tiene una historia de alergia a varios alimentos, incluyendo leche y huevos. También tiene una historia de dolores abdominales crónicos y diarrea recurrente durante las últimas semanas.
+Evolución y comentarios:
+La paciente se encuentra estable después de la cirugía. Se le prescribe un seguimiento regular para monitorear el progreso de la enfermedad.
+Remitido por:
+El paciente fue remitido por su médico de cabecera, Dr. Juan Pérez García, quien se encontraba en un congreso en otro país en el momento de la consulta.

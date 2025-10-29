@@ -1,0 +1,36 @@
+Datos del paciente.
+Nombre: Jorge Costa Flores
+DNI: 22667765T
+Fecha de nacimiento: 24/10/1952
+Género: Varón
+Domicilio: Calle del Olivar 18
+Ciudad: Ponferrada, Vizcaya, Pais Vasco
+Código postal: 48908
+Email: jorge.costa@ioba.med.uva.es
+Teléfono fijo: +34 946 85 86 81
+FAX: +34 946 91 93 82
+NHC: 2388056
+NASS: 489082345
+Condición de riesgo: Trabajador de Almacén
+Datos asistenciales.
+Médico: Dra. Rosa Crespo Montero. NC 251711032. Investigadora Clínica en Enfermedades Digestivas. Instituto de Investigación Biomédica en Red de Enfermedades Hepáticas y Digestivas (CIBERehd). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 21/08/1990
+Episodio: 23353819
+Centro de salud: Centro de Salud Málaga Oeste
+Informe clínico del paciente:
+Paciente de tez blanca de 37 años de edad, que se presenta con síntomas de dolor abdominal crónico y pérdida de peso en los últimos meses. El paciente informa que ha estado experimentando dolores en la región epigástrica, acompañados de náuseas y vómitos. También menciona una sensación de plenitud después de comer y una disminución de la apetencia.
+La exploración física revela:
+- Tª 36,8°C
+- T.A: 120/80 mmHg
+- Fc: 80 lpm
+- Se encuentra consciente, orientado, sin sudoración ni taquicardia
+- Abdomen blando, sin dolor ni masas
+- Auscultación cardíaca rítmica, sin soplos ni roces
+- Auscultación pulmonar con conservación del murmullo vesicular
+Los datos analíticos muestran los siguientes resultados:
+- Hemograma: Hb 14,2 g/dl; leucocitos 8.500/mm3 (neutrófilos 60%); plaquetas 250.000/mm3
+- VSG: 20 mm 1ª hora
+- Coagulación: TQ 90%; TTPA 28,5 seg
+- Bioquímica: Glucosa 110 mg/dl; urea 25 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 20 U/l; GPT 30 U/l; GGT 40 U/l; fosfatasa alcalina 120 U/l; calcio 8,5 mg/dl
+- Orina: sedimento normal
+Con el diagnóstico de gastritis crónica, se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y dieta blanda) así como tratamiento farmacológico con ranitidina 150 mg vía oral tres veces al día durante 6 semanas. El paciente mejora significativamente de su cuadro tras 2 semanas de tratamiento, decidiéndose el alta a su domicilio.

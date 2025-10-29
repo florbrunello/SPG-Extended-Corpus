@@ -1,0 +1,26 @@
+Datos del paciente.
+Nombre: Javier Andres Lozano
+DNI: 60333706Z
+Fecha de nacimiento: 30/10/1956
+Género: Hombre
+Domicilio: Calle de la Magdalena 4
+Ciudad: Ronda, Santa Cruz de Tenerife, Canarias
+Código postal: 38247
+Email: javier-andres694@imibic.org
+Teléfono fijo: +34 922 86 16 80
+Teléfono móvil: +34 722 81 74 41
+NHC: 7913899
+NASS: 722294721197
+Condición de riesgo: Repartidor
+Datos asistenciales.
+Médico: Dr. Miguel Ángel Otero Escobar. NC 889745930. Neuropsicólogo Clínico Investigador. Instituto de Investigación Biomédica en Red de Salud Mental (CIBERSAM). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 25/06/1996
+Centro de salud: Centro de Salud Tetuán
+Informe clínico del paciente:
+Paciente de descendencia africana de 46 años de edad, que acude a consulta por presentar síntomas de dolor en la región lumbar y fatiga muscular en los últimos meses. La exploración física revela una postura corporal anormal, con una curvatura lateral derecha notable. La evaluación neurológica muestra una disminución de la fuerza muscular en las piernas, especialmente en la zona de los músculos isquiotibiales.
+Los resultados de las pruebas de imagen solicitadas (Rx de columna lumbar y TAC craneal) muestran una hernia de disco en la región L4-L5, con presión sobre la raíz nerviosa correspondiente. Se diagnostica una lesión de disco lumbar, con síntomas de dolor y fatiga muscular.
+Se instaura tratamiento conservador, incluyendo reposo, fisioterapia y medicación antiinflamatoria. Se recomienda al paciente realizar ejercicios de estiramiento y fortalecimiento de los músculos de la región lumbar, con el objetivo de mejorar la postura corporal y reducir la presión sobre la raíz nerviosa afectada.
+Evolución y comentarios:
+El paciente sigue un tratamiento de fisioterapia y medicación antiinflamatoria, con una mejoría notable en los síntomas de dolor y fatiga muscular. Se recomienda continuar con el tratamiento y realizar revisiones periódicas para evaluar la progresión de la lesión.
+Remitido por:
+El paciente ha sido remitido al servicio de ortopedia para realizar una evaluación más detallada de la lesión y determinar la necesidad de una intervención quirúrgica.

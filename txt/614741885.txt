@@ -1,0 +1,25 @@
+Datos del paciente.
+Nombre: Valentina Bravo Calderón
+DNI: 81194710H
+Fecha de nacimiento: 28/09/2019
+Género: Femenino
+Domicilio: Calle de Arenal 93
+Ciudad: Majadahonda, Lérida, Cataluña
+Código postal: 25827
+Email: valentina-calderon1940@ioba.med.uva.es
+Teléfono fijo: +34 973 32 30 08
+FAX: +34 973 99 53 13
+NHC: 0753337
+Condición de riesgo: Operador de Máquina
+Datos asistenciales.
+Médico: Dr. José Guzmán Mendoza. NC 439202571. Cardiólogo Especialista en Electrofisiología. Instituto de Investigación Biomédica en Red de Enfermedades Cardiovasculares (CIBERCV). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 10/09/2021
+Episodio: 02614301
+Centro de salud: Centro de Salud Getafe
+Matrícula del coche: 6747JWF
+Modelo: Mazda CX-5
+VIN: VSIHU29H3NO710672
+Fecha de ingreso:
+10/09/2021
+Centro de salud de ingreso:
+Centro de Salud Getafe

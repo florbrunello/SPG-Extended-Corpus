@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Jonathan Ramos Marti
+DNI: 60189827T
+Fecha de nacimiento: 13/12/1979
+Género: Varón
+Domicilio: Calle Serrano 51, 4M
+Ciudad: Talavera de la Reina, Huesca, Aragón
+Código postal: 22505
+Email: jonathan_marti@isciii.es
+Teléfono fijo: +34 974 15 28 75
+FAX: +34 974 40 50 38
+NHC: 8351665
+NASS: 164985239464
+Condición de riesgo: Trabajador de Servicios de Limpieza
+Datos asistenciales.
+Médico: Dra. Verónica Calderon Cortés. NC 822725792. Oftalmóloga Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 23/01/2023
+Episodio: 35189423
+Hospital: Hospital Universitario Ramón y Cajal
+Informe clínico del paciente:
+Paciente víctima de violencia de género de 43 años de edad, acompañado de su tía. Presenta lesiones en la cara y el cuello, con hematoma en la mejilla derecha y dolor en la articulación temporomandibular. Se encuentra en estado de estrés y ansiedad, con dificultad para dormir y concentrarse.
+Antecedentes:
+El paciente tiene antecedentes de violencia de género en el pasado, con episodios de agresión física y emocional por parte de su expareja. Ha recibido tratamiento psicológico y terapia de pareja, pero no ha logrado una completa resolución del problema.
+Evolución y comentarios:
+El paciente ha sido ingresado en la unidad de cuidados intensivos por un período de 48 horas, donde se le ha proporcionado tratamiento médico y terapéutico para aliviar los síntomas de la violencia. Se le ha ofrecido apoyo emocional y psicológico para ayudarlo a manejar el estrés y la ansiedad. El paciente ha demostrado una buena respuesta al tratamiento y se encuentra en estado estable.
+Remitido por:
+El paciente ha sido remitido por el Servicio de Urgencias del Hospital Universitario Ramón y Cajal, donde se le atendió inicialmente por la violencia de género. Se le ha recomendado seguir tratamiento psicológico y terapia de pareja para abordar los problemas de violencia de género y mejorar la calidad de vida.

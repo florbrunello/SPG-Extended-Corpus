@@ -1,0 +1,27 @@
+Datos del paciente.
+Nombre: Héctor Martínez Gracia
+DNI: 84910706L
+Fecha de nacimiento: 18/11/1962
+Género: M
+Domicilio: Calle de Lope de Vega 62, 10Q
+Ciudad: Murcia, Las Palmas, Canarias
+Código postal: 35928
+Email: hector-gracia@ciberehd.org
+Teléfono fijo: +34 928 65 00 43
+FAX: +34 928 96 02 54
+NHC: 2731976
+NASS: 372742858521
+Condición de riesgo: Conductor de Camión
+Datos asistenciales.
+Médico: Dr. Luis Macias Palacios. NC 889378932. Oftalmólogo Especialista en Retina y Vítreo. Instituto Universitario de Oftalmobiología Aplicada (IOBA). Avenida Ramón y Cajal, 7. 47011. Valladolid. España.
+Fecha de ingreso: 25/04/1994
+Episodio: 50029337
+Centro de salud: Centro de Salud Sevilla Oeste
+Informe clínico del paciente:
+Paciente consumidor de alcohol de 31 años de edad, que acude al servicio de urgencias con síntomas de mareo y visión borrosa desde hace 2 días. La exploración física revela: Tª 37,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, con buen estado de nutrición e hidratación. En la exploración oftalmológica se observan signos de retinopatía alcoholica, con edema macular y hemorragias retinianas. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 14,5 g/dl; leucocitos 10.000/mm3 (neutrófilos 60%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 20,5 seg. Bioquímica: Glucosa 100 mg/dl; urea 20 mg/dl; creatinina 1,2 mg/dl; sodio 140 mEq/l; potasio 4,2 mEq/l; GOT 25 U/l; GPT 30 U/l; GGT 50 U/l; fosfatasa alcalina 120 U/l; calcio 9,5 mg/dl. Orina: sedimento normal.
+Antecedentes:
+El paciente tiene antecedentes de consumo de alcohol desde los 20 años, con una media de 80 gramos al día. Ha tenido episodios de descompensación hepática en el pasado, pero nunca ha requerido tratamiento hospitalario.
+Evolución y comentarios:
+El paciente ha recibido tratamiento con vitamina B12 y folicina para la retinopatía alcoholica. Se le ha aconsejado la suspensión del consumo de alcohol y se le ha ofrecido apoyo psicológico. Se le ha programado una revisión en 1 semana para evaluar la evolución del tratamiento.
+Remitido por:
+Se le remite al paciente a su médico de cabecera para que continúe con el tratamiento y la supervisión del consumo de alcohol. Se le recomienda que acuda a un servicio de rehabilitación para tratar su adicción.

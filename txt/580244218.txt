@@ -1,0 +1,21 @@
+Datos del paciente.
+Nombre: Blanca Reyes Robles
+DNI: 20719097F
+Fecha de nacimiento: 23/12/1963
+Género: Femenino
+Domicilio: Calle de Ibiza 72
+Ciudad: Onda, La Coruña, Galicia
+Código postal: 15288
+Email: reyes-robles@salud.madrid.org
+Teléfono fijo: +34 981 59 68 88
+Teléfono móvil: +34 781 39 84 33
+NHC: 3912144
+NASS: 234567890123
+Condición de riesgo: Paramédico
+Datos asistenciales.
+Médico: Dra. Inés Soto Benito. NC 426355949. Residente de 4° año en Medicina Interna. Instituto de Investigación Biomédica en Red de Enfermedades Infecciosas (CIBERINFEC). Avenida Monforte de Lemos 3-5. 28029. Madrid. España.
+Fecha de ingreso: 09/10/1987
+Episodio: 83696914
+Centro de salud: Centro de Salud Benalmádena
+Informe clínico del paciente:
+Paciente vegano de 58 años de edad, con antecedentes de hipertensión arterial y diabetes mellitus tipo 2. Se presentó en el servicio de urgencias con síntomas de dolor abdominal severo y vómitos. La exploración física revela: Tª 38,5 C; T.A: 120/80 mmHg; Fc: 80 lpm. Se encuentra consciente, orientado, sudoroso, eupneico, con buen estado de nutrición e hidratación. En cabeza y cuello no se palpan adenopatías, ni bocio ni ingurgitación de vena yugular, con pulsos carotídeos simétricos. Auscultación cardíaca rítmica, sin soplos, roces ni extratonos. Auscultación pulmonar con conservación del murmullo vesicular. Abdomen blando, depresible, con dolor intenso en la región epigástrica. Los datos analíticos muestran los siguientes resultados: Hemograma: Hb 12,5 g/dl; leucocitos 12.000/mm3 (neutrófilos 70%); plaquetas 250.000/ mm3. VSG: 30 mm 1ª hora. Coagulación: TQ 90%; TTPA 25,5 seg. Bioquímica: Glucosa 180 mg/dl; urea 30 mg/dl; creatinina 1,2 mg/dl; sodio 135 mEq/l; potasio 3,8 mEq/l; GOT 15 U/l; GPT 25 U/l; GGT 40 U/l; fosfatasa alcalina 140 U/l; calcio 8,5 mg/dl. Orina: sedimento con leucocitos y hemoglobina. Se solicitan pruebas de imagen (Ecografía abdominal, TAC abdominal) que revelan un litio renal bilateral. Con el diagnóstico de litiasis renal se instaura tratamiento sintomático (antitérmicos, antiinflamatorios, reposo y elevación de piernas) así como tratamiento conservador (hidratación y analgésicos). El paciente mejora significativamente de su cuadro tras una semana de ingreso, decidiéndose el alta a su domicilio donde se le prescribe tratamiento conservador en el hogar.
